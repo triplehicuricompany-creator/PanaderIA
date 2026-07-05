@@ -1,0 +1,116 @@
+{
+  "nombre": "Mapa Canónico del Curso Beta 1.0",
+  "version": "1.0",
+  "canon_primario": "CURSO_MAESTRO_BOLILLO.md",
+  "politica": "No modifica Libro Maestro ni capítulos comerciales existentes; marca contradicciones y pendientes.",
+  "estados_usados": [
+    "CONTENIDO_CONFIRMADO",
+    "CONTENIDO_PARCIAL",
+    "PENDIENTE_CHEF_JUANOTE",
+    "LISTO_PARA_PRODUCCION",
+    "EN_PRODUCCION",
+    "EN_REVISION",
+    "APROBADO",
+    "PUBLICADO"
+  ],
+  "capitulos": [
+    {
+      "capitulo": "01",
+      "titulo_canon_primario": "Introducción al Bolillo",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "02",
+      "titulo_canon_primario": "Herramientas necesarias",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "03",
+      "titulo_canon_primario": "Ingredientes",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "04",
+      "titulo_canon_primario": "Amasado",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "05",
+      "titulo_canon_primario": "Fermentación",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "06",
+      "titulo_canon_primario": "División y boleado",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "07",
+      "titulo_canon_primario": "Formado profesional del bolillo",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "08",
+      "titulo_canon_primario": "Corte correcto",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "09",
+      "titulo_canon_primario": "Horneado y vapor",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "10",
+      "titulo_canon_primario": "Enfriado, conservación e higiene",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "11",
+      "titulo_canon_primario": "Variantes del bolillo",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "12",
+      "titulo_canon_primario": "Solución de problemas y control de calidad",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "13",
+      "titulo_canon_primario": "Producción profesional, organización y evaluación",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    },
+    {
+      "capitulo": "14",
+      "titulo_canon_primario": "Certificación",
+      "fuente": "CURSO_MAESTRO_BOLILLO.md",
+      "estado": "CONTENIDO_CONFIRMADO",
+      "aprobacion_publicacion": "PENDIENTE_CHEF_JUANOTE"
+    }
+  ]
+}
