@@ -1,0 +1,143 @@
+{
+  "capitulo": "07",
+  "titulo": "Horneado profesional",
+  "codigo_qr_referencia": "QR-LMBP-C07-HORNEADO",
+  "objetivo_beta": "manejo de calor, vapor, color y corteza",
+  "principio_operativo": "Producir apoyo visual provisional sin cambiar teoría, capítulos ni Libro Maestro; conservar recursos IA como complemento cuando llegue material real del Chef Juanote™.",
+  "recursos": [
+    {
+      "id": "C07-BETA-01",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "imagen-ia-provisional",
+      "material": "provisional IA",
+      "prioridad": "Alta",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    },
+    {
+      "id": "C07-BETA-02",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "diagrama",
+      "material": "provisional IA",
+      "prioridad": "Alta",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    },
+    {
+      "id": "C07-BETA-03",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "infografia",
+      "material": "provisional IA",
+      "prioridad": "Alta",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    },
+    {
+      "id": "C07-BETA-04",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "ilustracion-tecnica",
+      "material": "provisional IA",
+      "prioridad": "Media",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    },
+    {
+      "id": "C07-BETA-05",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "miniatura",
+      "material": "provisional IA",
+      "prioridad": "Media",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    },
+    {
+      "id": "C07-BETA-06",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "banner",
+      "material": "provisional IA",
+      "prioridad": "Media",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    },
+    {
+      "id": "C07-BETA-07",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "redes-sociales",
+      "material": "provisional IA",
+      "prioridad": "Media",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    },
+    {
+      "id": "C07-BETA-08",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "plataforma",
+      "material": "provisional IA",
+      "prioridad": "Alta",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    },
+    {
+      "id": "C07-BETA-09",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "libro",
+      "material": "provisional IA",
+      "prioridad": "Media",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    },
+    {
+      "id": "C07-BETA-10",
+      "capitulo": "07",
+      "titulo_capitulo": "Horneado profesional",
+      "objetivo_pedagogico": "manejo de calor, vapor, color y corteza",
+      "tipo_recurso": "paquete-oficial",
+      "material": "provisional IA",
+      "prioridad": "Alta",
+      "reemplazable_por_material_real_chef_juanote": true,
+      "ubicacion_sugerida": "Libro, Curso, Plataforma y paquete oficial del capítulo según formato",
+      "estado": "preparado_para_produccion_beta"
+    }
+  ],
+  "fuentes_existentes": [
+    "Libro Maestro de Bolillo Premium",
+    "Curso Maestro",
+    "Boly™ Assistant V1",
+    "Catálogo Maestro de Fotografías",
+    "Catálogo Maestro de Videos",
+    "Biblioteca Visual",
+    "Banco Maestro de Prompts",
+    "Recursos descargables",
+    "Paquetes oficiales del capítulo",
+    "Casos del Obrador",
+    "Leyes del Chef Juanote™",
+    "Método Chef Juanote™"
+  ]
+}
