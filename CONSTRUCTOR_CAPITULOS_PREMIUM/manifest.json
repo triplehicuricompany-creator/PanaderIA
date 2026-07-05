@@ -1,0 +1,38 @@
+{
+  "name": "constructor-capitulos-premium",
+  "version": "1.0.0",
+  "phase": "FASE 8",
+  "mission": "MISIÓN 23",
+  "title": "Constructor Automático de Capítulos Premium",
+  "purpose": "Definir un sistema reutilizable para construir capítulos 3 al 14 del Libro Maestro Premium con estructura editorial uniforme.",
+  "scope": {
+    "applies_to_chapters": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+    "generates_final_chapters": false,
+    "modifies_existing_chapters": false
+  },
+  "standard_structure": [
+    "Bienvenida del Chef Juanote",
+    "Objetivo del capítulo",
+    "Explicación técnica",
+    "Consejos de Boly",
+    "Errores comunes",
+    "Ejercicio práctico",
+    "Checklist",
+    "Autoevaluación",
+    "Recursos descargables",
+    "Imágenes necesarias",
+    "Videos",
+    "QR",
+    "Resumen final"
+  ],
+  "templates": [
+    "README.md",
+    "plantilla_capitulo.md",
+    "plantilla_checklist.md",
+    "plantilla_autoevaluacion.md",
+    "plantilla_consejos_boly.md",
+    "plantilla_recursos_multimedia.md",
+    "plantilla_qr.md",
+    "plantilla_descargables.md"
+  ]
+}
