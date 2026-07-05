@@ -1,0 +1,29 @@
+{
+  "nombre": "BANCO_MAESTRO_RECURSOS",
+  "proyecto": "PanaderIA™",
+  "version": "1.0.0",
+  "fase": "FASE 9",
+  "mision": "MISIÓN 24",
+  "proposito": "Centralizar recursos reutilizables para futuras versiones del libro y extensiones digitales sin generar contenido final de capítulos.",
+  "reglas": [
+    "No modificar capítulos existentes.",
+    "No almacenar capítulos terminados.",
+    "Clasificar recursos reutilizables por tipo, uso y contexto.",
+    "Mantener los recursos listos para consulta por cualquier capítulo."
+  ],
+  "archivos": [
+    { "ruta": "README.md", "tipo": "guia", "uso": "Orientación general del banco" },
+    { "ruta": "frases_chef_juanote.md", "tipo": "voz_personaje", "uso": "Frases reutilizables del mentor Chef Juanote" },
+    { "ruta": "frases_boly.md", "tipo": "voz_asistente", "uso": "Frases reutilizables del asistente Boly" },
+    { "ruta": "errores_comunes.md", "tipo": "diagnostico", "uso": "Clasificación de fallas frecuentes" },
+    { "ruta": "soluciones_panaderia.md", "tipo": "soluciones", "uso": "Criterios de corrección y prevención" },
+    { "ruta": "analogias.md", "tipo": "pedagogia", "uso": "Analogías para explicar procesos" },
+    { "ruta": "glosario.md", "tipo": "referencia", "uso": "Términos técnicos y comerciales" },
+    { "ruta": "tips_produccion.md", "tipo": "operacion", "uso": "Consejos de producción panadera" },
+    { "ruta": "tips_comerciales.md", "tipo": "comercial", "uso": "Consejos para venta y presentación" },
+    { "ruta": "ideas_multimedia.md", "tipo": "multimedia", "uso": "Ideas transversales de apoyo digital" },
+    { "ruta": "ideas_infografias.md", "tipo": "visual", "uso": "Ideas de infografías y diagramas" },
+    { "ruta": "ideas_videos.md", "tipo": "video", "uso": "Ideas para cápsulas audiovisuales" },
+    { "ruta": "ideas_descargables.md", "tipo": "descargable", "uso": "Ideas de plantillas, fichas y checklists" }
+  ]
+}
