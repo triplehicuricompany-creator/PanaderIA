@@ -1,0 +1,116 @@
+{
+  "name": "CENTRO_PRODUCCION_MULTIMEDIA",
+  "brand": "PanaderIA™",
+  "version": "Beta 1.0",
+  "status": "ready_for_production",
+  "created_for": "FASE 3 — MISIÓN 15",
+  "non_modification_policy": [
+    "Libro Maestro",
+    "Motor Maestro de Producción IA",
+    "Biblioteca Visual IA",
+    "Recursos Descargables del Alumno"
+  ],
+  "official_roles": {
+    "Boly": "Asistente oficial del sistema y guía del alumno.",
+    "Chef Juanote": "Autoridad técnica para validación panadera."
+  },
+  "workflow": [
+    "Libro",
+    "Imagen",
+    "Video",
+    "QR",
+    "Material descargable",
+    "Página web",
+    "Alumno"
+  ],
+  "folders": [
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/00_MANIFIESTO_MULTIMEDIA",
+      "purpose": "Principios, alcance, identidad, reglas maestras y criterios de aprobación del Centro de Producción Multimedia.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/00_MANIFIESTO_MULTIMEDIA/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/01_GUIAS_VIDEO",
+      "purpose": "Guías técnicas y creativas para producir videos educativos de PanaderIA™.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/01_GUIAS_VIDEO/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/02_GUIONES",
+      "purpose": "Guiones literarios, escaletas, storyboards textuales y versiones aprobadas por capítulo.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/02_GUIONES/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/03_NARRACIONES",
+      "purpose": "Textos de voz en off, indicaciones para locución, pronunciación y versiones de narración.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/03_NARRACIONES/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/04_AUDIO",
+      "purpose": "Voces grabadas, limpiezas de audio, mezclas, efectos sonoros y masters de audio.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/04_AUDIO/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/05_MUSICA",
+      "purpose": "Música libre de derechos, licencias, atribuciones y cortes musicales aprobados.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/05_MUSICA/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/06_MINIATURAS",
+      "purpose": "Miniaturas para video, portadas de módulos y variantes A/B de publicación.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/06_MINIATURAS/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/07_QR",
+      "purpose": "Códigos QR, destinos, matrices de enlace y pruebas de escaneo.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/07_QR/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/08_EDITABLES",
+      "purpose": "Archivos fuente editables de video, audio, diseño, subtítulos y proyectos de edición.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/08_EDITABLES/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/09_EXPORTADOS",
+      "purpose": "Versiones finales renderizadas listas para revisión, entrega o publicación.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/09_EXPORTADOS/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/10_YOUTUBE",
+      "purpose": "Títulos, descripciones, etiquetas, capítulos, subtítulos, miniaturas y paquetes para YouTube.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/10_YOUTUBE/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/11_WEB",
+      "purpose": "Recursos multimedia optimizados para la página web y experiencia del alumno.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/11_WEB/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/12_REDES_SOCIALES",
+      "purpose": "Clips, carruseles, historias, reels, copys y adaptaciones por red social.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/12_REDES_SOCIALES/README.md"
+    },
+    {
+      "path": "CENTRO_PRODUCCION_MULTIMEDIA/13_CAPITULOS",
+      "purpose": "Organización multimedia por capítulo y trazabilidad con el Libro Maestro.",
+      "readme": "CENTRO_PRODUCCION_MULTIMEDIA/13_CAPITULOS/README.md"
+    }
+  ],
+  "naming_convention": "panaderia-[carpeta]-cap[00]-[tema]-[formato]-[estado]-v[00].[ext]",
+  "states": [
+    "borrador",
+    "revision",
+    "aprobado",
+    "final",
+    "publicado"
+  ],
+  "required_publication_checks": [
+    "validacion_tecnica",
+    "claridad_didactica",
+    "licencias",
+    "qr_probado",
+    "enlace_web_funcional",
+    "registro_manifest",
+    "editable_resguardado",
+    "exportado_final"
+  ]
+}
