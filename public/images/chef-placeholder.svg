@@ -1,0 +1,9 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#080807"/>
+  <rect x="110" y="90" width="980" height="620" rx="60" fill="#15100A" stroke="#D7A84F" stroke-width="6"/>
+  <circle cx="600" cy="265" r="105" fill="#F8EAD0"/>
+  <path d="M455 225C455 135 745 135 745 225C700 180 500 180 455 225Z" fill="#FFFFFF"/>
+  <path d="M390 690C430 500 770 500 810 690H390Z" fill="#FFFFFF"/>
+  <path d="M520 515L600 620L680 515" stroke="#D7A84F" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="760" text-anchor="middle" fill="#D7A84F" font-family="Arial" font-size="44" font-weight="700">Chef panadero</text>
+</svg>

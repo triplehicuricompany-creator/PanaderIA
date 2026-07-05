@@ -1,0 +1,11 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#060606"/>
+  <circle cx="260" cy="200" r="210" fill="#D7A84F" opacity="0.14"/>
+  <rect x="250" y="160" width="700" height="430" rx="36" fill="#11100E" stroke="#D7A84F" stroke-width="8"/>
+  <rect x="310" y="220" width="580" height="250" rx="24" fill="#0A0A0A" stroke="#F8EAD0" stroke-opacity="0.25" stroke-width="4"/>
+  <circle cx="420" cy="345" r="64" fill="#D7A84F"/>
+  <rect x="520" y="290" width="280" height="28" rx="14" fill="#F8EAD0" opacity="0.9"/>
+  <rect x="520" y="350" width="220" height="22" rx="11" fill="#D7A84F" opacity="0.75"/>
+  <rect x="430" y="610" width="340" height="40" rx="20" fill="#D7A84F"/>
+  <text x="600" y="735" text-anchor="middle" fill="#F8EAD0" font-family="Arial" font-size="44" font-weight="700">Academia digital</text>
+</svg>

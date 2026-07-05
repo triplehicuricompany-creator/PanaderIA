@@ -1,0 +1,262 @@
+{
+  "method": {
+    "name": "Método Chef Juanote™",
+    "sequence": [
+      "historia",
+      "ciencia",
+      "práctica",
+      "error real",
+      "intervención de Boly™",
+      "laboratorio",
+      "bitácora",
+      "evaluación",
+      "secreto del obrador"
+    ],
+    "responseDuty": "Boly™ debe convertir cada duda en una observación guiada, una hipótesis verificable y una acción de práctica medible."
+  },
+  "studentLevels": [
+    {
+      "id": "principiante",
+      "name": "Principiante",
+      "keywords": ["principiante", "primera vez", "nuevo", "nunca", "no se", "empezando", "ayuda"],
+      "tone": "calma, motivación y pasos cortos",
+      "guidance": "Pedir datos básicos, evitar tecnicismos sin explicar y proponer una sola corrección prioritaria."
+    },
+    {
+      "id": "intermedio",
+      "name": "Intermedio",
+      "keywords": ["ya hice", "practique", "varias veces", "lote", "mejora", "controlar", "registro"],
+      "tone": "diagnóstico práctico con criterios comparables",
+      "guidance": "Pedir bitácora, comparar variables y proponer pruebas A/B simples."
+    },
+    {
+      "id": "avanzado",
+      "name": "Avanzado",
+      "keywords": ["produccion", "venta", "negocio", "estandarizar", "certificacion", "costos", "equipo profesional"],
+      "tone": "criterio profesional, estandarización y control de calidad",
+      "guidance": "Trabajar con porcentajes, tiempos registrados, rendimiento, merma y consistencia de lote."
+    }
+  ],
+  "chefJuanoteLaws": [
+    {
+      "id": "masa-manda",
+      "text": "La masa manda, no el reloj.",
+      "keywords": ["fermentacion", "tiempo", "reloj", "crecio", "prueba de dedo", "masa", "volumen"],
+      "moduleSlugs": ["amasado", "fermentacion", "diagnostico"],
+      "teachingUse": "Usa tiempos como orientación, pero decide por textura, volumen y respuesta de la masa."
+    },
+    {
+      "id": "cifras-orientan",
+      "text": "Las cifras orientan; el producto decide.",
+      "keywords": ["porcentaje", "formula", "receta", "temperatura", "hidratacion", "gramos"],
+      "moduleSlugs": ["ingredientes", "amasado", "produccion"],
+      "teachingUse": "La fórmula se valida con el resultado: elasticidad, volumen, corteza, greña y miga."
+    },
+    {
+      "id": "horno-personalidad",
+      "text": "Cada horno tiene personalidad.",
+      "keywords": ["horno", "horneado", "pálido", "palido", "quemado", "vapor", "temperatura", "cenizo"],
+      "moduleSlugs": ["horneado", "diagnostico"],
+      "teachingUse": "Conoce tus zonas de calor, precalentamiento, vapor y pérdida de humedad antes de culpar la receta."
+    },
+    {
+      "id": "verifica",
+      "text": "Nunca supongas. Siempre verifica.",
+      "keywords": ["no se", "supongo", "creo", "olvidé", "olvide", "pesar", "bascula", "levadura", "sal"],
+      "moduleSlugs": ["herramientas", "ingredientes", "diagnostico", "produccion"],
+      "teachingUse": "Revisa pesos, herramienta, temperatura, levadura, sal y bitácora antes de corregir a ciegas."
+    },
+    {
+      "id": "herramienta-bien-usada",
+      "text": "Una buena herramienta mal utilizada deja de ser una buena herramienta.",
+      "keywords": ["herramienta", "batidora", "kitchenaid", "gancho", "paleta", "amasadora", "navaja", "bascula"],
+      "moduleSlugs": ["herramientas", "amasado", "corte"],
+      "teachingUse": "La herramienta ayuda solo si está bien elegida, bien ajustada y usada para la etapa correcta."
+    },
+    {
+      "id": "una-tarea",
+      "text": "Termina una tarea antes de empezar otra.",
+      "keywords": ["organizacion", "produccion", "lote", "varias tareas", "me distraje", "se me paso", "flujo"],
+      "moduleSlugs": ["produccion", "certificacion", "negocio"],
+      "teachingUse": "Ordena mise en place, pesaje, amasado, fermentación, formado, horneado y enfriado sin brincar controles."
+    }
+  ],
+  "workshopCases": [
+    {
+      "id": "masa-base-pata",
+      "title": "La masa base o pata",
+      "keywords": ["masa base", "pata", "base", "variantes", "formula madre"],
+      "moduleSlugs": ["ingredientes", "amasado", "variantes"],
+      "lesson": "Antes de crear variantes, domina una masa base estable y repetible.",
+      "whatHappened": "La producción pierde consistencia cuando se cambia la base sin registro.",
+      "correction": "Regresa a la fórmula base, registra pesos y ajusta solo una variable por prueba.",
+      "prevention": "Mantén una bitácora de harina, agua, levadura, sal, temperatura y resultado final."
+    },
+    {
+      "id": "masa-no-arranco",
+      "title": "La masa que no arrancó en fermentación",
+      "keywords": ["no fermenta", "no arranco", "no arrancó", "no crece", "fermentacion detenida", "levadura"],
+      "moduleSlugs": ["fermentacion", "ingredientes", "diagnostico"],
+      "lesson": "Si la masa no muestra vida, primero verifica levadura, temperatura y sal antes de cambiar toda la receta.",
+      "whatHappened": "La fermentación puede detenerse por levadura débil, frío, exceso de sal o mala incorporación.",
+      "correction": "Confirma actividad de levadura, temperatura de masa y ambiente; da tiempo controlado si la masa aún responde.",
+      "prevention": "Pesa con báscula, registra temperatura y prueba levadura cuando haya duda."
+    },
+    {
+      "id": "bolillo-cenizo",
+      "title": "El bolillo cenizo por pérdida de humedad",
+      "keywords": ["cenizo", "reseco", "gris", "perdida de humedad", "sin brillo", "corteza opaca"],
+      "moduleSlugs": ["horneado", "enfriado", "diagnostico"],
+      "lesson": "La corteza también cuenta la historia del vapor, del horno y del enfriado.",
+      "whatHappened": "El pan perdió humedad en una etapa crítica y la corteza quedó opaca o ceniza.",
+      "correction": "Revisa vapor inicial, temperatura, tiempo de horneado y enfriado en rejilla.",
+      "prevention": "Controla vapor, evita corrientes de aire agresivas y no empaques caliente."
+    },
+    {
+      "id": "horno-nuevo-viejo",
+      "title": "El horno nuevo y el horno viejo",
+      "keywords": ["horno nuevo", "horno viejo", "mi horno", "temperatura irregular", "quema", "palido"],
+      "moduleSlugs": ["horneado", "diagnostico", "produccion"],
+      "lesson": "No todos los hornos obedecen igual; cada horno se calibra con pruebas reales.",
+      "whatHappened": "La misma receta cambia cuando el horno entrega calor distinto por zona, puerta, vapor o recuperación térmica.",
+      "correction": "Haz prueba de charola, registra zonas calientes y ajusta posición, vapor y tiempo.",
+      "prevention": "Crea una bitácora de horno por lote y no copies tiempos sin validar producto."
+    },
+    {
+      "id": "cafe-con-sal",
+      "title": "El café con sal",
+      "keywords": ["sal", "azucar", "confundi", "cafe con sal", "pesaje", "ingrediente equivocado"],
+      "moduleSlugs": ["ingredientes", "herramientas", "produccion"],
+      "lesson": "Un ingrediente equivocado arruina más que el sabor: rompe el control del proceso.",
+      "whatHappened": "La falta de verificación confundió ingredientes o cantidades en una etapa básica.",
+      "correction": "Detén el proceso, revisa etiquetas, pesa de nuevo y separa ingredientes antes de mezclar.",
+      "prevention": "Mise en place, etiquetas visibles y verificación antes de incorporar."
+    },
+    {
+      "id": "kitchenaid-accesorio",
+      "title": "La batidora KitchenAid y el accesorio equivocado",
+      "keywords": ["kitchenaid", "batidora", "accesorio", "gancho", "paleta", "globo", "amasadora"],
+      "moduleSlugs": ["herramientas", "amasado", "diagnostico"],
+      "lesson": "La máquina no corrige una mala elección de accesorio.",
+      "whatHappened": "El accesorio equivocado maltrata, mezcla de menos o calienta la masa sin desarrollar gluten correctamente.",
+      "correction": "Usa gancho para masa, velocidad moderada y confirma textura con prueba de ventana.",
+      "prevention": "Elige herramienta por función: mezclar, amasar, cortar, pesar o medir no son lo mismo."
+    },
+    {
+      "id": "carro-sin-levadura",
+      "title": "El carro que nunca fermentó por falta de levadura",
+      "keywords": ["sin levadura", "olvide levadura", "carro", "nunca fermento", "no fermentó", "lote muerto"],
+      "moduleSlugs": ["fermentacion", "produccion", "diagnostico"],
+      "lesson": "La producción profesional no vive de memoria: vive de checklist.",
+      "whatHappened": "Un lote completo quedó sin fuerza porque faltó verificar la levadura antes de fermentar.",
+      "correction": "Confirma si la levadura fue incorporada; si no lo fue, no maquilles el error como fermentación lenta.",
+      "prevention": "Checklist de pesaje, ingredientes marcados y cierre de tarea antes de pasar a la siguiente etapa."
+    }
+  ],
+  "faq": [
+    {
+      "id": "experiencia-previa",
+      "question": "¿Necesito experiencia previa para aprender bolillo?",
+      "answer": "No. Boly™ debe guiar desde observaciones básicas: pesar, tocar, mirar volumen, registrar tiempos y comparar resultados.",
+      "moduleSlug": "introduccion",
+      "keywords": ["experiencia", "principiante", "nuevo", "primera vez"]
+    },
+    {
+      "id": "solo-receta",
+      "question": "¿Por qué no basta con seguir una receta?",
+      "answer": "Porque la fórmula orienta, pero la masa cambia por harina, agua, temperatura, amasado, fermentación y horno.",
+      "moduleSlug": "ingredientes",
+      "keywords": ["receta", "formula", "porcentaje", "seguir pasos"]
+    },
+    {
+      "id": "masa-pegajosa",
+      "question": "¿Qué hago si mi masa está pegajosa?",
+      "answer": "No agregues harina a ciegas. Verifica hidratación, absorción de harina, tiempo de amasado y reposo antes de corregir.",
+      "moduleSlug": "amasado",
+      "keywords": ["pegajosa", "se pega", "humeda", "húmeda"]
+    },
+    {
+      "id": "no-fermenta",
+      "question": "¿Qué hago si la masa no fermenta?",
+      "answer": "Verifica levadura, temperatura, sal, tiempo real y crecimiento. Si no hay datos, Boly™ debe preguntar antes de diagnosticar.",
+      "moduleSlug": "fermentacion",
+      "keywords": ["no fermenta", "no crece", "levadura", "frio"]
+    },
+    {
+      "id": "corte-no-abre",
+      "question": "¿Por qué no abre la greña del bolillo?",
+      "answer": "Puede ser corte superficial, navaja sin filo, fermentación incorrecta, falta de vapor o calor inicial insuficiente.",
+      "moduleSlug": "corte",
+      "keywords": ["no abre", "greña", "corte", "navaja"]
+    },
+    {
+      "id": "bolillo-palido",
+      "question": "¿Por qué el bolillo queda pálido?",
+      "answer": "Suele relacionarse con horno frío, poco tiempo, falta de vapor útil o fermentación que no dejó suficiente fuerza para color.",
+      "moduleSlug": "horneado",
+      "keywords": ["palido", "pálido", "sin color", "horno"]
+    },
+    {
+      "id": "corteza-blanda",
+      "question": "¿Por qué la corteza se ablanda después de hornear?",
+      "answer": "Puede haber enfriado deficiente, empaque caliente, exceso de humedad retenida o falta de secado final.",
+      "moduleSlug": "enfriado",
+      "keywords": ["corteza blanda", "se ablanda", "humeda", "empaque"]
+    },
+    {
+      "id": "herramienta-basica",
+      "question": "¿Qué herramienta debo verificar primero?",
+      "answer": "La báscula. Sin pesaje confiable, el diagnóstico se vuelve suposición y no aprendizaje repetible.",
+      "moduleSlug": "herramientas",
+      "keywords": ["herramienta", "bascula", "báscula", "comprar"]
+    },
+    {
+      "id": "registrar-bitacora",
+      "question": "¿Qué debo anotar en mi bitácora?",
+      "answer": "Harina, agua, sal, levadura, temperatura, tiempo de amasado, fermentación, formado, horneado, observaciones y resultado.",
+      "moduleSlug": "produccion",
+      "keywords": ["bitacora", "registro", "anotar", "lote"]
+    },
+    {
+      "id": "certificacion",
+      "question": "¿Cómo sé si estoy listo para certificarme?",
+      "answer": "Cuando puedes repetir calidad, explicar errores, justificar correcciones y demostrar proceso completo con evidencia.",
+      "moduleSlug": "certificacion",
+      "keywords": ["certificacion", "evaluacion", "listo", "examen"]
+    }
+  ],
+  "conversationExamples": [
+    {
+      "id": "alumno-boly-masa-pegajosa",
+      "type": "Alumno y Boly™",
+      "turns": [
+        { "speaker": "Alumno", "text": "Boly, soy principiante y mi masa está pegajosa durante el amasado." },
+        { "speaker": "Boly™", "text": "Vas bien, camarada: una masa pegajosa no significa fracaso, significa que tenemos datos por ordenar. Primero dime hidratación, tipo de harina, si amasaste a mano o máquina y temperatura del lugar. Con eso confirmo si falta desarrollo, si hay exceso de agua o si la harina absorbe menos." }
+      ]
+    },
+    {
+      "id": "alumno-boly-no-fermenta",
+      "type": "Alumno y Boly™",
+      "turns": [
+        { "speaker": "Alumno", "text": "Mi masa no creció nada." },
+        { "speaker": "Boly™", "text": "No te castigues: esto se diagnostica. Caso del Obrador: la masa que no arrancó en fermentación. Antes de corregir, verifica levadura, sal, temperatura de masa y cuánto tiempo real esperaste. Ley del Chef Juanote™: Nunca supongas. Siempre verifica." }
+      ]
+    },
+    {
+      "id": "chef-boly-horno",
+      "type": "Chef Juanote y Boly™",
+      "turns": [
+        { "speaker": "Chef Juanote", "text": "Boly, el alumno dice que siguió la receta pero el horno nuevo le deja el bolillo pálido." },
+        { "speaker": "Boly™", "text": "Chef, lo llevaré a probar el horno, no a culpar la fórmula. Usaré el caso del horno nuevo y el horno viejo, pediré precalentamiento, vapor, posición de charola y color por zonas. Ley relacionada: Cada horno tiene personalidad." }
+      ]
+    },
+    {
+      "id": "chef-boly-produccion",
+      "type": "Chef Juanote y Boly™",
+      "turns": [
+        { "speaker": "Chef Juanote", "text": "Boly, si un alumno olvidó levadura en producción, ¿qué haces?" },
+        { "speaker": "Boly™", "text": "Primero lo motivo y luego lo regreso al checklist. Uso el caso del carro que nunca fermentó por falta de levadura y la ley: Termina una tarea antes de empezar otra. No maquillo el error: lo convierto en control de producción." }
+      ]
+    }
+  ]
+}

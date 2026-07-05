@@ -1,0 +1,42 @@
+[
+  {
+    "id": "curso-premium",
+    "name": "Curso Maestro de Bolillo Premium",
+    "type": "course",
+    "price": 2499,
+    "currency": "MXN",
+    "description": "14 módulos, biblioteca, videos, Boly™, evaluaciones, certificados y recursos premium.",
+    "download": null,
+    "paymentStatus": "stripe_paypal_ready"
+  },
+  {
+    "id": "libro-premium",
+    "name": "Libro Maestro de Bolillo Premium",
+    "type": "book",
+    "price": 499,
+    "currency": "MXN",
+    "description": "Libro digital descargable con técnica, casos, ejercicios, QR y glosario.",
+    "download": "downloads/books/libro-maestro-bolillo-premium.md",
+    "paymentStatus": "digital_delivery_ready"
+  },
+  {
+    "id": "certificacion-pro",
+    "name": "Certificación Profesional PanaderIA™",
+    "type": "certificate",
+    "price": 999,
+    "currency": "MXN",
+    "description": "Evaluación final, rúbricas, evidencias prácticas, folio y certificado profesional descargable.",
+    "download": "downloads/certificates/certificado-panadero-profesional.md",
+    "paymentStatus": "stripe_paypal_ready"
+  },
+  {
+    "id": "pack-recursos",
+    "name": "Pack de PDFs y hojas de práctica",
+    "type": "resource_pack",
+    "price": 299,
+    "currency": "MXN",
+    "description": "Pack comercial con índice de guías, exámenes, checklists, tablas y recursos imprimibles por módulo.",
+    "download": "downloads/pdfs/pack-recursos-panaderia.md",
+    "paymentStatus": "digital_delivery_ready"
+  }
+]

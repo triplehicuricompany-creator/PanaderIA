@@ -1,0 +1,39 @@
+{
+  "brand": "PanaderIA™",
+  "version": "3.0.0",
+  "release": "official-launch-release",
+  "payments": {
+    "status": "prepared",
+    "providers": [
+      "stripe",
+      "paypal"
+    ],
+    "checkoutMode": "cart_mock_with_provider_hooks",
+    "providerHooks": {
+      "stripe": "createStripeCheckoutSession(cart)",
+      "paypal": "createPayPalOrder(cart)"
+    }
+  },
+  "mobile": {
+    "status": "optimized",
+    "strategy": "Responsive PWA shell ready to be wrapped by Android/iPhone apps",
+    "futureTargets": [
+      "Android",
+      "iPhone",
+      "tablet",
+      "offline library",
+      "push reminders"
+    ]
+  },
+  "studentArea": {
+    "auth": "localStorage student account for RC1; migration-ready for production auth provider",
+    "progress": "localStorage module completion",
+    "cart": "localStorage shopping cart",
+    "certificates": "certificate levels generated after completion thresholds"
+  },
+  "assetReplacement": {
+    "images": "Reemplazar archivos en assets/reference/mod-XX.svg por fotografías finales conservando la misma ruta o actualizando data/course-content.json.",
+    "videos": "Reemplazar HTML de videos por páginas/reproductores finales conservando hrefs de data/videos.json.",
+    "downloads": "Reemplazar Markdown por PDF/EPUB finales conservando nombres o actualizando data/resources.json y data/products.json."
+  }
+}

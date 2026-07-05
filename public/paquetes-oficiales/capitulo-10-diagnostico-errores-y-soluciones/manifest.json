@@ -1,0 +1,164 @@
+{
+  "package_id": "panaderia-capitulo-10-paquete-oficial-v1",
+  "chapter": 10,
+  "chapter_title": "Diagnóstico, errores y soluciones",
+  "status": "listo_para_produccion_y_publicacion",
+  "technical_content_policy": "No modifica contenido técnico existente ni agrega capítulos nuevos.",
+  "replacement_policy": "Todo recurso provisional generado o basado en IA conserva su ruta estable y puede sustituirse por fotografía o video real del Chef Juanote™ sin romper la estructura del paquete.",
+  "student_assets": {
+    "fotografias": [
+      {
+        "id": "c10-foto-referencia-ia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/imagenes-ia/c10-imagen-ia.svg",
+        "replacement_slot": "chef-juanote-real/capitulo-10-diagnostico-errores-y-soluciones/fotografias/c10-foto-principal.jpg",
+        "uso": "Imagen de referencia IA para sustituir por fotografía real del Chef Juanote™."
+      },
+      {
+        "id": "c10-foto-chef-produccion",
+        "tipo": "fotografia_pendiente",
+        "titulo": "Chef Juanote™ aplicando Diagnóstico, errores y soluciones",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/ilustraciones/c10-ilustracion.svg",
+        "uso": "Imagen temporal de contexto; sustituible por fotografía real del Chef Juanote™."
+      }
+    ],
+    "diagramas": [
+      {
+        "id": "c10-diagrama-tecnico",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/diagramas-tecnicos/c10-diagrama-tecnico.svg",
+        "uso": "Diagrama técnico del concepto principal."
+      },
+      {
+        "id": "c10-flujo-proceso",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-10-diagnostico-errores-y-soluciones/flujos-de-proceso/c10-flujo-de-proceso.svg",
+        "uso": "Flujo visual del proceso del capítulo."
+      },
+      {
+        "id": "c10-arbol-diagnostico",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-10-diagnostico-errores-y-soluciones/arboles-de-diagnostico/c10-arbol-de-diagnostico.svg",
+        "uso": "Apoyo para diagnóstico guiado."
+      }
+    ],
+    "infografias": [
+      {
+        "id": "c10-infografia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/infografias/c10-infografia.svg",
+        "uso": "Resumen visual para el alumno."
+      },
+      {
+        "id": "c10-tabla-comparativa",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-10-diagnostico-errores-y-soluciones/tablas-comparativas/c10-tabla-comparativa.svg",
+        "uso": "Comparación de criterios observables."
+      }
+    ],
+    "ilustraciones": [
+      {
+        "id": "c10-ilustracion",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/ilustraciones/c10-ilustracion.svg",
+        "uso": "Ilustración educativa del capítulo."
+      },
+      {
+        "id": "c10-boly-apoyo-visual",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/boly/c10-boly-apoyo-visual.svg",
+        "uso": "Intervención visual de Boly™."
+      }
+    ],
+    "recursos_descargables": [
+      {
+        "id": "c10-recurso-alumno",
+        "path": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-10-diagnostico-errores-y-soluciones.md",
+        "uso": "Recurso descargable oficial del alumno."
+      },
+      {
+        "id": "mod-10-guia-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-10-guia.md",
+        "uso": "Guía imprimible de plataforma."
+      },
+      {
+        "id": "mod-10-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-10-examen.md",
+        "uso": "Evaluación imprimible de plataforma."
+      },
+      {
+        "id": "c10-guia-final-alumno",
+        "path": "public/paquetes-oficiales/capitulo-10-diagnostico-errores-y-soluciones/alumno/guia-final-capitulo-10.md",
+        "uso": "Guía final del paquete oficial."
+      },
+      {
+        "id": "c10-checklist-final",
+        "path": "public/paquetes-oficiales/capitulo-10-diagnostico-errores-y-soluciones/alumno/checklist-final-capitulo-10.md",
+        "uso": "Checklist final de ejecución del capítulo."
+      },
+      {
+        "id": "c10-evaluacion-final",
+        "path": "public/paquetes-oficiales/capitulo-10-diagnostico-errores-y-soluciones/alumno/evaluacion-final-capitulo-10.md",
+        "uso": "Evaluación final del capítulo."
+      }
+    ],
+    "videos": [
+      {
+        "id": "mod-10-video-oficial",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/videos/mod-10.html",
+        "replacement_slot": "chef-juanote-real/capitulo-10-diagnostico-errores-y-soluciones/videos/mod-10.mp4",
+        "uso": "Video oficial reemplazable por grabación real."
+      }
+    ],
+    "qr": [
+      {
+        "id": "QR-C10-PAQUETE",
+        "destino": "/qr/capitulo-10",
+        "uso": "Acceso a video, guía final, checklist y evaluación."
+      },
+      {
+        "id": "QR-C10-BOLY",
+        "destino": "/qr/capitulo-10-boly",
+        "uso": "Acceso a preguntas guiadas de Boly™."
+      }
+    ],
+    "boly": [
+      {
+        "id": "boly-capitulo-10",
+        "path": "public/paquetes-oficiales/capitulo-10-diagnostico-errores-y-soluciones/alumno/boly-capitulo-10.md",
+        "uso": "Guía conversacional de Boly™."
+      }
+    ],
+    "casos_chef_juanote": [
+      {
+        "id": "chef-juanote-caso-10",
+        "titulo": "Diagnóstico, errores y soluciones",
+        "uso": "Caso narrativo aplicable sin cambiar el contenido técnico."
+      }
+    ],
+    "evaluaciones": [
+      {
+        "id": "evaluacion-final-capitulo-10",
+        "path": "public/paquetes-oficiales/capitulo-10-diagnostico-errores-y-soluciones/alumno/evaluacion-final-capitulo-10.md",
+        "uso": "Evaluación final del paquete."
+      },
+      {
+        "id": "c10-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-10-examen.md",
+        "uso": "Examen descargable de plataforma."
+      }
+    ],
+    "checklist": [
+      {
+        "id": "checklist-final-capitulo-10",
+        "path": "public/paquetes-oficiales/capitulo-10-diagnostico-errores-y-soluciones/alumno/checklist-final-capitulo-10.md",
+        "uso": "Checklist de cierre."
+      }
+    ]
+  },
+  "publication_targets": [
+    "Libro Maestro",
+    "Curso Maestro",
+    "Plataforma PanaderIA™",
+    "Sitio web",
+    "Recursos descargables del alumno"
+  ],
+  "final_student_flow": [
+    "guia-final-capitulo-10.md",
+    "checklist-final-capitulo-10.md",
+    "boly-capitulo-10.md",
+    "evaluacion-final-capitulo-10.md"
+  ]
+}

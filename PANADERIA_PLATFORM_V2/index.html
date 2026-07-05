@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0907">
+  <meta name="description" content="PanaderIA™ Platform V2: lanzamiento comercial con curso, Boly™, biblioteca, alumnos, tienda, pagos preparados y certificación.">
+  <title>PanaderIA™ Platform V2</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#home"><span>PIA</span><strong>PanaderIA™</strong><small>V2 estable</small></a>
+    <button class="menu-toggle" id="menuToggle">Menú</button>
+    <nav class="nav" id="mainNav">
+      <a class="nav-link" data-route="home" href="#home">Inicio</a>
+      <a class="nav-link" data-route="course" href="#course">Curso</a>
+      <a class="nav-link" data-route="library" href="#library">Biblioteca</a>
+      <a class="nav-link" data-route="videos" href="#videos">Videos</a>
+      <a class="nav-link" data-route="boly" href="#boly">Boly™</a>
+      <a class="nav-link" data-route="dashboard" href="#dashboard">Dashboard</a>
+      <a class="nav-link" data-route="store" href="#store">Tienda</a>
+      <a class="nav-link" data-route="certificates" href="#certificates">Certificados</a>
+      <a class="nav-link" data-route="instructor" href="#instructor">Instructor</a>
+    </nav>
+    <button id="logout" class="btn small">Salir</button>
+  </header>
+  <main id="app" class="app" aria-live="polite"></main>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

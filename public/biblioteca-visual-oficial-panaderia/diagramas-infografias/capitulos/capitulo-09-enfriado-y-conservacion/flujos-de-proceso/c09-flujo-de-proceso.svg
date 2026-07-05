@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">C09 · Flujo de proceso · Enfriado y conservación</title>
+  <desc id="desc">Objetivo: Guiar al alumno paso a paso desde inicio hasta resultado. Información: Secuencia ordenada, decisiones y continuidad con el siguiente capítulo. Fotografías: Foto real pendiente del Chef Juanote™ para enfriado y conservación; usar biblioteca visual V1 como base. Videos: Video relacionado VID-C09-ENFRIADO cuando exista grabación oficial. QR: QR-C09-ENFRIADO Prioridad: Alta.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#fff4dc"/></linearGradient>
+    <style>
+      .brand { font: 700 34px Georgia, serif; fill: #3a2416; }
+      .title { font: 900 52px Arial, sans-serif; fill: #9b5b24; }
+      .body { font: 600 28px Arial, sans-serif; fill: #3a2416; }
+      .small { font: 700 24px Arial, sans-serif; fill: #3a2416; }
+      .card { fill: rgba(255,250,240,.86); stroke: #d99a2b; stroke-width: 4; }
+      .node { fill: #2b6f8f; stroke: #fffaf0; stroke-width: 8; }
+      .nodeText { font: 900 32px Arial, sans-serif; fill: #fffaf0; text-anchor: middle; }
+      .arrow { stroke: #2b6f8f; stroke-width: 12; stroke-linecap: round; }
+      .badge { font: 900 24px Arial, sans-serif; fill: #fffaf0; }
+    </style>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <text x="90" y="80" class="brand">PanaderIA™ · Biblioteca de Diagramas e Infografías</text>
+  <text x="90" y="155" class="title">Capítulo 09 · Flujo de proceso</text>
+  <text x="90" y="210" class="body">Enfriado y conservación</text>
+  <rect x="90" y="260" width="650" height="270" rx="28" class="card"/>
+  <text x="120" y="320" class="small">Información que debe mostrar:</text>
+  <text x="120" y="370" class="body">Secuencia ordenada, decisiones y continuidad</text>
+<text x="120" y="406" class="body">con el siguiente capítulo.</text>
+  <rect x="880" y="260" width="620" height="270" rx="28" class="card"/>
+  <text x="920" y="305" class="small">Elementos gráficos necesarios:</text>
+  <text x="920" y="340" class="small">• línea de tiempo</text>
+<text x="920" y="382" class="small">• nodos</text>
+<text x="920" y="424" class="small">• flechas</text>
+<text x="920" y="466" class="small">• marcadores QR</text>
+  <text x="120" y="610" class="small">Objetivo: Guiar al alumno paso a paso desde inicio hasta resultado.</text>
+  <text x="120" y="660" class="body">Señales del capítulo: rejilla · vapor residual · empaque · textura</text>
+  <path d="M 266 720 H 384" class="arrow"/><path d="M 476 720 H 594" class="arrow"/><path d="M 686 720 H 804" class="arrow"/><path d="M 896 720 H 1014" class="arrow"/><circle cx="220" cy="720" r="46" class="node"/><text x="220" y="735" class="nodeText">1</text><circle cx="430" cy="720" r="46" class="node"/><text x="430" y="735" class="nodeText">2</text><circle cx="640" cy="720" r="46" class="node"/><text x="640" y="735" class="nodeText">3</text><circle cx="850" cy="720" r="46" class="node"/><text x="850" y="735" class="nodeText">4</text><circle cx="1060" cy="720" r="46" class="node"/><text x="1060" y="735" class="nodeText">5</text>
+  <rect x="90" y="820" width="1410" height="92" rx="26" fill="#b94a35"/>
+  <text x="120" y="858" class="badge">Fotografías relacionadas: Foto real pendiente del Chef Juanote™ para enfriado y conservación; usar biblioteca visual V1 como base.</text>
+  <text x="120" y="892" class="badge">Videos: Video relacionado VID-C09-ENFRIADO cuando exista grabación oficial. · QR: QR-C09-ENFRIADO · Prioridad: Alta · Reemplazable por versión IA/Chef Juanote™</text>
+</svg>

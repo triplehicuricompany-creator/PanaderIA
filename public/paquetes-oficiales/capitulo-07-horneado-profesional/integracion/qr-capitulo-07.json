@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-07",
+  "chapter": 7,
+  "title": "Horneado profesional",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-07-horneado-profesional/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/guia-final-capitulo-07.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/boly-capitulo-07.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/evaluacion-final-capitulo-07.md",
+  "checklist": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/checklist-final-capitulo-07.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-07-horneado-profesional/videos/mod-07.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-07-horneado-profesional/fotografias/07-foto-principal.jpg"
+}

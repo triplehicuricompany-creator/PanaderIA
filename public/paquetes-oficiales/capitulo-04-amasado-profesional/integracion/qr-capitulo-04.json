@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-04",
+  "chapter": 4,
+  "title": "Amasado profesional",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-04-amasado-profesional/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-04-amasado-profesional/alumno/guia-final-capitulo-04.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-04-amasado-profesional/alumno/boly-capitulo-04.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-04-amasado-profesional/alumno/evaluacion-final-capitulo-04.md",
+  "checklist": "public/paquetes-oficiales/capitulo-04-amasado-profesional/alumno/checklist-final-capitulo-04.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-04-amasado-profesional/videos/mod-04.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-04-amasado-profesional/fotografias/04-foto-principal.jpg"
+}

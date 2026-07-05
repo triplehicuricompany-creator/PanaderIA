@@ -1,0 +1,249 @@
+[
+  {
+    "id": "vid-intro",
+    "module": 1,
+    "title": "Bienvenida al Curso Maestro de Bolillo",
+    "duration": "04:20",
+    "status": "referencia-rc1",
+    "href": "videos/demo-intro.html",
+    "tags": [
+      "bienvenida",
+      "curso",
+      "chef"
+    ]
+  },
+  {
+    "id": "vid-amasado",
+    "module": 4,
+    "title": "Prueba de ventana y desarrollo de gluten",
+    "duration": "08:10",
+    "status": "referencia-rc1",
+    "href": "videos/demo-amasado.html",
+    "tags": [
+      "amasado",
+      "gluten",
+      "masa"
+    ]
+  },
+  {
+    "id": "vid-fermentacion",
+    "module": 5,
+    "title": "Prueba de dedo y control de fermentación",
+    "duration": "07:40",
+    "status": "referencia-rc1",
+    "href": "videos/demo-fermentacion.html",
+    "tags": [
+      "fermentación",
+      "temperatura",
+      "volumen"
+    ]
+  },
+  {
+    "id": "vid-corte",
+    "module": 8,
+    "title": "Corte profesional y greña del bolillo",
+    "duration": "06:35",
+    "status": "referencia-rc1",
+    "href": "videos/demo-corte.html",
+    "tags": [
+      "corte",
+      "greña",
+      "navaja"
+    ]
+  },
+  {
+    "id": "vid-diagnostico",
+    "module": 10,
+    "title": "Diagnóstico rápido de errores frecuentes",
+    "duration": "10:00",
+    "status": "referencia-rc1",
+    "href": "videos/demo-diagnostico.html",
+    "tags": [
+      "diagnóstico",
+      "errores",
+      "soluciones"
+    ]
+  },
+  {
+    "id": "vid-mod-01",
+    "module": 1,
+    "title": "Clase comercial: Introducción al mundo del bolillo",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-01.html",
+    "tags": [
+      "introduccion",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-02",
+    "module": 2,
+    "title": "Clase comercial: Herramientas esenciales y profesionales",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-02.html",
+    "tags": [
+      "herramientas",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-03",
+    "module": 3,
+    "title": "Clase comercial: Ingredientes del bolillo",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-03.html",
+    "tags": [
+      "ingredientes",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-04",
+    "module": 4,
+    "title": "Clase comercial: Amasado profesional",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-04.html",
+    "tags": [
+      "amasado",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-05",
+    "module": 5,
+    "title": "Clase comercial: Fermentación profesional",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-05.html",
+    "tags": [
+      "fermentacion",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-06",
+    "module": 6,
+    "title": "Clase comercial: División, boleado y formado",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-06.html",
+    "tags": [
+      "formado",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-07",
+    "module": 7,
+    "title": "Clase comercial: Horneado profesional",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-07.html",
+    "tags": [
+      "horneado",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-08",
+    "module": 8,
+    "title": "Clase comercial: Corte profesional del bolillo",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-08.html",
+    "tags": [
+      "corte",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-09",
+    "module": 9,
+    "title": "Clase comercial: Enfriado y conservación",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-09.html",
+    "tags": [
+      "enfriado",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-10",
+    "module": 10,
+    "title": "Clase comercial: Diagnóstico, errores y solución de problemas",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-10.html",
+    "tags": [
+      "diagnostico",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-11",
+    "module": 11,
+    "title": "Clase comercial: Variantes profesionales del bolillo",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-11.html",
+    "tags": [
+      "variantes",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-12",
+    "module": 12,
+    "title": "Clase comercial: Producción profesional completa",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-12.html",
+    "tags": [
+      "produccion",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-13",
+    "module": 13,
+    "title": "Clase comercial: Certificación profesional del panadero",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-13.html",
+    "tags": [
+      "certificacion",
+      "clase",
+      "chef juanote"
+    ]
+  },
+  {
+    "id": "vid-mod-14",
+    "module": 14,
+    "title": "Clase comercial: Futuro, negocio y expansión del panadero",
+    "duration": "12:00",
+    "status": "reference-ready",
+    "href": "videos/mod-14.html",
+    "tags": [
+      "negocio",
+      "clase",
+      "chef juanote"
+    ]
+  }
+]

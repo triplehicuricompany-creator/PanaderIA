@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "slug": "introduccion",
+    "name": "Introducción al mundo del bolillo",
+    "topics": ["bolillo", "curso", "estudio", "método", "Chef Juanote", "Boly"],
+    "contextHelp": "Explica qué hace diferente a un buen bolillo: corteza crujiente, migajón ligero, greña abierta, sabor equilibrado y proceso controlado.",
+    "recommendedResource": "Mapa de progreso del curso y guía de uso de PanaderIA™."
+  },
+  {
+    "id": 2,
+    "slug": "herramientas",
+    "name": "Herramientas esenciales y profesionales",
+    "topics": ["herramienta", "báscula", "charola", "navaja", "termómetro", "horno", "raspa"],
+    "contextHelp": "Ayuda a adaptar equipo doméstico o profesional, priorizando báscula, raspa, charolas, navaja segura, termómetro y rejillas.",
+    "recommendedResource": "Checklist de herramientas por nivel."
+  },
+  {
+    "id": 3,
+    "slug": "ingredientes",
+    "name": "Ingredientes del bolillo",
+    "topics": ["harina", "agua", "levadura", "sal", "azúcar", "grasa", "hidratación", "receta", "fórmula"],
+    "contextHelp": "Orienta sobre función de ingredientes, fórmula panadera, hidratación, temperatura de agua y ajustes por tipo de harina.",
+    "recommendedResource": "Fórmula base escalable y tabla de ingredientes."
+  },
+  {
+    "id": 4,
+    "slug": "amasado",
+    "name": "Amasado profesional",
+    "topics": ["amasado", "gluten", "membrana", "ventana", "masa pegajosa", "masa lisa", "elasticidad"],
+    "contextHelp": "Guía el desarrollo de gluten, prueba de ventana, reposos, masa pegajosa y señales de amasado insuficiente o excesivo.",
+    "recommendedResource": "Guía de amasado y ficha de temperatura final de masa."
+  },
+  {
+    "id": 5,
+    "slug": "fermentacion",
+    "name": "Fermentación profesional",
+    "topics": ["fermentación", "sobrefermentada", "subfermentada", "volumen", "temperatura", "prueba de dedo", "levadura"],
+    "contextHelp": "Ayuda a leer volumen, aroma, burbujas, tiempo, temperatura y prueba de dedo para evitar subfermentación o sobrefermentación.",
+    "recommendedResource": "Tabla de tiempos por temperatura y registro de fermentación."
+  },
+  {
+    "id": 6,
+    "slug": "formado",
+    "name": "División, boleado y formado",
+    "topics": ["división", "boleado", "formado", "peso", "tensión", "costura", "pieza dispareja"],
+    "contextHelp": "Explica pesado uniforme, tensión superficial, reposo previo, posición de manos, costura inferior y corrección de piezas flojas.",
+    "recommendedResource": "Guía de formado paso a paso y tabla de pesos."
+  },
+  {
+    "id": 7,
+    "slug": "horneado",
+    "name": "Horneado profesional",
+    "topics": ["horneado", "horno", "vapor", "temperatura", "corteza", "color", "Maillard", "oven spring"],
+    "contextHelp": "Orienta sobre precalentado, vapor, expansión inicial, color, corteza, migajón y adaptación a horno doméstico o profesional.",
+    "recommendedResource": "Tabla de temperaturas y guía de vapor doméstico."
+  },
+  {
+    "id": 8,
+    "slug": "corte",
+    "name": "Corte profesional del bolillo",
+    "topics": ["corte", "greña", "navaja", "ángulo", "profundidad", "revienta", "no abre"],
+    "contextHelp": "Ayuda a revisar momento, navaja, ángulo, profundidad, longitud, fermentación y vapor cuando el bolillo no abre bien.",
+    "recommendedResource": "Guía de corte profesional y tabla de errores de greñado."
+  },
+  {
+    "id": 9,
+    "slug": "enfriado",
+    "name": "Enfriado y conservación",
+    "topics": ["enfriado", "conservación", "rejilla", "humedad", "empaque", "congelar", "descongelar", "corteza blanda"],
+    "contextHelp": "Explica redistribución de humedad, uso de rejilla, empaque, conservación mismo día, congelación y reactivación de corteza.",
+    "recommendedResource": "Guía de conservación y protocolo de congelación."
+  },
+  {
+    "id": 10,
+    "slug": "diagnostico",
+    "name": "Diagnóstico, errores y solución de problemas",
+    "topics": ["diagnóstico", "error", "denso", "pálido", "duro", "crudo", "plano", "solución", "causa"],
+    "contextHelp": "Conduce al alumno por síntoma, etapa probable, causa raíz, corrección inmediata y prevención para el siguiente intento.",
+    "recommendedResource": "Manual de diagnóstico y árbol de decisiones."
+  },
+  {
+    "id": 11,
+    "slug": "variantes",
+    "name": "Variantes profesionales del bolillo",
+    "topics": ["variante", "integral", "semillas", "nuez", "arándano", "ajo", "cebolla", "romero", "menta", "gourmet"],
+    "contextHelp": "Ayuda a ajustar hidratación, amasado, fermentación y horneado al agregar inclusiones o crear variantes premium.",
+    "recommendedResource": "Recetario de variantes y tabla de ajustes."
+  },
+  {
+    "id": 12,
+    "slug": "produccion",
+    "name": "Producción profesional completa",
+    "topics": ["producción", "lote", "mise en place", "higiene", "productividad", "calidad", "merma"],
+    "contextHelp": "Integra preparación, pesado, amasado, reposos, formado, fermentación, corte, horneado, enfriado, conservación y control final.",
+    "recommendedResource": "Checklist maestro de producción y ficha de control de lote."
+  },
+  {
+    "id": 13,
+    "slug": "certificacion",
+    "name": "Certificación profesional del panadero",
+    "topics": ["certificación", "examen", "rúbrica", "evidencia", "evaluación", "certificado"],
+    "contextHelp": "Prepara al alumno para demostrar competencias técnicas, prácticas, diagnósticas, higiene, productividad y evidencia final.",
+    "recommendedResource": "Manual de certificación y rúbricas oficiales."
+  },
+  {
+    "id": 14,
+    "slug": "negocio",
+    "name": "Futuro, negocio y expansión del panadero",
+    "topics": ["negocio", "venta", "precio", "costo", "restaurante", "supermercado", "escuela", "empaque"],
+    "contextHelp": "Orienta sobre costeo básico, presentación, venta, clientes B2B, empaque, contenido y crecimiento profesional.",
+    "recommendedResource": "Plantilla de costos y plan de primera venta."
+  }
+]

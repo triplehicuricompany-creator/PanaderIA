@@ -1,0 +1,37 @@
+[
+  {
+    "keywords": ["denso", "compacto", "pesado", "no esponja", "miga apretada"],
+    "symptom": "Bolillo denso o compacto",
+    "probableCauses": ["Amasado insuficiente", "Fermentación corta", "Harina con baja fuerza", "Hidratación baja", "Piezas desgasificadas al formar"],
+    "steps": ["Revisa prueba de ventana antes de dividir.", "Compara volumen antes y después de fermentar.", "Evita agregar harina extra durante amasado.", "Registra tiempos y temperatura ambiente.", "Ajusta hidratación de 1% en 1% según absorción de harina."],
+    "module": "Amasado + Fermentación + Diagnóstico"
+  },
+  {
+    "keywords": ["no abre", "greña cerrada", "corte no abrió", "revienta", "se rompe"],
+    "symptom": "El corte no abre o el bolillo revienta",
+    "probableCauses": ["Corte superficial", "Ángulo incorrecto", "Falta de vapor", "Fermentación incorrecta", "Tensión superficial mal desarrollada"],
+    "steps": ["Corta con navaja afilada justo antes de hornear.", "Inclina la navaja y evita cortar verticalmente.", "Asegura vapor al inicio del horneado.", "Revisa que la pieza tenga tensión y costura abajo.", "Compara con fotos de corte correcto antes y después del horno."],
+    "module": "Formado + Corte + Horneado"
+  },
+  {
+    "keywords": ["pálido", "sin color", "blanco", "no doró"],
+    "symptom": "Corteza pálida",
+    "probableCauses": ["Horno frío", "Tiempo corto", "Falta de vapor inicial o exceso de vapor prolongado", "Fermentación deficiente", "Fórmula desbalanceada"],
+    "steps": ["Precalienta suficiente tiempo.", "Verifica temperatura real con termómetro de horno.", "Usa vapor al inicio y deja secar después.", "Extiende horneado si el interior aún no estabiliza.", "Registra color por minuto en la bitácora."],
+    "module": "Horneado"
+  },
+  {
+    "keywords": ["pegajosa", "se pega", "muy húmeda", "aguada"],
+    "symptom": "Masa pegajosa o difícil de manejar",
+    "probableCauses": ["Alta hidratación", "Falta de amasado", "Harina con baja absorción", "Temperatura alta", "Reposo insuficiente"],
+    "steps": ["No agregues harina de golpe.", "Da reposo corto de 10 a 15 minutos.", "Amasa hasta observar más elasticidad.", "Controla temperatura final de masa.", "Reduce agua ligeramente en la siguiente prueba si tu harina absorbe poco."],
+    "module": "Ingredientes + Amasado"
+  },
+  {
+    "keywords": ["corteza blanda", "humedece", "suda", "se aguada", "pierde crujiente"],
+    "symptom": "Corteza blanda después de hornear",
+    "probableCauses": ["Enfriado sin rejilla", "Empaque caliente", "Exceso de humedad atrapada", "Horneado corto", "Ambiente muy húmedo"],
+    "steps": ["Enfría sobre rejilla con circulación de aire.", "No embolses caliente.", "Permite estabilizar migajón antes de cortar o empacar.", "Revisa si faltó secado final de horno.", "Usa empaque adecuado al tiempo de consumo."],
+    "module": "Enfriado + Conservación"
+  }
+]

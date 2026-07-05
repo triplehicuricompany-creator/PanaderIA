@@ -1,0 +1,14 @@
+{
+  "name": "boly-assistant-v1",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Primera versión funcional de Boly™, asistente educativo oficial de PanaderIA™.",
+  "scripts": {
+    "ask": "node src/cli.js",
+    "demo": "node src/cli.js \"Boly, mi bolillo no abre en el corte\"",
+    "test:smoke": "node src/smoke-test.js"
+  },
+  "keywords": ["PanaderIA", "Boly", "bolillo", "asistente", "panaderia"],
+  "license": "UNLICENSED"
+}

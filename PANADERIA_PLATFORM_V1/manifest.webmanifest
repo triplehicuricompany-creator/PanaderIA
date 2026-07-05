@@ -1,0 +1,9 @@
+{
+  "name": "PanaderIA Platform V1",
+  "short_name": "PanaderIA",
+  "start_url": "./index.html#home",
+  "display": "standalone",
+  "background_color": "#0b0907",
+  "theme_color": "#0b0907",
+  "description": "Curso Maestro de Bolillo, Boly™, biblioteca, estudiantes y certificación."
+}

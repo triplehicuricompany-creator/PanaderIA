@@ -1,0 +1,174 @@
+{
+  "package_id": "panaderia-capitulo-01-paquete-oficial-v1",
+  "chapter": 1,
+  "chapter_title": "Introducción al mundo del bolillo",
+  "status": "listo_para_produccion_y_publicacion",
+  "technical_content_policy": "No modifica contenido técnico existente ni agrega capítulos nuevos.",
+  "replacement_policy": "Todo recurso provisional generado o basado en IA conserva su ruta estable y puede sustituirse por fotografía o video real del Chef Juanote™ sin romper la estructura del paquete.",
+  "student_assets": {
+    "fotografias": [
+      {
+        "id": "c01-foto-bolillo-ideal",
+        "tipo": "fotografia_provisional",
+        "titulo": "Bolillo ideal de referencia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/imagenes-ia/c01-imagen-ia.svg",
+        "uso": "Referencia visual inicial para reconocer forma, greña, corteza y presentación; sustituible por fotografía real del Chef Juanote™."
+      },
+      {
+        "id": "c01-foto-chef-presentacion",
+        "tipo": "fotografia_pendiente",
+        "titulo": "Chef Juanote™ presentando el bolillo ideal",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/ilustraciones/c01-ilustracion.svg",
+        "uso": "Imagen de bienvenida y contexto de obrador; sustituible por foto real del Chef Juanote™."
+      }
+    ],
+    "diagramas": [
+      {
+        "id": "c01-diagrama-tecnico",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/diagramas-tecnicos/c01-diagrama-tecnico.svg",
+        "uso": "Mapa técnico del capítulo 1."
+      },
+      {
+        "id": "c01-flujo-proceso",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/flujos-de-proceso/c01-flujo-de-proceso.svg",
+        "uso": "Secuencia de observación inicial del alumno."
+      },
+      {
+        "id": "c01-arbol-diagnostico",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/arboles-de-diagnostico/c01-arbol-de-diagnostico.svg",
+        "uso": "Preguntas de diagnóstico visual inicial."
+      },
+      {
+        "id": "c01-tabla-comparativa",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/tablas-comparativas/c01-tabla-comparativa.svg",
+        "uso": "Comparación de bolillo correcto vs defectos visibles."
+      }
+    ],
+    "infografias": [
+      {
+        "id": "c01-infografia-base",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/infografias/c01-infografia.svg",
+        "uso": "Lámina de resumen del capítulo."
+      },
+      {
+        "id": "c01-infografia-produccion",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/infografias/c01-infografia.svg",
+        "uso": "Infografía de aprendizaje rápido."
+      }
+    ],
+    "ilustraciones": [
+      {
+        "id": "c01-ilustracion-obrador",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/ilustraciones/c01-ilustracion.svg",
+        "uso": "Apoyo visual de introducción al mundo del bolillo."
+      },
+      {
+        "id": "c01-boly-apoyo",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/boly/c01-boly-apoyo-visual.svg",
+        "uso": "Boly™ guía al alumno durante la observación inicial."
+      }
+    ],
+    "recursos_descargables": [
+      {
+        "id": "c01-recurso-alumno",
+        "path": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-01-introduccion-al-mundo-del-bolillo.md",
+        "uso": "Paquete imprimible base del alumno."
+      },
+      {
+        "id": "c01-guia-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-01-guia.md",
+        "uso": "Guía descargable integrada a plataforma."
+      },
+      {
+        "id": "c01-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-01-examen.md",
+        "uso": "Evaluación descargable integrada a plataforma."
+      },
+      {
+        "id": "c01-guia-final-alumno",
+        "path": "public/paquetes-oficiales/capitulo-01-introduccion-al-mundo-del-bolillo/alumno/guia-final-capitulo-01.md",
+        "uso": "Guía final del paquete oficial."
+      },
+      {
+        "id": "c01-checklist-final",
+        "path": "public/paquetes-oficiales/capitulo-01-introduccion-al-mundo-del-bolillo/alumno/checklist-final-capitulo-01.md",
+        "uso": "Checklist final de ejecución del capítulo."
+      },
+      {
+        "id": "c01-evaluacion-final",
+        "path": "public/paquetes-oficiales/capitulo-01-introduccion-al-mundo-del-bolillo/alumno/evaluacion-final-capitulo-01.md",
+        "uso": "Evaluación final del capítulo 1."
+      }
+    ],
+    "videos": [
+      {
+        "id": "c01-video-modulo",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/videos/mod-01.html",
+        "uso": "Video de módulo 1 en plataforma; reemplazable por grabación real final."
+      },
+      {
+        "id": "c01-video-referencia-intro",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/videos/reference-intro.html",
+        "uso": "Referencia introductoria; reemplazable por video real del Chef Juanote™."
+      }
+    ],
+    "qr": [
+      {
+        "id": "QR-C01-INTRO",
+        "destino": "/qr/capitulo-01-introduccion",
+        "uso": "Acceso a video introductorio, guía final, checklist y evaluación."
+      },
+      {
+        "id": "QR-C01-BOLY",
+        "destino": "/qr/capitulo-01-boly",
+        "uso": "Acceso a preguntas guiadas de Boly™ para observación inicial."
+      }
+    ],
+    "boly": [
+      {
+        "id": "c01-boly-guia",
+        "path": "public/paquetes-oficiales/capitulo-01-introduccion-al-mundo-del-bolillo/alumno/boly-capitulo-01.md",
+        "uso": "Participación guiada de Boly™ en el capítulo 1."
+      }
+    ],
+    "casos_chef_juanote": [
+      {
+        "id": "c01-caso-obrador-bolillo-ideal",
+        "titulo": "El primer bolillo que enseña antes de ser probado",
+        "uso": "Caso real narrativo para observar forma, greña, color y actitud de aprendizaje sin cambiar técnica."
+      }
+    ],
+    "evaluaciones": [
+      {
+        "id": "c01-evaluacion-final",
+        "path": "public/paquetes-oficiales/capitulo-01-introduccion-al-mundo-del-bolillo/alumno/evaluacion-final-capitulo-01.md",
+        "uso": "Autoevaluación y revisión del instructor."
+      },
+      {
+        "id": "c01-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-01-examen.md",
+        "uso": "Examen descargable de plataforma."
+      }
+    ],
+    "checklist": [
+      {
+        "id": "c01-checklist-final",
+        "path": "public/paquetes-oficiales/capitulo-01-introduccion-al-mundo-del-bolillo/alumno/checklist-final-capitulo-01.md",
+        "uso": "Checklist operativo de cierre del capítulo."
+      }
+    ]
+  },
+  "publication_targets": [
+    "Libro Maestro",
+    "Curso Maestro",
+    "Plataforma PanaderIA™",
+    "Sitio web",
+    "Recursos descargables del alumno"
+  ],
+  "final_student_flow": [
+    "guia-final-capitulo-01.md",
+    "checklist-final-capitulo-01.md",
+    "boly-capitulo-01.md",
+    "evaluacion-final-capitulo-01.md"
+  ]
+}

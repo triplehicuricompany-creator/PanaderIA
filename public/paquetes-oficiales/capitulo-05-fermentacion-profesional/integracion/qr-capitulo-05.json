@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-05",
+  "chapter": 5,
+  "title": "Fermentación profesional",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-05-fermentacion-profesional/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-05-fermentacion-profesional/alumno/guia-final-capitulo-05.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-05-fermentacion-profesional/alumno/boly-capitulo-05.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-05-fermentacion-profesional/alumno/evaluacion-final-capitulo-05.md",
+  "checklist": "public/paquetes-oficiales/capitulo-05-fermentacion-profesional/alumno/checklist-final-capitulo-05.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-05-fermentacion-profesional/videos/mod-05.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-05-fermentacion-profesional/fotografias/05-foto-principal.jpg"
+}

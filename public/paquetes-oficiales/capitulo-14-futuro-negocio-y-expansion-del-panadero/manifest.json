@@ -1,0 +1,164 @@
+{
+  "package_id": "panaderia-capitulo-14-paquete-oficial-v1",
+  "chapter": 14,
+  "chapter_title": "Futuro, negocio y expansión del panadero",
+  "status": "listo_para_produccion_y_publicacion",
+  "technical_content_policy": "No modifica contenido técnico existente ni agrega capítulos nuevos.",
+  "replacement_policy": "Todo recurso provisional generado o basado en IA conserva su ruta estable y puede sustituirse por fotografía o video real del Chef Juanote™ sin romper la estructura del paquete.",
+  "student_assets": {
+    "fotografias": [
+      {
+        "id": "c14-foto-referencia-ia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/imagenes-ia/c14-imagen-ia.svg",
+        "replacement_slot": "chef-juanote-real/capitulo-14-futuro-negocio-y-expansion-del-panadero/fotografias/c14-foto-principal.jpg",
+        "uso": "Imagen de referencia IA para sustituir por fotografía real del Chef Juanote™."
+      },
+      {
+        "id": "c14-foto-chef-produccion",
+        "tipo": "fotografia_pendiente",
+        "titulo": "Chef Juanote™ aplicando Futuro, negocio y expansión del panadero",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/ilustraciones/c14-ilustracion.svg",
+        "uso": "Imagen temporal de contexto; sustituible por fotografía real del Chef Juanote™."
+      }
+    ],
+    "diagramas": [
+      {
+        "id": "c14-diagrama-tecnico",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/diagramas-tecnicos/c14-diagrama-tecnico.svg",
+        "uso": "Diagrama técnico del concepto principal."
+      },
+      {
+        "id": "c14-flujo-proceso",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/flujos-de-proceso/c14-flujo-de-proceso.svg",
+        "uso": "Flujo visual del proceso del capítulo."
+      },
+      {
+        "id": "c14-arbol-diagnostico",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/arboles-de-diagnostico/c14-arbol-de-diagnostico.svg",
+        "uso": "Apoyo para diagnóstico guiado."
+      }
+    ],
+    "infografias": [
+      {
+        "id": "c14-infografia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/infografias/c14-infografia.svg",
+        "uso": "Resumen visual para el alumno."
+      },
+      {
+        "id": "c14-tabla-comparativa",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/tablas-comparativas/c14-tabla-comparativa.svg",
+        "uso": "Comparación de criterios observables."
+      }
+    ],
+    "ilustraciones": [
+      {
+        "id": "c14-ilustracion",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/ilustraciones/c14-ilustracion.svg",
+        "uso": "Ilustración educativa del capítulo."
+      },
+      {
+        "id": "c14-boly-apoyo-visual",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/boly/c14-boly-apoyo-visual.svg",
+        "uso": "Intervención visual de Boly™."
+      }
+    ],
+    "recursos_descargables": [
+      {
+        "id": "c14-recurso-alumno",
+        "path": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-14-futuro-negocio-y-expansion-del-panadero.md",
+        "uso": "Recurso descargable oficial del alumno."
+      },
+      {
+        "id": "mod-14-guia-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-14-guia.md",
+        "uso": "Guía imprimible de plataforma."
+      },
+      {
+        "id": "mod-14-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-14-examen.md",
+        "uso": "Evaluación imprimible de plataforma."
+      },
+      {
+        "id": "c14-guia-final-alumno",
+        "path": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/guia-final-capitulo-14.md",
+        "uso": "Guía final del paquete oficial."
+      },
+      {
+        "id": "c14-checklist-final",
+        "path": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/checklist-final-capitulo-14.md",
+        "uso": "Checklist final de ejecución del capítulo."
+      },
+      {
+        "id": "c14-evaluacion-final",
+        "path": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/evaluacion-final-capitulo-14.md",
+        "uso": "Evaluación final del capítulo."
+      }
+    ],
+    "videos": [
+      {
+        "id": "mod-14-video-oficial",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/videos/mod-14.html",
+        "replacement_slot": "chef-juanote-real/capitulo-14-futuro-negocio-y-expansion-del-panadero/videos/mod-14.mp4",
+        "uso": "Video oficial reemplazable por grabación real."
+      }
+    ],
+    "qr": [
+      {
+        "id": "QR-C14-PAQUETE",
+        "destino": "/qr/capitulo-14",
+        "uso": "Acceso a video, guía final, checklist y evaluación."
+      },
+      {
+        "id": "QR-C14-BOLY",
+        "destino": "/qr/capitulo-14-boly",
+        "uso": "Acceso a preguntas guiadas de Boly™."
+      }
+    ],
+    "boly": [
+      {
+        "id": "boly-capitulo-14",
+        "path": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/boly-capitulo-14.md",
+        "uso": "Guía conversacional de Boly™."
+      }
+    ],
+    "casos_chef_juanote": [
+      {
+        "id": "chef-juanote-caso-14",
+        "titulo": "Futuro, negocio y expansión del panadero",
+        "uso": "Caso narrativo aplicable sin cambiar el contenido técnico."
+      }
+    ],
+    "evaluaciones": [
+      {
+        "id": "evaluacion-final-capitulo-14",
+        "path": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/evaluacion-final-capitulo-14.md",
+        "uso": "Evaluación final del paquete."
+      },
+      {
+        "id": "c14-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-14-examen.md",
+        "uso": "Examen descargable de plataforma."
+      }
+    ],
+    "checklist": [
+      {
+        "id": "checklist-final-capitulo-14",
+        "path": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/checklist-final-capitulo-14.md",
+        "uso": "Checklist de cierre."
+      }
+    ]
+  },
+  "publication_targets": [
+    "Libro Maestro",
+    "Curso Maestro",
+    "Plataforma PanaderIA™",
+    "Sitio web",
+    "Recursos descargables del alumno"
+  ],
+  "final_student_flow": [
+    "guia-final-capitulo-14.md",
+    "checklist-final-capitulo-14.md",
+    "boly-capitulo-14.md",
+    "evaluacion-final-capitulo-14.md"
+  ]
+}

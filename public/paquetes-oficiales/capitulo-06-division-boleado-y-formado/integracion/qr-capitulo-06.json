@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-06",
+  "chapter": 6,
+  "title": "División, boleado y formado",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-06-division-boleado-y-formado/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-06-division-boleado-y-formado/alumno/guia-final-capitulo-06.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-06-division-boleado-y-formado/alumno/boly-capitulo-06.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-06-division-boleado-y-formado/alumno/evaluacion-final-capitulo-06.md",
+  "checklist": "public/paquetes-oficiales/capitulo-06-division-boleado-y-formado/alumno/checklist-final-capitulo-06.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-06-division-boleado-y-formado/videos/mod-06.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-06-division-boleado-y-formado/fotografias/06-foto-principal.jpg"
+}

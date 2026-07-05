@@ -1,0 +1,11 @@
+{
+  "name": "panaderia-platform-v3-release",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:smoke": "node src/smoke-test.mjs",
+    "serve": "python3 -m http.server 8080 --directory ."
+  },
+  "description": "PanaderIA™ Platform V3 Release Candidate estable para lanzamiento comercial."
+}

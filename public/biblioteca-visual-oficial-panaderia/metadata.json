@@ -1,0 +1,3529 @@
+{
+  "name": "Biblioteca Visual Oficial de PanaderIA™",
+  "version": "1.0.0",
+  "purpose": "Primera versión funcional de recursos gráficos organizados por capítulo para Libro Maestro, Curso Maestro, Plataforma PanaderIA™ y sitio web.",
+  "not_a_plan_or_catalog": true,
+  "organization": {
+    "chapters": 14,
+    "categories_per_chapter": [
+      "diagramas-tecnicos",
+      "infografias",
+      "ilustraciones",
+      "imagenes-ia",
+      "portadas",
+      "iconografia",
+      "redes-sociales",
+      "miniaturas-videos",
+      "fondos",
+      "boly"
+    ],
+    "total_assets": 140,
+    "root": "public/biblioteca-visual-oficial-panaderia"
+  },
+  "replacement_policy": {
+    "preserve_v1_assets": true,
+    "rule": "Los recursos marcados como replaceable_by_chef_real_media=true podrán ser sustituidos visualmente por fotografías o videos reales del Chef Juanote™, conservando este SVG como respaldo versionado."
+  },
+  "assets": [
+    {
+      "id": "panaderia-c01-diagramas-tecnicos",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "diagramas-tecnicos",
+      "title": "C01 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/diagramas-tecnicos/c01-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c01-infografias",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "infografias",
+      "title": "C01 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/infografias/c01-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c01-ilustraciones",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "ilustraciones",
+      "title": "C01 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/ilustraciones/c01-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c01-imagenes-ia",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "imagenes-ia",
+      "title": "C01 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/imagenes-ia/c01-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c01-portadas",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "portadas",
+      "title": "C01 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/portadas/c01-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c01-iconografia",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "iconografia",
+      "title": "C01 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/iconografia/c01-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c01-redes-sociales",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "redes-sociales",
+      "title": "C01 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/redes-sociales/c01-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c01-miniaturas-videos",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "miniaturas-videos",
+      "title": "C01 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/miniaturas-videos/c01-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c01-fondos",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "fondos",
+      "title": "C01 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/fondos/c01-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c01-boly",
+      "chapter": 1,
+      "chapter_title": "Introducción al mundo del bolillo",
+      "category": "boly",
+      "title": "C01 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo/boly/c01-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-diagramas-tecnicos",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "diagramas-tecnicos",
+      "title": "C02 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/diagramas-tecnicos/c02-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-infografias",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "infografias",
+      "title": "C02 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/infografias/c02-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-ilustraciones",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "ilustraciones",
+      "title": "C02 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/ilustraciones/c02-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-imagenes-ia",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "imagenes-ia",
+      "title": "C02 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/imagenes-ia/c02-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-portadas",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "portadas",
+      "title": "C02 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/portadas/c02-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-iconografia",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "iconografia",
+      "title": "C02 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/iconografia/c02-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-redes-sociales",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "redes-sociales",
+      "title": "C02 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/redes-sociales/c02-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-miniaturas-videos",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "miniaturas-videos",
+      "title": "C02 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/miniaturas-videos/c02-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-fondos",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "fondos",
+      "title": "C02 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/fondos/c02-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c02-boly",
+      "chapter": 2,
+      "chapter_title": "Herramientas esenciales y profesionales",
+      "category": "boly",
+      "title": "C02 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/boly/c02-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-diagramas-tecnicos",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "diagramas-tecnicos",
+      "title": "C03 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/diagramas-tecnicos/c03-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-infografias",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "infografias",
+      "title": "C03 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/infografias/c03-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-ilustraciones",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "ilustraciones",
+      "title": "C03 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/ilustraciones/c03-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-imagenes-ia",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "imagenes-ia",
+      "title": "C03 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/imagenes-ia/c03-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-portadas",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "portadas",
+      "title": "C03 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/portadas/c03-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-iconografia",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "iconografia",
+      "title": "C03 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/iconografia/c03-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-redes-sociales",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "redes-sociales",
+      "title": "C03 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/redes-sociales/c03-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-miniaturas-videos",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "miniaturas-videos",
+      "title": "C03 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/miniaturas-videos/c03-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-fondos",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "fondos",
+      "title": "C03 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/fondos/c03-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c03-boly",
+      "chapter": 3,
+      "chapter_title": "Ingredientes del bolillo",
+      "category": "boly",
+      "title": "C03 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-ingredientes-del-bolillo/boly/c03-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-diagramas-tecnicos",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "diagramas-tecnicos",
+      "title": "C04 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/diagramas-tecnicos/c04-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-infografias",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "infografias",
+      "title": "C04 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/infografias/c04-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-ilustraciones",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "ilustraciones",
+      "title": "C04 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/ilustraciones/c04-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-imagenes-ia",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "imagenes-ia",
+      "title": "C04 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/imagenes-ia/c04-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-portadas",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "portadas",
+      "title": "C04 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/portadas/c04-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-iconografia",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "iconografia",
+      "title": "C04 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/iconografia/c04-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-redes-sociales",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "redes-sociales",
+      "title": "C04 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/redes-sociales/c04-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-miniaturas-videos",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "miniaturas-videos",
+      "title": "C04 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/miniaturas-videos/c04-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-fondos",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "fondos",
+      "title": "C04 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/fondos/c04-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c04-boly",
+      "chapter": 4,
+      "chapter_title": "Amasado profesional",
+      "category": "boly",
+      "title": "C04 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-amasado-profesional/boly/c04-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-diagramas-tecnicos",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "diagramas-tecnicos",
+      "title": "C05 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/diagramas-tecnicos/c05-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-infografias",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "infografias",
+      "title": "C05 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/infografias/c05-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-ilustraciones",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "ilustraciones",
+      "title": "C05 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/ilustraciones/c05-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-imagenes-ia",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "imagenes-ia",
+      "title": "C05 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/imagenes-ia/c05-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-portadas",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "portadas",
+      "title": "C05 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/portadas/c05-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-iconografia",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "iconografia",
+      "title": "C05 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/iconografia/c05-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-redes-sociales",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "redes-sociales",
+      "title": "C05 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/redes-sociales/c05-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-miniaturas-videos",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "miniaturas-videos",
+      "title": "C05 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/miniaturas-videos/c05-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-fondos",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "fondos",
+      "title": "C05 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/fondos/c05-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c05-boly",
+      "chapter": 5,
+      "chapter_title": "Fermentación profesional",
+      "category": "boly",
+      "title": "C05 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-fermentacion-profesional/boly/c05-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-diagramas-tecnicos",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "diagramas-tecnicos",
+      "title": "C06 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/diagramas-tecnicos/c06-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-infografias",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "infografias",
+      "title": "C06 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/infografias/c06-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-ilustraciones",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "ilustraciones",
+      "title": "C06 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/ilustraciones/c06-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-imagenes-ia",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "imagenes-ia",
+      "title": "C06 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/imagenes-ia/c06-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-portadas",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "portadas",
+      "title": "C06 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/portadas/c06-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-iconografia",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "iconografia",
+      "title": "C06 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/iconografia/c06-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-redes-sociales",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "redes-sociales",
+      "title": "C06 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/redes-sociales/c06-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-miniaturas-videos",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "miniaturas-videos",
+      "title": "C06 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/miniaturas-videos/c06-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-fondos",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "fondos",
+      "title": "C06 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/fondos/c06-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c06-boly",
+      "chapter": 6,
+      "chapter_title": "División, boleado y formado",
+      "category": "boly",
+      "title": "C06 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-division-boleado-y-formado/boly/c06-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-diagramas-tecnicos",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "diagramas-tecnicos",
+      "title": "C07 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/diagramas-tecnicos/c07-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-infografias",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "infografias",
+      "title": "C07 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/infografias/c07-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-ilustraciones",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "ilustraciones",
+      "title": "C07 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/ilustraciones/c07-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-imagenes-ia",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "imagenes-ia",
+      "title": "C07 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/imagenes-ia/c07-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-portadas",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "portadas",
+      "title": "C07 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/portadas/c07-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-iconografia",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "iconografia",
+      "title": "C07 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/iconografia/c07-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-redes-sociales",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "redes-sociales",
+      "title": "C07 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/redes-sociales/c07-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-miniaturas-videos",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "miniaturas-videos",
+      "title": "C07 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/miniaturas-videos/c07-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-fondos",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "fondos",
+      "title": "C07 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/fondos/c07-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c07-boly",
+      "chapter": 7,
+      "chapter_title": "Horneado profesional",
+      "category": "boly",
+      "title": "C07 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/boly/c07-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-diagramas-tecnicos",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "diagramas-tecnicos",
+      "title": "C08 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/diagramas-tecnicos/c08-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-infografias",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "infografias",
+      "title": "C08 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/infografias/c08-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-ilustraciones",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "ilustraciones",
+      "title": "C08 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/ilustraciones/c08-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-imagenes-ia",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "imagenes-ia",
+      "title": "C08 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/imagenes-ia/c08-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-portadas",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "portadas",
+      "title": "C08 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/portadas/c08-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-iconografia",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "iconografia",
+      "title": "C08 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/iconografia/c08-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-redes-sociales",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "redes-sociales",
+      "title": "C08 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/redes-sociales/c08-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-miniaturas-videos",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "miniaturas-videos",
+      "title": "C08 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/miniaturas-videos/c08-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-fondos",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "fondos",
+      "title": "C08 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/fondos/c08-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c08-boly",
+      "chapter": 8,
+      "chapter_title": "Corte profesional del bolillo",
+      "category": "boly",
+      "title": "C08 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-corte-profesional-del-bolillo/boly/c08-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-diagramas-tecnicos",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "diagramas-tecnicos",
+      "title": "C09 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/diagramas-tecnicos/c09-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-infografias",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "infografias",
+      "title": "C09 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/infografias/c09-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-ilustraciones",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "ilustraciones",
+      "title": "C09 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/ilustraciones/c09-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-imagenes-ia",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "imagenes-ia",
+      "title": "C09 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/imagenes-ia/c09-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-portadas",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "portadas",
+      "title": "C09 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/portadas/c09-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-iconografia",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "iconografia",
+      "title": "C09 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/iconografia/c09-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-redes-sociales",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "redes-sociales",
+      "title": "C09 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/redes-sociales/c09-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-miniaturas-videos",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "miniaturas-videos",
+      "title": "C09 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/miniaturas-videos/c09-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-fondos",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "fondos",
+      "title": "C09 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/fondos/c09-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c09-boly",
+      "chapter": 9,
+      "chapter_title": "Enfriado y conservación",
+      "category": "boly",
+      "title": "C09 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-enfriado-y-conservacion/boly/c09-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-diagramas-tecnicos",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "diagramas-tecnicos",
+      "title": "C10 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/diagramas-tecnicos/c10-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-infografias",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "infografias",
+      "title": "C10 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/infografias/c10-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-ilustraciones",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "ilustraciones",
+      "title": "C10 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/ilustraciones/c10-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-imagenes-ia",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "imagenes-ia",
+      "title": "C10 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/imagenes-ia/c10-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-portadas",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "portadas",
+      "title": "C10 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/portadas/c10-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-iconografia",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "iconografia",
+      "title": "C10 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/iconografia/c10-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-redes-sociales",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "redes-sociales",
+      "title": "C10 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/redes-sociales/c10-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-miniaturas-videos",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "miniaturas-videos",
+      "title": "C10 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/miniaturas-videos/c10-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-fondos",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "fondos",
+      "title": "C10 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/fondos/c10-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c10-boly",
+      "chapter": 10,
+      "chapter_title": "Diagnóstico, errores y soluciones",
+      "category": "boly",
+      "title": "C10 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-diagnostico-errores-y-soluciones/boly/c10-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-diagramas-tecnicos",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "diagramas-tecnicos",
+      "title": "C11 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/diagramas-tecnicos/c11-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-infografias",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "infografias",
+      "title": "C11 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/infografias/c11-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-ilustraciones",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "ilustraciones",
+      "title": "C11 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/ilustraciones/c11-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-imagenes-ia",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "imagenes-ia",
+      "title": "C11 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/imagenes-ia/c11-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-portadas",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "portadas",
+      "title": "C11 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/portadas/c11-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-iconografia",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "iconografia",
+      "title": "C11 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/iconografia/c11-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-redes-sociales",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "redes-sociales",
+      "title": "C11 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/redes-sociales/c11-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-miniaturas-videos",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "miniaturas-videos",
+      "title": "C11 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/miniaturas-videos/c11-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-fondos",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "fondos",
+      "title": "C11 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/fondos/c11-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c11-boly",
+      "chapter": 11,
+      "chapter_title": "Variantes profesionales del bolillo",
+      "category": "boly",
+      "title": "C11 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/boly/c11-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-diagramas-tecnicos",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "diagramas-tecnicos",
+      "title": "C12 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/diagramas-tecnicos/c12-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-infografias",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "infografias",
+      "title": "C12 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/infografias/c12-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-ilustraciones",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "ilustraciones",
+      "title": "C12 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/ilustraciones/c12-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-imagenes-ia",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "imagenes-ia",
+      "title": "C12 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/imagenes-ia/c12-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-portadas",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "portadas",
+      "title": "C12 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/portadas/c12-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-iconografia",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "iconografia",
+      "title": "C12 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/iconografia/c12-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-redes-sociales",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "redes-sociales",
+      "title": "C12 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/redes-sociales/c12-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-miniaturas-videos",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "miniaturas-videos",
+      "title": "C12 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/miniaturas-videos/c12-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-fondos",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "fondos",
+      "title": "C12 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/fondos/c12-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c12-boly",
+      "chapter": 12,
+      "chapter_title": "Producción profesional completa",
+      "category": "boly",
+      "title": "C12 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-produccion-profesional-completa/boly/c12-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-diagramas-tecnicos",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "diagramas-tecnicos",
+      "title": "C13 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/diagramas-tecnicos/c13-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-infografias",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "infografias",
+      "title": "C13 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/infografias/c13-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-ilustraciones",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "ilustraciones",
+      "title": "C13 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/ilustraciones/c13-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-imagenes-ia",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "imagenes-ia",
+      "title": "C13 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/imagenes-ia/c13-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-portadas",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "portadas",
+      "title": "C13 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/portadas/c13-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-iconografia",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "iconografia",
+      "title": "C13 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/iconografia/c13-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-redes-sociales",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "redes-sociales",
+      "title": "C13 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/redes-sociales/c13-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-miniaturas-videos",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "miniaturas-videos",
+      "title": "C13 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/miniaturas-videos/c13-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-fondos",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "fondos",
+      "title": "C13 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/fondos/c13-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c13-boly",
+      "chapter": 13,
+      "chapter_title": "Certificación profesional del panadero",
+      "category": "boly",
+      "title": "C13 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/boly/c13-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-diagramas-tecnicos",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "diagramas-tecnicos",
+      "title": "C14 · Diagrama técnico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/diagramas-tecnicos/c14-diagrama-tecnico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-infografias",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "infografias",
+      "title": "C14 · Infografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/infografias/c14-infografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-ilustraciones",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "ilustraciones",
+      "title": "C14 · Ilustración",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/ilustraciones/c14-ilustracion.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-imagenes-ia",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "imagenes-ia",
+      "title": "C14 · Imagen IA",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/imagenes-ia/c14-imagen-ia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-portadas",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "portadas",
+      "title": "C14 · Portada",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/portadas/c14-portada.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-iconografia",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "iconografia",
+      "title": "C14 · Iconografía",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/iconografia/c14-iconografia.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": false,
+      "replacement_note": "Recurso vectorial oficial base; puede enriquecerse con referencias reales sin requerir sustitución completa.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-redes-sociales",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "redes-sociales",
+      "title": "C14 · Recurso social",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/redes-sociales/c14-recurso-social.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-miniaturas-videos",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "miniaturas-videos",
+      "title": "C14 · Miniatura de video",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/miniaturas-videos/c14-miniatura-de-video.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-fondos",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "fondos",
+      "title": "C14 · Fondo gráfico",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/fondos/c14-fondo-grafico.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    },
+    {
+      "id": "panaderia-c14-boly",
+      "chapter": 14,
+      "chapter_title": "Futuro, negocio y expansión del panadero",
+      "category": "boly",
+      "title": "C14 · Boly™ apoyo visual",
+      "file": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero/boly/c14-boly-apoyo-visual.svg",
+      "format": "svg",
+      "status": "v1_funcional",
+      "use_targets": [
+        "Libro Maestro",
+        "Curso Maestro",
+        "Plataforma PanaderIA",
+        "Sitio web"
+      ],
+      "replaceable_by_chef_real_media": true,
+      "replacement_note": "Sustituible por fotografía o video real del Chef Juanote™ sin eliminar este recurso base.",
+      "source_basis": [
+        "Libro Maestro de Bolillo Premium",
+        "Curso Maestro de Bolillo",
+        "Catálogo Maestro de Fotografías",
+        "Catálogo Maestro de Videos",
+        "Método Chef Juanote™"
+      ]
+    }
+  ]
+}

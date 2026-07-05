@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-14",
+  "chapter": 14,
+  "title": "Futuro, negocio y expansión del panadero",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/guia-final-capitulo-14.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/boly-capitulo-14.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/evaluacion-final-capitulo-14.md",
+  "checklist": "public/paquetes-oficiales/capitulo-14-futuro-negocio-y-expansion-del-panadero/alumno/checklist-final-capitulo-14.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-14-futuro-negocio-y-expansion-del-panadero/videos/mod-14.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-14-futuro-negocio-y-expansion-del-panadero/fotografias/14-foto-principal.jpg"
+}

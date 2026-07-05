@@ -1,0 +1,26 @@
+{
+  "purpose": "Inventario de documentos oficiales que alimentan la base de conocimientos de Boly™ V1.",
+  "priorityOrder": [
+    "BOLY_BIBLE.md",
+    "PANADERIA_AI_BIBLE.md",
+    "CURSO_MAESTRO_BOLILLO.md",
+    "BIBLIA_TECNICA_BOLILLO.md",
+    "BIBLIA_DIAGNOSTICO_BOLILLO.md",
+    "BIBLIA_INGREDIENTES_BOLILLO.md",
+    "BIBLIA_AMASADO_BOLILLO.md",
+    "BIBLIA_FERMENTACION_BOLILLO.md",
+    "BIBLIA_FORMADO_BOLILLO.md",
+    "BIBLIA_CORTE_BOLILLO.md",
+    "BIBLIA_HORNEADO_BOLILLO.md",
+    "BIBLIA_ENFRIADO_CONSERVACION_BOLILLO.md",
+    "BIBLIA_VARIANTES_BOLILLO.md",
+    "BIBLIA_PRODUCCION_COMPLETA_BOLILLO.md",
+    "BIBLIA_CERTIFICACION_PANADERO.md",
+    "LIBRO_MAESTRO_BOLILLO_PREMIUM.md",
+    "MANUAL_MAESTRO_PANADERIA.md",
+    "PLAN_PRODUCCION_ACTIVOS.md",
+    "RECURSOS_PREMIUM_PANADERIA.md",
+    "WEB_PANADERIA_V1"
+  ],
+  "rule": "Boly™ V1 usa resúmenes estructurados y rutas de documentos. Futuras versiones pueden indexar embeddings, búsqueda semántica y recuperación por fragmentos."
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "pack-recursos-panaderia",
+    "title": "Pack completo de recursos PanaderIA™",
+    "type": "PDF",
+    "module": 0,
+    "href": "downloads/pdfs/pack-recursos-panaderia.md",
+    "tags": [
+      "pack",
+      "recursos",
+      "examenes",
+      "guias",
+      "certificacion"
+    ]
+  },
+  {
+    "id": "formula-base",
+    "title": "Fórmula base del bolillo",
+    "type": "PDF",
+    "module": 3,
+    "href": "downloads/pdfs/formula-base-bolillo.md",
+    "tags": [
+      "receta",
+      "ingredientes",
+      "porcentaje"
+    ]
+  },
+  {
+    "id": "checklist-amasado",
+    "title": "Checklist de amasado profesional",
+    "type": "PDF",
+    "module": 4,
+    "href": "downloads/pdfs/checklist-amasado.md",
+    "tags": [
+      "amasado",
+      "gluten",
+      "ventana"
+    ]
+  },
+  {
+    "id": "tabla-fermentacion",
+    "title": "Tabla de fermentación por temperatura",
+    "type": "PDF",
+    "module": 5,
+    "href": "downloads/pdfs/tabla-fermentacion.md",
+    "tags": [
+      "fermentación",
+      "temperatura",
+      "tiempo"
+    ]
+  },
+  {
+    "id": "guia-corte",
+    "title": "Guía de corte profesional",
+    "type": "PDF",
+    "module": 8,
+    "href": "downloads/pdfs/guia-corte.md",
+    "tags": [
+      "corte",
+      "greña",
+      "navaja"
+    ]
+  },
+  {
+    "id": "manual-diagnostico",
+    "title": "Manual rápido de diagnóstico",
+    "type": "PDF",
+    "module": 10,
+    "href": "downloads/pdfs/manual-diagnostico.md",
+    "tags": [
+      "diagnóstico",
+      "errores",
+      "soluciones"
+    ]
+  },
+  {
+    "id": "video-amasado",
+    "title": "Clase de referencia: prueba de ventana",
+    "type": "Video",
+    "module": 4,
+    "href": "videos/reference-amasado.html",
+    "tags": [
+      "video",
+      "amasado"
+    ]
+  },
+  {
+    "id": "video-corte",
+    "title": "Clase de referencia: corte y greña",
+    "type": "Video",
+    "module": 8,
+    "href": "videos/reference-corte.html",
+    "tags": [
+      "video",
+      "corte"
+    ]
+  },
+  {
+    "id": "mod-01-guia",
+    "title": "Guía práctica: Introducción al mundo del bolillo",
+    "type": "PDF",
+    "module": 1,
+    "href": "downloads/pdfs/mod-01-guia.md",
+    "tags": [
+      "introduccion",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-01-examen",
+    "title": "Examen del módulo: Introducción al mundo del bolillo",
+    "type": "PDF",
+    "module": 1,
+    "href": "downloads/pdfs/mod-01-examen.md",
+    "tags": [
+      "introduccion",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-02-guia",
+    "title": "Guía práctica: Herramientas esenciales y profesionales",
+    "type": "PDF",
+    "module": 2,
+    "href": "downloads/pdfs/mod-02-guia.md",
+    "tags": [
+      "herramientas",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-02-examen",
+    "title": "Examen del módulo: Herramientas esenciales y profesionales",
+    "type": "PDF",
+    "module": 2,
+    "href": "downloads/pdfs/mod-02-examen.md",
+    "tags": [
+      "herramientas",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-03-guia",
+    "title": "Guía práctica: Ingredientes del bolillo",
+    "type": "PDF",
+    "module": 3,
+    "href": "downloads/pdfs/mod-03-guia.md",
+    "tags": [
+      "ingredientes",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-03-examen",
+    "title": "Examen del módulo: Ingredientes del bolillo",
+    "type": "PDF",
+    "module": 3,
+    "href": "downloads/pdfs/mod-03-examen.md",
+    "tags": [
+      "ingredientes",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-04-guia",
+    "title": "Guía práctica: Amasado profesional",
+    "type": "PDF",
+    "module": 4,
+    "href": "downloads/pdfs/mod-04-guia.md",
+    "tags": [
+      "amasado",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-04-examen",
+    "title": "Examen del módulo: Amasado profesional",
+    "type": "PDF",
+    "module": 4,
+    "href": "downloads/pdfs/mod-04-examen.md",
+    "tags": [
+      "amasado",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-05-guia",
+    "title": "Guía práctica: Fermentación profesional",
+    "type": "PDF",
+    "module": 5,
+    "href": "downloads/pdfs/mod-05-guia.md",
+    "tags": [
+      "fermentacion",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-05-examen",
+    "title": "Examen del módulo: Fermentación profesional",
+    "type": "PDF",
+    "module": 5,
+    "href": "downloads/pdfs/mod-05-examen.md",
+    "tags": [
+      "fermentacion",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-06-guia",
+    "title": "Guía práctica: División, boleado y formado",
+    "type": "PDF",
+    "module": 6,
+    "href": "downloads/pdfs/mod-06-guia.md",
+    "tags": [
+      "formado",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-06-examen",
+    "title": "Examen del módulo: División, boleado y formado",
+    "type": "PDF",
+    "module": 6,
+    "href": "downloads/pdfs/mod-06-examen.md",
+    "tags": [
+      "formado",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-07-guia",
+    "title": "Guía práctica: Horneado profesional",
+    "type": "PDF",
+    "module": 7,
+    "href": "downloads/pdfs/mod-07-guia.md",
+    "tags": [
+      "horneado",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-07-examen",
+    "title": "Examen del módulo: Horneado profesional",
+    "type": "PDF",
+    "module": 7,
+    "href": "downloads/pdfs/mod-07-examen.md",
+    "tags": [
+      "horneado",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-08-guia",
+    "title": "Guía práctica: Corte profesional del bolillo",
+    "type": "PDF",
+    "module": 8,
+    "href": "downloads/pdfs/mod-08-guia.md",
+    "tags": [
+      "corte",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-08-examen",
+    "title": "Examen del módulo: Corte profesional del bolillo",
+    "type": "PDF",
+    "module": 8,
+    "href": "downloads/pdfs/mod-08-examen.md",
+    "tags": [
+      "corte",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-09-guia",
+    "title": "Guía práctica: Enfriado y conservación",
+    "type": "PDF",
+    "module": 9,
+    "href": "downloads/pdfs/mod-09-guia.md",
+    "tags": [
+      "enfriado",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-09-examen",
+    "title": "Examen del módulo: Enfriado y conservación",
+    "type": "PDF",
+    "module": 9,
+    "href": "downloads/pdfs/mod-09-examen.md",
+    "tags": [
+      "enfriado",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-10-guia",
+    "title": "Guía práctica: Diagnóstico, errores y solución de problemas",
+    "type": "PDF",
+    "module": 10,
+    "href": "downloads/pdfs/mod-10-guia.md",
+    "tags": [
+      "diagnostico",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-10-examen",
+    "title": "Examen del módulo: Diagnóstico, errores y solución de problemas",
+    "type": "PDF",
+    "module": 10,
+    "href": "downloads/pdfs/mod-10-examen.md",
+    "tags": [
+      "diagnostico",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-11-guia",
+    "title": "Guía práctica: Variantes profesionales del bolillo",
+    "type": "PDF",
+    "module": 11,
+    "href": "downloads/pdfs/mod-11-guia.md",
+    "tags": [
+      "variantes",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-11-examen",
+    "title": "Examen del módulo: Variantes profesionales del bolillo",
+    "type": "PDF",
+    "module": 11,
+    "href": "downloads/pdfs/mod-11-examen.md",
+    "tags": [
+      "variantes",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-12-guia",
+    "title": "Guía práctica: Producción profesional completa",
+    "type": "PDF",
+    "module": 12,
+    "href": "downloads/pdfs/mod-12-guia.md",
+    "tags": [
+      "produccion",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-12-examen",
+    "title": "Examen del módulo: Producción profesional completa",
+    "type": "PDF",
+    "module": 12,
+    "href": "downloads/pdfs/mod-12-examen.md",
+    "tags": [
+      "produccion",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-13-guia",
+    "title": "Guía práctica: Certificación profesional del panadero",
+    "type": "PDF",
+    "module": 13,
+    "href": "downloads/pdfs/mod-13-guia.md",
+    "tags": [
+      "certificacion",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-13-examen",
+    "title": "Examen del módulo: Certificación profesional del panadero",
+    "type": "PDF",
+    "module": 13,
+    "href": "downloads/pdfs/mod-13-examen.md",
+    "tags": [
+      "certificacion",
+      "examen",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-14-guia",
+    "title": "Guía práctica: Futuro, negocio y expansión del panadero",
+    "type": "PDF",
+    "module": 14,
+    "href": "downloads/pdfs/mod-14-guia.md",
+    "tags": [
+      "negocio",
+      "guia",
+      "curso maestro"
+    ]
+  },
+  {
+    "id": "mod-14-examen",
+    "title": "Examen del módulo: Futuro, negocio y expansión del panadero",
+    "type": "PDF",
+    "module": 14,
+    "href": "downloads/pdfs/mod-14-examen.md",
+    "tags": [
+      "negocio",
+      "examen",
+      "curso maestro"
+    ]
+  }
+]
