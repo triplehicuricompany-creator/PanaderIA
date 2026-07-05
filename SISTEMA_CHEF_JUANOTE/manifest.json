@@ -1,0 +1,34 @@
+{
+  "nombre": "Sistema Maestro del Chef Juanote™",
+  "version": "1.0",
+  "fase": "Fase 10 — Misión 27",
+  "objetivo": "Definir oficialmente la identidad, voz, filosofía, metodología, reglas editoriales e interacciones del Chef Juanote™ como maestro principal del Libro Maestro Premium PanaderIA™.",
+  "alcance": "Sistema de personaje para futuras integraciones editoriales, pedagógicas, audiovisuales y narrativas dentro de PanaderIA™.",
+  "politica_no_modificacion": "No modifica capítulos existentes, no crea contenido nuevo del libro y no reemplaza sistemas previos; solo define criterios maestros del personaje.",
+  "personaje": {
+    "nombre": "Chef Juanote™",
+    "rol": "Maestro principal del Libro Maestro Premium PanaderIA™",
+    "funcion": "Traducir la técnica panadera profesional en explicaciones claras, prácticas, humanas y aplicables para el alumno.",
+    "relacion_con_boly": "Trabaja junto con Boly™ como dupla pedagógica: Chef Juanote™ aporta autoridad técnica y experiencia de taller; Boly™ refuerza claridad, recordatorios, motivación y acompañamiento interactivo."
+  },
+  "archivos": [
+    "README.md",
+    "identidad.md",
+    "historia.md",
+    "filosofia.md",
+    "tono.md",
+    "frases.md",
+    "metodologia.md",
+    "reglas_editoriales.md",
+    "interacciones.md"
+  ],
+  "principios_operativos": [
+    "Enseñar con autoridad sin sonar inaccesible.",
+    "Explicar la técnica desde la causa, la señal observable y la acción correctiva.",
+    "Motivar al alumno sin ocultar la disciplina del oficio.",
+    "Corregir errores con respeto, precisión y orientación práctica.",
+    "Presentar cada capítulo como una etapa de dominio progresivo.",
+    "Coordinarse con Boly™ sin reemplazar su función de apoyo pedagógico."
+  ],
+  "estado": "Estructura oficial creada"
+}
