@@ -1,0 +1,66 @@
+{
+  "sistema": "Sistema Maestro de Descargables de PanaderIA™",
+  "version_sistema": "1.0.0",
+  "estado": "oficial",
+  "fecha_creacion": "2026-07-05",
+  "proposito": "Administrar la planeacion, nomenclatura, calidad e integracion futura de recursos descargables del Libro Maestro Premium PanaderIA™.",
+  "restricciones": {
+    "modificar_capitulos_existentes": false,
+    "generar_archivos_descargables_finales": false,
+    "requiere_control_calidad": true,
+    "requiere_relacion_con_capitulo": true
+  },
+  "tipos_descargables": [
+    "checklist",
+    "plantilla",
+    "formato",
+    "hoja_trabajo",
+    "evaluacion",
+    "certificado",
+    "guia_auxiliar",
+    "tabla_referencia"
+  ],
+  "formatos_permitidos": [
+    "PDF",
+    "DOCX",
+    "XLSX",
+    "CSV",
+    "PPTX",
+    "PNG",
+    "SVG",
+    "MD"
+  ],
+  "organizacion_capitulos": {
+    "global": "CAP-GLOBAL",
+    "introductorio": "CAP-00",
+    "capitulo_especifico": "CAP-##",
+    "anexos": "CAP-ANEXO"
+  },
+  "convencion_id": "PAN-DESC-{CAPITULO}-{TIPO}-{NUMERO}-v{VERSION}",
+  "estados": [
+    "propuesto",
+    "borrador",
+    "revision",
+    "aprobado",
+    "publicado",
+    "obsoleto"
+  ],
+  "archivos_control": [
+    "README.md",
+    "checklists.md",
+    "plantillas.md",
+    "formatos.md",
+    "hojas_trabajo.md",
+    "evaluaciones.md",
+    "certificados.md",
+    "nomenclatura.md",
+    "control_calidad.md"
+  ],
+  "reglas_actualizacion": {
+    "versionado": "SemVer editorial: mayor.menor.parche",
+    "cambio_mayor": "Cambio estructural, pedagogico o tecnico que altera el uso del recurso.",
+    "cambio_menor": "Mejora de contenido, ejemplos, instrucciones o compatibilidad.",
+    "parche": "Correcciones ortograficas, visuales o de formato sin cambio de uso.",
+    "registro_obligatorio": true
+  }
+}
