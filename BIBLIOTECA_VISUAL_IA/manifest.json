@@ -1,0 +1,160 @@
+{
+  "biblioteca": {
+    "nombre": "Biblioteca Visual IA de PanaderIA™",
+    "version": "Beta 1.0",
+    "fecha_creacion": "2026-07-05",
+    "proposito": "Organizar la producción visual oficial de PanaderIA™ sin modificar el Libro Maestro, el Curso, Boly Assistant ni recursos existentes.",
+    "estilo": [
+      "educativo",
+      "premium",
+      "amigable",
+      "mexicano",
+      "profesional",
+      "principiantes"
+    ],
+    "asistente_visual_principal": "Boly",
+    "autoridad_visual_humana": "Chef Juanote"
+  },
+  "estados_permitidos": [
+    "brief",
+    "provisional_ia",
+    "foto_real",
+    "aprobado",
+    "reemplazada_por_foto_real",
+    "archivado"
+  ],
+  "categorias": [
+    {
+      "id": "00_MANIFIESTO_VISUAL",
+      "nombre": "Manifiesto visual",
+      "uso": "Normas de identidad, estilo, consistencia y reemplazo visual."
+    },
+    {
+      "id": "01_CAPITULOS_LIBRO",
+      "nombre": "Imágenes por capítulo del Libro Maestro",
+      "uso": "Recursos visuales vinculados a capítulos sin editar el contenido maestro."
+    },
+    {
+      "id": "02_FOTOGRAFIAS_REALES_CHEF_JUANOTE",
+      "nombre": "Fotografías reales del Chef Juanote",
+      "uso": "Material fotográfico real que reemplaza o valida recursos IA."
+    },
+    {
+      "id": "03_IMAGENES_IA_PROVISIONALES",
+      "nombre": "Imágenes IA provisionales",
+      "uso": "Bocetos visuales, maquetas y recursos temporales hasta tener fotos reales."
+    },
+    {
+      "id": "04_DIAGRAMAS_TECNICOS",
+      "nombre": "Diagramas técnicos",
+      "uso": "Esquemas de proceso, temperatura, fermentación, vapor, greñado y flujo de trabajo."
+    },
+    {
+      "id": "05_INFOGRAFIAS",
+      "nombre": "Infografías educativas",
+      "uso": "Piezas explicativas para libro, curso, QR, redes y descargables."
+    },
+    {
+      "id": "06_ILUSTRACIONES_PASO_A_PASO",
+      "nombre": "Ilustraciones paso a paso",
+      "uso": "Secuencias visuales para principiantes."
+    },
+    {
+      "id": "07_PORTADAS_BANNERS",
+      "nombre": "Portadas y banners",
+      "uso": "Portadas premium, encabezados, hero images y banners promocionales."
+    },
+    {
+      "id": "08_MINIATURAS_VIDEO",
+      "nombre": "Miniaturas para videos",
+      "uso": "Thumbnails educativos para clases y cápsulas."
+    },
+    {
+      "id": "09_BOLY_PERSONAJE_VISUAL",
+      "nombre": "Boly personaje visual",
+      "uso": "Expresiones, poses, consejos y apariciones oficiales de Boly."
+    },
+    {
+      "id": "10_REDES_SOCIALES",
+      "nombre": "Redes sociales",
+      "uso": "Posts, carruseles, historias, anuncios y piezas de comunidad."
+    },
+    {
+      "id": "11_WEB_VENTAS",
+      "nombre": "Web de ventas",
+      "uso": "Landing pages, secciones hero, pruebas visuales y argumentos de venta."
+    },
+    {
+      "id": "12_RECURSOS_ALUMNO",
+      "nombre": "Recursos descargables del alumno",
+      "uso": "Checklists, guías PDF, plantillas, fichas técnicas y material imprimible."
+    }
+  ],
+  "convencion_nombres": "panaderia-[categoria]-[tema]-[uso]-v[version].[extension]",
+  "campos_recurso_recomendados": {
+    "id": "Identificador único del recurso visual.",
+    "titulo": "Nombre legible del recurso.",
+    "categoria": "Carpeta principal donde vive el recurso.",
+    "ruta": "Ruta relativa dentro del repositorio.",
+    "status": "Estado permitido del recurso.",
+    "tipo": "foto, ia, diagrama, infografia, ilustracion, banner, miniatura, boly, web, descargable.",
+    "uso_principal": "libro, curso, video, qr, redes, web_ventas, descargable.",
+    "requiere_reemplazo_real": "true si debe sustituirse por foto real del Chef Juanote.",
+    "relaciones": "Capítulos, videos, QR y descargables conectados.",
+    "prompt": "Prompt IA si aplica.",
+    "notas": "Criterios técnicos, estado de aprobación o instrucciones."
+  },
+  "prompts_ia_ejemplo": [
+    {
+      "id": "prompt-bolillo-recien-horneado",
+      "tema": "Bolillo recién horneado",
+      "prompt": "Fotografía editorial premium de bolillos mexicanos recién horneados sobre mesa de madera clara, corteza dorada y crujiente, ligera harina alrededor, vapor sutil, iluminación cálida natural, estilo educativo profesional para curso de panadería, enfoque realista, sin texto, sin manos deformes, alta nitidez."
+    },
+    {
+      "id": "prompt-amasado",
+      "tema": "Amasado",
+      "prompt": "Escena realista de panadería mexicana mostrando manos amasando masa de bolillo sobre mesa de trabajo limpia con harina, composición didáctica para principiantes, iluminación cálida, fondo ordenado, estilo premium educativo, sin texto, énfasis en textura de la masa y técnica correcta."
+    },
+    {
+      "id": "prompt-fermentacion",
+      "tema": "Fermentación",
+      "prompt": "Imagen educativa premium de piezas de masa de bolillo fermentando en charola, volumen visible, superficie lisa, ambiente cálido de panadería, composición clara para explicar reposo y crecimiento, estilo mexicano profesional, sin texto, alta nitidez."
+    },
+    {
+      "id": "prompt-corte-navaja",
+      "tema": "Corte con navaja",
+      "prompt": "Primer plano realista de una navaja haciendo el corte tradicional en masa de bolillo antes de hornear, ángulo didáctico, mano segura y natural, mesa enharinada, iluminación cálida, estilo curso premium de panadería para principiantes, sin texto, foco en profundidad y dirección del corte."
+    },
+    {
+      "id": "prompt-horneado-vapor",
+      "tema": "Horneado con vapor",
+      "prompt": "Interior de horno de panadería con bolillos expandiéndose y vapor visible controlado, corteza comenzando a dorar, ambiente profesional y limpio, estilo educativo premium, realismo fotográfico, luz cálida, sin texto, énfasis en vapor, expansión y corteza crujiente."
+    },
+    {
+      "id": "prompt-enfriado",
+      "tema": "Enfriado",
+      "prompt": "Bolillos mexicanos recién salidos del horno enfriándose sobre rejilla metálica, corteza dorada, migas sutiles, mesa limpia, iluminación natural cálida, composición didáctica para explicar enfriado correcto, estilo profesional, sin texto."
+    },
+    {
+      "id": "prompt-errores-comunes",
+      "tema": "Errores comunes",
+      "prompt": "Infografía visual sin texto de errores comunes en bolillo: pieza plana, corte mal hecho, corteza pálida, miga densa, organizada en cuatro ejemplos comparativos sobre fondo claro, estilo educativo premium, colores cálidos, realista y limpio."
+    },
+    {
+      "id": "prompt-boly-consejo",
+      "tema": "Boly explicando un consejo",
+      "prompt": "Boly, asistente visual amigable de PanaderIA™, explicando un consejo de panadería junto a una masa de bolillo, expresión cálida y profesional, estilo ilustración 3D/mascota premium, mexicano, educativo, fondo limpio color crema, espacio lateral para texto, coherente con marca PanaderIA™."
+    },
+    {
+      "id": "prompt-portada-premium-curso",
+      "tema": "Portada premium del curso",
+      "prompt": "Portada premium para curso de bolillo mexicano artesanal, bolillos dorados protagonistas, Chef panadero mexicano como autoridad visual en segundo plano desenfocado, Boly como asistente pequeño y amigable, paleta crema y dorada, iluminación cinematográfica cálida, composición elegante, espacio para título, estilo profesional de venta educativa."
+    },
+    {
+      "id": "prompt-miniatura-video-educativo",
+      "tema": "Miniatura de video educativo",
+      "prompt": "Miniatura de video educativo sobre panadería mexicana, bolillo abierto mostrando miga y corteza, gesto visual claro de explicación, Boly señalando un detalle importante, alto contraste limpio, fondo cálido, composición para YouTube con espacio para texto grande, estilo premium amigable, sin texto generado."
+    }
+  ],
+  "recursos": []
+}
