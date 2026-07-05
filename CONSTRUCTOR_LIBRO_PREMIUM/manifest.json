@@ -1,0 +1,94 @@
+{
+  "nombre": "Constructor del Libro Maestro Premium de PanaderIA™",
+  "version": "Beta 1.0",
+  "fase": "Fase 4 — Misión 16",
+  "objetivo": "Ensamblar automáticamente la versión comercial final del curso usando la infraestructura y recursos existentes sin modificarlos.",
+  "regla_principal": "El constructor solo referencia, organiza, valida y exporta; no modifica recursos existentes.",
+  "infraestructura_integrada": {
+    "libro_maestro": [
+      "LIBRO_MAESTRO_BOLILLO_BIBLE.md",
+      "CURSO_MAESTRO_BOLILLO.md",
+      "PANADERIA_PLATFORM_V3_RELEASE/downloads/books/libro-maestro-bolillo-premium.md"
+    ],
+    "motor_maestro": [
+      "PRODUCCION_BETA_1_0/00_MANIFIESTO_MAESTRO"
+    ],
+    "biblioteca_visual_ia": [
+      "BIBLIOTECA_VISUAL_IA/03_IMAGENES_IA_PROVISIONALES",
+      "BIBLIOTECA_VISUAL_IA/04_DIAGRAMAS_TECNICOS",
+      "BIBLIOTECA_VISUAL_IA/05_INFOGRAFIAS",
+      "BIBLIOTECA_VISUAL_IA/06_ILUSTRACIONES_PASO_A_PASO",
+      "BIBLIOTECA_VISUAL_IA/09_BOLY_PERSONAJE_VISUAL"
+    ],
+    "centro_produccion_multimedia": [
+      "CENTRO_PRODUCCION_MULTIMEDIA/05_VIDEOS",
+      "CENTRO_PRODUCCION_MULTIMEDIA/07_QR",
+      "CENTRO_PRODUCCION_MULTIMEDIA/13_CAPITULOS"
+    ],
+    "recursos_descargables": [
+      "RECURSOS_DESCARGABLES_ALUMNO",
+      "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs"
+    ],
+    "chef_juanote": [
+      "CHEF_JUANOTE.md",
+      "ENCICLOPEDIA_CHEF_JUANOTE.md",
+      "PRODUCCION_BETA_1_0/11_MATERIAL_REAL_CHEF_JUANOTE"
+    ],
+    "boly": [
+      "BOLY_ASSISTANT_V1",
+      "knowledge/boly",
+      "BIBLIOTECA_VISUAL_IA/09_BOLY_PERSONAJE_VISUAL"
+    ]
+  },
+  "carpetas_constructor": [
+    "00_MANIFIESTO",
+    "01_CAPITULOS",
+    "02_RECURSOS",
+    "03_IMAGENES",
+    "04_INFOGRAFIAS",
+    "05_VIDEOS",
+    "06_QR",
+    "07_BOLY",
+    "08_CHECKLISTS",
+    "09_AUTOEVALUACIONES",
+    "10_EXPORTACION"
+  ],
+  "estructura_capitulo": [
+    "Introducción",
+    "Explicación",
+    "Ilustraciones",
+    "Consejos de Boly™",
+    "Errores comunes",
+    "Video QR",
+    "Práctica",
+    "Checklist",
+    "Resumen",
+    "Autoevaluación"
+  ],
+  "componentes_a_organizar": [
+    "Capítulos",
+    "Imágenes",
+    "Diagramas",
+    "Infografías",
+    "Recursos descargables",
+    "Videos",
+    "QR",
+    "Material del Chef Juanote™",
+    "Consejos de Boly™",
+    "Ejercicios",
+    "Checklists",
+    "Autoevaluaciones"
+  ],
+  "estados": [
+    "borrador",
+    "revision",
+    "aprobado",
+    "exportable"
+  ],
+  "salidas_previstas": [
+    "PDF comercial premium",
+    "Libro web",
+    "Paquete descargable del alumno",
+    "Versión integrada a plataforma"
+  ]
+}
