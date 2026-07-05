@@ -1,0 +1,164 @@
+{
+  "package_id": "panaderia-capitulo-11-paquete-oficial-v1",
+  "chapter": 11,
+  "chapter_title": "Variantes profesionales del bolillo",
+  "status": "listo_para_produccion_y_publicacion",
+  "technical_content_policy": "No modifica contenido técnico existente ni agrega capítulos nuevos.",
+  "replacement_policy": "Todo recurso provisional generado o basado en IA conserva su ruta estable y puede sustituirse por fotografía o video real del Chef Juanote™ sin romper la estructura del paquete.",
+  "student_assets": {
+    "fotografias": [
+      {
+        "id": "c11-foto-referencia-ia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/imagenes-ia/c11-imagen-ia.svg",
+        "replacement_slot": "chef-juanote-real/capitulo-11-variantes-profesionales-del-bolillo/fotografias/c11-foto-principal.jpg",
+        "uso": "Imagen de referencia IA para sustituir por fotografía real del Chef Juanote™."
+      },
+      {
+        "id": "c11-foto-chef-produccion",
+        "tipo": "fotografia_pendiente",
+        "titulo": "Chef Juanote™ aplicando Variantes profesionales del bolillo",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/ilustraciones/c11-ilustracion.svg",
+        "uso": "Imagen temporal de contexto; sustituible por fotografía real del Chef Juanote™."
+      }
+    ],
+    "diagramas": [
+      {
+        "id": "c11-diagrama-tecnico",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/diagramas-tecnicos/c11-diagrama-tecnico.svg",
+        "uso": "Diagrama técnico del concepto principal."
+      },
+      {
+        "id": "c11-flujo-proceso",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-11-variantes-profesionales-del-bolillo/flujos-de-proceso/c11-flujo-de-proceso.svg",
+        "uso": "Flujo visual del proceso del capítulo."
+      },
+      {
+        "id": "c11-arbol-diagnostico",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-11-variantes-profesionales-del-bolillo/arboles-de-diagnostico/c11-arbol-de-diagnostico.svg",
+        "uso": "Apoyo para diagnóstico guiado."
+      }
+    ],
+    "infografias": [
+      {
+        "id": "c11-infografia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/infografias/c11-infografia.svg",
+        "uso": "Resumen visual para el alumno."
+      },
+      {
+        "id": "c11-tabla-comparativa",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-11-variantes-profesionales-del-bolillo/tablas-comparativas/c11-tabla-comparativa.svg",
+        "uso": "Comparación de criterios observables."
+      }
+    ],
+    "ilustraciones": [
+      {
+        "id": "c11-ilustracion",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/ilustraciones/c11-ilustracion.svg",
+        "uso": "Ilustración educativa del capítulo."
+      },
+      {
+        "id": "c11-boly-apoyo-visual",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-variantes-profesionales-del-bolillo/boly/c11-boly-apoyo-visual.svg",
+        "uso": "Intervención visual de Boly™."
+      }
+    ],
+    "recursos_descargables": [
+      {
+        "id": "c11-recurso-alumno",
+        "path": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-11-variantes-profesionales-del-bolillo.md",
+        "uso": "Recurso descargable oficial del alumno."
+      },
+      {
+        "id": "mod-11-guia-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-11-guia.md",
+        "uso": "Guía imprimible de plataforma."
+      },
+      {
+        "id": "mod-11-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-11-examen.md",
+        "uso": "Evaluación imprimible de plataforma."
+      },
+      {
+        "id": "c11-guia-final-alumno",
+        "path": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/guia-final-capitulo-11.md",
+        "uso": "Guía final del paquete oficial."
+      },
+      {
+        "id": "c11-checklist-final",
+        "path": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/checklist-final-capitulo-11.md",
+        "uso": "Checklist final de ejecución del capítulo."
+      },
+      {
+        "id": "c11-evaluacion-final",
+        "path": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/evaluacion-final-capitulo-11.md",
+        "uso": "Evaluación final del capítulo."
+      }
+    ],
+    "videos": [
+      {
+        "id": "mod-11-video-oficial",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/videos/mod-11.html",
+        "replacement_slot": "chef-juanote-real/capitulo-11-variantes-profesionales-del-bolillo/videos/mod-11.mp4",
+        "uso": "Video oficial reemplazable por grabación real."
+      }
+    ],
+    "qr": [
+      {
+        "id": "QR-C11-PAQUETE",
+        "destino": "/qr/capitulo-11",
+        "uso": "Acceso a video, guía final, checklist y evaluación."
+      },
+      {
+        "id": "QR-C11-BOLY",
+        "destino": "/qr/capitulo-11-boly",
+        "uso": "Acceso a preguntas guiadas de Boly™."
+      }
+    ],
+    "boly": [
+      {
+        "id": "boly-capitulo-11",
+        "path": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/boly-capitulo-11.md",
+        "uso": "Guía conversacional de Boly™."
+      }
+    ],
+    "casos_chef_juanote": [
+      {
+        "id": "chef-juanote-caso-11",
+        "titulo": "Variantes profesionales del bolillo",
+        "uso": "Caso narrativo aplicable sin cambiar el contenido técnico."
+      }
+    ],
+    "evaluaciones": [
+      {
+        "id": "evaluacion-final-capitulo-11",
+        "path": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/evaluacion-final-capitulo-11.md",
+        "uso": "Evaluación final del paquete."
+      },
+      {
+        "id": "c11-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-11-examen.md",
+        "uso": "Examen descargable de plataforma."
+      }
+    ],
+    "checklist": [
+      {
+        "id": "checklist-final-capitulo-11",
+        "path": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/checklist-final-capitulo-11.md",
+        "uso": "Checklist de cierre."
+      }
+    ]
+  },
+  "publication_targets": [
+    "Libro Maestro",
+    "Curso Maestro",
+    "Plataforma PanaderIA™",
+    "Sitio web",
+    "Recursos descargables del alumno"
+  ],
+  "final_student_flow": [
+    "guia-final-capitulo-11.md",
+    "checklist-final-capitulo-11.md",
+    "boly-capitulo-11.md",
+    "evaluacion-final-capitulo-11.md"
+  ]
+}

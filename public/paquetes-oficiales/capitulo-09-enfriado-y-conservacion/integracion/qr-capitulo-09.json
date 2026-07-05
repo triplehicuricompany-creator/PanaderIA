@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-09",
+  "chapter": 9,
+  "title": "Enfriado y conservación",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-09-enfriado-y-conservacion/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-09-enfriado-y-conservacion/alumno/guia-final-capitulo-09.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-09-enfriado-y-conservacion/alumno/boly-capitulo-09.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-09-enfriado-y-conservacion/alumno/evaluacion-final-capitulo-09.md",
+  "checklist": "public/paquetes-oficiales/capitulo-09-enfriado-y-conservacion/alumno/checklist-final-capitulo-09.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-09-enfriado-y-conservacion/videos/mod-09.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-09-enfriado-y-conservacion/fotografias/09-foto-principal.jpg"
+}

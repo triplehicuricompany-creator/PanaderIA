@@ -1,0 +1,19 @@
+{
+  "brand": "PanaderIA™",
+  "version": "1.0.0",
+  "payments": {
+    "status": "prepared",
+    "providers": ["stripe", "paypal"],
+    "checkoutMode": "mock_until_keys_are_configured"
+  },
+  "mobile": {
+    "status": "prepared",
+    "strategy": "PWA-ready static shell; API contract can be reused by Android and iPhone apps",
+    "futureTargets": ["Android", "iPhone", "tablet", "offline course library"]
+  },
+  "studentArea": {
+    "auth": "localStorage demo auth",
+    "progress": "localStorage module completion",
+    "certificates": "generated demo certificate after progress threshold"
+  }
+}

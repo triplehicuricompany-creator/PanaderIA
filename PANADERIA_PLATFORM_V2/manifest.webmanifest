@@ -1,0 +1,9 @@
+{
+  "name": "PanaderIA Platform V2",
+  "short_name": "PanaderIA V2",
+  "start_url": "./index.html#home",
+  "display": "standalone",
+  "background_color": "#0b0907",
+  "theme_color": "#0b0907",
+  "description": "Plataforma comercial V2: curso, Boly™, buscador, biblioteca, tienda, alumnos y certificación."
+}

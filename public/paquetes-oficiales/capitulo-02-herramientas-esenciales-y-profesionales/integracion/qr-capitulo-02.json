@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-02",
+  "chapter": 2,
+  "title": "Herramientas esenciales y profesionales",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/guia-final-capitulo-02.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/boly-capitulo-02.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/evaluacion-final-capitulo-02.md",
+  "checklist": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/checklist-final-capitulo-02.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-02-herramientas-esenciales-y-profesionales/videos/mod-02.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-02-herramientas-esenciales-y-profesionales/fotografias/02-foto-principal.jpg"
+}

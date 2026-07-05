@@ -1,0 +1,4 @@
+PANADERIA™ — CERTIFICADO DEMO
+
+Este certificado de demostración confirma que la plataforma puede entregar certificados descargables.
+En producción incluirá folio, QR, firma de Chef Juanote y verificación.

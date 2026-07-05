@@ -1,0 +1,884 @@
+[
+  {
+    "id": 1,
+    "slug": "introduccion",
+    "title": "Introducción al mundo del bolillo",
+    "summary": "Explica qué hace diferente a un buen bolillo: corteza crujiente, migajón ligero, greña abierta, sabor equilibrado y proceso controlado.",
+    "referenceImage": "assets/reference/mod-01.svg",
+    "lessons": [
+      {
+        "id": "m01-l1",
+        "title": "Identidad del bolillo mexicano",
+        "objective": "Aplicar identidad del bolillo mexicano con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Reconoce el bolillo por corteza delgada y crujiente, miga blanca aireada, greña abierta y sabor ligeramente salino. El alumno compara un bolillo comercial contra el estándar PanaderIA™ y describe color, sonido, aroma y elasticidad.",
+        "chefTip": "Consejo de Chef Juanote: No persigas una foto bonita: primero escucha la corteza, abre la miga y huele el pan caliente.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de identidad del bolillo mexicano y dime qué señal debo observar."
+      },
+      {
+        "id": "m01-l2",
+        "title": "Bitácora panadera profesional",
+        "objective": "Aplicar bitácora panadera profesional con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Cada práctica registra fecha, harina, hidratación, temperatura de masa, tiempos, peso por pieza, horneado y resultado. Esta bitácora convierte errores en decisiones repetibles para producción.",
+        "chefTip": "Consejo de Chef Juanote: La libreta pesa más que la memoria; si no lo anotaste, no lo puedes mejorar.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de bitácora panadera profesional y dime qué señal debo observar."
+      },
+      {
+        "id": "m01-l3",
+        "title": "Estándar sensorial de calidad",
+        "objective": "Aplicar estándar sensorial de calidad con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Se evalúan corteza, migajón, greña, volumen, base, aroma y vida útil. El alumno aprende a calificar con una escala simple de 1 a 5 antes de corregir recetas.",
+        "chefTip": "Consejo de Chef Juanote: Califica el pan frío también; ahí se descubre si la miga fue bien trabajada.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de estándar sensorial de calidad y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Compra o prepara tres bolillos, córtalos, fotografía corteza/miga/base y califica los siete criterios PanaderIA™.",
+      "Repite el módulo 1 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Introducción al mundo del bolillo."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Introducción al mundo del bolillo.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Introducción al mundo del bolillo y su corrección profesional."
+      ]
+    },
+    "realCase": "Una fonda rechaza el bolillo porque se ablanda a los 20 minutos. El diagnóstico inicial no empieza en horno, sino en enfriado, humedad residual y empaque.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Introducción al mundo del bolillo.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Qué diferencia un bolillo correcto de uno solo “bonito”? La greña debe abrir, pero también debe haber corteza crujiente, miga ligera, base bien cocida y sabor equilibrado.",
+    "downloads": [
+      "downloads/pdfs/mod-01-guia.md",
+      "downloads/pdfs/mod-01-examen.md"
+    ],
+    "videos": [
+      "vid-mod-01"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "herramientas",
+    "title": "Herramientas esenciales y profesionales",
+    "summary": "Ayuda a adaptar equipo doméstico o profesional, priorizando báscula, raspa, charolas, navaja segura, termómetro y rejillas.",
+    "referenceImage": "assets/reference/mod-02.svg",
+    "lessons": [
+      {
+        "id": "m02-l1",
+        "title": "Equipo mínimo viable",
+        "objective": "Aplicar equipo mínimo viable con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Báscula, recipiente, raspa, charola gruesa, navaja, termómetro y rejilla bastan para comenzar con control. El módulo enseña qué comprar primero y qué puede esperar.",
+        "chefTip": "Consejo de Chef Juanote: Invierte antes en báscula y termómetro que en accesorios vistosos.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de equipo mínimo viable y dime qué señal debo observar."
+      },
+      {
+        "id": "m02-l2",
+        "title": "Herramientas profesionales",
+        "objective": "Aplicar herramientas profesionales con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Amasadora, laminas, bandejas perforadas, horno con vapor y carros mejoran capacidad, pero solo si el proceso ya está estandarizado.",
+        "chefTip": "Consejo de Chef Juanote: La herramienta no corrige una fórmula mal pesada.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de herramientas profesionales y dime qué señal debo observar."
+      },
+      {
+        "id": "m02-l3",
+        "title": "Seguridad y mise en place",
+        "objective": "Aplicar seguridad y mise en place con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Antes de mezclar, la mesa debe estar limpia, ingredientes pesados, charolas listas, navaja protegida y ruta de horneado despejada.",
+        "chefTip": "Consejo de Chef Juanote: El mise en place es producción adelantada: te compra tiempo cuando la masa empieza a correr.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de seguridad y mise en place y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Arma una estación de trabajo real, toma fotografía antes/después y marca riesgos de seguridad.",
+      "Repite el módulo 2 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Herramientas esenciales y profesionales."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Herramientas esenciales y profesionales.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Herramientas esenciales y profesionales y su corrección profesional."
+      ]
+    },
+    "realCase": "Un alumno pierde volumen porque busca la navaja cuando las piezas ya están listas. La solución fue preparar corte, charola y vapor antes de la fermentación final.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Herramientas esenciales y profesionales.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Puedo iniciar con horno casero? Sí, si precalientas suficiente, generas vapor controlado y trabajas lotes pequeños.",
+    "downloads": [
+      "downloads/pdfs/mod-02-guia.md",
+      "downloads/pdfs/mod-02-examen.md"
+    ],
+    "videos": [
+      "vid-mod-02"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "ingredientes",
+    "title": "Ingredientes del bolillo",
+    "summary": "Orienta sobre función de ingredientes, fórmula panadera, hidratación, temperatura de agua y ajustes por tipo de harina.",
+    "referenceImage": "assets/reference/mod-03.svg",
+    "lessons": [
+      {
+        "id": "m03-l1",
+        "title": "Harina, fuerza y absorción",
+        "objective": "Aplicar harina, fuerza y absorción con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "La harina define absorción, elasticidad y tolerancia. Se aprende a ajustar agua según proteína, frescura y sensación de masa, no solo por receta fija.",
+        "chefTip": "Consejo de Chef Juanote: Cuando cambies harina, no cambies todo: ajusta agua en pequeñas pruebas.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de harina, fuerza y absorción y dime qué señal debo observar."
+      },
+      {
+        "id": "m03-l2",
+        "title": "Porcentaje panadero",
+        "objective": "Aplicar porcentaje panadero con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "El alumno calcula ingredientes desde harina al 100%, controla sal, levadura e hidratación y escala de 6 a 60 piezas sin perder proporción.",
+        "chefTip": "Consejo de Chef Juanote: El porcentaje panadero es el idioma del oficio.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de porcentaje panadero y dime qué señal debo observar."
+      },
+      {
+        "id": "m03-l3",
+        "title": "Temperatura de masa",
+        "objective": "Aplicar temperatura de masa con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Agua, ambiente, fricción de amasado y reposos determinan fermentación. Se calcula una temperatura objetivo para evitar masas aceleradas o dormidas.",
+        "chefTip": "Consejo de Chef Juanote: La levadura obedece a la temperatura más que al reloj.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de temperatura de masa y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Convierte una fórmula de 1 kg de harina a 24 piezas y registra hidratación, sal y levadura en porcentaje panadero.",
+      "Repite el módulo 3 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Ingredientes del bolillo."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Ingredientes del bolillo.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Ingredientes del bolillo y su corrección profesional."
+      ]
+    },
+    "realCase": "La misma receta sale seca con harina nueva. Al medir absorción se aumenta agua 2% y se recupera extensibilidad sin perder forma.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Ingredientes del bolillo.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Puedo medir con tazas? Para una versión comercial, no; usa báscula porque pequeñas diferencias cambian textura y fermentación.",
+    "downloads": [
+      "downloads/pdfs/mod-03-guia.md",
+      "downloads/pdfs/mod-03-examen.md"
+    ],
+    "videos": [
+      "vid-mod-03"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "amasado",
+    "title": "Amasado profesional",
+    "summary": "Guía el desarrollo de gluten, prueba de ventana, reposos, masa pegajosa y señales de amasado insuficiente o excesivo.",
+    "referenceImage": "assets/reference/mod-04.svg",
+    "lessons": [
+      {
+        "id": "m04-l1",
+        "title": "Amasado manual",
+        "objective": "Aplicar amasado manual con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Se combinan ingredientes hasta no ver harina seca, se alternan reposos y trabajo de mesa, y se busca una masa lisa sin oxidarla ni calentarla de más.",
+        "chefTip": "Consejo de Chef Juanote: Tus manos deben leer tensión, no pelear contra la masa.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de amasado manual y dime qué señal debo observar."
+      },
+      {
+        "id": "m04-l2",
+        "title": "Desarrollo de gluten",
+        "objective": "Aplicar desarrollo de gluten con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "La prueba de ventana confirma extensibilidad y resistencia. Una ventana opaca, quebradiza o rasgada indica falta de reposo, exceso de harina o amasado incorrecto.",
+        "chefTip": "Consejo de Chef Juanote: Si se rompe la ventana, descansa la masa antes de castigarla más.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de desarrollo de gluten y dime qué señal debo observar."
+      },
+      {
+        "id": "m04-l3",
+        "title": "Correcciones de masa",
+        "objective": "Aplicar correcciones de masa con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Masa pegajosa, dura, rota o caliente se corrige con reposos, hidratación, control de fricción y registro. Se cambia una variable por lote.",
+        "chefTip": "Consejo de Chef Juanote: La peor corrección es echar harina sin pensar.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de correcciones de masa y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Amasa dos lotes pequeños: uno con reposo intermedio y otro sin reposo; compara ventana, temperatura y textura.",
+      "Repite el módulo 4 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Amasado profesional."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Amasado profesional.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Amasado profesional y su corrección profesional."
+      ]
+    },
+    "realCase": "Un bolillo queda denso aunque la fórmula es correcta. La bitácora muestra masa caliente y gluten corto; se baja temperatura del agua y se agrega reposo.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Amasado profesional.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Cuándo termina el amasado? Cuando la masa está lisa, elástica, con ventana funcional y temperatura dentro del rango esperado.",
+    "downloads": [
+      "downloads/pdfs/mod-04-guia.md",
+      "downloads/pdfs/mod-04-examen.md"
+    ],
+    "videos": [
+      "vid-mod-04"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "fermentacion",
+    "title": "Fermentación profesional",
+    "summary": "Ayuda a leer volumen, aroma, burbujas, tiempo, temperatura y prueba de dedo para evitar subfermentación o sobrefermentación.",
+    "referenceImage": "assets/reference/mod-05.svg",
+    "lessons": [
+      {
+        "id": "m05-l1",
+        "title": "Fermentación en bloque",
+        "objective": "Aplicar fermentación en bloque con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Se controla volumen, aroma, burbuja y elasticidad durante el primer reposo. El reloj orienta, pero la masa decide con señales.",
+        "chefTip": "Consejo de Chef Juanote: No hornees el reloj: lee la masa.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de fermentación en bloque y dime qué señal debo observar."
+      },
+      {
+        "id": "m05-l2",
+        "title": "Fermentación final",
+        "objective": "Aplicar fermentación final con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "La prueba de dedo enseña cuándo cortar y hornear: si rebota rápido falta, si no regresa se pasó, si vuelve lento está lista.",
+        "chefTip": "Consejo de Chef Juanote: La fermentación final mal leída arruina incluso un buen amasado.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de fermentación final y dime qué señal debo observar."
+      },
+      {
+        "id": "m05-l3",
+        "title": "Control por clima",
+        "objective": "Aplicar control por clima con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Calor, frío y humedad cambian tiempos. El alumno aprende a usar agua más fría, menos levadura o reposos protegidos según ambiente.",
+        "chefTip": "Consejo de Chef Juanote: En días calientes, tu receta debe caminar más despacio.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de control por clima y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Fermenta piezas en dos temperaturas distintas y registra minutos, volumen, aroma y respuesta al dedo.",
+      "Repite el módulo 5 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Fermentación profesional."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Fermentación profesional.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Fermentación profesional y su corrección profesional."
+      ]
+    },
+    "realCase": "En temporada de calor las piezas se colapsan al cortar. Se reduce levadura, se enfría el agua y se acorta la fermentación final.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Fermentación profesional.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Cómo sé si se sobrefermentó? La pieza pierde tensión, huele fuerte, se deprime al tocar y no recupera en horno.",
+    "downloads": [
+      "downloads/pdfs/mod-05-guia.md",
+      "downloads/pdfs/mod-05-examen.md"
+    ],
+    "videos": [
+      "vid-mod-05"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "formado",
+    "title": "División, boleado y formado",
+    "summary": "Explica pesado uniforme, tensión superficial, reposo previo, posición de manos, costura inferior y corrección de piezas flojas.",
+    "referenceImage": "assets/reference/mod-06.svg",
+    "lessons": [
+      {
+        "id": "m06-l1",
+        "title": "División exacta",
+        "objective": "Aplicar división exacta con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Cada pieza se pesa para asegurar horneado uniforme, costos correctos y experiencia consistente. La merma también se registra.",
+        "chefTip": "Consejo de Chef Juanote: Si vendes por pieza, pesa por pieza.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de división exacta y dime qué señal debo observar."
+      },
+      {
+        "id": "m06-l2",
+        "title": "Boleado con tensión",
+        "objective": "Aplicar boleado con tensión con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "El boleado organiza gluten y crea superficie lisa. Mucha presión desgarra; poca presión da piezas planas.",
+        "chefTip": "Consejo de Chef Juanote: La tensión se construye, no se aplasta.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de boleado con tensión y dime qué señal debo observar."
+      },
+      {
+        "id": "m06-l3",
+        "title": "Formado del bolillo",
+        "objective": "Aplicar formado del bolillo con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Se alarga con puntas suaves, costura inferior y tensión suficiente para abrir greña. El formado conecta con corte y volumen final.",
+        "chefTip": "Consejo de Chef Juanote: Un mal formado no se arregla con una navaja bonita.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de formado del bolillo y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Forma 12 piezas pesadas; mide largo, peso y uniformidad antes/después de fermentar.",
+      "Repite el módulo 6 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de División, boleado y formado."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de División, boleado y formado.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de División, boleado y formado y su corrección profesional."
+      ]
+    },
+    "realCase": "El cliente recibe bolillos de tamaños distintos. La solución fue pesar, bolear con reposo y usar una plantilla visual de largo.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar División, boleado y formado.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Por qué se abre por abajo? Usualmente por costura mal sellada, exceso de harina o poca tensión superficial.",
+    "downloads": [
+      "downloads/pdfs/mod-06-guia.md",
+      "downloads/pdfs/mod-06-examen.md"
+    ],
+    "videos": [
+      "vid-mod-06"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "horneado",
+    "title": "Horneado profesional",
+    "summary": "Orienta sobre precalentado, vapor, expansión inicial, color, corteza, migajón y adaptación a horno doméstico o profesional.",
+    "referenceImage": "assets/reference/mod-07.svg",
+    "lessons": [
+      {
+        "id": "m07-l1",
+        "title": "Precalentado real",
+        "objective": "Aplicar precalentado real con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "El horno debe estabilizarse antes de cargar. Charola, piedra o piso roban calor si no se precalientan suficiente.",
+        "chefTip": "Consejo de Chef Juanote: Un horno tibio hace pan tímido.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de precalentado real y dime qué señal debo observar."
+      },
+      {
+        "id": "m07-l2",
+        "title": "Vapor y expansión",
+        "objective": "Aplicar vapor y expansión con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "El vapor retrasa el secado de corteza y permite apertura de greña. Se aplica al inicio, sin inundar ni quemarse.",
+        "chefTip": "Consejo de Chef Juanote: Vapor al principio; sequedad al final.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de vapor y expansión y dime qué señal debo observar."
+      },
+      {
+        "id": "m07-l3",
+        "title": "Color y cocción",
+        "objective": "Aplicar color y cocción con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "El dorado depende de fermentación, temperatura, tiempo y reacción de Maillard. La base debe sonar firme y la miga terminar cocida.",
+        "chefTip": "Consejo de Chef Juanote: No saques pan por color solamente: revisa base y peso final.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de color y cocción y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Hornea dos lotes con diferente vapor inicial y compara greña, brillo, corteza y base.",
+      "Repite el módulo 7 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Horneado profesional."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Horneado profesional.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Horneado profesional y su corrección profesional."
+      ]
+    },
+    "realCase": "El bolillo sale pálido y pesado. El horno marcaba temperatura pero no estaba estabilizado; se aumentó precalentado y se hornearon menos piezas por carga.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Horneado profesional.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Por qué se quema abajo? Puede ser charola muy delgada, piso excesivo, altura incorrecta o tiempo prolongado.",
+    "downloads": [
+      "downloads/pdfs/mod-07-guia.md",
+      "downloads/pdfs/mod-07-examen.md"
+    ],
+    "videos": [
+      "vid-mod-07"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "corte",
+    "title": "Corte profesional del bolillo",
+    "summary": "Ayuda a revisar momento, navaja, ángulo, profundidad, longitud, fermentación y vapor cuando el bolillo no abre bien.",
+    "referenceImage": "assets/reference/mod-08.svg",
+    "lessons": [
+      {
+        "id": "m08-l1",
+        "title": "Seguridad de corte",
+        "objective": "Aplicar seguridad de corte con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "La navaja se manipula con hoja firme, ángulo controlado y mano libre lejos del recorrido. Seguridad antes de velocidad.",
+        "chefTip": "Consejo de Chef Juanote: La navaja es herramienta, no adorno.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de seguridad de corte y dime qué señal debo observar."
+      },
+      {
+        "id": "m08-l2",
+        "title": "Ángulo y profundidad",
+        "objective": "Aplicar ángulo y profundidad con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "El corte típico es decidido, longitudinal y ligeramente inclinado. Poco corte no abre; demasiado desinfla.",
+        "chefTip": "Consejo de Chef Juanote: Corta como si abrieras una puerta, no como si partieras el pan.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de ángulo y profundidad y dime qué señal debo observar."
+      },
+      {
+        "id": "m08-l3",
+        "title": "Relación con fermentación",
+        "objective": "Aplicar relación con fermentación con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Una pieza pasada no sostiene greña; una pieza corta rompe irregular. El corte confirma etapas anteriores.",
+        "chefTip": "Consejo de Chef Juanote: Si la greña falla, revisa fermentación antes de culpar la cuchilla.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de relación con fermentación y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Practica cortes sobre masa de prueba y registra ángulo, profundidad y apertura después del horneado.",
+      "Repite el módulo 8 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Corte profesional del bolillo."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Corte profesional del bolillo.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Corte profesional del bolillo y su corrección profesional."
+      ]
+    },
+    "realCase": "El bolillo no abre aunque la navaja está nueva. La prueba de dedo revela sobrefermentación; se reduce tiempo final y la greña vuelve.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Corte profesional del bolillo.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Qué profundidad uso? La suficiente para liberar expansión sin partir la pieza; debe ser constante y con hoja inclinada.",
+    "downloads": [
+      "downloads/pdfs/mod-08-guia.md",
+      "downloads/pdfs/mod-08-examen.md"
+    ],
+    "videos": [
+      "vid-mod-08"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "enfriado",
+    "title": "Enfriado y conservación",
+    "summary": "Explica redistribución de humedad, uso de rejilla, empaque, conservación mismo día, congelación y reactivación de corteza.",
+    "referenceImage": "assets/reference/mod-09.svg",
+    "lessons": [
+      {
+        "id": "m09-l1",
+        "title": "Enfriado en rejilla",
+        "objective": "Aplicar enfriado en rejilla con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "El pan libera vapor después de hornear. Si se encierra caliente, la corteza se humedece y pierde crujido.",
+        "chefTip": "Consejo de Chef Juanote: El enfriado también es parte de la receta.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de enfriado en rejilla y dime qué señal debo observar."
+      },
+      {
+        "id": "m09-l2",
+        "title": "Conservación diaria",
+        "objective": "Aplicar conservación diaria con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Para venta del día se evita bolsa cerrada temprana; para traslado se protege de humedad y aplastamiento.",
+        "chefTip": "Consejo de Chef Juanote: No empaques caliente por prisa comercial.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de conservación diaria y dime qué señal debo observar."
+      },
+      {
+        "id": "m09-l3",
+        "title": "Congelación y reactivación",
+        "objective": "Aplicar congelación y reactivación con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Bolillos bien horneados pueden congelarse, descongelarse y reactivarse con calor seco para recuperar corteza.",
+        "chefTip": "Consejo de Chef Juanote: Congela calidad, no errores.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de congelación y reactivación y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Empaca pan a los 5, 20 y 45 minutos; compara corteza al cabo de una hora.",
+      "Repite el módulo 9 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Enfriado y conservación."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Enfriado y conservación.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Enfriado y conservación y su corrección profesional."
+      ]
+    },
+    "realCase": "Una cafetería recibe pan suave. Se descubre que se embolsaba caliente; con rejilla y enfriado mínimo se recupera textura.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Enfriado y conservación.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Cómo revivo un bolillo? Calor seco breve, sin exceso de humedad, hasta recuperar corteza.",
+    "downloads": [
+      "downloads/pdfs/mod-09-guia.md",
+      "downloads/pdfs/mod-09-examen.md"
+    ],
+    "videos": [
+      "vid-mod-09"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "diagnostico",
+    "title": "Diagnóstico, errores y solución de problemas",
+    "summary": "Conduce al alumno por síntoma, etapa probable, causa raíz, corrección inmediata y prevención para el siguiente intento.",
+    "referenceImage": "assets/reference/mod-10.svg",
+    "lessons": [
+      {
+        "id": "m10-l1",
+        "title": "Lectura de síntomas",
+        "objective": "Aplicar lectura de síntomas con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Denso, pálido, plano, ácido, roto, blando o sin greña son síntomas. Cada uno apunta a posibles etapas, no a una sola culpa.",
+        "chefTip": "Consejo de Chef Juanote: Primero describe lo que ves; luego decides.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de lectura de síntomas y dime qué señal debo observar."
+      },
+      {
+        "id": "m10-l2",
+        "title": "Causa raíz",
+        "objective": "Aplicar causa raíz con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Se cruza síntoma con bitácora: ingredientes, amasado, temperatura, fermentación, formado, corte y horno.",
+        "chefTip": "Consejo de Chef Juanote: Una variable por prueba, camarada.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de causa raíz y dime qué señal debo observar."
+      },
+      {
+        "id": "m10-l3",
+        "title": "Plan de corrección",
+        "objective": "Aplicar plan de corrección con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "El alumno formula hipótesis, corrige una variable, repite lote y documenta resultado para no improvisar.",
+        "chefTip": "Consejo de Chef Juanote: El diagnóstico profesional evita recetas mágicas.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de plan de corrección y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Toma un bolillo defectuoso, identifica tres posibles causas y diseña un plan de corrección de una variable.",
+      "Repite el módulo 10 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Diagnóstico, errores y solución de problemas."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Diagnóstico, errores y solución de problemas.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Diagnóstico, errores y solución de problemas y su corrección profesional."
+      ]
+    },
+    "realCase": "Bolillo plano: parecía exceso de agua, pero el registro mostró sobrefermentación final y formado flojo.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Diagnóstico, errores y solución de problemas.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Por dónde empiezo si todo salió mal? Por bitácora: temperatura de masa, tiempos, desarrollo de gluten y horno real.",
+    "downloads": [
+      "downloads/pdfs/mod-10-guia.md",
+      "downloads/pdfs/mod-10-examen.md"
+    ],
+    "videos": [
+      "vid-mod-10"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "variantes",
+    "title": "Variantes profesionales del bolillo",
+    "summary": "Ayuda a ajustar hidratación, amasado, fermentación y horneado al agregar inclusiones o crear variantes premium.",
+    "referenceImage": "assets/reference/mod-11.svg",
+    "lessons": [
+      {
+        "id": "m11-l1",
+        "title": "Variantes sin perder identidad",
+        "objective": "Aplicar variantes sin perder identidad con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Una variante sigue siendo bolillo si conserva forma, corteza, greña y mordida. El sabor extra no debe destruir estructura.",
+        "chefTip": "Consejo de Chef Juanote: El bolillo manda; la variante acompaña.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de variantes sin perder identidad y dime qué señal debo observar."
+      },
+      {
+        "id": "m11-l2",
+        "title": "Integrales y semillas",
+        "objective": "Aplicar integrales y semillas con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Harinas integrales y semillas absorben más agua y cortan gluten. Se ajusta hidratación y reposo.",
+        "chefTip": "Consejo de Chef Juanote: Hidrata inclusiones antes de culpar a la harina.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de integrales y semillas y dime qué señal debo observar."
+      },
+      {
+        "id": "m11-l3",
+        "title": "Gourmet comercial",
+        "objective": "Aplicar gourmet comercial con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Queso, hierbas, chile, ajo o masa madre se prueban con costo, vida útil y mercado claro.",
+        "chefTip": "Consejo de Chef Juanote: Una variante que no se puede repetir no es producto.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de gourmet comercial y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Diseña una variante con máximo dos inclusiones y documenta ajuste de agua, costo y público objetivo.",
+      "Repite el módulo 11 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Variantes profesionales del bolillo."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Variantes profesionales del bolillo.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Variantes profesionales del bolillo y su corrección profesional."
+      ]
+    },
+    "realCase": "Un bolillo con semillas sale seco. La solución fue remojar semillas y subir hidratación controladamente.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Variantes profesionales del bolillo.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Cuánta inclusión agrego? Empieza bajo, mide impacto en gluten y sube solo si mantiene volumen.",
+    "downloads": [
+      "downloads/pdfs/mod-11-guia.md",
+      "downloads/pdfs/mod-11-examen.md"
+    ],
+    "videos": [
+      "vid-mod-11"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "produccion",
+    "title": "Producción profesional completa",
+    "summary": "Integra preparación, pesado, amasado, reposos, formado, fermentación, corte, horneado, enfriado, conservación y control final.",
+    "referenceImage": "assets/reference/mod-12.svg",
+    "lessons": [
+      {
+        "id": "m12-l1",
+        "title": "Flujo de producción",
+        "objective": "Aplicar flujo de producción con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Preparar, pesar, mezclar, amasar, reposar, dividir, bolear, formar, fermentar, cortar, hornear, enfriar y empacar se organiza como línea de trabajo.",
+        "chefTip": "Consejo de Chef Juanote: Producción profesional es orden antes que velocidad.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de flujo de producción y dime qué señal debo observar."
+      },
+      {
+        "id": "m12-l2",
+        "title": "Lotes y tiempos",
+        "objective": "Aplicar lotes y tiempos con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Se programan lotes para que fermentación, horno y enfriado no choquen. El cuello de botella suele ser horno o formado.",
+        "chefTip": "Consejo de Chef Juanote: Si todo está listo al mismo tiempo, algo se va a pasar.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de lotes y tiempos y dime qué señal debo observar."
+      },
+      {
+        "id": "m12-l3",
+        "title": "Control final",
+        "objective": "Aplicar control final con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Cada lote se revisa por peso, color, greña, base, miga y merma antes de liberar venta o clase.",
+        "chefTip": "Consejo de Chef Juanote: No vendas lo que no aprobarías para tu familia.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de control final y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Diseña un cronograma para producir 60 bolillos en tres lotes, indicando hora de mezcla, formado, corte, horno y enfriado.",
+      "Repite el módulo 12 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Producción profesional completa."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Producción profesional completa.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Producción profesional completa y su corrección profesional."
+      ]
+    },
+    "realCase": "Una panadería produce 100 piezas pero 30 salen sobrefermentadas por esperar horno. Se reordena el calendario en lotes escalonados.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Producción profesional completa.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Cómo aumento producción? Escalando lotes, no duplicando caos; primero estabiliza 12, luego 24, luego 60.",
+    "downloads": [
+      "downloads/pdfs/mod-12-guia.md",
+      "downloads/pdfs/mod-12-examen.md"
+    ],
+    "videos": [
+      "vid-mod-12"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "certificacion",
+    "title": "Certificación profesional del panadero",
+    "summary": "Prepara al alumno para demostrar competencias técnicas, prácticas, diagnósticas, higiene, productividad y evidencia final.",
+    "referenceImage": "assets/reference/mod-13.svg",
+    "lessons": [
+      {
+        "id": "m13-l1",
+        "title": "Competencias evaluadas",
+        "objective": "Aplicar competencias evaluadas con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Se evalúa teoría, proceso, higiene, diagnóstico, producto final y bitácora. No basta con entregar pan bonito.",
+        "chefTip": "Consejo de Chef Juanote: La certificación mide oficio, no suerte.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de competencias evaluadas y dime qué señal debo observar."
+      },
+      {
+        "id": "m13-l2",
+        "title": "Evidencias y rúbricas",
+        "objective": "Aplicar evidencias y rúbricas con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "El alumno entrega fotos, registros, examen teórico y lote práctico. La rúbrica define puntajes por etapa.",
+        "chefTip": "Consejo de Chef Juanote: Tu evidencia debe contar la historia del pan.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de evidencias y rúbricas y dime qué señal debo observar."
+      },
+      {
+        "id": "m13-l3",
+        "title": "Recertificación",
+        "objective": "Aplicar recertificación con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "La mejora continua exige repetir estándares, actualizar prácticas y demostrar control ante nuevos escenarios.",
+        "chefTip": "Consejo de Chef Juanote: Un panadero certificado sigue aprendiendo.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de recertificación y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Prepara un portafolio con una práctica completa, fotos, bitácora, diagnóstico y autoevaluación con rúbrica.",
+      "Repite el módulo 13 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Certificación profesional del panadero."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Certificación profesional del panadero.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Certificación profesional del panadero y su corrección profesional."
+      ]
+    },
+    "realCase": "Un alumno logra buen pan una vez pero no puede repetirlo. La certificación queda pendiente hasta demostrar consistencia en dos lotes.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Certificación profesional del panadero.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Qué pasa si fallo el práctico? Se entrega retroalimentación por etapa y se repite solo el bloque no competente.",
+    "downloads": [
+      "downloads/pdfs/mod-13-guia.md",
+      "downloads/pdfs/mod-13-examen.md"
+    ],
+    "videos": [
+      "vid-mod-13"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "negocio",
+    "title": "Futuro, negocio y expansión del panadero",
+    "summary": "Orienta sobre costeo básico, presentación, venta, clientes B2B, empaque, contenido y crecimiento profesional.",
+    "referenceImage": "assets/reference/mod-14.svg",
+    "lessons": [
+      {
+        "id": "m14-l1",
+        "title": "Costeo real",
+        "objective": "Aplicar costeo real con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Incluye ingredientes, gas/luz, empaque, merma, mano de obra y margen. Precio sin costo real es apuesta.",
+        "chefTip": "Consejo de Chef Juanote: Si no sabes cuánto cuesta, no sabes cuánto ganas.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de costeo real y dime qué señal debo observar."
+      },
+      {
+        "id": "m14-l2",
+        "title": "Canales comerciales",
+        "objective": "Aplicar canales comerciales con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Restaurantes, fondas, cafeterías, escuelas y venta directa requieren empaque, horario y volumen distinto.",
+        "chefTip": "Consejo de Chef Juanote: No todos los clientes compran el mismo bolillo.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de canales comerciales y dime qué señal debo observar."
+      },
+      {
+        "id": "m14-l3",
+        "title": "Marca y crecimiento",
+        "objective": "Aplicar marca y crecimiento con evidencia práctica y criterios profesionales PanaderIA™.",
+        "content": "Fotografía, consistencia, historia, certificación y servicio convierten pan en producto confiable.",
+        "chefTip": "Consejo de Chef Juanote: Tu marca empieza cuando el segundo cliente recibe la misma calidad que el primero.",
+        "bolyPrompt": "Boly™, evalúa mi práctica de marca y crecimiento y dime qué señal debo observar."
+      }
+    ],
+    "exercises": [
+      "Calcula precio de venta para 60 bolillos con ingredientes, energía, empaque, merma y margen deseado.",
+      "Repite el módulo 14 cambiando una sola variable controlada y compara resultado contra la bitácora.",
+      "Graba un clip de 30 segundos explicando el criterio técnico más importante de Futuro, negocio y expansión del panadero."
+    ],
+    "exam": {
+      "passingScore": 80,
+      "questions": [
+        "Explica con tus palabras el propósito técnico de Futuro, negocio y expansión del panadero.",
+        "Menciona tres señales observables que indiquen control en este módulo.",
+        "Describe una falla frecuente de Futuro, negocio y expansión del panadero y su corrección profesional."
+      ]
+    },
+    "realCase": "Una cafetería pide entrega diaria. Se negocia volumen mínimo, hora fija, empaque ventilado y reposición solo por defecto comprobado.",
+    "checklist": [
+      "Preparé el área y herramientas antes de iniciar Futuro, negocio y expansión del panadero.",
+      "Pesé o medí las variables críticas del módulo.",
+      "Registré tiempos, temperatura, observaciones y resultado.",
+      "Comparé mi producto contra el estándar visual PanaderIA™.",
+      "Identifiqué una mejora concreta para el siguiente lote.",
+      "Guardé evidencia para dashboard y certificación."
+    ],
+    "faq": "¿Cuándo estoy listo para vender? Cuando puedes repetir calidad, calcular costo y entregar a tiempo sin improvisar.",
+    "downloads": [
+      "downloads/pdfs/mod-14-guia.md",
+      "downloads/pdfs/mod-14-examen.md"
+    ],
+    "videos": [
+      "vid-mod-14"
+    ]
+  }
+]

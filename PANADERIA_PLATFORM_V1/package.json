@@ -1,0 +1,10 @@
+{
+  "name": "panaderia-platform-v1",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:smoke": "node src/smoke-test.mjs",
+    "serve": "python3 -m http.server 8080 --directory ."
+  }
+}

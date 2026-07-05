@@ -1,0 +1,164 @@
+{
+  "package_id": "panaderia-capitulo-07-paquete-oficial-v1",
+  "chapter": 7,
+  "chapter_title": "Horneado profesional",
+  "status": "listo_para_produccion_y_publicacion",
+  "technical_content_policy": "No modifica contenido técnico existente ni agrega capítulos nuevos.",
+  "replacement_policy": "Todo recurso provisional generado o basado en IA conserva su ruta estable y puede sustituirse por fotografía o video real del Chef Juanote™ sin romper la estructura del paquete.",
+  "student_assets": {
+    "fotografias": [
+      {
+        "id": "c07-foto-referencia-ia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/imagenes-ia/c07-imagen-ia.svg",
+        "replacement_slot": "chef-juanote-real/capitulo-07-horneado-profesional/fotografias/c07-foto-principal.jpg",
+        "uso": "Imagen de referencia IA para sustituir por fotografía real del Chef Juanote™."
+      },
+      {
+        "id": "c07-foto-chef-produccion",
+        "tipo": "fotografia_pendiente",
+        "titulo": "Chef Juanote™ aplicando Horneado profesional",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/ilustraciones/c07-ilustracion.svg",
+        "uso": "Imagen temporal de contexto; sustituible por fotografía real del Chef Juanote™."
+      }
+    ],
+    "diagramas": [
+      {
+        "id": "c07-diagrama-tecnico",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/diagramas-tecnicos/c07-diagrama-tecnico.svg",
+        "uso": "Diagrama técnico del concepto principal."
+      },
+      {
+        "id": "c07-flujo-proceso",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-07-horneado-profesional/flujos-de-proceso/c07-flujo-de-proceso.svg",
+        "uso": "Flujo visual del proceso del capítulo."
+      },
+      {
+        "id": "c07-arbol-diagnostico",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-07-horneado-profesional/arboles-de-diagnostico/c07-arbol-de-diagnostico.svg",
+        "uso": "Apoyo para diagnóstico guiado."
+      }
+    ],
+    "infografias": [
+      {
+        "id": "c07-infografia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/infografias/c07-infografia.svg",
+        "uso": "Resumen visual para el alumno."
+      },
+      {
+        "id": "c07-tabla-comparativa",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-07-horneado-profesional/tablas-comparativas/c07-tabla-comparativa.svg",
+        "uso": "Comparación de criterios observables."
+      }
+    ],
+    "ilustraciones": [
+      {
+        "id": "c07-ilustracion",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/ilustraciones/c07-ilustracion.svg",
+        "uso": "Ilustración educativa del capítulo."
+      },
+      {
+        "id": "c07-boly-apoyo-visual",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-horneado-profesional/boly/c07-boly-apoyo-visual.svg",
+        "uso": "Intervención visual de Boly™."
+      }
+    ],
+    "recursos_descargables": [
+      {
+        "id": "c07-recurso-alumno",
+        "path": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-07-horneado-profesional.md",
+        "uso": "Recurso descargable oficial del alumno."
+      },
+      {
+        "id": "mod-07-guia-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-07-guia.md",
+        "uso": "Guía imprimible de plataforma."
+      },
+      {
+        "id": "mod-07-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-07-examen.md",
+        "uso": "Evaluación imprimible de plataforma."
+      },
+      {
+        "id": "c07-guia-final-alumno",
+        "path": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/guia-final-capitulo-07.md",
+        "uso": "Guía final del paquete oficial."
+      },
+      {
+        "id": "c07-checklist-final",
+        "path": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/checklist-final-capitulo-07.md",
+        "uso": "Checklist final de ejecución del capítulo."
+      },
+      {
+        "id": "c07-evaluacion-final",
+        "path": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/evaluacion-final-capitulo-07.md",
+        "uso": "Evaluación final del capítulo."
+      }
+    ],
+    "videos": [
+      {
+        "id": "mod-07-video-oficial",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/videos/mod-07.html",
+        "replacement_slot": "chef-juanote-real/capitulo-07-horneado-profesional/videos/mod-07.mp4",
+        "uso": "Video oficial reemplazable por grabación real."
+      }
+    ],
+    "qr": [
+      {
+        "id": "QR-C07-PAQUETE",
+        "destino": "/qr/capitulo-07",
+        "uso": "Acceso a video, guía final, checklist y evaluación."
+      },
+      {
+        "id": "QR-C07-BOLY",
+        "destino": "/qr/capitulo-07-boly",
+        "uso": "Acceso a preguntas guiadas de Boly™."
+      }
+    ],
+    "boly": [
+      {
+        "id": "boly-capitulo-07",
+        "path": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/boly-capitulo-07.md",
+        "uso": "Guía conversacional de Boly™."
+      }
+    ],
+    "casos_chef_juanote": [
+      {
+        "id": "chef-juanote-caso-07",
+        "titulo": "Horneado profesional",
+        "uso": "Caso narrativo aplicable sin cambiar el contenido técnico."
+      }
+    ],
+    "evaluaciones": [
+      {
+        "id": "evaluacion-final-capitulo-07",
+        "path": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/evaluacion-final-capitulo-07.md",
+        "uso": "Evaluación final del paquete."
+      },
+      {
+        "id": "c07-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-07-examen.md",
+        "uso": "Examen descargable de plataforma."
+      }
+    ],
+    "checklist": [
+      {
+        "id": "checklist-final-capitulo-07",
+        "path": "public/paquetes-oficiales/capitulo-07-horneado-profesional/alumno/checklist-final-capitulo-07.md",
+        "uso": "Checklist de cierre."
+      }
+    ]
+  },
+  "publication_targets": [
+    "Libro Maestro",
+    "Curso Maestro",
+    "Plataforma PanaderIA™",
+    "Sitio web",
+    "Recursos descargables del alumno"
+  ],
+  "final_student_flow": [
+    "guia-final-capitulo-07.md",
+    "checklist-final-capitulo-07.md",
+    "boly-capitulo-07.md",
+    "evaluacion-final-capitulo-07.md"
+  ]
+}

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">C11 · Diagrama técnico · Variantes profesionales del bolillo</title>
+  <desc id="desc">Recurso visual V1 para Variantes profesionales del bolillo. Mapa técnico vectorial para explicar secuencia, causa y control del proceso. Marcado de sustitución: VECTOR OFICIAL BASE — NO DEPENDE DE FOTO REAL.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#fff4dc"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#6a3d1f" flood-opacity="0.22"/></filter>
+    <style>
+      .brand { font: 700 40px Georgia, serif; fill: #3a2416; }
+      .label { font: 800 54px Arial, sans-serif; fill: #9b5b24; letter-spacing: 1px; }
+      .body { font: 600 36px Arial, sans-serif; fill: #3a2416; }
+      .small { font: 700 28px Arial, sans-serif; fill: #3a2416; }
+      .badge { font: 800 22px Arial, sans-serif; fill: #fffaf0; letter-spacing: .8px; }
+      .panel { fill: rgba(255,250,240,.82); stroke: #d99a2b; stroke-width: 3; }
+      .bread { fill: #d99a2b; stroke: #9b5b24; stroke-width: 8; filter: url(#shadow); }
+      .cut { fill: none; stroke: #fff4dc; stroke-width: 10; stroke-linecap: round; }
+      .step { fill: #2b6f8f; stroke: #fffaf0; stroke-width: 6; }
+      .stepText { font: 900 28px Arial, sans-serif; fill: #fffaf0; text-anchor: middle; }
+      .flow { stroke: #2b6f8f; stroke-width: 10; stroke-linecap: round; }
+      .chapterIcon { font: 900 180px Arial, sans-serif; fill: #9b5b24; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1408" cy="144" r="144" fill="#f7d58a" opacity="0.42"/>
+  <text x="128" y="90" class="brand">PanaderIA™ · Biblioteca Visual Oficial V1</text>
+  <text x="128" y="162" class="label">Capítulo 11</text>
+  <text x="128" y="220" class="body">Variantes profesionales del bolillo</text>
+  <text x="128" y="302" class="label">Diagrama técnico</text>
+  <text x="128" y="396" class="body">masa base, ajustes, inclusiones y</text>
+<text x="128" y="438" class="body">presentación</text>
+  <ellipse cx="1088" cy="432" rx="448" ry="117" class="bread"/>
+  <path d="M 842 414 Q 1088 348 1334 414" class="cut"/>
+  <circle cx="288" cy="630" r="28" class="step"/><text x="288" y="641" class="stepText">1</text><circle cx="560" cy="630" r="28" class="step"/><text x="560" y="641" class="stepText">2</text><circle cx="832" cy="630" r="28" class="step"/><text x="832" y="641" class="stepText">3</text><circle cx="1104" cy="630" r="28" class="step"/><text x="1104" y="641" class="stepText">4</text><path d="M 336 630 H 1104" class="flow"/>
+  <rect x="128" y="792" width="1344" height="54" rx="22" fill="#5f8f2b"/>
+  <text x="160" y="826" class="badge">VECTOR OFICIAL BASE — NO DEPENDE DE FOTO REAL</text>
+</svg>

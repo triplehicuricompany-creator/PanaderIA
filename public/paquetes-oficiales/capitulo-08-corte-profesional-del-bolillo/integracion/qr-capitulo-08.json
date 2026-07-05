@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-08",
+  "chapter": 8,
+  "title": "Corte profesional del bolillo",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-08-corte-profesional-del-bolillo/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-08-corte-profesional-del-bolillo/alumno/guia-final-capitulo-08.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-08-corte-profesional-del-bolillo/alumno/boly-capitulo-08.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-08-corte-profesional-del-bolillo/alumno/evaluacion-final-capitulo-08.md",
+  "checklist": "public/paquetes-oficiales/capitulo-08-corte-profesional-del-bolillo/alumno/checklist-final-capitulo-08.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-08-corte-profesional-del-bolillo/videos/mod-08.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-08-corte-profesional-del-bolillo/fotografias/08-foto-principal.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-13",
+  "chapter": 13,
+  "title": "Certificación profesional del panadero",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/guia-final-capitulo-13.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/boly-capitulo-13.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/evaluacion-final-capitulo-13.md",
+  "checklist": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/checklist-final-capitulo-13.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-13-certificacion-profesional-del-panadero/videos/mod-13.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-13-certificacion-profesional-del-panadero/fotografias/13-foto-principal.jpg"
+}

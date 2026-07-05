@@ -1,0 +1,34 @@
+{
+  "brand": "PanaderIA™",
+  "version": "2.0.0",
+  "release": "commercial-stable-candidate",
+  "payments": {
+    "status": "prepared",
+    "providers": [
+      "stripe",
+      "paypal"
+    ],
+    "checkoutMode": "cart_mock_with_provider_hooks",
+    "providerHooks": {
+      "stripe": "createStripeCheckoutSession(cart)",
+      "paypal": "createPayPalOrder(cart)"
+    }
+  },
+  "mobile": {
+    "status": "optimized",
+    "strategy": "Responsive PWA shell ready to be wrapped by Android/iPhone apps",
+    "futureTargets": [
+      "Android",
+      "iPhone",
+      "tablet",
+      "offline library",
+      "push reminders"
+    ]
+  },
+  "studentArea": {
+    "auth": "localStorage student account for RC1; migration-ready for production auth provider",
+    "progress": "localStorage module completion",
+    "cart": "localStorage shopping cart",
+    "certificates": "certificate levels generated after completion thresholds"
+  }
+}

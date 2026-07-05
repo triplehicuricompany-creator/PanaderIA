@@ -1,0 +1,22 @@
+{
+  "chapter": 1,
+  "qr_codes": [
+    {
+      "id": "QR-C01-INTRO",
+      "destino": "/qr/capitulo-01-introduccion",
+      "uso": "Acceso a video introductorio, guía final, checklist y evaluación."
+    },
+    {
+      "id": "QR-C01-BOLY",
+      "destino": "/qr/capitulo-01-boly",
+      "uso": "Acceso a preguntas guiadas de Boly™ para observación inicial."
+    }
+  ],
+  "primary_assets": [
+    "alumno/guia-final-capitulo-01.md",
+    "alumno/checklist-final-capitulo-01.md",
+    "alumno/evaluacion-final-capitulo-01.md",
+    "alumno/boly-capitulo-01.md"
+  ],
+  "replacement_safe": true
+}

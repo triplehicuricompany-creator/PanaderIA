@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-12",
+  "chapter": 12,
+  "title": "Producción profesional completa",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-12-produccion-profesional-completa/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-12-produccion-profesional-completa/alumno/guia-final-capitulo-12.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-12-produccion-profesional-completa/alumno/boly-capitulo-12.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-12-produccion-profesional-completa/alumno/evaluacion-final-capitulo-12.md",
+  "checklist": "public/paquetes-oficiales/capitulo-12-produccion-profesional-completa/alumno/checklist-final-capitulo-12.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-12-produccion-profesional-completa/videos/mod-12.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-12-produccion-profesional-completa/fotografias/12-foto-principal.jpg"
+}

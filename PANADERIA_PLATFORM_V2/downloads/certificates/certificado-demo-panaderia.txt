@@ -1,0 +1,4 @@
+PanaderIA™ — Certificado de muestra RC1
+
+Este archivo valida el flujo de descarga de certificados en la plataforma RC1.
+El backend definitivo generará el certificado nominal con folio, alumno, curso, fecha y firma digital.

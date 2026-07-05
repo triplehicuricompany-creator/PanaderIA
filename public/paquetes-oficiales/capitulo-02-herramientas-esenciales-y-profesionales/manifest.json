@@ -1,0 +1,164 @@
+{
+  "package_id": "panaderia-capitulo-02-paquete-oficial-v1",
+  "chapter": 2,
+  "chapter_title": "Herramientas esenciales y profesionales",
+  "status": "listo_para_produccion_y_publicacion",
+  "technical_content_policy": "No modifica contenido técnico existente ni agrega capítulos nuevos.",
+  "replacement_policy": "Todo recurso provisional generado o basado en IA conserva su ruta estable y puede sustituirse por fotografía o video real del Chef Juanote™ sin romper la estructura del paquete.",
+  "student_assets": {
+    "fotografias": [
+      {
+        "id": "c02-foto-referencia-ia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/imagenes-ia/c02-imagen-ia.svg",
+        "replacement_slot": "chef-juanote-real/capitulo-02-herramientas-esenciales-y-profesionales/fotografias/c02-foto-principal.jpg",
+        "uso": "Imagen de referencia IA para sustituir por fotografía real del Chef Juanote™."
+      },
+      {
+        "id": "c02-foto-chef-produccion",
+        "tipo": "fotografia_pendiente",
+        "titulo": "Chef Juanote™ aplicando Herramientas esenciales y profesionales",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/ilustraciones/c02-ilustracion.svg",
+        "uso": "Imagen temporal de contexto; sustituible por fotografía real del Chef Juanote™."
+      }
+    ],
+    "diagramas": [
+      {
+        "id": "c02-diagrama-tecnico",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/diagramas-tecnicos/c02-diagrama-tecnico.svg",
+        "uso": "Diagrama técnico del concepto principal."
+      },
+      {
+        "id": "c02-flujo-proceso",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/flujos-de-proceso/c02-flujo-de-proceso.svg",
+        "uso": "Flujo visual del proceso del capítulo."
+      },
+      {
+        "id": "c02-arbol-diagnostico",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/arboles-de-diagnostico/c02-arbol-de-diagnostico.svg",
+        "uso": "Apoyo para diagnóstico guiado."
+      }
+    ],
+    "infografias": [
+      {
+        "id": "c02-infografia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/infografias/c02-infografia.svg",
+        "uso": "Resumen visual para el alumno."
+      },
+      {
+        "id": "c02-tabla-comparativa",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/tablas-comparativas/c02-tabla-comparativa.svg",
+        "uso": "Comparación de criterios observables."
+      }
+    ],
+    "ilustraciones": [
+      {
+        "id": "c02-ilustracion",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/ilustraciones/c02-ilustracion.svg",
+        "uso": "Ilustración educativa del capítulo."
+      },
+      {
+        "id": "c02-boly-apoyo-visual",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-herramientas-esenciales-y-profesionales/boly/c02-boly-apoyo-visual.svg",
+        "uso": "Intervención visual de Boly™."
+      }
+    ],
+    "recursos_descargables": [
+      {
+        "id": "c02-recurso-alumno",
+        "path": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-02-herramientas-esenciales-y-profesionales.md",
+        "uso": "Recurso descargable oficial del alumno."
+      },
+      {
+        "id": "mod-02-guia-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-02-guia.md",
+        "uso": "Guía imprimible de plataforma."
+      },
+      {
+        "id": "mod-02-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-02-examen.md",
+        "uso": "Evaluación imprimible de plataforma."
+      },
+      {
+        "id": "c02-guia-final-alumno",
+        "path": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/guia-final-capitulo-02.md",
+        "uso": "Guía final del paquete oficial."
+      },
+      {
+        "id": "c02-checklist-final",
+        "path": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/checklist-final-capitulo-02.md",
+        "uso": "Checklist final de ejecución del capítulo."
+      },
+      {
+        "id": "c02-evaluacion-final",
+        "path": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/evaluacion-final-capitulo-02.md",
+        "uso": "Evaluación final del capítulo."
+      }
+    ],
+    "videos": [
+      {
+        "id": "mod-02-video-oficial",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/videos/mod-02.html",
+        "replacement_slot": "chef-juanote-real/capitulo-02-herramientas-esenciales-y-profesionales/videos/mod-02.mp4",
+        "uso": "Video oficial reemplazable por grabación real."
+      }
+    ],
+    "qr": [
+      {
+        "id": "QR-C02-PAQUETE",
+        "destino": "/qr/capitulo-02",
+        "uso": "Acceso a video, guía final, checklist y evaluación."
+      },
+      {
+        "id": "QR-C02-BOLY",
+        "destino": "/qr/capitulo-02-boly",
+        "uso": "Acceso a preguntas guiadas de Boly™."
+      }
+    ],
+    "boly": [
+      {
+        "id": "boly-capitulo-02",
+        "path": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/boly-capitulo-02.md",
+        "uso": "Guía conversacional de Boly™."
+      }
+    ],
+    "casos_chef_juanote": [
+      {
+        "id": "chef-juanote-caso-02",
+        "titulo": "Herramientas esenciales y profesionales",
+        "uso": "Caso narrativo aplicable sin cambiar el contenido técnico."
+      }
+    ],
+    "evaluaciones": [
+      {
+        "id": "evaluacion-final-capitulo-02",
+        "path": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/evaluacion-final-capitulo-02.md",
+        "uso": "Evaluación final del paquete."
+      },
+      {
+        "id": "c02-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-02-examen.md",
+        "uso": "Examen descargable de plataforma."
+      }
+    ],
+    "checklist": [
+      {
+        "id": "checklist-final-capitulo-02",
+        "path": "public/paquetes-oficiales/capitulo-02-herramientas-esenciales-y-profesionales/alumno/checklist-final-capitulo-02.md",
+        "uso": "Checklist de cierre."
+      }
+    ]
+  },
+  "publication_targets": [
+    "Libro Maestro",
+    "Curso Maestro",
+    "Plataforma PanaderIA™",
+    "Sitio web",
+    "Recursos descargables del alumno"
+  ],
+  "final_student_flow": [
+    "guia-final-capitulo-02.md",
+    "checklist-final-capitulo-02.md",
+    "boly-capitulo-02.md",
+    "evaluacion-final-capitulo-02.md"
+  ]
+}

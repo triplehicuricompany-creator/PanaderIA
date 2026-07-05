@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-11",
+  "chapter": 11,
+  "title": "Variantes profesionales del bolillo",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/guia-final-capitulo-11.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/boly-capitulo-11.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/evaluacion-final-capitulo-11.md",
+  "checklist": "public/paquetes-oficiales/capitulo-11-variantes-profesionales-del-bolillo/alumno/checklist-final-capitulo-11.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-11-variantes-profesionales-del-bolillo/videos/mod-11.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-11-variantes-profesionales-del-bolillo/fotografias/11-foto-principal.jpg"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "curso-maestro-bolillo-premium",
+    "name": "Curso Maestro de Bolillo Premium",
+    "type": "course",
+    "priceLabel": "Preparado para checkout",
+    "description": "14 módulos, Boly™, biblioteca, videos, PDFs, evaluaciones y certificación.",
+    "download": null,
+    "paymentStatus": "pending_provider"
+  },
+  {
+    "id": "libro-maestro-bolillo-premium",
+    "name": "Libro Maestro de Bolillo Premium",
+    "type": "book",
+    "priceLabel": "Descarga digital",
+    "description": "Primera edición editorial con módulos técnicos, casos, glosario y recursos QR.",
+    "download": "downloads/books/libro-maestro-bolillo-premium.md",
+    "paymentStatus": "ready_for_digital_delivery"
+  },
+  {
+    "id": "certificacion-panadero",
+    "name": "Certificación Profesional PanaderIA™",
+    "type": "certificate",
+    "priceLabel": "Evaluación final",
+    "description": "Rúbricas, evidencias, examen práctico, diagnóstico y certificado verificable.",
+    "download": "downloads/certificates/certificado-demo-panaderia.txt",
+    "paymentStatus": "pending_provider"
+  }
+]

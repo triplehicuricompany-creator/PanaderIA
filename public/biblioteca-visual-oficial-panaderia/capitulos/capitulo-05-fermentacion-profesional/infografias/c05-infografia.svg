@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2000" viewBox="0 0 1600 2000" role="img" aria-labelledby="title desc">
+  <title id="title">C05 · Infografía · Fermentación profesional</title>
+  <desc id="desc">Recurso visual V1 para Fermentación profesional. Lámina didáctica para resumir pasos, señales y puntos de control. Marcado de sustitución: VECTOR OFICIAL BASE — NO DEPENDE DE FOTO REAL.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#fff4dc"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#6a3d1f" flood-opacity="0.22"/></filter>
+    <style>
+      .brand { font: 700 40px Georgia, serif; fill: #3a2416; }
+      .label { font: 800 54px Arial, sans-serif; fill: #9b5b24; letter-spacing: 1px; }
+      .body { font: 600 36px Arial, sans-serif; fill: #3a2416; }
+      .small { font: 700 28px Arial, sans-serif; fill: #3a2416; }
+      .badge { font: 800 22px Arial, sans-serif; fill: #fffaf0; letter-spacing: .8px; }
+      .panel { fill: rgba(255,250,240,.82); stroke: #d99a2b; stroke-width: 3; }
+      .bread { fill: #d99a2b; stroke: #9b5b24; stroke-width: 8; filter: url(#shadow); }
+      .cut { fill: none; stroke: #fff4dc; stroke-width: 10; stroke-linecap: round; }
+      .step { fill: #2b6f8f; stroke: #fffaf0; stroke-width: 6; }
+      .stepText { font: 900 28px Arial, sans-serif; fill: #fffaf0; text-anchor: middle; }
+      .flow { stroke: #2b6f8f; stroke-width: 10; stroke-linecap: round; }
+      .chapterIcon { font: 900 180px Arial, sans-serif; fill: #9b5b24; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect width="1600" height="2000" fill="url(#bg)"/>
+  <circle cx="1408" cy="320" r="256" fill="#f7d58a" opacity="0.42"/>
+  <text x="128" y="200" class="brand">PanaderIA™ · Biblioteca Visual Oficial V1</text>
+  <text x="128" y="360" class="label">Capítulo 05</text>
+  <text x="128" y="490" class="body">Fermentación profesional</text>
+  <text x="128" y="670" class="label">Infografía</text>
+  <text x="128" y="880" class="body">volumen, prueba del dedo, tiempo y</text>
+<text x="128" y="922" class="body">temperatura</text>
+  <ellipse cx="1088" cy="960" rx="448" ry="260" class="bread"/>
+  <path d="M 842 921 Q 1088 773 1334 921" class="cut"/>
+  <rect x="128" y="1120" width="736" height="46" rx="18" class="panel"/><text x="168" y="1151" class="small">Punto de control 1</text><rect x="128" y="1280" width="736" height="46" rx="18" class="panel"/><text x="168" y="1311" class="small">Punto de control 2</text><rect x="128" y="1440" width="736" height="46" rx="18" class="panel"/><text x="168" y="1471" class="small">Punto de control 3</text><rect x="128" y="1600" width="736" height="46" rx="18" class="panel"/><text x="168" y="1631" class="small">Punto de control 4</text>
+  <rect x="128" y="1760" width="1344" height="110" rx="22" fill="#5f8f2b"/>
+  <text x="160" y="1830" class="badge">VECTOR OFICIAL BASE — NO DEPENDE DE FOTO REAL</text>
+</svg>

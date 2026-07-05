@@ -1,0 +1,233 @@
+{
+  "courseImages": [
+    {
+      "module": 1,
+      "title": "Introducción al mundo del bolillo",
+      "current": "assets/reference/mod-01.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 2,
+      "title": "Herramientas esenciales y profesionales",
+      "current": "assets/reference/mod-02.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 3,
+      "title": "Ingredientes del bolillo",
+      "current": "assets/reference/mod-03.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 4,
+      "title": "Amasado profesional",
+      "current": "assets/reference/mod-04.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 5,
+      "title": "Fermentación profesional",
+      "current": "assets/reference/mod-05.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 6,
+      "title": "División, boleado y formado",
+      "current": "assets/reference/mod-06.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 7,
+      "title": "Horneado profesional",
+      "current": "assets/reference/mod-07.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 8,
+      "title": "Corte profesional del bolillo",
+      "current": "assets/reference/mod-08.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 9,
+      "title": "Enfriado y conservación",
+      "current": "assets/reference/mod-09.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 10,
+      "title": "Diagnóstico, errores y solución de problemas",
+      "current": "assets/reference/mod-10.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 11,
+      "title": "Variantes profesionales del bolillo",
+      "current": "assets/reference/mod-11.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 12,
+      "title": "Producción profesional completa",
+      "current": "assets/reference/mod-12.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 13,
+      "title": "Certificación profesional del panadero",
+      "current": "assets/reference/mod-13.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    },
+    {
+      "module": 14,
+      "title": "Futuro, negocio y expansión del panadero",
+      "current": "assets/reference/mod-14.svg",
+      "replacementRule": "Mantener encuadre horizontal 16:9, mostrar proceso real de Chef Juanote y conservar ruta o actualizar course-content.json."
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-intro",
+      "module": 1,
+      "title": "Bienvenida al Curso Maestro de Bolillo",
+      "current": "videos/reference-intro.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-amasado",
+      "module": 4,
+      "title": "Prueba de ventana y desarrollo de gluten",
+      "current": "videos/reference-amasado.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-fermentacion",
+      "module": 5,
+      "title": "Prueba de dedo y control de fermentación",
+      "current": "videos/reference-fermentacion.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-corte",
+      "module": 8,
+      "title": "Corte profesional y greña del bolillo",
+      "current": "videos/reference-corte.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-diagnostico",
+      "module": 10,
+      "title": "Diagnóstico rápido de errores frecuentes",
+      "current": "videos/reference-diagnostico.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-01",
+      "module": 1,
+      "title": "Clase comercial: Introducción al mundo del bolillo",
+      "current": "videos/mod-01.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-02",
+      "module": 2,
+      "title": "Clase comercial: Herramientas esenciales y profesionales",
+      "current": "videos/mod-02.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-03",
+      "module": 3,
+      "title": "Clase comercial: Ingredientes del bolillo",
+      "current": "videos/mod-03.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-04",
+      "module": 4,
+      "title": "Clase comercial: Amasado profesional",
+      "current": "videos/mod-04.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-05",
+      "module": 5,
+      "title": "Clase comercial: Fermentación profesional",
+      "current": "videos/mod-05.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-06",
+      "module": 6,
+      "title": "Clase comercial: División, boleado y formado",
+      "current": "videos/mod-06.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-07",
+      "module": 7,
+      "title": "Clase comercial: Horneado profesional",
+      "current": "videos/mod-07.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-08",
+      "module": 8,
+      "title": "Clase comercial: Corte profesional del bolillo",
+      "current": "videos/mod-08.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-09",
+      "module": 9,
+      "title": "Clase comercial: Enfriado y conservación",
+      "current": "videos/mod-09.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-10",
+      "module": 10,
+      "title": "Clase comercial: Diagnóstico, errores y solución de problemas",
+      "current": "videos/mod-10.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-11",
+      "module": 11,
+      "title": "Clase comercial: Variantes profesionales del bolillo",
+      "current": "videos/mod-11.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-12",
+      "module": 12,
+      "title": "Clase comercial: Producción profesional completa",
+      "current": "videos/mod-12.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-13",
+      "module": 13,
+      "title": "Clase comercial: Certificación profesional del panadero",
+      "current": "videos/mod-13.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    },
+    {
+      "id": "vid-mod-14",
+      "module": 14,
+      "title": "Clase comercial: Futuro, negocio y expansión del panadero",
+      "current": "videos/mod-14.html",
+      "replacementRule": "Conservar id y actualizar href si se integra reproductor final MP4/HLS/YouTube privado."
+    }
+  ],
+  "downloads": [
+    {
+      "file": "downloads/books/libro-maestro-bolillo-premium.md",
+      "replacementRule": "Reemplazar por PDF/EPUB final o actualizar data/products.json."
+    },
+    {
+      "file": "downloads/pdfs/pack-recursos-panaderia.md",
+      "replacementRule": "Reemplazar por ZIP/PDF final o actualizar data/resources.json."
+    }
+  ]
+}

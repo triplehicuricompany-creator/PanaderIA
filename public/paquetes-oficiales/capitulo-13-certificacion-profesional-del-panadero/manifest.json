@@ -1,0 +1,164 @@
+{
+  "package_id": "panaderia-capitulo-13-paquete-oficial-v1",
+  "chapter": 13,
+  "chapter_title": "Certificación profesional del panadero",
+  "status": "listo_para_produccion_y_publicacion",
+  "technical_content_policy": "No modifica contenido técnico existente ni agrega capítulos nuevos.",
+  "replacement_policy": "Todo recurso provisional generado o basado en IA conserva su ruta estable y puede sustituirse por fotografía o video real del Chef Juanote™ sin romper la estructura del paquete.",
+  "student_assets": {
+    "fotografias": [
+      {
+        "id": "c13-foto-referencia-ia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/imagenes-ia/c13-imagen-ia.svg",
+        "replacement_slot": "chef-juanote-real/capitulo-13-certificacion-profesional-del-panadero/fotografias/c13-foto-principal.jpg",
+        "uso": "Imagen de referencia IA para sustituir por fotografía real del Chef Juanote™."
+      },
+      {
+        "id": "c13-foto-chef-produccion",
+        "tipo": "fotografia_pendiente",
+        "titulo": "Chef Juanote™ aplicando Certificación profesional del panadero",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/ilustraciones/c13-ilustracion.svg",
+        "uso": "Imagen temporal de contexto; sustituible por fotografía real del Chef Juanote™."
+      }
+    ],
+    "diagramas": [
+      {
+        "id": "c13-diagrama-tecnico",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/diagramas-tecnicos/c13-diagrama-tecnico.svg",
+        "uso": "Diagrama técnico del concepto principal."
+      },
+      {
+        "id": "c13-flujo-proceso",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-13-certificacion-profesional-del-panadero/flujos-de-proceso/c13-flujo-de-proceso.svg",
+        "uso": "Flujo visual del proceso del capítulo."
+      },
+      {
+        "id": "c13-arbol-diagnostico",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-13-certificacion-profesional-del-panadero/arboles-de-diagnostico/c13-arbol-de-diagnostico.svg",
+        "uso": "Apoyo para diagnóstico guiado."
+      }
+    ],
+    "infografias": [
+      {
+        "id": "c13-infografia",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/infografias/c13-infografia.svg",
+        "uso": "Resumen visual para el alumno."
+      },
+      {
+        "id": "c13-tabla-comparativa",
+        "path": "public/biblioteca-visual-oficial-panaderia/diagramas-infografias/capitulos/capitulo-13-certificacion-profesional-del-panadero/tablas-comparativas/c13-tabla-comparativa.svg",
+        "uso": "Comparación de criterios observables."
+      }
+    ],
+    "ilustraciones": [
+      {
+        "id": "c13-ilustracion",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/ilustraciones/c13-ilustracion.svg",
+        "uso": "Ilustración educativa del capítulo."
+      },
+      {
+        "id": "c13-boly-apoyo-visual",
+        "path": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-certificacion-profesional-del-panadero/boly/c13-boly-apoyo-visual.svg",
+        "uso": "Intervención visual de Boly™."
+      }
+    ],
+    "recursos_descargables": [
+      {
+        "id": "c13-recurso-alumno",
+        "path": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-13-certificacion-profesional-del-panadero.md",
+        "uso": "Recurso descargable oficial del alumno."
+      },
+      {
+        "id": "mod-13-guia-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-13-guia.md",
+        "uso": "Guía imprimible de plataforma."
+      },
+      {
+        "id": "mod-13-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-13-examen.md",
+        "uso": "Evaluación imprimible de plataforma."
+      },
+      {
+        "id": "c13-guia-final-alumno",
+        "path": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/guia-final-capitulo-13.md",
+        "uso": "Guía final del paquete oficial."
+      },
+      {
+        "id": "c13-checklist-final",
+        "path": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/checklist-final-capitulo-13.md",
+        "uso": "Checklist final de ejecución del capítulo."
+      },
+      {
+        "id": "c13-evaluacion-final",
+        "path": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/evaluacion-final-capitulo-13.md",
+        "uso": "Evaluación final del capítulo."
+      }
+    ],
+    "videos": [
+      {
+        "id": "mod-13-video-oficial",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/videos/mod-13.html",
+        "replacement_slot": "chef-juanote-real/capitulo-13-certificacion-profesional-del-panadero/videos/mod-13.mp4",
+        "uso": "Video oficial reemplazable por grabación real."
+      }
+    ],
+    "qr": [
+      {
+        "id": "QR-C13-PAQUETE",
+        "destino": "/qr/capitulo-13",
+        "uso": "Acceso a video, guía final, checklist y evaluación."
+      },
+      {
+        "id": "QR-C13-BOLY",
+        "destino": "/qr/capitulo-13-boly",
+        "uso": "Acceso a preguntas guiadas de Boly™."
+      }
+    ],
+    "boly": [
+      {
+        "id": "boly-capitulo-13",
+        "path": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/boly-capitulo-13.md",
+        "uso": "Guía conversacional de Boly™."
+      }
+    ],
+    "casos_chef_juanote": [
+      {
+        "id": "chef-juanote-caso-13",
+        "titulo": "Certificación profesional del panadero",
+        "uso": "Caso narrativo aplicable sin cambiar el contenido técnico."
+      }
+    ],
+    "evaluaciones": [
+      {
+        "id": "evaluacion-final-capitulo-13",
+        "path": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/evaluacion-final-capitulo-13.md",
+        "uso": "Evaluación final del paquete."
+      },
+      {
+        "id": "c13-examen-plataforma",
+        "path": "PANADERIA_PLATFORM_V3_RELEASE/downloads/pdfs/mod-13-examen.md",
+        "uso": "Examen descargable de plataforma."
+      }
+    ],
+    "checklist": [
+      {
+        "id": "checklist-final-capitulo-13",
+        "path": "public/paquetes-oficiales/capitulo-13-certificacion-profesional-del-panadero/alumno/checklist-final-capitulo-13.md",
+        "uso": "Checklist de cierre."
+      }
+    ]
+  },
+  "publication_targets": [
+    "Libro Maestro",
+    "Curso Maestro",
+    "Plataforma PanaderIA™",
+    "Sitio web",
+    "Recursos descargables del alumno"
+  ],
+  "final_student_flow": [
+    "guia-final-capitulo-13.md",
+    "checklist-final-capitulo-13.md",
+    "boly-capitulo-13.md",
+    "evaluacion-final-capitulo-13.md"
+  ]
+}

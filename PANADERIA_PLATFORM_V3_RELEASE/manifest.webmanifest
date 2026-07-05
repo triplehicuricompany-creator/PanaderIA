@@ -1,0 +1,9 @@
+{
+  "name": "PanaderIA Platform V3 Release",
+  "short_name": "PanaderIA V3",
+  "start_url": "./index.html#home",
+  "display": "standalone",
+  "background_color": "#0b0907",
+  "theme_color": "#0b0907",
+  "description": "Plataforma oficial de lanzamiento: curso, Boly™, buscador, biblioteca, tienda, alumnos y certificación."
+}

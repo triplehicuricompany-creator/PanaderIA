@@ -1,0 +1,13 @@
+{
+  "qr_id": "qr-capitulo-03",
+  "chapter": 3,
+  "title": "Ingredientes del bolillo",
+  "status": "activo_para_produccion",
+  "landing_package": "public/paquetes-oficiales/capitulo-03-ingredientes-del-bolillo/manifest.json",
+  "student_guide": "public/paquetes-oficiales/capitulo-03-ingredientes-del-bolillo/alumno/guia-final-capitulo-03.md",
+  "boly_support": "public/paquetes-oficiales/capitulo-03-ingredientes-del-bolillo/alumno/boly-capitulo-03.md",
+  "evaluation": "public/paquetes-oficiales/capitulo-03-ingredientes-del-bolillo/alumno/evaluacion-final-capitulo-03.md",
+  "checklist": "public/paquetes-oficiales/capitulo-03-ingredientes-del-bolillo/alumno/checklist-final-capitulo-03.md",
+  "replaceable_video_slot": "chef-juanote-real/capitulo-03-ingredientes-del-bolillo/videos/mod-03.mp4",
+  "replaceable_photo_slot": "chef-juanote-real/capitulo-03-ingredientes-del-bolillo/fotografias/03-foto-principal.jpg"
+}

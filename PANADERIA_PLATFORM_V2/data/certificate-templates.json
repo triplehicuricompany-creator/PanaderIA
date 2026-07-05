@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cert-bolillo-esencial",
+    "name": "Certificado PanaderIA™ — Fundamentos del Bolillo",
+    "requiredModules": 7,
+    "download": "downloads/certificates/certificado-fundamentos-bolillo.md"
+  },
+  {
+    "id": "cert-panadero-profesional",
+    "name": "Certificado Profesional del Panadero de Bolillo",
+    "requiredModules": 14,
+    "download": "downloads/certificates/certificado-panadero-profesional.md"
+  }
+]
