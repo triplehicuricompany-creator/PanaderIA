@@ -1,0 +1,29 @@
+{
+  "sistema": "Sistema Maestro de Versiones de PanaderIA™",
+  "version_sistema": "1.0.0",
+  "estado": "oficial",
+  "fecha_creacion": "2026-07-05",
+  "alcance": [
+    "Libro Maestro",
+    "Curso Maestro",
+    "recursos multimedia",
+    "asistentes IA",
+    "Boly"
+  ],
+  "politica": "SemVer adaptado con estados Beta, Release Candidate y Final",
+  "archivos_control": [
+    "README.md",
+    "versiones_libro.md",
+    "versiones_curso.md",
+    "versiones_multimedia.md",
+    "historial_cambios.md",
+    "roadmap.md",
+    "pendientes.md",
+    "politica_versionado.md"
+  ],
+  "restricciones": {
+    "modificar_capitulos_existentes": false,
+    "generar_contenido_comercial_nuevo": false,
+    "preservar_historial": true
+  }
+}
