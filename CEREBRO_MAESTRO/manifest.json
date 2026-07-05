@@ -1,0 +1,304 @@
+{
+  "nombre": "Cerebro Maestro de PanaderIA™",
+  "version": "Beta 1.0",
+  "fase": "Fase 5 — Misión 17",
+  "objetivo": "Coordinar todos los módulos existentes de PanaderIA™ sin modificar sus recursos fuente.",
+  "politica_no_modificacion": "El Cerebro Maestro referencia, cruza, valida y prioriza; no edita módulos existentes.",
+  "estados_oficiales": [
+    "Pendiente",
+    "En producción",
+    "En revisión",
+    "Aprobado",
+    "Publicado",
+    "Actualizado"
+  ],
+  "carpetas": [
+    "00_MANIFIESTO",
+    "01_MAPA_GENERAL",
+    "02_CAPITULOS",
+    "03_RECURSOS",
+    "04_IMAGENES",
+    "05_MULTIMEDIA",
+    "06_BOLY",
+    "07_QR",
+    "08_DESCARGABLES",
+    "09_CONTROL_CALIDAD",
+    "10_PUBLICACION"
+  ],
+  "modulos_integrados": {
+    "libro_maestro_premium": [
+      "LIBRO_MAESTRO_BOLILLO_BIBLE.md",
+      "CURSO_MAESTRO_BOLILLO.md",
+      "CONSTRUCTOR_LIBRO_PREMIUM"
+    ],
+    "constructor_libro_premium": [
+      "CONSTRUCTOR_LIBRO_PREMIUM/manifest.json"
+    ],
+    "motor_maestro_produccion_ia": [
+      "PRODUCCION_BETA_1_0"
+    ],
+    "biblioteca_visual_ia": [
+      "BIBLIOTECA_VISUAL_IA"
+    ],
+    "centro_produccion_multimedia": [
+      "CENTRO_PRODUCCION_MULTIMEDIA/manifest.json"
+    ],
+    "recursos_descargables": [
+      "RECURSOS_DESCARGABLES_ALUMNO",
+      "PANADERIA_PLATFORM_V3_RELEASE/downloads"
+    ],
+    "chef_juanote": [
+      "CHEF_JUANOTE.md",
+      "ENCICLOPEDIA_CHEF_JUANOTE.md",
+      "PRODUCCION_BETA_1_0/11_MATERIAL_REAL_CHEF_JUANOTE"
+    ],
+    "boly": [
+      "BOLY_ASSISTANT_V1",
+      "BOLY_BIBLE.md",
+      "PEDAGOGIA_CURSO_BOLILLO.md"
+    ]
+  },
+  "capitulos_detectados": [
+    {
+      "capitulo": "01",
+      "titulo": "Introducción al mundo del bolillo",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-01-introduccion-al-mundo-del-bolillo",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C01-OBSERVAR",
+      "objetivo": "observación del bolillo ideal, anatomía y defectos comunes",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "02",
+      "titulo": "Herramientas esenciales y profesionales",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-02-herramientas-esenciales-y-profesionales",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C02-MESA",
+      "objetivo": "montaje de mesa y uso correcto de herramientas",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "03",
+      "titulo": "Ingredientes del bolillo",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-03-ingredientes-del-bolillo",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C03-INGREDIENTES",
+      "objetivo": "evaluación visual y pesaje de ingredientes",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "04",
+      "titulo": "Amasado profesional",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-04-amasado-profesional",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C04-AMASADO",
+      "objetivo": "transformación de la masa y prueba de membrana",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "05",
+      "titulo": "Fermentación profesional",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-05-fermentacion-profesional",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C05-FERMENTACION",
+      "objetivo": "crecimiento, prueba del dedo y control de fermentación",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "06",
+      "titulo": "División, boleado y formado",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-06-division-boleado-y-formado",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C06-FORMADO",
+      "objetivo": "porciones consistentes, tensión y preforma ordenada",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "07",
+      "titulo": "Horneado profesional",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-07-horneado-profesional",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C07-HORNEADO",
+      "objetivo": "manejo de calor, vapor, color y corteza",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "08",
+      "titulo": "Corte profesional del bolillo",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-08-corte-profesional-del-bolillo",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C08-CORTE",
+      "objetivo": "apertura controlada y dirección correcta del corte",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "09",
+      "titulo": "Enfriado y conservación",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-09-enfriado-y-conservacion",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C09-ENFRIADO",
+      "objetivo": "reposo, rejilla, textura y almacenamiento seguro",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "10",
+      "titulo": "Diagnóstico, errores y soluciones",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-10-diagnostico-errores-y-soluciones",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C10-DIAGNOSTICO",
+      "objetivo": "lectura de defectos y corrección técnica",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "11",
+      "titulo": "Variantes profesionales del bolillo",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-11-variantes-profesionales-del-bolillo",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C11-VARIANTES",
+      "objetivo": "diseño de variantes sin perder identidad",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "12",
+      "titulo": "Producción profesional completa",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-12-produccion-profesional-completa",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C12-PRODUCCION",
+      "objetivo": "flujo por estaciones y control de lote",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "13",
+      "titulo": "Certificación profesional del panadero",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-13-certificacion-profesional-del-panadero",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C13-CERTIFICACION",
+      "objetivo": "evidencia visual de evaluación profesional",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    },
+    {
+      "capitulo": "14",
+      "titulo": "Futuro, negocio y expansión del panadero",
+      "ruta": "PRODUCCION_BETA_1_0/capitulos/capitulo-14-futuro-negocio-y-expansion-del-panadero",
+      "estado_cerebro": "En producción",
+      "qr_referencia": "QR-LMBP-C14-NEGOCIO",
+      "objetivo": "presentación comercial, empaque, costeo visual y venta",
+      "recursos_detectados": 10,
+      "imagenes_detectadas": 6,
+      "pendientes": [
+        "validar material real Chef Juanote™",
+        "vincular video final",
+        "probar QR final",
+        "asignar descargables definitivos"
+      ]
+    }
+  ],
+  "reglas_coordinacion": [
+    "Registrar cada recurso por capítulo antes de publicarlo.",
+    "Ningún recurso pasa a Publicado sin control de calidad, QR probado y vínculo al capítulo.",
+    "Todo material real de Chef Juanote™ se marca como fuente prioritaria.",
+    "Boly™ aporta consejos didácticos alineados con el objetivo del capítulo.",
+    "Los descargables deben tener origen, destino y estado trazable."
+  ],
+  "criterios_capitulo_completo": [
+    "texto del capítulo aprobado",
+    "recursos visuales asignados",
+    "video o guion multimedia vinculado",
+    "QR generado y probado",
+    "descargables vinculados",
+    "consejos de Boly™ revisados",
+    "validación técnica Chef Juanote™",
+    "checklist de calidad aprobado"
+  ]
+}
