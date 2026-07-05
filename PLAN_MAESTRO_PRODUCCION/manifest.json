@@ -1,0 +1,171 @@
+{
+  "name": "PLAN_MAESTRO_PRODUCCION",
+  "purpose": "Hoja de ruta para terminar el Libro Premium PanaderIA™ sin inventar contenido",
+  "generated_from": [
+    "MAPA_CANONICO_CURSO/mapa_14_capitulos.md",
+    "MAPA_CANONICO_CURSO/matriz_capitulos_recursos.md",
+    "MAPA_CANONICO_CURSO/pendientes_chef_juanote.md",
+    "CEREBRO_MAESTRO/02_CAPITULOS/ESTADO_CAPITULOS.md"
+  ],
+  "rules": [
+    "No modificar recursos existentes",
+    "No crear capítulos nuevos",
+    "Usar únicamente información existente del repositorio"
+  ],
+  "chapters": [
+    {
+      "numero": "01",
+      "titulo_canonico": "Introducción al Bolillo",
+      "titulo_operativo_existente": "Introducción al mundo del bolillo",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C01-OBSERVAR",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-01-introduccion-al-mundo-del-bolillo.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-01.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-01-*",
+      "requiere_chef": "Validar contradicción comercial con CAPITULO_01_HERRAMIENTAS; aprobar material real, video final, QR y descargable."
+    },
+    {
+      "numero": "02",
+      "titulo_canonico": "Herramientas necesarias",
+      "titulo_operativo_existente": "Herramientas esenciales y profesionales",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C02-MESA",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-02-herramientas-esenciales-y-profesionales.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-02.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-02-*",
+      "requiere_chef": "Validar contradicción comercial con CAPITULO_02_INGREDIENTES; aprobar material real, video final, QR y descargable."
+    },
+    {
+      "numero": "03",
+      "titulo_canonico": "Ingredientes",
+      "titulo_operativo_existente": "Ingredientes del bolillo",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C03-INGREDIENTES",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-03-ingredientes-del-bolillo.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-03.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-03-*",
+      "requiere_chef": "Aprobar título comercial final; validar parámetros técnicos y material real."
+    },
+    {
+      "numero": "04",
+      "titulo_canonico": "Amasado",
+      "titulo_operativo_existente": "Amasado profesional",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C04-AMASADO",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-04-amasado-profesional.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-04.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-04-*",
+      "requiere_chef": "Validar demostración real de punto de masa, temperatura y membrana."
+    },
+    {
+      "numero": "05",
+      "titulo_canonico": "Fermentación",
+      "titulo_operativo_existente": "Fermentación profesional",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C05-FERMENTACION",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-05-fermentacion-profesional.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-05.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-05-*",
+      "requiere_chef": "Validar tiempos/clima/señales con experiencia del Chef."
+    },
+    {
+      "numero": "06",
+      "titulo_canonico": "División y boleado",
+      "titulo_operativo_existente": "División, boleado y formado",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C06-FORMADO",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-06-division-boleado-y-formado.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-06.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-06-*",
+      "requiere_chef": "Validar pesos, tensión y reposos reales."
+    },
+    {
+      "numero": "07",
+      "titulo_canonico": "Formado profesional del bolillo",
+      "titulo_operativo_existente": "Horneado profesional",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C07-HORNEADO",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-07-horneado-profesional.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-07.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-07-*",
+      "requiere_chef": "Resolver desalineación operativa: capítulo canónico es formado, descargable/plataforma dicen horneado."
+    },
+    {
+      "numero": "08",
+      "titulo_canonico": "Corte correcto",
+      "titulo_operativo_existente": "Corte profesional del bolillo",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C08-CORTE",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-08-corte-profesional-del-bolillo.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-08.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-08-*",
+      "requiere_chef": "Validar herramienta, ángulo, profundidad y momento real de corte."
+    },
+    {
+      "numero": "09",
+      "titulo_canonico": "Horneado y vapor",
+      "titulo_operativo_existente": "Enfriado y conservación",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C09-ENFRIADO",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-09-enfriado-y-conservacion.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-09.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-09-*",
+      "requiere_chef": "Resolver desalineación operativa: capítulo canónico es horneado/vapor, descargable/plataforma dicen enfriado."
+    },
+    {
+      "numero": "10",
+      "titulo_canonico": "Enfriado, conservación e higiene",
+      "titulo_operativo_existente": "Diagnóstico, errores y soluciones",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C10-DIAGNOSTICO",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-10-diagnostico-errores-y-soluciones.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-10.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-10-*",
+      "requiere_chef": "Resolver desalineación operativa: capítulo canónico es enfriado/higiene, operativo dice diagnóstico."
+    },
+    {
+      "numero": "11",
+      "titulo_canonico": "Variantes del bolillo",
+      "titulo_operativo_existente": "Variantes profesionales del bolillo",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C11-VARIANTES",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-11-variantes-profesionales-del-bolillo.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-11.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-11-*",
+      "requiere_chef": "Validar variantes, ajustes de hidratación y límites técnicos."
+    },
+    {
+      "numero": "12",
+      "titulo_canonico": "Solución de problemas y control de calidad",
+      "titulo_operativo_existente": "Producción profesional completa",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C12-PRODUCCION",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-12-produccion-profesional-completa.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-12.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-12-*",
+      "requiere_chef": "Resolver desalineación operativa: capítulo canónico es solución de problemas, operativo dice producción."
+    },
+    {
+      "numero": "13",
+      "titulo_canonico": "Producción profesional, organización y evaluación",
+      "titulo_operativo_existente": "Certificación profesional del panadero",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C13-CERTIFICACION",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-13-certificacion-profesional-del-panadero.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-13.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-13-*",
+      "requiere_chef": "Resolver desalineación operativa: capítulo canónico es producción/evaluación, operativo dice certificación."
+    },
+    {
+      "numero": "14",
+      "titulo_canonico": "Certificación",
+      "titulo_operativo_existente": "Futuro, negocio y expansión del panadero",
+      "estado": "CONTENIDO_CONFIRMADO / En producción / PENDIENTE_CHEF_JUANOTE",
+      "qr": "QR-LMBP-C14-NEGOCIO",
+      "descargable": "RECURSOS_DESCARGABLES_ALUMNO/capitulo-14-futuro-negocio-y-expansion-del-panadero.md",
+      "video_existente": "PANADERIA_PLATFORM_V2/videos/mod-14.html",
+      "visuales_ia": "public/biblioteca-visual-oficial-panaderia/capitulos/capitulo-14-*",
+      "requiere_chef": "Resolver desalineación operativa: capítulo canónico es certificación, operativo dice negocio."
+    }
+  ]
+}
