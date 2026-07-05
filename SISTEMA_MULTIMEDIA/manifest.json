@@ -1,0 +1,34 @@
+{
+  "sistema": "Sistema Maestro Multimedia PanaderIA™",
+  "version": "1.0.0",
+  "fase": "10",
+  "mision": "28",
+  "objetivo": "Administrar oficialmente imagenes, fotografias, videos, codigos QR, audios, ilustraciones, animaciones y recursos multimedia del Libro Maestro Premium PanaderIA™.",
+  "estado": "documental_sin_activos_generados",
+  "archivos": [
+    "README.md",
+    "imagenes.md",
+    "videos.md",
+    "codigos_qr.md",
+    "audios.md",
+    "animaciones.md",
+    "nomenclatura.md",
+    "estandares.md",
+    "checklist.md"
+  ],
+  "categorias": {
+    "imagenes": "Ilustraciones, diagramas, infografias y graficos editoriales.",
+    "fotografias": "Fotos de producto, proceso, ingredientes, equipo y contexto.",
+    "videos": "Piezas educativas, tecnicas, promocionales y de apoyo.",
+    "codigos_qr": "Puentes entre el libro, plataforma, videos, descargas y evaluaciones.",
+    "audios": "Narraciones, guias, ambientes y efectos sonoros.",
+    "animaciones": "GIFs, motion graphics, microanimaciones y recursos explicativos."
+  },
+  "reglas_clave": [
+    "No agregar activos sin nombre canonico.",
+    "No integrar recursos sin control de calidad.",
+    "No modificar capitulos existentes desde este sistema.",
+    "No generar multimedia durante esta fase documental.",
+    "Registrar proposito, destino, formato, version y responsable de cada recurso futuro."
+  ]
+}
