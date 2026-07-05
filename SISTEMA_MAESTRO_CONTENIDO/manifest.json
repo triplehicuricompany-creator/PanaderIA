@@ -1,0 +1,111 @@
+{
+  "nombre": "Sistema Maestro de Contenido de PanaderIA™",
+  "version": "Beta 1.0",
+  "fase": "Fase 6 — Misión 18",
+  "objetivo": "Centralizar la administración pedagógica y editorial del curso para organizar capítulos, lecciones, objetivos, conceptos, ejercicios, errores comunes, consejos, multimedia y revisiones futuras.",
+  "politica_no_modificacion": "El sistema referencia y organiza conocimiento existente o futuro; no modifica recursos existentes de PanaderIA™.",
+  "estado_inicial": "Estructura creada",
+  "estados_revision": [
+    "Pendiente",
+    "En desarrollo",
+    "En revisión",
+    "Aprobado",
+    "Publicado",
+    "Actualizar"
+  ],
+  "carpetas": [
+    {
+      "ruta": "00_MANIFIESTO",
+      "funcion": "Definir principios, reglas, alcance editorial y criterios de uso del sistema."
+    },
+    {
+      "ruta": "01_CAPITULOS",
+      "funcion": "Administrar capítulos, prioridad, estado general y trazabilidad por unidad."
+    },
+    {
+      "ruta": "02_LECCIONES",
+      "funcion": "Registrar lecciones, secuencia didáctica y relación con capítulos."
+    },
+    {
+      "ruta": "03_OBJETIVOS",
+      "funcion": "Definir objetivos de aprendizaje claros, medibles y vinculados a lecciones."
+    },
+    {
+      "ruta": "04_CONCEPTOS",
+      "funcion": "Organizar conceptos clave, definiciones, términos técnicos y relaciones temáticas."
+    },
+    {
+      "ruta": "05_EJERCICIOS",
+      "funcion": "Controlar ejercicios, prácticas, tareas, evidencias y criterios de evaluación."
+    },
+    {
+      "ruta": "06_ERRORES_COMUNES",
+      "funcion": "Documentar errores frecuentes, señales de diagnóstico, causas y soluciones."
+    },
+    {
+      "ruta": "07_CONSEJOS_CHEF",
+      "funcion": "Registrar consejos técnicos y recomendaciones de autoridad del Chef Juanote™."
+    },
+    {
+      "ruta": "08_CONSEJOS_BOLY",
+      "funcion": "Registrar apoyos pedagógicos, recordatorios y advertencias de Boly™."
+    },
+    {
+      "ruta": "09_MULTIMEDIA",
+      "funcion": "Vincular videos, imágenes, infografías, QR, descargables y recursos visuales asociados."
+    },
+    {
+      "ruta": "10_REVISIONES",
+      "funcion": "Administrar revisiones, aprobaciones, pendientes, historial y futuras actualizaciones."
+    }
+  ],
+  "entidades_administradas": [
+    "capitulos",
+    "lecciones",
+    "objetivos_aprendizaje",
+    "conceptos_clave",
+    "ejercicios",
+    "errores_comunes",
+    "consejos_chef_juanote",
+    "consejos_boly",
+    "recursos_multimedia",
+    "estado_revision"
+  ],
+  "modulos_referenciables": [
+    "Libro Maestro Premium",
+    "Constructor del Libro Premium",
+    "Cerebro Maestro",
+    "Motor Maestro de Producción IA",
+    "Biblioteca Visual IA",
+    "Centro de Producción Multimedia",
+    "Recursos Descargables"
+  ],
+  "registro_base_contenido": {
+    "campos_recomendados": [
+      "id",
+      "capitulo",
+      "leccion",
+      "titulo",
+      "objetivo_aprendizaje",
+      "conceptos_clave",
+      "ejercicios_asociados",
+      "errores_comunes",
+      "consejo_chef_juanote",
+      "consejo_boly",
+      "recursos_multimedia",
+      "estado_revision",
+      "responsable",
+      "fecha_revision",
+      "notas"
+    ]
+  },
+  "reglas_operativas": [
+    "Todo contenido nuevo debe registrarse por capítulo y lección antes de publicarse.",
+    "Cada lección debe tener al menos un objetivo de aprendizaje y un estado de revisión.",
+    "Los recursos multimedia deben apuntar a su origen sin duplicar ni modificar archivos fuente.",
+    "Los consejos del Chef Juanote™ representan validación técnica y autoridad práctica.",
+    "Los consejos de Boly™ deben apoyar claridad, motivación, prevención de errores y acompañamiento del alumno.",
+    "Las revisiones deben registrar pendientes, cambios esperados y criterios de aprobación."
+  ],
+  "resultado_esperado": "Sistema centralizado para administrar y evolucionar el contenido de PanaderIA™ sin perder organización."
+}
