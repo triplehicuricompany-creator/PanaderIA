@@ -1,45 +1,38 @@
-# Organización de animaciones
+# Animaciones Futuras PanaderIA™
 
-## Tipos oficiales
+## Propósito
 
-- **Animación explicativa:** muestra procesos como fermentación, expansión, vapor o greñado.
-- **Motion graphic:** títulos, transiciones, llamadas visuales o datos clave.
-- **GIF didáctico:** bucle corto para explicar movimientos repetibles.
-- **Microinteracción:** recurso para plataformas digitales o interfaz.
-- **Animación comercial:** pieza breve para promoción o lanzamiento.
+Preparar lineamientos documentales para animaciones futuras, motion graphics, microinteracciones y recursos dinámicos vinculados al ecosistema PanaderIA™.
 
-## Organización recomendada
+## Usos previstos
 
-```text
-MULTIMEDIA_ACTIVOS/animaciones/
-├── explicativas/
-├── motion_graphics/
-├── gifs/
-├── microinteracciones/
-├── comerciales/
-└── masters/
-```
+- Explicaciones visuales de procesos.
+- Secuencias educativas paso a paso.
+- Animaciones de personajes.
+- Transiciones para video.
+- Microinteracciones en plataforma.
+- Recursos promocionales dinámicos.
 
-## Resoluciones recomendadas
+## Criterios de diseño futuro
 
-| Uso | Resolución | Formato |
-| --- | --- | --- |
-| Curso 16:9 | 1920 x 1080 | MP4, WebM |
-| Vertical social | 1080 x 1920 | MP4 |
-| GIF didáctico | 800 px lado largo mínimo | GIF o WebP animado |
-| Interfaz | Según componente | Lottie JSON, SVG animado o WebM |
+- Claridad pedagógica sobre complejidad visual.
+- Duraciones breves y funcionales.
+- Ritmo compatible con aprendizaje.
+- Consistencia con iconografía, color y branding.
+- Accesibilidad y comprensión sin depender exclusivamente del movimiento.
 
-## Formatos permitidos
+## Metadatos futuros
 
-- **Master editable:** After Effects, Blender, Figma, SVG, Lottie fuente o equivalente.
-- **Entrega:** MP4, WebM, GIF, WebP animado, Lottie JSON.
-- **Vector:** SVG cuando sea compatible con el destino.
+- Tipo de animación.
+- Objetivo.
+- Escena o flujo asociado.
+- Formato previsto.
+- Duración estimada.
+- Responsable.
+- Versión.
+- Estado de aprobación.
+- Derechos de uso.
 
-## Reglas de calidad
+## Exclusiones de esta fase
 
-1. La animación debe simplificar un concepto, no decorarlo sin propósito.
-2. Evitar movimientos excesivos que distraigan del aprendizaje.
-3. Mantener ritmo legible en móvil.
-4. Respetar paleta, tono y estilo visual de PanaderIA™.
-5. Probar peso final para no afectar carga de plataforma.
-6. Conservar master editable y exportación final.
+No se crean animaciones, archivos de motion graphics, renders, prototipos interactivos ni código.

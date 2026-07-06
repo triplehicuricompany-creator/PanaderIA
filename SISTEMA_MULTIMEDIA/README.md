@@ -1,67 +1,48 @@
 # Sistema Maestro Multimedia PanaderIA™
 
-El Sistema Maestro Multimedia PanaderIA™ es la fuente oficial para organizar, nombrar, registrar y validar todos los recursos visuales, sonoros e interactivos del Libro Maestro Premium PanaderIA™.
+El **Sistema Maestro Multimedia PanaderIA™** es la infraestructura documental oficial para administrar, gobernar y preparar todos los recursos multimedia del ecosistema PanaderIA™.
+
+Este sistema no genera imágenes, videos, audio, animaciones ni contenido final del libro. Su función es establecer reglas, arquitectura, criterios de organización y trazabilidad para que futuras fases puedan producir, aprobar, licenciar y publicar recursos multimedia de forma ordenada.
+
+## Objetivo
+
+Crear una base documental única para coordinar recursos visuales, audiovisuales, sonoros, animados, iconográficos y de branding sin modificar capítulos del libro ni desarrollar código.
 
 ## Alcance
 
-Este sistema administra futuras integraciones de:
+- Arquitectura multimedia general.
+- Organización de imágenes.
+- Organización de videos.
+- Recursos de audio.
+- Animaciones futuras.
+- Iconografía oficial.
+- Branding visual.
+- Licencias y derechos de uso.
+- Roadmap evolutivo multimedia.
 
-- Imágenes e ilustraciones.
-- Fotografías de producto, proceso y contexto.
-- Videos educativos, comerciales y técnicos.
-- Códigos QR dinámicos o estáticos.
-- Audios de apoyo, narraciones y efectos.
-- Animaciones, GIFs y microinteracciones.
-- Recursos derivados para impresión, web, aula digital y redes.
+## Archivos del sistema
+
+| Archivo | Función |
+|---|---|
+| `manifest.json` | Registro estructural, versión, alcance, reglas y módulos del sistema. |
+| `arquitectura.md` | Define la arquitectura documental y operativa del ecosistema multimedia. |
+| `imagenes.md` | Establece criterios para organizar imágenes, fotografías, ilustraciones e infografías. |
+| `videos.md` | Define la estructura para futuros videos educativos, promocionales y de apoyo. |
+| `audio.md` | Documenta lineamientos para narraciones, música, efectos y recursos sonoros. |
+| `animaciones.md` | Prepara criterios para animaciones futuras y piezas dinámicas. |
+| `iconografia.md` | Ordena el sistema de íconos, pictogramas y señales visuales. |
+| `branding.md` | Define criterios de identidad visual, coherencia premium y uso de marca. |
+| `licencias.md` | Establece reglas para derechos de uso, atribución, permisos y restricciones. |
+| `roadmap.md` | Organiza la evolución por fases del sistema multimedia. |
 
 ## Principios oficiales
 
-1. **Orden antes que volumen:** ningún recurso debe agregarse sin ubicación, nombre y registro.
-2. **Calidad premium:** cada archivo debe cumplir estándares técnicos mínimos antes de integrarse.
-3. **Trazabilidad total:** todo recurso debe poder asociarse a capítulo, lección, uso y versión.
-4. **Compatibilidad editorial:** el recurso debe servir al Libro Maestro Premium PanaderIA™ sin alterar capítulos existentes.
-5. **Preparación multicanal:** cada recurso debe contemplar uso impreso, digital, móvil y comercial cuando aplique.
-
-## Estructura recomendada de carpetas futuras
-
-```text
-SISTEMA_MULTIMEDIA/
-├── README.md
-├── manifest.json
-├── imagenes.md
-├── videos.md
-├── codigos_qr.md
-├── audios.md
-├── animaciones.md
-├── nomenclatura.md
-├── estandares.md
-└── checklist.md
-```
-
-Cuando se integren archivos reales en fases posteriores, deberán colocarse en carpetas derivadas, por ejemplo:
-
-```text
-MULTIMEDIA_ACTIVOS/
-├── imagenes/
-├── fotografias/
-├── videos/
-├── codigos_qr/
-├── audios/
-├── animaciones/
-└── exportaciones/
-```
-
-## Flujo maestro para agregar recursos
-
-1. Definir el propósito pedagógico, editorial o comercial del recurso.
-2. Confirmar capítulo, módulo, lección o sección de destino.
-3. Elegir formato, resolución y variante requerida.
-4. Nombrar el archivo conforme a `nomenclatura.md`.
-5. Registrar el recurso en el inventario correspondiente.
-6. Ejecutar control de calidad con `checklist.md`.
-7. Aprobar el recurso para integración futura.
-8. Conservar versión editable y versión final cuando aplique.
+1. **Documentación antes que producción:** esta carpeta organiza reglas, no crea recursos multimedia.
+2. **Trazabilidad total:** todo recurso futuro debe registrar fuente, versión, licencia, responsable y estado.
+3. **Coherencia PanaderIA™:** cualquier pieza futura debe respetar la identidad visual y educativa del ecosistema.
+4. **Separación editorial:** este sistema no modifica capítulos ni redacta contenido final del libro.
+5. **Escalabilidad:** la estructura debe soportar futuras integraciones con publicación, contenido educativo, marketing y plataforma.
 
 ## Estado de esta misión
 
-Esta carpeta crea únicamente el sistema documental oficial. No contiene imágenes, videos, audios ni códigos QR generados.
+Esta misión crea únicamente la infraestructura documental oficial del Sistema Maestro Multimedia PanaderIA™. No contiene archivos multimedia, contenido final del libro, código ni piezas publicables.
