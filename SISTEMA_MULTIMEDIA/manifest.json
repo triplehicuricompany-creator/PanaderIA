@@ -1,34 +1,40 @@
 {
   "sistema": "Sistema Maestro Multimedia PanaderIA™",
   "version": "1.0.0",
-  "fase": "10",
-  "mision": "28",
-  "objetivo": "Administrar oficialmente imagenes, fotografias, videos, codigos QR, audios, ilustraciones, animaciones y recursos multimedia del Libro Maestro Premium PanaderIA™.",
-  "estado": "documental_sin_activos_generados",
+  "fase": "14",
+  "mision": "44",
+  "objetivo": "Administrar oficialmente la arquitectura, organizacion, derechos y evolucion de los recursos multimedia del ecosistema PanaderIA™ sin generar archivos multimedia, contenido final del libro ni codigo.",
+  "estado": "infraestructura_documental_sin_recursos_multimedia",
   "archivos": [
     "README.md",
+    "arquitectura.md",
     "imagenes.md",
     "videos.md",
-    "codigos_qr.md",
-    "audios.md",
+    "audio.md",
     "animaciones.md",
-    "nomenclatura.md",
-    "estandares.md",
-    "checklist.md"
+    "iconografia.md",
+    "branding.md",
+    "licencias.md",
+    "roadmap.md"
   ],
-  "categorias": {
-    "imagenes": "Ilustraciones, diagramas, infografias y graficos editoriales.",
-    "fotografias": "Fotos de producto, proceso, ingredientes, equipo y contexto.",
-    "videos": "Piezas educativas, tecnicas, promocionales y de apoyo.",
-    "codigos_qr": "Puentes entre el libro, plataforma, videos, descargas y evaluaciones.",
-    "audios": "Narraciones, guias, ambientes y efectos sonoros.",
-    "animaciones": "GIFs, motion graphics, microanimaciones y recursos explicativos."
+  "areas": {
+    "arquitectura": "Modelo documental para clasificar, aprobar, versionar y relacionar recursos multimedia futuros.",
+    "imagenes": "Criterios de organizacion para fotografias, ilustraciones, infografias, portadas, banners y recursos visuales.",
+    "videos": "Lineamientos para administrar futuros videos educativos, demostrativos, promocionales y de soporte.",
+    "audio": "Marco para narraciones, musica, efectos, ambientes sonoros y controles de calidad de audio.",
+    "animaciones": "Preparacion para animaciones didacticas, microinteracciones, motion graphics y piezas dinamicas futuras.",
+    "iconografia": "Sistema de iconos, pictogramas, senales, estados visuales y criterios de consistencia.",
+    "branding": "Reglas para identidad visual, tono grafico, aplicaciones de marca y coherencia premium.",
+    "licencias": "Gobernanza de derechos de autor, permisos, atribuciones, restricciones y evidencias de uso.",
+    "roadmap": "Plan evolutivo para madurar el sistema multimedia por fases, prioridades y dependencias."
   },
   "reglas_clave": [
-    "No agregar activos sin nombre canonico.",
-    "No integrar recursos sin control de calidad.",
-    "No modificar capitulos existentes desde este sistema.",
-    "No generar multimedia durante esta fase documental.",
-    "Registrar proposito, destino, formato, version y responsable de cada recurso futuro."
+    "No modificar capitulos del libro desde este sistema.",
+    "No generar imagenes en esta fase.",
+    "No generar videos en esta fase.",
+    "No crear archivos multimedia en esta fase.",
+    "No escribir contenido final del libro.",
+    "No desarrollar codigo.",
+    "Registrar todo recurso multimedia futuro con fuente, licencia, version, responsable, fecha, estado y uso permitido."
   ]
 }
