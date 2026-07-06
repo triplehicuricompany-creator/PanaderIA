@@ -1,0 +1,44 @@
+{
+  "sistema": "SISTEMA_PERSONAJES",
+  "nombre": "Sistema Maestro de Personajes PanaderIA™",
+  "version": "1.0.0",
+  "fase": "Fase 14 — Misión 43",
+  "proyecto": "PanaderIA™",
+  "estado": "oficial",
+  "idioma_principal": "es-MX",
+  "tipo": "infraestructura_documental_personajes",
+  "objetivo": "Administrar la arquitectura, registro, personalidad, emociones, expresiones, interacciones y evolución de los personajes oficiales del ecosistema PanaderIA™.",
+  "alcance": "Documentación maestra para uso editorial, pedagógico, multimedia e interactivo futuro.",
+  "politica_no_modificacion": [
+    "No modificar capítulos del libro.",
+    "No generar imágenes.",
+    "No generar modelos 3D.",
+    "No escribir diálogos finales.",
+    "No crear código."
+  ],
+  "personajes_base": [
+    "Boly™",
+    "Chef Juanote™"
+  ],
+  "archivos": [
+    "README.md",
+    "manifest.json",
+    "arquitectura.md",
+    "personajes.md",
+    "boly.md",
+    "personalidades.md",
+    "interacciones.md",
+    "emociones.md",
+    "expresiones.md",
+    "animaciones.md",
+    "roadmap.md"
+  ],
+  "principios": [
+    "coherencia narrativa",
+    "claridad pedagógica",
+    "respeto al alumno",
+    "continuidad editorial",
+    "control de canon",
+    "evolución ordenada"
+  ]
+}
