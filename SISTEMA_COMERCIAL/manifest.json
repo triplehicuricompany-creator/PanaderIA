@@ -1,37 +1,47 @@
 {
   "sistema": "Sistema Maestro Comercial PanaderIA™",
-  "version": "1.0.0",
-  "fase": "11",
-  "mision": "32",
-  "objetivo": "Administrar oficialmente la estrategia comercial futura del Libro Maestro Premium PanaderIA™ sin crear el libro ni contenido comercial definitivo.",
-  "estado": "documental_sin_contenido_comercial_definitivo",
-  "archivos": [
-    "README.md",
-    "modelo_negocio.md",
-    "estrategia_ventas.md",
-    "embudo_ventas.md",
-    "precios.md",
-    "licencias.md",
-    "clientes.md",
-    "alianzas.md",
-    "roadmap_comercial.md"
+  "version_sistema": "1.0.0",
+  "estado": "oficial",
+  "fecha_creacion": "2026-07-06",
+  "proposito": "Administrar la estrategia comercial del ecosistema PanaderIA™ mediante documentación estructural oficial, sin crear campañas ni contenido comercial definitivo.",
+  "alcance": [
+    "arquitectura comercial",
+    "catalogo conceptual de productos",
+    "tipos de clientes",
+    "estrategia de ventas",
+    "embudos comerciales",
+    "ofertas y promociones",
+    "modelo de suscripciones",
+    "programa de afiliados",
+    "roadmap comercial"
   ],
-  "areas": {
-    "modelo_negocio": "Marco para definir fuentes de valor, canales, costos, ingresos y sostenibilidad comercial.",
-    "estrategia_ventas": "Criterios para planear venta directa, digital, educativa, institucional y por aliados.",
-    "embudo_ventas": "Estructura de etapas comerciales desde atraccion hasta recompra y referidos.",
-    "precios": "Sistema para preparar versiones, paquetes, criterios de precio y reglas de descuento futuras.",
-    "licencias": "Marco de uso para clientes personales, educativos, institucionales y comerciales.",
-    "clientes": "Segmentacion, necesidades, relacion comercial y reglas de atencion futura.",
-    "alianzas": "Criterios para socios, distribuidores, escuelas, marcas y colaboraciones.",
-    "roadmap_comercial": "Plan maestro de crecimiento por fases, hitos, indicadores y dependencias."
-  },
-  "reglas_clave": [
-    "No crear el libro desde este sistema.",
-    "No generar contenido comercial definitivo en esta fase.",
-    "No modificar capitulos existentes.",
-    "No publicar precios finales sin aprobacion posterior.",
-    "No activar licencias, contratos o alianzas sin validacion legal y comercial futura.",
-    "Registrar toda integracion comercial futura con version, fecha, responsable y alcance."
-  ]
+  "archivos_control": [
+    "README.md",
+    "arquitectura.md",
+    "productos.md",
+    "clientes.md",
+    "ventas.md",
+    "embudos.md",
+    "ofertas.md",
+    "suscripciones.md",
+    "afiliados.md",
+    "roadmap.md"
+  ],
+  "estados_permitidos": [
+    "propuesto",
+    "borrador",
+    "en_revision",
+    "aprobado",
+    "activo",
+    "pausado",
+    "retirado"
+  ],
+  "restricciones": {
+    "modificar_capitulos_libro": false,
+    "crear_paginas_venta": false,
+    "generar_campanas": false,
+    "escribir_contenido_comercial_definitivo": false,
+    "desarrollar_codigo": false,
+    "requiere_revision_comercial": true
+  }
 }

@@ -1,46 +1,46 @@
-# Sistema Maestro Comercial PanaderIA™
+# SISTEMA_COMERCIAL — Sistema Maestro Comercial PanaderIA™
 
-El Sistema Maestro Comercial PanaderIA™ es la fuente oficial para organizar, gobernar y preparar la estrategia comercial futura del Libro Maestro Premium PanaderIA™.
+**Proyecto:** PanaderIA™  
+**Sistema:** Sistema Maestro Comercial  
+**Estado:** Oficial  
+**Alcance:** Infraestructura documental para administrar la estrategia comercial del ecosistema PanaderIA™
 
-## Objetivo
+---
 
-Establecer una estructura documental que permita administrar, en fases posteriores, el modelo de negocio, estrategia de ventas, embudo comercial, versiones del producto, licencias, clientes, alianzas y roadmap de crecimiento.
+## Propósito
 
-## Alcance
+SISTEMA_COMERCIAL centraliza los documentos base para ordenar la arquitectura comercial, productos conceptuales, clientes, ventas, embudos, ofertas, suscripciones, afiliados y roadmap comercial de PanaderIA™.
 
-Este sistema define criterios marco para futuras integraciones de:
+Este sistema no contiene páginas de venta, campañas activas, copys definitivos, anuncios, promesas comerciales finales ni implementación técnica. Su función es establecer un marco documental gobernable para futuras decisiones comerciales sin modificar capítulos del libro ni desarrollar código.
 
-- Modelo de negocio.
-- Estrategia de ventas.
-- Embudo comercial.
-- Versiones del producto.
-- Licencias de uso.
-- Estrategia para clientes.
-- Alianzas comerciales.
-- Roadmap de crecimiento.
+---
 
 ## Archivos del sistema
 
-| Archivo | Función |
-|---|---|
-| `manifest.json` | Registro estructural, versión, alcance y reglas operativas del sistema. |
-| `modelo_negocio.md` | Define el marco para diseñar y validar el modelo de negocio futuro. |
-| `estrategia_ventas.md` | Establece criterios para planear canales, mensajes y procesos de venta. |
-| `embudo_ventas.md` | Organiza las etapas comerciales desde descubrimiento hasta fidelización. |
-| `precios.md` | Documenta la estructura para futuras versiones, precios y paquetes. |
-| `licencias.md` | Define criterios para licencias personales, educativas, institucionales y comerciales. |
-| `clientes.md` | Ordena segmentos, necesidades y reglas de atención comercial. |
-| `alianzas.md` | Establece criterios para colaboraciones, distribuidores y socios estratégicos. |
-| `roadmap_comercial.md` | Define el marco de crecimiento comercial por etapas. |
+- `manifest.json`: identidad, alcance, reglas y lista oficial de documentos.
+- `arquitectura.md`: estructura comercial general del ecosistema.
+- `productos.md`: catálogo conceptual de productos y criterios de clasificación.
+- `clientes.md`: tipos de clientes y segmentos de referencia.
+- `ventas.md`: estrategia de ventas a nivel estructural.
+- `embudos.md`: mapa conceptual de embudos comerciales.
+- `ofertas.md`: lineamientos para ofertas y promociones futuras.
+- `suscripciones.md`: modelo conceptual de suscripciones.
+- `afiliados.md`: programa conceptual de afiliados.
+- `roadmap.md`: evolución planificada del sistema comercial.
 
-## Principios oficiales
+---
 
-1. **Sistema antes que campaña:** este directorio organiza la estrategia; no publica ofertas finales.
-2. **Trazabilidad comercial:** toda decisión futura debe registrar versión, responsable, fecha y justificación.
-3. **Coherencia premium:** cualquier propuesta comercial debe proteger el posicionamiento del Libro Maestro Premium PanaderIA™.
-4. **Separación editorial:** este sistema no modifica capítulos ni crea contenido del libro.
-5. **Preparación escalable:** cada documento debe facilitar futuras integraciones con plataforma, marketing, ventas y alianzas.
+## Principios rectores
 
-## Estado de esta misión
+1. **Claridad:** toda iniciativa comercial debe tener objetivo, público y alcance definidos.
+2. **Coherencia:** los productos, ofertas y canales deben respetar la identidad PanaderIA™.
+3. **Trazabilidad:** cada decisión comercial futura debe poder documentarse y revisarse.
+4. **Ética:** la comunicación comercial debe evitar promesas engañosas o resultados no verificables.
+5. **Separación editorial:** el sistema comercial no altera contenidos formativos ni capítulos del libro.
+6. **Escalabilidad:** la arquitectura debe permitir crecimiento por productos, audiencias y canales.
 
-Esta carpeta crea únicamente el sistema documental oficial. No contiene campañas activas, precios definitivos, contratos finales ni contenido comercial definitivo.
+---
+
+## Política de esta misión
+
+Esta carpeta crea únicamente infraestructura documental oficial. No modifica capítulos del libro, no crea páginas de venta, no genera campañas, no escribe contenido comercial definitivo y no desarrolla código.
