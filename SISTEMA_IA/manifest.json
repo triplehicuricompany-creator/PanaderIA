@@ -1,0 +1,52 @@
+{
+  "sistema": "Sistema Maestro de Inteligencia Artificial PanaderIA™",
+  "version": "1.0.0",
+  "fase": "FASE 12",
+  "mision": "MISIÓN 34",
+  "estado": "base oficial creada",
+  "proposito": "Organizar futuras integraciones de inteligencia artificial del proyecto PanaderIA™ sin generar contenido final del libro ni crear asistentes nuevos.",
+  "archivos": [
+    {
+      "nombre": "README.md",
+      "funcion": "Presentación general del sistema maestro de IA."
+    },
+    {
+      "nombre": "arquitectura.md",
+      "funcion": "Define la arquitectura general de IA."
+    },
+    {
+      "nombre": "asistentes.md",
+      "funcion": "Organiza asistentes existentes y criterios para futuros asistentes autorizados."
+    },
+    {
+      "nombre": "prompts.md",
+      "funcion": "Establece la biblioteca base de prompts y sus reglas de uso."
+    },
+    {
+      "nombre": "automatizaciones.md",
+      "funcion": "Documenta automatizaciones posibles y controles humanos requeridos."
+    },
+    {
+      "nombre": "integraciones.md",
+      "funcion": "Registra integraciones futuras con herramientas internas y externas."
+    },
+    {
+      "nombre": "modelos.md",
+      "funcion": "Define criterios para seleccionar y usar modelos de IA."
+    },
+    {
+      "nombre": "seguridad.md",
+      "funcion": "Establece buenas prácticas de seguridad, privacidad y gobernanza."
+    },
+    {
+      "nombre": "roadmap_ia.md",
+      "funcion": "Traza la evolución del sistema de IA por etapas."
+    }
+  ],
+  "restricciones": [
+    "No modificar capítulos existentes.",
+    "No generar contenido final del libro.",
+    "No crear asistentes nuevos en esta misión.",
+    "Toda salida crítica de IA requiere revisión humana."
+  ]
+}
