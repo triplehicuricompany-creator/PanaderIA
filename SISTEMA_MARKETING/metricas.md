@@ -1,56 +1,32 @@
-# Métricas e Indicadores
+# Métricas documentales de marketing
 
 ## Objetivo
 
-Definir indicadores para evaluar el desempeño del marketing y tomar decisiones basadas en datos.
+Definir indicadores para evaluar el sistema de marketing sin recolectar datos reales durante esta fase.
 
-## Métricas de marca
+## Métricas futuras posibles
 
 - Alcance.
 - Impresiones.
-- Crecimiento de comunidad.
-- Menciones y comentarios cualitativos.
-- Reconocimiento de temas asociados a PanaderIA™.
-
-## Métricas de contenido
-
 - Tasa de interacción.
-- Guardados.
-- Compartidos.
-- Tiempo de visualización.
-- Clics hacia activos propios.
+- Clics.
+- Conversión.
+- Captación de leads.
+- Apertura de email.
+- Retención comunitaria.
+- Tráfico orgánico.
+- Ranking SEO.
+- Costo por resultado.
+- Atribución por canal.
 
-## Métricas de captación
+## Métricas documentales de control
 
-- Tasa de conversión de formularios.
-- Costo por lead.
-- Calidad del lead.
-- Fuente de registro.
-- Crecimiento de lista.
+- Porcentaje de iniciativas con objetivo definido.
+- Porcentaje de piezas con revisión de marca.
+- Porcentaje de campañas con restricciones documentadas.
+- Número de aprendizajes registrados.
+- Número de riesgos identificados.
 
-## Métricas de email
+## Reglas
 
-- Tasa de apertura.
-- Tasa de clics.
-- Respuestas.
-- Bajas.
-- Conversiones atribuidas.
-
-## Métricas de venta
-
-- Tasa de conversión de página.
-- Ingresos.
-- Valor promedio de pedido.
-- Costo de adquisición.
-- Retorno de inversión publicitaria.
-
-## Ritmo de revisión
-
-- Diario durante lanzamiento activo.
-- Semanal durante campañas regulares.
-- Mensual para estrategia general.
-- Trimestral para decisiones de posicionamiento y oferta.
-
-## Criterios de mejora
-
-Cada revisión debe identificar qué mantener, qué pausar, qué probar y qué documentar para futuras integraciones.
+No se capturan datos reales desde este documento. Toda medición futura debe coordinarse con el Sistema Maestro de Analítica.
