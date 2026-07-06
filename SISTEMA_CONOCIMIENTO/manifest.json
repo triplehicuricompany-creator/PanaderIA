@@ -1,0 +1,49 @@
+{
+  "sistema": "Sistema Maestro de Conocimiento PanaderIA™",
+  "version": "1.0.0",
+  "estado": "infraestructura_documental_inicial",
+  "proposito": "Administrar la arquitectura, terminologia, fuentes, referencias y crecimiento del conocimiento oficial del ecosistema PanaderIA™.",
+  "alcance": {
+    "incluye": [
+      "arquitectura del conocimiento",
+      "glosario oficial",
+      "terminologia tecnica y editorial",
+      "conceptos fundamentales",
+      "estructura de fuentes",
+      "estructura de referencias",
+      "estructura de preguntas frecuentes",
+      "mapa general del conocimiento",
+      "roadmap de crecimiento"
+    ],
+    "excluye": [
+      "capitulos del libro",
+      "contenido pedagogico desarrollado",
+      "respuestas tecnicas finales",
+      "cursos",
+      "PDFs",
+      "material comercial final"
+    ]
+  },
+  "archivos": [
+    "README.md",
+    "conceptos.md",
+    "glosario.md",
+    "terminologia.md",
+    "fuentes.md",
+    "referencias.md",
+    "faq.md",
+    "mapa_conocimiento.md",
+    "roadmap.md"
+  ],
+  "gobernanza": {
+    "tipo": "conocimiento_canonico",
+    "criterio_actualizacion": "solo mediante revision editorial, tecnica o estrategica aprobada",
+    "relacion_sistemas": [
+      "SISTEMA_LIBRO",
+      "SISTEMA_IA",
+      "SISTEMA_CALIDAD",
+      "SISTEMA_VERSIONES",
+      "MAPA_CANONICO_CURSO"
+    ]
+  }
+}
