@@ -1,0 +1,70 @@
+{
+  "nombre": "Sistema Maestro de Publicación PanaderIA™",
+  "version": "1.0.0",
+  "fase": "Fase 11 — Misión 30",
+  "objetivo": "Administrar la futura publicación del Libro Maestro Premium PanaderIA™ en formatos digitales e impresos sin publicar ni generar archivos finales.",
+  "regla_principal": "Este sistema documenta, valida y prepara; no modifica capítulos existentes, no publica el libro y no genera archivos finales.",
+  "libro_objetivo": "Libro Maestro Premium PanaderIA™",
+  "formatos_previstos": {
+    "digitales": [
+      "PDF premium",
+      "EPUB",
+      "MOBI/KPF para Kindle",
+      "Libro web protegido",
+      "Paquete descargable del alumno"
+    ],
+    "impresos": [
+      "Tapa blanda",
+      "Tapa dura",
+      "Edición de trabajo para aula",
+      "Edición premium coleccionable"
+    ]
+  },
+  "plataformas_distribucion": [
+    "Amazon KDP",
+    "Gumroad",
+    "Shopify",
+    "Plataforma propia PanaderIA™",
+    "Distribución institucional futura"
+  ],
+  "estados_publicacion": [
+    "borrador",
+    "candidato_a_publicacion",
+    "en_revision_final",
+    "aprobado_para_exportacion",
+    "aprobado_para_publicacion",
+    "publicado",
+    "retirado",
+    "actualizado"
+  ],
+  "controles_obligatorios": [
+    "Control editorial",
+    "Control técnico panadero",
+    "Control visual",
+    "Control de enlaces y QR",
+    "Control legal y marcas",
+    "Control de metadatos",
+    "Control de archivos por plataforma",
+    "Control de precio y oferta",
+    "Control de versión y edición"
+  ],
+  "archivos_sistema": [
+    "README.md",
+    "ebooks.md",
+    "impresion.md",
+    "amazon_kdp.md",
+    "gumroad.md",
+    "shopify.md",
+    "versiones.md",
+    "lanzamiento.md",
+    "checklist_publicacion.md"
+  ],
+  "salidas_futuras_no_generadas_en_esta_mision": [
+    "PDF final",
+    "EPUB final",
+    "KPF final",
+    "archivos de portada final",
+    "paquetes ZIP comerciales",
+    "listings publicados"
+  ]
+}
