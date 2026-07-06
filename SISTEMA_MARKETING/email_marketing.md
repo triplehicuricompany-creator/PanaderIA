@@ -1,38 +1,24 @@
-# Email Marketing
+# Email marketing
 
 ## Objetivo
 
-Construir una relación directa con prospectos y compradores potenciales mediante educación, confianza y llamados a la acción medibles.
+Definir la infraestructura documental para captación, segmentación y nutrición por correo sin redactar emails finales ni configurar automatizaciones.
 
-## Activos principales
+## Componentes
 
-- Formulario de suscripción.
-- Lead magnet no definitivo.
-- Secuencia de bienvenida.
-- Secuencia de nutrición.
-- Campaña de lanzamiento.
-- Secuencia postcompra.
+- Captación autorizada.
+- Segmentos.
+- Secuencias conceptuales.
+- Boletines.
+- Emails educativos.
+- Emails de lanzamiento aprobados.
+- Reactivación.
+- Limpieza de listas.
 
-## Segmentos iniciales
+## Reglas
 
-- Interesados principiantes.
-- Panaderos en formación.
-- Emprendedores panaderos.
-- Clientes potenciales premium.
-- Compradores confirmados.
-
-## Secuencia de bienvenida sugerida
-
-1. Presentación de PanaderIA™ y propósito educativo.
-2. Problema común y enfoque metodológico.
-3. Beneficio de aprender con estructura.
-4. Objeciones frecuentes y respuesta educativa.
-5. Invitación a siguiente paso comercial o de comunidad.
-
-## Buenas prácticas
-
-- Asuntos claros y específicos.
-- Correos breves, útiles y medibles.
-- Un llamado a la acción principal por correo.
-- Segmentación según interés y comportamiento.
-- Cumplimiento de normas de consentimiento y baja.
+- Respetar consentimiento y baja voluntaria.
+- No comprar listas.
+- No enviar mensajes sin autorización.
+- No crear asuntos, copys o secuencias finales en esta misión.
+- Documentar objetivo, segmento, frecuencia y métrica de cada flujo futuro.

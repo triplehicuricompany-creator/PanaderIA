@@ -1,31 +1,67 @@
 {
   "sistema": "Sistema Maestro de Marketing PanaderIA™",
-  "version": "1.0.0",
-  "fase": "FASE 11",
-  "mision": "MISIÓN 33",
-  "objetivo": "Planear la estrategia oficial de marketing del Libro Maestro Premium PanaderIA™ sin modificar capítulos existentes ni generar contenido definitivo del libro.",
-  "estado": "base_operativa",
-  "archivos": [
+  "version_sistema": "1.0.0",
+  "estado": "oficial",
+  "fase": "FASE 14",
+  "mision": "MISIÓN 46",
+  "fecha_creacion": "2026-07-06",
+  "proposito": "Administrar la infraestructura documental oficial del sistema de marketing de PanaderIA™ sin crear campañas reales, anuncios, piezas finales, código ni modificar capítulos del libro.",
+  "alcance": [
+    "marca",
+    "posicionamiento",
+    "identidad visual",
+    "estrategia de contenidos",
+    "redes sociales",
+    "publicidad",
+    "campañas",
+    "lanzamientos",
+    "embudos de marketing",
+    "comunidad",
+    "SEO",
+    "email marketing",
+    "marketing de afiliados",
+    "influencers",
+    "roadmap de crecimiento"
+  ],
+  "archivos_control": [
+    "manifest.json",
     "README.md",
-    "identidad_marca.md",
-    "estrategia_marketing.md",
+    "arquitectura.md",
+    "politicas.md",
+    "reglas.md",
+    "marca.md",
+    "posicionamiento.md",
+    "identidad_visual.md",
+    "contenidos.md",
     "redes_sociales.md",
-    "contenido.md",
-    "email_marketing.md",
-    "lanzamiento.md",
     "publicidad.md",
+    "campanas.md",
+    "lanzamientos.md",
+    "embudos.md",
+    "comunidad.md",
+    "seo.md",
+    "email_marketing.md",
+    "afiliados.md",
+    "influencers.md",
+    "roadmap.md",
     "metricas.md"
   ],
-  "principios": [
-    "claridad comercial",
-    "coherencia de marca",
-    "autoridad técnica",
-    "educación práctica",
-    "medición continua"
+  "estados_permitidos": [
+    "propuesto",
+    "borrador",
+    "en_revision",
+    "aprobado",
+    "activo",
+    "pausado",
+    "retirado"
   ],
-  "restricciones": [
-    "No modificar capítulos existentes.",
-    "No generar contenido definitivo del libro.",
-    "Usar este sistema únicamente como infraestructura estratégica para futuras integraciones."
-  ]
+  "restricciones": {
+    "crear_campanas_reales": false,
+    "escribir_anuncios": false,
+    "modificar_capitulos_libro": false,
+    "desarrollar_codigo": false,
+    "publicar_contenido": false,
+    "activar_canales": false,
+    "requiere_revision_humana": true
+  }
 }
