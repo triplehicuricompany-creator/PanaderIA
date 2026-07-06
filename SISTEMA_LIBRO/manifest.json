@@ -1,0 +1,62 @@
+{
+  "nombre": "Sistema Maestro del Libro Premium PanaderIA™",
+  "version": "1.0.0",
+  "fase": "Fase 12 — Misión 35",
+  "objetivo": "Administrar la infraestructura documental del Libro Maestro Premium PanaderIA™ sin modificar capítulos existentes, escribir contenido nuevo, generar PDF ni crear versiones finales.",
+  "regla_principal": "Este sistema define arquitectura, índice, navegación, referencias, ediciones, multilenguaje y roadmap editorial; no altera el contenido del libro.",
+  "libro_objetivo": "Libro Maestro Premium PanaderIA™",
+  "alcance": [
+    "Arquitectura general del libro",
+    "Organización de capítulos",
+    "Índice maestro",
+    "Sistema de navegación",
+    "Referencias internas",
+    "Versiones y ediciones",
+    "Preparación multilenguaje",
+    "Roadmap editorial"
+  ],
+  "restricciones": [
+    "No modificar capítulos existentes",
+    "No escribir contenido nuevo del libro",
+    "No generar PDF",
+    "No crear versiones finales",
+    "No publicar ni exportar archivos comerciales"
+  ],
+  "estados_editoriales": [
+    "infraestructura_documental",
+    "borrador_estructural",
+    "en_revision_editorial",
+    "validado_estructuralmente",
+    "listo_para_integracion_futura",
+    "bloqueado_por_revision",
+    "archivado"
+  ],
+  "archivos_sistema": [
+    "README.md",
+    "manifest.json",
+    "estructura.md",
+    "capitulos.md",
+    "indice.md",
+    "navegacion.md",
+    "referencias.md",
+    "multilenguaje.md",
+    "ediciones.md",
+    "roadmap.md"
+  ],
+  "integraciones_futuras": [
+    "Sistema Maestro Multimedia PanaderIA™",
+    "Sistema Maestro de Publicación PanaderIA™",
+    "Mapa Canónico del Curso",
+    "Constructor de Capítulos Premium",
+    "Boly Assistant"
+  ],
+  "salidas_no_generadas_en_esta_mision": [
+    "Capítulos nuevos",
+    "PDF final",
+    "EPUB final",
+    "KPF final",
+    "Edición final impresa",
+    "Edición final digital",
+    "Paquete comercial descargable"
+  ]
+}
