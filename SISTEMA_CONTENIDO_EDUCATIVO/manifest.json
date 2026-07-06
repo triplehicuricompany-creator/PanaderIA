@@ -1,0 +1,70 @@
+{
+  "nombre": "Sistema Maestro de Contenido Educativo PanaderIA™",
+  "version": "1.0.0",
+  "fase": "Fase 13 — Misión 41",
+  "objetivo": "Gobernar oficialmente la arquitectura educativa del ecosistema PanaderIA™ mediante infraestructura documental, sin generar contenido final del libro ni modificar capítulos existentes.",
+  "relacion_sistema_maestro_contenido": "Complementario. Este sistema administra criterios pedagógicos, estados académicos y trazabilidad educativa; no duplica mapas editoriales ni contenido maestro existente.",
+  "alcance": [
+    "Arquitectura del contenido educativo",
+    "Organización educativa de capítulos",
+    "Organización estructural de lecciones",
+    "Objetivos de aprendizaje",
+    "Ejercicios y prácticas",
+    "Evaluaciones",
+    "Recursos de apoyo",
+    "Participación educativa de Boly",
+    "Participación educativa del Chef Juanote",
+    "Roadmap de crecimiento del contenido educativo"
+  ],
+  "restricciones": [
+    "No modificar capítulos existentes",
+    "No duplicar el Sistema Maestro de Contenido existente",
+    "No generar contenido final del libro",
+    "No escribir capítulos nuevos",
+    "No crear PDFs",
+    "No crear videos",
+    "No crear descargables finales",
+    "No publicar versiones comerciales"
+  ],
+  "estados_documentales": [
+    "infraestructura_documental",
+    "pendiente_mapeo_educativo",
+    "pendiente_revision_academica",
+    "validado_pedagogicamente",
+    "listo_para_integracion_futura",
+    "bloqueado_por_contenido_no_aprobado",
+    "archivado"
+  ],
+  "archivos_sistema": [
+    "README.md",
+    "manifest.json",
+    "capitulos.md",
+    "lecciones.md",
+    "objetivos_aprendizaje.md",
+    "ejercicios.md",
+    "evaluaciones.md",
+    "recursos_apoyo.md",
+    "contenido_boly.md",
+    "contenido_chef_juanote.md",
+    "roadmap.md"
+  ],
+  "integraciones_futuras": [
+    "Sistema Maestro de Contenido PanaderIA™",
+    "Sistema Maestro del Curso Premium PanaderIA™",
+    "Sistema Maestro del Libro Premium PanaderIA™",
+    "Sistema Boly PanaderIA™",
+    "Sistema Chef Juanote PanaderIA™",
+    "Sistema Multimedia PanaderIA™",
+    "Sistema de Calidad PanaderIA™"
+  ],
+  "salidas_no_generadas_en_esta_mision": [
+    "Capítulos nuevos",
+    "Lecciones redactadas",
+    "Contenido final del libro",
+    "Ejercicios finales",
+    "Exámenes redactados",
+    "Recursos descargables",
+    "PDFs",
+    "Videos"
+  ]
+}
