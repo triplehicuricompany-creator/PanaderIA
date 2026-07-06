@@ -1,0 +1,39 @@
+{
+  "sistema": "Sistema Maestro de Gobernanza PanaderIA™",
+  "version": "1.0.0",
+  "fase": "FASE 14",
+  "mision": "MISIÓN 42",
+  "estado": "infraestructura documental oficial creada",
+  "proposito": "Gobernar el ecosistema PanaderIA™ y coordinar la relación entre todos los Sistemas Maestros existentes sin modificar capítulos, sistemas previos, código ni contenido comercial.",
+  "alcance": [
+    "Arquitectura general del ecosistema.",
+    "Modelo de gobernanza.",
+    "Roles y responsabilidades.",
+    "Flujo oficial de trabajo.",
+    "Dependencias entre sistemas.",
+    "Políticas generales.",
+    "Gestión de riesgos.",
+    "Roadmap de evolución.",
+    "Principios de escalabilidad."
+  ],
+  "archivos": [
+    { "nombre": "README.md", "funcion": "Presentación general del sistema maestro de gobernanza." },
+    { "nombre": "arquitectura.md", "funcion": "Describe la arquitectura general del ecosistema PanaderIA™." },
+    { "nombre": "gobierno.md", "funcion": "Define el modelo oficial de gobernanza del ecosistema." },
+    { "nombre": "roles.md", "funcion": "Identifica los roles operativos, editoriales, técnicos y estratégicos." },
+    { "nombre": "responsabilidades.md", "funcion": "Detalla responsabilidades por rol y por sistema maestro." },
+    { "nombre": "flujos.md", "funcion": "Documenta el flujo oficial de trabajo entre sistemas." },
+    { "nombre": "dependencias.md", "funcion": "Registra dependencias conceptuales entre Sistemas Maestros." },
+    { "nombre": "politicas.md", "funcion": "Establece políticas generales de control, calidad y trazabilidad." },
+    { "nombre": "riesgos.md", "funcion": "Organiza la gestión de riesgos del ecosistema." },
+    { "nombre": "roadmap.md", "funcion": "Traza la evolución planificada de la gobernanza." }
+  ],
+  "restricciones": [
+    "No modificar capítulos existentes.",
+    "No modificar otros Sistemas Maestros.",
+    "No generar código.",
+    "No crear contenido final del libro.",
+    "No crear documentos comerciales.",
+    "No crear automatizaciones funcionales."
+  ]
+}
