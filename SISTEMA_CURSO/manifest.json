@@ -1,0 +1,66 @@
+{
+  "nombre": "Sistema Maestro del Curso Premium PanaderIA™",
+  "version": "1.0.0",
+  "fase": "Fase 12 — Misión 36",
+  "objetivo": "Administrar la infraestructura documental oficial del Curso Maestro Premium PanaderIA™ para futuras integraciones, sin generar contenido del curso ni modificar capítulos existentes del libro.",
+  "regla_principal": "Este sistema define arquitectura, módulos, índice, lecciones, prácticas, evaluaciones, certificaciones y roadmap; no produce contenido educativo final ni materiales multimedia o descargables.",
+  "curso_objetivo": "Curso Maestro Premium PanaderIA™",
+  "alcance": [
+    "Arquitectura general del curso",
+    "Organización por módulos",
+    "Índice maestro del curso",
+    "Sistema de lecciones",
+    "Prácticas y ejercicios",
+    "Evaluaciones",
+    "Certificaciones",
+    "Roadmap de crecimiento del curso"
+  ],
+  "restricciones": [
+    "No modificar capítulos existentes del libro",
+    "No generar contenido del curso",
+    "No crear videos",
+    "No crear archivos descargables",
+    "No generar PDFs",
+    "No publicar ni exportar versiones comerciales"
+  ],
+  "estados_documentales": [
+    "infraestructura_documental",
+    "pendiente_integracion_futura",
+    "borrador_estructural",
+    "en_revision_academica",
+    "validado_estructuralmente",
+    "listo_para_produccion_futura",
+    "bloqueado_por_revision",
+    "archivado"
+  ],
+  "archivos_sistema": [
+    "README.md",
+    "manifest.json",
+    "estructura.md",
+    "modulos.md",
+    "indice.md",
+    "lecciones.md",
+    "practicas.md",
+    "evaluaciones.md",
+    "certificaciones.md",
+    "roadmap.md"
+  ],
+  "integraciones_futuras": [
+    "Sistema Maestro del Libro Premium PanaderIA™",
+    "Mapa Canónico del Curso",
+    "Sistema Maestro Multimedia PanaderIA™",
+    "Sistema Maestro de Publicación PanaderIA™",
+    "Boly Assistant",
+    "Centro de Producción Multimedia"
+  ],
+  "salidas_no_generadas_en_esta_mision": [
+    "Lecciones desarrolladas",
+    "Guiones de video",
+    "Videos",
+    "PDFs",
+    "Plantillas descargables",
+    "Exámenes finales redactados",
+    "Certificados emitidos",
+    "Paquetes comerciales descargables"
+  ]
+}
