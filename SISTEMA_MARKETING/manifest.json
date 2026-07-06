@@ -1,0 +1,31 @@
+{
+  "sistema": "Sistema Maestro de Marketing PanaderIA™",
+  "version": "1.0.0",
+  "fase": "FASE 11",
+  "mision": "MISIÓN 33",
+  "objetivo": "Planear la estrategia oficial de marketing del Libro Maestro Premium PanaderIA™ sin modificar capítulos existentes ni generar contenido definitivo del libro.",
+  "estado": "base_operativa",
+  "archivos": [
+    "README.md",
+    "identidad_marca.md",
+    "estrategia_marketing.md",
+    "redes_sociales.md",
+    "contenido.md",
+    "email_marketing.md",
+    "lanzamiento.md",
+    "publicidad.md",
+    "metricas.md"
+  ],
+  "principios": [
+    "claridad comercial",
+    "coherencia de marca",
+    "autoridad técnica",
+    "educación práctica",
+    "medición continua"
+  ],
+  "restricciones": [
+    "No modificar capítulos existentes.",
+    "No generar contenido definitivo del libro.",
+    "Usar este sistema únicamente como infraestructura estratégica para futuras integraciones."
+  ]
+}
