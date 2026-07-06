@@ -1,0 +1,41 @@
+{
+  "sistema": "Sistema Maestro de Calidad PanaderIA™",
+  "version_sistema": "1.0.0",
+  "estado": "oficial",
+  "fecha_creacion": "2026-07-06",
+  "proposito": "Controlar la calidad técnica, editorial, multimedia, QR y descargable del Libro Maestro Premium PanaderIA™ antes de futuras integraciones.",
+  "alcance": [
+    "Libro Maestro Premium PanaderIA™",
+    "recursos multimedia",
+    "codigos QR",
+    "descargables",
+    "checklists de publicacion",
+    "registro de cambios aprobados"
+  ],
+  "archivos_control": [
+    "README.md",
+    "criterios.md",
+    "revision_editorial.md",
+    "revision_tecnica.md",
+    "revision_multimedia.md",
+    "revision_qr.md",
+    "revision_descargables.md",
+    "checklist_final.md",
+    "control_cambios.md"
+  ],
+  "estados_permitidos": [
+    "propuesto",
+    "borrador",
+    "en_revision",
+    "observado",
+    "aprobado",
+    "publicado",
+    "retirado"
+  ],
+  "restricciones": {
+    "modificar_capitulos_existentes": false,
+    "generar_contenido_final_libro": false,
+    "publicar_sin_revision": false,
+    "requiere_trazabilidad": true
+  }
+}
