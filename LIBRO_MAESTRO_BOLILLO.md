@@ -2234,4 +2234,611 @@ Recuerda: no se trata de imponer fuerza, sino de desarrollar estructura. Tus man
 > ¡Buen trabajo! Ya sabes leer una masa en transformación. En el siguiente capítulo, esa masa empezará a fermentar; ahí aprenderás a controlar tiempo, temperatura y volumen para que el bolillo gane vida sin perder estructura.
 
 
+
+# Capítulo 5 — Fermentación profesional
+
+## 1. Objetivo del capítulo
+
+La fermentación profesional es la etapa donde la masa deja de ser solamente estructura y empieza a ganar vida, volumen, aroma y carácter. Después del amasado, el gluten ya tiene una red capaz de sostener gas; ahora toca controlar cómo la levadura trabaja dentro de esa red sin que la masa se quede corta ni se pase de punto.
+
+Al terminar este capítulo podrás:
+
+- Comprender qué ocurre durante la fermentación del bolillo.
+- Distinguir primera fermentación, reposos intermedios y fermentación final.
+- Controlar tiempo, temperatura, humedad, volumen y sensación de masa.
+- Reconocer masas subfermentadas, listas y sobrefermentadas.
+- Ajustar el proceso según clima, harina, levadura y temperatura de masa.
+- Registrar señales reales en bitácora para repetir resultados consistentes.
+
+> **Chef Juanote™ dice:** La fermentación no se apura a gritos. Se acompaña con control, paciencia y observación.
+
+[BOLY™ INTERVIENE]
+
+> ¡Camarada, aquí la masa empieza a respirar! No mires solo el reloj. Mira volumen, textura, aroma y fuerza. La masa te va diciendo si necesita más tiempo, menos calor o mejor protección.
+
+[FOTOGRAFÍA PENDIENTE — C05-F01: masa de bolillo en contenedor transparente mostrando nivel inicial y nivel fermentado, con marcas de volumen visibles.]
+
+[VIDEO PENDIENTE — C05-V01: Chef Juanote™ explica la fermentación profesional del bolillo con comparación de masa joven, lista y pasada.]
+
+[QR PENDIENTE — QR-LMB-C05-FERMENTACION-PRO: video principal del capítulo, checklist y bitácora descargable de fermentación.]
+
+---
+
+## 2. Qué es fermentar en panadería
+
+Fermentar es permitir que la levadura transforme parte de los azúcares disponibles en gas, aroma y compuestos de sabor. Ese gas se queda atrapado en la red de gluten desarrollada durante el amasado y empuja la masa desde adentro. Por eso una masa fermentada aumenta volumen, se siente más aireada y cambia su aroma.
+
+Pero fermentar no significa dejar la masa olvidada en una esquina. Una fermentación profesional tiene intención: se controla temperatura, tiempo, humedad, fuerza de masa y punto de avance.
+
+### Qué aporta la fermentación al bolillo
+
+| Aporte | Qué produce | Cómo se nota en el bolillo |
+|---|---|---|
+| Gas | Volumen y ligereza | Pan menos pesado, mejor expansión |
+| Aroma | Notas limpias de pan fermentado | Olor agradable antes y después de hornear |
+| Sabor | Mayor profundidad | Bolillo menos plano e insípido |
+| Maduración de masa | Mejor extensibilidad | Formado más amable y greña más expresiva |
+| Relajación | Menos tensión excesiva | Piezas que se forman sin rasgarse |
+
+> **Chef Juanote™ dice:** Una masa bien amasada puede fallar si fermenta mal. La estructura necesita tiempo correcto para convertirse en pan.
+
+[BOLY™ INTERVIENE]
+
+> Pregunta frecuente: “¿Fermentar es solo esperar?” No. Esperar sin observar es abandono. Fermentar es esperar con criterio.
+
+[DIAGRAMA PENDIENTE — C05-D01: levadura produciendo gas dentro de una red de gluten, con flechas hacia volumen, aroma y sabor.]
+
+---
+
+## 3. Las tres miradas de la fermentación: reloj, masa y ambiente
+
+El reloj ayuda, pero no manda solo. La fermentación depende de una combinación de señales:
+
+1. **Tiempo:** minutos u horas transcurridas.
+2. **Masa:** volumen, elasticidad, burbujas, aroma y resistencia.
+3. **Ambiente:** temperatura, corrientes de aire, humedad y protección.
+
+Un mismo tiempo puede dar resultados distintos. Una masa a 18 °C avanza diferente a una masa a 30 °C. Una levadura recién abierta trabaja distinto a una levadura debilitada. Una masa bien cubierta fermenta mejor que una masa expuesta al aire.
+
+### Regla práctica
+
+Usa el tiempo como mapa, pero usa la masa como territorio. Si la receta dice 60 minutos y la masa todavía está densa, observa antes de cortar el proceso. Si dice 60 minutos y la masa ya está muy inflada, floja y con olor fuerte, quizá esperaste demasiado para tus condiciones.
+
+[FOTOGRAFÍA PENDIENTE — C05-F02: comparación visual de tres contenedores: masa poco fermentada, masa en punto y masa sobrefermentada.]
+
+> **Consejo exclusivo del Chef Juanote™:** El reloj no tiene nariz, manos ni ojos. Tú sí. Úsalos.
+
+---
+
+## 4. Primera fermentación: formar fuerza y sabor
+
+La primera fermentación ocurre después del amasado y antes de dividir o formar, según el método usado. También puede llamarse fermentación en bloque. Aquí la masa completa empieza a ganar gas, aroma y maduración.
+
+### Señales de avance correcto
+
+- Aumento visible de volumen.
+- Superficie más lisa y ligeramente inflada.
+- Aroma limpio, agradable y fermentativo.
+- Masa con elasticidad, pero menos rígida que al terminar de amasar.
+- Burbujas pequeñas o medianas bajo la superficie.
+- Sensación de masa viva al tocarla suavemente.
+
+### Qué evitar
+
+- Dejarla destapada hasta que forme costra.
+- Fermentar junto a calor excesivo sin control.
+- Manipularla constantemente por ansiedad.
+- Guiarse solo por “doblar volumen” sin revisar fuerza.
+- Usar recipientes sin espacio suficiente.
+
+[BOLY™ INTERVIENE]
+
+> Si quieres revisar la masa, hazlo con cuidado. No la estés picando cada cinco minutos como si fuera timbre. Observa primero desde afuera y toca solo cuando haga falta.
+
+[VIDEO PENDIENTE — C05-V02: primera fermentación en bloque con marcas de volumen, prueba de tacto y registro en bitácora.]
+
+---
+
+## 5. Temperatura: el acelerador silencioso
+
+La temperatura es una de las variables más importantes de la fermentación. A mayor temperatura, la levadura suele trabajar más rápido; a menor temperatura, trabaja más lento. Pero rápido no siempre significa mejor. Una fermentación demasiado acelerada puede producir masa floja, sabor desequilibrado y bolillos con poco control.
+
+### Temperaturas que debes registrar
+
+- Temperatura ambiente.
+- Temperatura final de masa después del amasado.
+- Temperatura del lugar donde fermenta.
+- Temperatura del agua usada en la fórmula.
+
+### Ejemplo práctico
+
+Dos alumnos hacen la misma fórmula:
+
+| Alumno | Temperatura ambiente | Tiempo observado | Resultado |
+|---|---:|---:|---|
+| A | 19 °C | 90 minutos | Masa lenta, firme, necesitó más tiempo |
+| B | 30 °C | 45 minutos | Masa rápida, más floja, pidió formar antes |
+
+La receta era la misma. La fermentación no.
+
+> **Chef Juanote™ dice:** Si quieres controlar fermentación, empieza controlando temperatura. Si no puedes controlarla, al menos mídela y respétala.
+
+[FOTOGRAFÍA PENDIENTE — C05-F03: termómetro junto a masa cubierta en fermentación, con bitácora abierta al lado.]
+
+---
+
+## 6. Humedad y protección: evitar la costra
+
+Durante la fermentación, la masa debe permanecer protegida. Si la superficie se reseca, se forma una piel o costra que puede romperse durante el formado, dificultar la expansión y dejar marcas en el bolillo.
+
+### Formas de proteger la masa
+
+- Contenedor con tapa apta para alimentos.
+- Paño limpio ligeramente húmedo.
+- Plástico de uso alimentario.
+- Caja de fermentación limpia.
+- Fermentadora con humedad controlada, si se trabaja a nivel profesional.
+
+La protección debe evitar resequedad sin mojar en exceso la masa. Un paño empapado puede pegarse, enfriar irregularmente o dejar humedad superficial incómoda.
+
+[BOLY™ INTERVIENE]
+
+> Pregunta frecuente: “¿Qué hago si ya se hizo costra?” Si es ligera, hidrata apenas la superficie y cubre mejor. Si es gruesa, anota el error: faltó protección o hubo aire directo. No lo ignores porque puede aparecer en el formado y en la greña.
+
+[VIDEO PENDIENTE — C05-V03: cómo cubrir masa correctamente durante fermentación y errores de paños secos, aire directo y recipientes abiertos.]
+
+---
+
+## 7. Subfermentación, punto correcto y sobrefermentación
+
+Aprender fermentación profesional exige reconocer tres estados básicos. No basta con decir “le faltó” o “se pasó”; hay que observar señales concretas.
+
+| Estado | Cómo se ve | Cómo se siente | Qué pasa en el bolillo |
+|---|---|---|---|
+| Subfermentada | Poco volumen, masa compacta | Firme, resistente, poco aireada | Bolillo denso, greña forzada, posible ruptura irregular |
+| En punto | Volumen adecuado, superficie viva | Elástica, aireada, con fuerza | Buen volumen, formado manejable, greña con mejor apertura |
+| Sobrefermentada | Muy inflada, floja o colapsada | Débil, pegajosa, sin tensión | Bolillo bajo, sabor fuerte, greña pobre o pan desparramado |
+
+### Prueba suave de presión
+
+Presiona la masa con un dedo enharinado o ligeramente húmedo:
+
+- Si la marca regresa de inmediato y la masa se siente muy firme, puede faltar fermentación.
+- Si regresa lentamente y conserva algo de elasticidad, puede estar cerca del punto.
+- Si la marca se queda hundida y la masa se siente débil, puede estar pasada.
+
+> **Chef Juanote™ dice:** El punto correcto no es una hora exacta; es una combinación de volumen, fuerza y respuesta.
+
+[FOTOGRAFÍA PENDIENTE — C05-F04: prueba de presión en masa subfermentada, correcta y sobrefermentada.]
+
+---
+
+## 8. Reposos intermedios: relajar sin abandonar
+
+Después de dividir o preformar, muchas masas necesitan un reposo intermedio. Este descanso permite que el gluten se relaje y que la pieza acepte mejor el formado final. En bolillo, un reposo bien usado ayuda a formar sin rasgar, sin exceso de fuerza y con mejor tensión superficial.
+
+### Cuándo conviene reposar
+
+- La masa se encoge al estirarla.
+- La pieza se resiste al formado.
+- El gluten se siente tenso después de dividir.
+- La masa necesita recuperar manejabilidad.
+
+### Cuánto reposar
+
+Depende de la fórmula, temperatura y fuerza de masa. Como orientación pedagógica, puede ser un reposo breve y vigilado. El objetivo no es fermentar hasta perder fuerza, sino relajar lo suficiente para formar con limpieza.
+
+[BOLY™ INTERVIENE]
+
+> Si la masa se encoge como liga, no pelees. Cúbrela, dale unos minutos y vuelve. A veces el descanso hace el trabajo que tus manos no deben forzar.
+
+[DIAGRAMA PENDIENTE — C05-D02: flujo de amasado, primera fermentación, división, reposo intermedio, formado y fermentación final.]
+
+---
+
+## 9. Fermentación final: preparar el salto al horno
+
+La fermentación final ocurre cuando el bolillo ya está formado y espera antes del corte y horneado. Es una etapa delicada: la pieza debe crecer lo suficiente para entrar al horno con vida, pero conservar tensión para abrir bien.
+
+### Señales de fermentación final correcta
+
+- La pieza aumenta volumen sin desparramarse.
+- La superficie se ve tensa pero no rígida.
+- Al tocar suavemente, responde con elasticidad moderada.
+- La forma se conserva.
+- No hay costra superficial.
+- La pieza se siente más ligera visualmente, no aplastada.
+
+### Si falta fermentación final
+
+El bolillo puede reventar de forma brusca, quedar compacto o abrir mal porque entra demasiado tenso al horno.
+
+### Si sobra fermentación final
+
+El bolillo puede perder tensión, aplanarse, no abrir correctamente o colapsar al corte.
+
+> **Consejo exclusivo del Chef Juanote™:** La fermentación final es como mandar al bolillo a escena. Debe llegar despierto, no dormido; firme, no agotado.
+
+[FOTOGRAFÍA PENDIENTE — C05-F05: charola con bolillos formados al inicio y al final de fermentación final, con espacio entre piezas.]
+
+[VIDEO PENDIENTE — C05-V04: señales de fermentación final antes del corte del bolillo.]
+
+---
+
+## 10. Fermentación y greña: relación directa
+
+Aunque el corte del bolillo se estudiará con detalle en el Capítulo 8, desde ahora conviene entender que la fermentación afecta la greña. Una pieza subfermentada puede abrir de forma violenta o irregular. Una pieza sobrefermentada puede no tener fuerza para abrir. Una pieza en punto permite que el corte dirija la expansión.
+
+### Lectura rápida
+
+| Resultado de greña | Posible relación con fermentación |
+|---|---|
+| Greña cerrada | Sobrefermentación, corte débil o falta de vapor |
+| Reventón lateral | Subfermentación, formado deficiente o tensión mal distribuida |
+| Apertura pobre | Masa débil, sobrefermentación o corte superficial |
+| Apertura equilibrada | Fermentación, tensión, corte y vapor en buen balance |
+
+[BOLY™ INTERVIENE]
+
+> No culpes solo a la navaja. Si la masa llegó pasada o muy joven, el corte no hace milagros. La greña cuenta la historia de varias etapas.
+
+---
+
+## 11. Fermentación en clima frío y clima caliente
+
+El clima cambia el comportamiento de la masa. Un panadero profesional no se desespera: ajusta observación, protección y tiempos.
+
+### En clima frío
+
+- La masa avanza más lento.
+- Puede sentirse firme por más tiempo.
+- Conviene evitar corrientes de aire.
+- El agua puede requerir temperatura más templada, con criterio.
+- Los tiempos pueden alargarse.
+
+### En clima caliente
+
+- La masa avanza más rápido.
+- Puede volverse floja antes de lo esperado.
+- Conviene usar agua más fresca si el proceso se acelera demasiado.
+- Hay que vigilar más seguido la fermentación final.
+- La sobrefermentación llega con menos aviso.
+
+> **Chef Juanote™ dice:** El clima no es excusa; es variable. Si cambia el día, cambia tu vigilancia.
+
+[FOTOGRAFÍA PENDIENTE — C05-F06: dos estaciones de fermentación: una protegida de frío y otra controlada en ambiente cálido, con termómetro visible.]
+
+---
+
+## 12. Bitácora profesional de fermentación
+
+Sin registro, la fermentación se vuelve memoria confusa. Con bitácora, el panadero empieza a detectar patrones.
+
+### Datos mínimos
+
+- Fecha y hora de inicio.
+- Temperatura ambiente.
+- Temperatura final de masa.
+- Tipo y cantidad de levadura.
+- Tiempo de primera fermentación.
+- Señales de volumen y tacto.
+- Tiempo de reposo intermedio, si aplica.
+- Tiempo de fermentación final.
+- Resultado de greña, volumen y migajón.
+- Corrección para la siguiente tanda.
+
+### Tabla sugerida
+
+| Tanda | Temp. masa | Temp. ambiente | 1ª fermentación | Reposo | Fermentación final | Señal principal | Resultado | Ajuste siguiente |
+|---|---:|---:|---:|---:|---:|---|---|---|
+| 1 |  |  |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |  |  |
+
+[QR PENDIENTE — QR-LMB-C05-BITACORA-FERMENTACION: plantilla descargable para registrar temperaturas, tiempos y señales de masa.]
+
+---
+
+## 13. Errores comunes y cómo evitarlos
+
+| Error común | Síntoma visible | Causa probable | Corrección práctica |
+|---|---|---|---|
+| Fermentar solo por reloj | Resultados variables | No observar masa ni ambiente | Combinar tiempo, volumen, tacto y temperatura |
+| Dejar la masa destapada | Costra superficial | Aire directo o paño seco | Cubrir con tapa, plástico o paño adecuado |
+| Usar calor excesivo | Masa floja o sabor fuerte | Querer acelerar fermentación | Controlar temperatura y usar tiempos reales |
+| Formar demasiado pronto | Masa tensa y densa | Subfermentación o falta de reposo | Esperar señales de avance y usar reposo intermedio |
+| Hornear pieza pasada | Bolillo bajo y sin greña | Sobrefermentación final | Vigilar volumen y respuesta al tacto |
+| No registrar temperatura | Cada tanda se comporta distinto | Falta de bitácora | Anotar ambiente, masa y agua |
+| Manipular demasiado | Pérdida de gas y estructura | Ansiedad o revisión brusca | Observar más, tocar menos y con suavidad |
+| Cambiar levadura sin ajustar | Fermentación acelerada o lenta | Tipo/cantidad distinta | Registrar tipo, dosis y actividad |
+
+[BOLY™ INTERVIENE]
+
+> Si tu masa se pasó, no te castigues. Anota cuánto tiempo estuvo, a qué temperatura y cómo se veía. La próxima tanda empieza con esa información.
+
+---
+
+## 14. Caso real del obrador
+
+**Caso:** un alumno preparaba bolillos con buen amasado, pero la greña salía cerrada y las piezas se aplanaban antes de entrar al horno. Pensó que su corte era el problema.
+
+**Revisión:** la masa terminaba tibia por amasado largo, luego fermentaba cerca de una ventana con sol. Después del formado, el alumno esperaba el mismo tiempo que indicaba la receta, sin revisar volumen ni tacto.
+
+**Diagnóstico:** sobrefermentación final causada por masa caliente, ambiente cálido y uso rígido del reloj.
+
+**Solución:** registró temperatura final de masa, movió la fermentación a una zona sin sol directo, redujo el tiempo de fermentación final y empezó a revisar respuesta al tacto. Las piezas conservaron tensión y la greña abrió mejor.
+
+> **Chef Juanote™ dice:** A veces la navaja no falla. A veces la masa llegó cansada al corte.
+
+[FOTOGRAFÍA PENDIENTE — C05-F07: bolillo aplanado por sobrefermentación frente a bolillo corregido con buena tensión y greña abierta.]
+
+---
+
+## 15. Laboratorio guiado: tres puntos de fermentación
+
+Este laboratorio entrena el ojo y la mano. La meta no es vender el lote; es aprender a reconocer estados.
+
+### Procedimiento
+
+1. Prepara una masa de bolillo con fórmula conocida.
+2. Divide tres porciones iguales después del amasado.
+3. Fermenta la primera por poco tiempo, la segunda hasta punto adecuado y la tercera más tiempo del recomendado.
+4. Observa volumen, tacto, aroma y fuerza de cada porción.
+5. Forma y hornea si el ejercicio lo permite.
+6. Compara volumen, greña, migajón y textura final.
+
+### Tabla de observación
+
+| Muestra | Tiempo | Volumen | Tacto | Aroma | Resultado al formar | Resultado al hornear |
+|---|---:|---|---|---|---|---|
+| Subfermentada |  |  |  |  |  |  |
+| En punto |  |  |  |  |  |  |
+| Sobrefermentada |  |  |  |  |  |  |
+
+[VIDEO PENDIENTE — C05-V05: laboratorio comparativo de subfermentación, punto correcto y sobrefermentación.]
+
+[QR PENDIENTE — QR-LMB-C05-LAB-TRES-PUNTOS: guía descargable del laboratorio con tabla de observación.]
+
+---
+
+## 16. Método Chef Juanote™ aplicado al Capítulo 5
+
+### Historia
+
+En el obrador tradicional, el panadero aprendía fermentación mirando canastos, tocando masas y sintiendo el clima del día. Antes de tener termómetros digitales, ya existía el oficio de observar.
+
+### Ciencia
+
+La levadura produce gas y aromas; el gluten retiene ese gas; la temperatura regula velocidad; la humedad protege superficie; el tiempo permite maduración.
+
+### Práctica
+
+Fermenta con masa cubierta, registra temperaturas y revisa volumen, tacto y aroma antes de decidir.
+
+### Error real
+
+Seguir una hora fija sin considerar que la masa estaba más caliente, el día más cálido o la levadura más activa.
+
+### Laboratorio
+
+Compara una masa subfermentada, una en punto y una sobrefermentada para entrenar criterio sensorial.
+
+### Bitácora
+
+Registra temperatura final de masa, ambiente, tiempo de fermentación, aspecto, prueba de presión y resultado del pan.
+
+### Secreto del obrador
+
+> **Chef Juanote™:** La fermentación no se ve solo en el volumen; se siente en la fuerza de la masa.
+
+> **Boly™ dice:** Si puedes explicar por qué esperaste o por qué adelantaste el horneado, ya estás fermentando con criterio.
+
+---
+
+## 17. Participación guiada de Boly™
+
+[BOLY™ INTERVIENE]
+
+**Rol de Boly™ en este capítulo:** ayudar al alumno a leer señales de fermentación y evitar decisiones impulsivas.
+
+### Flujo de conversación recomendado
+
+**Boly™:** ¿Qué estás revisando: tiempo, volumen, tacto o temperatura?
+
+**Alumno:** El tiempo. Ya pasó una hora.
+
+**Boly™:** Bien, pero ahora mira la masa. ¿Aumentó volumen? ¿Se siente aireada o todavía compacta?
+
+**Alumno:** Se ve poco inflada y firme.
+
+**Boly™:** Entonces no decidas solo por reloj. Revisa temperatura ambiente, cubre bien y espera un poco más, anotando la señal.
+
+### Preguntas base de Boly™
+
+- ¿La masa está cubierta correctamente?
+- ¿Qué temperatura tiene el ambiente?
+- ¿La masa aumentó volumen o solo pasó tiempo?
+- ¿Cómo responde a una presión suave?
+- ¿Tiene aroma limpio o demasiado fuerte?
+- ¿Conserva tensión después del formado?
+- ¿Qué anotarás para la siguiente tanda?
+
+### Mensaje motivador
+
+> La fermentación parece invisible, pero deja pistas. Si aprendes a leerlas, el bolillo deja de sorprenderte para mal y empieza a responderte mejor.
+
+[ILUSTRACIÓN PENDIENTE — C05-I01: Boly™ mirando una masa en contenedor transparente con lupa, termómetro y libreta.]
+
+[VIDEO PENDIENTE — C05-V06: animación de Boly™ explicando “el reloj orienta, la masa confirma”.]
+
+---
+
+## 18. Recursos visuales y multimedia del capítulo
+
+### Fotografías pendientes
+
+- [FOTOGRAFÍA PENDIENTE — C05-F01] Masa en contenedor transparente con marcas de volumen.
+- [FOTOGRAFÍA PENDIENTE — C05-F02] Masa poco fermentada, en punto y sobrefermentada.
+- [FOTOGRAFÍA PENDIENTE — C05-F03] Termómetro, masa cubierta y bitácora.
+- [FOTOGRAFÍA PENDIENTE — C05-F04] Prueba de presión comparativa.
+- [FOTOGRAFÍA PENDIENTE — C05-F05] Fermentación final de bolillos formados en charola.
+- [FOTOGRAFÍA PENDIENTE — C05-F06] Control de fermentación en clima frío y caliente.
+- [FOTOGRAFÍA PENDIENTE — C05-F07] Bolillo sobrefermentado vs bolillo corregido.
+
+### Videos pendientes
+
+- [VIDEO PENDIENTE — C05-V01] Fermentación profesional del bolillo.
+- [VIDEO PENDIENTE — C05-V02] Primera fermentación en bloque y marcas de volumen.
+- [VIDEO PENDIENTE — C05-V03] Cómo cubrir masa correctamente.
+- [VIDEO PENDIENTE — C05-V04] Fermentación final antes del corte.
+- [VIDEO PENDIENTE — C05-V05] Laboratorio de tres puntos de fermentación.
+- [VIDEO PENDIENTE — C05-V06] Animación de Boly™: “el reloj orienta, la masa confirma”.
+
+### Diagramas e infografías pendientes
+
+- [DIAGRAMA PENDIENTE — C05-D01] Levadura, gas y red de gluten.
+- [DIAGRAMA PENDIENTE — C05-D02] Flujo de fermentación: bloque, reposo, formado y fermentación final.
+- [INFOGRAFÍA PENDIENTE — C05-INFO01] Subfermentación, punto correcto y sobrefermentación.
+- [INFOGRAFÍA PENDIENTE — C05-INFO02] Variables de fermentación: tiempo, temperatura, humedad, levadura y fuerza de masa.
+
+### Recursos descargables pendientes
+
+- [DESCARGABLE PENDIENTE — C05-R01] Bitácora profesional de fermentación.
+- [DESCARGABLE PENDIENTE — C05-R02] Checklist de fermentación final antes del corte.
+- [DESCARGABLE PENDIENTE — C05-R03] Tabla del laboratorio de tres puntos.
+
+---
+
+## 19. Ejercicios del capítulo
+
+1. Registra temperatura ambiente y temperatura final de masa durante tres prácticas.
+2. Marca el nivel inicial de una masa en un contenedor transparente y fotografía su avance.
+3. Practica la prueba suave de presión en tres momentos distintos de fermentación.
+4. Compara una fermentación en clima fresco y otra en clima cálido, si es posible.
+5. Observa si la masa forma costra durante reposos y corrige la cobertura.
+6. Relaciona resultado de greña con estado de fermentación final.
+7. Escribe una decisión técnica donde no seguiste el reloj porque la masa indicó otra cosa.
+
+### Espacio de notas
+
+- Temperatura ambiente de mi práctica:
+- Temperatura final de masa:
+- Tiempo de primera fermentación:
+- Señal que me indicó avance:
+- Tiempo de fermentación final:
+- Error que debo evitar:
+- Próxima corrección:
+
+---
+
+## 20. Checklist profesional de fermentación
+
+Antes de avanzar a formado, corte u horneado, confirma:
+
+- [ ] La masa estuvo cubierta durante la fermentación.
+- [ ] Registré temperatura ambiente.
+- [ ] Registré temperatura final de masa.
+- [ ] Observé volumen, no solo tiempo.
+- [ ] Revisé tacto y elasticidad.
+- [ ] Detecté si la masa estaba joven, en punto o pasada.
+- [ ] Evité corrientes de aire y calor excesivo.
+- [ ] Usé reposo intermedio si la masa estaba tensa.
+- [ ] La fermentación final conservó tensión en la pieza.
+- [ ] No corté ni horneé piezas colapsadas sin anotar causa.
+- [ ] Relacioné greña y volumen final con la fermentación.
+- [ ] Dejé registrada una corrección para la siguiente tanda.
+
+---
+
+## 21. Autoevaluación
+
+Responde con tus propias palabras:
+
+1. ¿Qué aporta la fermentación al bolillo además de volumen?
+2. ¿Por qué no basta con seguir el reloj?
+3. ¿Qué señales indican subfermentación?
+4. ¿Qué señales indican sobrefermentación?
+5. ¿Cómo influye la temperatura en la velocidad de fermentación?
+6. ¿Por qué debe cubrirse la masa durante la fermentación?
+7. ¿Para qué sirve el reposo intermedio?
+8. ¿Qué relación existe entre fermentación final y greña?
+9. ¿Qué datos anotarías en una bitácora de fermentación?
+10. ¿Qué harías si la masa está creciendo demasiado rápido?
+
+### Escala personal
+
+Marca del 1 al 5:
+
+- Entendí qué ocurre durante la fermentación: ____ / 5
+- Puedo reconocer una masa joven: ____ / 5
+- Puedo reconocer una masa en punto: ____ / 5
+- Puedo reconocer una masa pasada: ____ / 5
+- Registraré temperatura, tiempo y señales: ____ / 5
+
+---
+
+## 22. Preguntas frecuentes del capítulo
+
+### ¿La masa siempre debe doblar volumen?
+
+No siempre como regla rígida. “Doblar volumen” puede orientar, pero el punto depende de fuerza de masa, fórmula, temperatura y etapa del proceso. Observa también tacto, elasticidad y aroma.
+
+### ¿Puedo fermentar más rápido poniendo la masa junto al calor?
+
+Puedes acelerar, pero no siempre conviene. Calor excesivo puede desordenar fermentación, debilitar masa y generar sabores menos limpios. Mejor controla temperatura con prudencia.
+
+### ¿Qué hago si mi cocina está muy fría?
+
+Protege la masa de corrientes, usa un lugar más templado y registra que el proceso tardará más. No aumentes levadura a ciegas sin entender el efecto.
+
+### ¿Qué hago si mi cocina está muy caliente?
+
+Vigila con más frecuencia, usa agua más fresca si corresponde y reduce esperas cuando la masa muestre señales de avance. La masa caliente puede pasarse rápido.
+
+### ¿Por qué mi bolillo se aplana antes de hornear?
+
+Puede haber sobrefermentación, falta de tensión en formado, masa débil o exceso de manipulación. Revisa primero estado de fermentación final y fuerza de la pieza.
+
+### ¿La fermentación corrige un mal amasado?
+
+No por completo. Puede ayudar a madurar la masa, pero si la estructura está muy débil desde el amasado, la fermentación puede revelar el problema en lugar de solucionarlo.
+
+---
+
+## 23. QR recomendado del capítulo
+
+**QR-LMB-C05-FERMENTACION-PRO:** video “Fermentación profesional del bolillo: tiempo, temperatura y punto de masa”. Debe mostrar primera fermentación, prueba de presión, fermentación final y errores comunes.
+
+**QR-LMB-C05-BITACORA-FERMENTACION:** plantilla descargable para registrar temperaturas, tiempos, señales sensoriales y resultado final.
+
+**QR-LMB-C05-LAB-TRES-PUNTOS:** laboratorio comparativo de subfermentación, punto correcto y sobrefermentación.
+
+**Texto sugerido debajo del QR:**
+
+“Escanea para aprender a leer la fermentación del bolillo y descargar la bitácora profesional del Capítulo 5.”
+
+**Estado:** pendiente de publicación. No insertar QR definitivo hasta contar con URL final validada.
+
+---
+
+## 24. Cierre del Capítulo 5
+
+La fermentación profesional convierte una masa amasada en una masa con vida, aroma, volumen y posibilidad de buen horneado. No es una espera pasiva: es una etapa de control. El panadero observa temperatura, humedad, volumen, tacto, fuerza y respuesta. También registra, compara y ajusta.
+
+En este capítulo aprendiste a distinguir primera fermentación, reposos intermedios y fermentación final. Viste que una masa joven puede quedar densa, una masa pasada puede colapsar y una masa en punto conserva fuerza suficiente para formarse, cortarse y expandirse en el horno.
+
+Recuerda: el reloj orienta, pero la masa confirma. La fermentación bien trabajada no se presume por minutos exactos; se demuestra en volumen equilibrado, greña más limpia, migajón mejor desarrollado y sabor más completo.
+
+> **Chef Juanote™ dice:** Una buena fermentación no hace ruido, pero se nota en cada mordida.
+
+[BOLY™ INTERVIENE]
+
+> ¡Excelente, camarada! Ya sabes acompañar la masa mientras gana vida. En el siguiente capítulo vamos a dividir, bolear y formar: ahí esa fermentación tendrá que convertirse en piezas ordenadas, tensas y listas para abrir bonito en el horno.
+
+## Continuidad hacia el Capítulo 6
+
+Con la fermentación comprendida, el siguiente paso será aprender a dividir, bolear y formar con técnica. Una masa bien fermentada todavía puede perder calidad si se manipula mal. El Capítulo 6 deberá estudiar porciones, tensión, reposo, simetría y formado profesional del bolillo.
+
+---
+
 > **Capítulos posteriores:** no se desarrollan en esta entrega.
