@@ -539,4 +539,672 @@ Ese será el punto de partida de todo el libro.
 
 Una vez que el alumno entiende qué debe observar, necesita preparar el espacio y las herramientas que harán posible repetir el proceso con precisión. Por eso el siguiente capítulo no hablará todavía de receta: hablará de orden profesional, herramientas esenciales y preparación del obrador.
 
-> **Capítulos restantes:** no se desarrollan en esta entrega.
+# Capítulo 2 — Herramientas esenciales y profesionales
+
+## Objetivo del capítulo
+
+Que el alumno conozca, elija, prepare, use, cuide y reemplace las herramientas necesarias para producir bolillo con orden, seguridad, limpieza y consistencia, tanto en casa como en una producción inicial o profesional.
+
+Al terminar este capítulo, el alumno deberá poder:
+
+- Distinguir entre herramientas indispensables, recomendadas y profesionales.
+- Preparar una estación de trabajo completa antes de tocar los ingredientes.
+- Usar báscula, raspa, bowl, navaja, charolas, termómetro y horno con criterio panadero.
+- Reconocer señales de herramienta dañada, insegura o imprecisa.
+- Organizar el flujo de trabajo para evitar prisas, olvidos y contaminación.
+- Registrar el estado de sus herramientas en una bitácora sencilla.
+
+> **Chef Juanote™ dice:** Antes de hacer masa, haz orden. Una mesa preparada vale más que diez minutos de improvisación.
+
+[BOLY™ INTERVIENE]
+
+> ¡No necesitas una panadería gigante para empezar! Necesitas herramientas limpias, medidas correctas, espacio despejado y una ruta clara para que la masa no te agarre corriendo.
+
+[FOTOGRAFÍA PENDIENTE: Mesa de trabajo limpia con báscula, bowl, raspa, charolas, navaja, paños, termómetro, rejilla y horno al fondo. Composición horizontal, luz cálida, estilo obrador mexicano ordenado.]
+
+[VIDEO PENDIENTE: Chef Juanote™ muestra cómo preparar la estación panadera de izquierda a derecha antes de iniciar una receta de bolillo. QR sugerido: `QR-LMB-C02-MESA`.]
+
+---
+
+## 1. Por qué las herramientas importan
+
+Una herramienta no hace pan por sí sola, pero una herramienta incorrecta puede provocar errores constantes. Una báscula imprecisa altera la hidratación. Una charola deformada hornea irregular. Una navaja sin filo rasga la masa. Un termómetro ausente obliga a adivinar. Un bowl demasiado pequeño estresa el mezclado. Un horno mal conocido convierte cada hornada en apuesta.
+
+El bolillo parece sencillo, pero depende de variables sensibles: peso, temperatura, tiempo, humedad, tensión, corte, vapor y enfriado. Las herramientas sirven para controlar esas variables.
+
+En PanaderIA™, las herramientas cumplen tres funciones principales:
+
+1. **Medir con precisión:** ingredientes, temperatura, tiempo y porciones.
+2. **Manipular con cuidado:** mezclar, amasar, dividir, formar, cortar y mover la masa sin dañarla.
+3. **Ordenar el proceso:** reducir olvidos, mantener limpieza, proteger la fermentación y facilitar repetición.
+
+> **Chef Juanote™ dice:** La herramienta correcta no sustituye al oficio, pero ayuda a que el oficio se vea.
+
+### La diferencia entre cocinar y producir pan
+
+En cocina casera se puede corregir mucho “al tanteo”. En panadería, un pequeño error se multiplica: unos gramos de sal, exceso de agua, masa reseca por falta de paño o una charola demasiado caliente pueden cambiar todo el lote. Por eso, desde el inicio, el alumno debe aprender a trabajar como panadero: preparar, medir, observar, registrar y corregir.
+
+[DIAGRAMA PENDIENTE: Herramientas por variable del proceso. Peso: báscula. Temperatura: termómetro y horno. Tiempo: cronómetro. Manipulación: raspa y mesa. Corte: navaja. Fermentación: paños, contenedores o fermentadora. Horneado: charola, horno y vapor. Enfriado: rejilla.]
+
+---
+
+## 2. Clasificación práctica de herramientas
+
+No todas las herramientas se compran el primer día. Lo importante es saber cuáles permiten empezar, cuáles mejoran el control y cuáles ayudan a escalar.
+
+| Nivel | Herramientas | Objetivo | Prioridad |
+|---|---|---|---|
+| Indispensable | Báscula, bowl, raspa o espátula firme, charola, horno, paños limpios, navaja o cuchillo muy filoso, superficie limpia | Empezar con orden y seguridad | Alta |
+| Recomendado | Termómetro, cronómetro, rejilla de enfriamiento, taza medidora, recipientes para mise en place, navajas de repuesto | Mejorar control y repetición | Media-alta |
+| Profesional | Amasadora, fermentadora, horno de pisos o con vapor, racks, contenedores graduados, charolas estandarizadas | Escalar producción y reducir variaciones | Según volumen |
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** Chef, si tengo poco presupuesto, ¿qué compro primero?
+>
+> **Chef Juanote™ responde:** Báscula, raspa, charola plana, navaja filosa y termómetro. Primero compra control; los accesorios bonitos pueden esperar.
+
+[INFOGRAFÍA PENDIENTE: Herramientas indispensables, recomendadas y profesionales en tres columnas con iconos simples.]
+
+---
+
+## 3. Báscula: la herramienta de disciplina
+
+La báscula es la herramienta de precisión más importante. En panadería profesional, pesar es más confiable que medir por volumen. La harina se compacta, una taza puede variar, una cucharada no siempre pesa igual y “un puñito” de sal puede arruinar el equilibrio.
+
+La báscula convierte la receta en datos verificables. Si una masa queda seca, pegajosa o floja, puedes revisar cantidades reales y no recuerdos aproximados.
+
+### Cómo elegir una báscula
+
+- Que mida en gramos.
+- Que tenga precisión mínima de 1 g para producción doméstica.
+- Que tenga función de tara.
+- Que soporte el peso del bowl y del lote.
+- Que tenga pantalla visible aun con recipiente encima.
+- Que sea fácil de limpiar.
+- Que use pilas o batería en buen estado.
+
+### Cómo usarla bien
+
+1. Coloca la báscula sobre una superficie firme y nivelada.
+2. Enciéndela y espera lectura estable.
+3. Coloca el recipiente.
+4. Presiona tara para descontar el peso del recipiente.
+5. Agrega el ingrediente poco a poco.
+6. Anota cualquier ajuste si cambiaste la fórmula.
+
+### Errores comunes
+
+- No tarar el recipiente.
+- Pesar sobre una mesa inestable.
+- Usar pilas bajas.
+- Medir sal o levadura “a ojo”.
+- Pesar ingredientes cerca de calor o humedad.
+- Usar una báscula de baja capacidad para lotes grandes.
+
+> **Chef Juanote™ dice:** La báscula no es lujo. Es disciplina. Si quieres repetir un buen bolillo, primero debes poder repetir tus medidas.
+
+[BOLY™ INTERVIENE]
+
+> ¿Y si mi báscula brinca de número en número? Revisa que esté en una mesa firme, cambia pilas, limpia la base y prueba con un peso conocido. Si sigue inestable, no la uses para sal o levadura.
+
+[FOTOGRAFÍA PENDIENTE: Primer plano de báscula digital marcando gramos, con bowl encima y harina agregándose lentamente. Mostrar mano usando función de tara.]
+
+---
+
+## 4. Taza medidora: apoyo útil, no autoridad final
+
+La taza medidora puede ayudar con líquidos cuando el alumno empieza, pero no sustituye a la báscula. En formulación profesional, incluso el agua se pesa porque permite mayor control.
+
+Úsala para:
+
+- Separar agua antes de pesarla.
+- Visualizar volúmenes.
+- Organizar líquidos durante la práctica.
+- Apoyar a alumnos principiantes mientras migran al sistema en gramos.
+
+Evita usarla como única medida para harina si buscas consistencia. Una taza de harina compactada puede contener mucho más que una taza de harina suelta.
+
+> **Boly™ dice:** Una taza puede ayudar, pero la báscula manda. Si quieres que el bolillo salga parecido cada vez, trabaja en gramos.
+
+---
+
+## 5. Bowl, vasija o contenedor: espacio para mezclar y fermentar
+
+El bowl debe permitir mezclar sin derrames y dar espacio a la masa durante reposos. Puede ser de acero inoxidable, vidrio grueso o plástico grado alimenticio. Lo importante es que esté limpio, seco, sin olores fuertes y sin residuos de grasa vieja o detergente.
+
+### Qué buscar
+
+- Tamaño suficiente para que la masa crezca.
+- Material de uso alimenticio.
+- Bordes cómodos para manipular.
+- Base estable.
+- Superficie fácil de lavar.
+
+### Señales de alerta
+
+- Olor persistente a alimentos fuertes.
+- Grietas en plástico.
+- Restos pegados en uniones o esquinas.
+- Tamaño demasiado pequeño para la cantidad de masa.
+
+> **Chef Juanote™ dice:** La masa absorbe ambiente. Si tu recipiente huele a detergente, cebolla o humedad, no esperes un pan limpio.
+
+[FOTOGRAFÍA PENDIENTE: Bowl grande al centro, ingredientes en recipientes pequeños y herramientas organizadas alrededor.]
+
+---
+
+## 6. Raspa y espátulas: extensión de la mano panadera
+
+La raspa ayuda a dividir, levantar, limpiar y manipular masa. Una buena raspa evita que el alumno agregue harina de más cuando la masa se pega, porque permite levantarla y reorganizarla sin maltratarla.
+
+### Usos principales
+
+- Recoger masa adherida a la mesa.
+- Dividir porciones.
+- Limpiar la superficie de trabajo.
+- Transferir masa sin desgarrar.
+- Ayudar en formado inicial.
+
+### Raspa flexible o rígida
+
+- **Flexible:** útil para bowls y recipientes curvos.
+- **Rígida:** útil para mesa, división y limpieza de superficie.
+
+[BOLY™ INTERVIENE]
+
+> ¿Puedo usar una espátula normal? Sí, para empezar. Pero una raspa firme te dará más control, especialmente cuando la masa esté pegajosa o cuando necesites dividir sin arrancar.
+
+[VIDEO PENDIENTE: Uso de raspa sin maltratar masa. Demostración de levantar masa pegajosa, limpiar mesa y dividir porciones con movimiento firme.]
+
+---
+
+## 7. Paños, plásticos y cubiertas: protección de la superficie
+
+Durante reposos y fermentación, la masa debe protegerse para evitar resequedad. Una superficie seca se vuelve piel dura; esa piel puede romperse en formado, impedir buena expansión o marcar defectos en el bolillo.
+
+Puedes usar:
+
+- Paño limpio ligeramente húmedo.
+- Plástico de uso alimenticio.
+- Tapa de contenedor.
+- Caja o recipiente cerrado apto para alimentos.
+
+El paño debe estar limpio, sin olores y reservado para panadería. No debe soltar pelusa ni estar empapado. El objetivo es proteger, no mojar la masa.
+
+> **Chef Juanote™ dice:** La masa que se reseca antes de tiempo llega cansada al horno.
+
+[BOLY™ INTERVIENE]
+
+> ¿Qué pasa si se hizo costra? Humedece ligeramente la superficie si es leve, cubre mejor en la siguiente fermentación y registra el error. Si la costra es gruesa, puede afectar formado y apariencia final.
+
+---
+
+## 8. Batidora y amasadora: ayuda, no sustituto del criterio
+
+Una batidora con gancho o una amasadora permite mezclar y desarrollar masa con menos esfuerzo físico. Es útil cuando aumenta el volumen de producción, pero no es obligatoria para aprender. El amasado manual enseña tacto: el alumno siente cuándo la masa está seca, pegajosa, elástica, tensa o sobretrabajada.
+
+### Si usas máquina
+
+- Usa gancho de masa, no globo batidor.
+- Empieza en velocidad baja.
+- No fuerces el motor con masas pesadas.
+- Detén la máquina para revisar textura y temperatura.
+- Evita sobrecalentar la masa.
+- Limpia gancho, bowl y base después de usar.
+
+### Si amasas a mano
+
+- Trabaja sobre mesa limpia.
+- Usa raspa en lugar de agregar harina sin control.
+- Da reposos cortos si la masa está muy tensa.
+- Observa textura, elasticidad y temperatura.
+
+> **Boly™ dice:** La máquina ayuda, pero no piensa. Tus manos y tus ojos siguen siendo parte del proceso.
+
+[FOTOGRAFÍA PENDIENTE: Comparativa de manos amasando en mesa limpia y amasadora con gancho trabajando una masa pequeña.]
+
+---
+
+## 9. Navaja, lame o cuchillo filoso: dirección de la expansión
+
+El corte del bolillo no es decoración. Es una guía para que el pan expanda de forma controlada en el horno. Una hoja sin filo no corta: arrastra, aplasta y desgarra. Eso puede cerrar la greña, deformar la pieza o dejar una apertura irregular.
+
+### Opciones para iniciar
+
+- Navaja panadera o lame.
+- Cutter limpio reservado solo para panadería.
+- Cuchillo pequeño muy filoso.
+- Navajas de repuesto protegidas.
+
+### Reglas de seguridad
+
+- Usa hoja limpia y afilada.
+- Corta con movimiento decidido.
+- Guarda la hoja protegida.
+- No dejes navajas sueltas en la mesa.
+- Cambia la hoja si rasga o se atora.
+
+> **Chef Juanote™ dice:** Una navaja sin filo no corrige una masa; la lastima.
+
+[BOLY™ INTERVIENE]
+
+> Si no tengo navaja panadera, ¿puedo cortar? Sí, con un cuchillo muy filoso o cutter limpio de uso exclusivo. Pero si el corte arrastra la masa, cambia herramienta antes de culpar a la fermentación.
+
+[VIDEO PENDIENTE: Herramientas de corte y seguridad. Mostrar hoja correcta, hoja gastada, ángulo básico de corte y forma segura de guardar la navaja. La técnica completa se reserva para el Capítulo 8.]
+
+---
+
+## 10. Charolas, tapetes y superficie de horneado
+
+Las charolas deben estar limpias, planas y adecuadas al horno. Una charola deformada produce horneado desigual. Una charola muy oscura puede dorar la base más rápido. Una charola demasiado delgada puede quemar por abajo antes de que el bolillo tome buen color arriba.
+
+### Qué revisar antes de hornear
+
+- Que no esté torcida.
+- Que no tenga grasa quemada acumulada.
+- Que entre bien al horno sin tocar paredes.
+- Que permita circulación de calor.
+- Que sea del tamaño adecuado para dejar espacio entre piezas.
+
+Puedes usar papel para hornear, tapete de silicón apto para horno o charola ligeramente preparada según la receta. Lo importante es evitar que el pan se pegue sin crear exceso de grasa o barreras que alteren la base.
+
+> **Chef Juanote™ dice:** Si todos tus bolillos se queman abajo y arriba siguen pálidos, no mires solo la receta: mira la charola y la posición en el horno.
+
+[FOTOGRAFÍA PENDIENTE: Comparativa de charola plana y limpia frente a charola deformada u oscura, con etiquetas de riesgo.]
+
+---
+
+## 11. Termómetro: dejar de adivinar temperatura
+
+La temperatura cambia la fermentación, la textura y el horneado. El termómetro permite medir agua, masa, ambiente y horno. No siempre se necesita equipo caro, pero sí una lectura confiable.
+
+### Usos en bolillo
+
+- Medir temperatura del agua.
+- Verificar temperatura de masa después del amasado.
+- Revisar temperatura ambiente en fermentación.
+- Confirmar si el horno realmente alcanzó el calor indicado.
+
+### Tipos útiles
+
+- Termómetro digital de cocina para agua y masa.
+- Termómetro de horno para hornos domésticos imprecisos.
+- Infrarrojo como apoyo de superficie, sin sustituir lectura interna cuando se requiera.
+
+[BOLY™ INTERVIENE]
+
+> Mi horno dice 220 °C, ¿le creo? No siempre. Muchos hornos domésticos mienten o fluctúan. Un termómetro de horno te ayuda a conocer su personalidad.
+
+---
+
+## 12. Cronómetro y bitácora: tiempo con memoria
+
+El cronómetro ayuda a registrar procesos, pero nunca reemplaza la observación. En panadería, el reloj orienta; la masa confirma.
+
+Usa cronómetro para amasado, reposos, fermentación, precalentado, horneado y enfriado.
+
+Y acompáñalo con bitácora:
+
+- Fecha.
+- Temperatura ambiente.
+- Temperatura del agua.
+- Tiempo de amasado.
+- Tiempo de fermentación.
+- Posición de charola en horno.
+- Resultado final.
+- Herramientas usadas y problemas detectados.
+
+> **Chef Juanote™ dice:** Un panadero sin registro repite errores con mucha seguridad.
+
+[DESCARGABLE PENDIENTE: Bitácora de herramientas y montaje con columnas de herramienta, uso, estado, limpieza, ubicación y observaciones.]
+
+---
+
+## 13. Horno: conocer su personalidad
+
+Cada horno tiene personalidad. Algunos calientan más atrás, otros queman abajo, otros pierden calor al abrir la puerta y otros no generan vapor suficiente. Antes de culpar a la receta, el alumno debe estudiar su horno.
+
+### Qué observar
+
+- Tiempo real de precalentado.
+- Zonas calientes.
+- Color de la base frente al color superior.
+- Recuperación de calor después de abrir.
+- Capacidad para recibir charolas sin saturación.
+- Posibilidad segura de generar vapor.
+
+Un horno doméstico puede servir para aprender si se conoce bien. Un horno profesional ofrece más estabilidad, capacidad y, en algunos casos, mejor manejo de vapor, pero también exige criterio. Más equipo no elimina la necesidad de observar.
+
+[BOLY™ INTERVIENE]
+
+> ¿Necesito horno de panadería para empezar? No. Empieza con el horno que tienes, pero aprende cómo trabaja. El horno no se presume; se conoce.
+
+[VIDEO PENDIENTE: Cómo conocer tu horno. Demostración con termómetro de horno, ubicación de charola, prueba de color y registro de zonas calientes.]
+
+---
+
+## 14. Rejilla de enfriamiento: cuidar la corteza después del horno
+
+El pan sigue cambiando al salir del horno. Si el bolillo se deja sobre una superficie cerrada, el vapor queda atrapado y la corteza puede aguadarse. Una rejilla permite circulación de aire y ayuda a conservar mejor la textura.
+
+Si no tienes rejilla, improvisa una superficie ventilada y limpia, sin encerrar el pan en bolsa mientras está caliente.
+
+> **Chef Juanote™ dice:** El horneado no termina cuando apagas el horno. Termina cuando el pan se estabiliza.
+
+---
+
+## 15. Fermentadora, contenedores y racks: herramientas para escalar
+
+La fermentadora no es obligatoria para iniciar, pero en producción profesional ayuda a controlar temperatura y humedad. Los contenedores permiten reposos más ordenados y los racks facilitan manejo de charolas cuando el volumen aumenta.
+
+### Cuándo considerar equipo profesional
+
+- Cuando produces lotes frecuentes.
+- Cuando el clima cambia mucho tus resultados.
+- Cuando necesitas horarios más consistentes.
+- Cuando manejas varias charolas por jornada.
+- Cuando vendes y requieres repetibilidad.
+
+> **Boly™ dice:** Profesional no significa comprar todo de golpe. Profesional significa controlar mejor cada decisión.
+
+---
+
+## 16. Mise en place panadero: preparar antes de empezar
+
+Mise en place significa tener todo listo antes de comenzar. En bolillo, no se trata solo de ingredientes: también incluye herramientas, espacio, limpieza, horno, paños, charolas y ruta de trabajo.
+
+### Orden sugerido de mesa
+
+1. Báscula y recipientes para pesar.
+2. Ingredientes separados.
+3. Bowl o amasadora.
+4. Raspa y superficie de trabajo.
+5. Paños o cubiertas.
+6. Charolas preparadas.
+7. Navaja protegida.
+8. Termómetro y cronómetro.
+9. Horno en precalentamiento cuando corresponda.
+10. Rejilla lista para enfriar.
+
+### Ensayo sin ingredientes
+
+Antes de producir, realiza un ensayo sin harina ni agua. Camina el proceso mentalmente:
+
+- ¿Dónde voy a pesar?
+- ¿Dónde voy a mezclar?
+- ¿Dónde voy a amasar?
+- ¿Dónde va a reposar la masa?
+- ¿Dónde estarán las charolas?
+- ¿Dónde pondré la navaja?
+- ¿Dónde enfriará el pan?
+
+Este ensayo evita errores durante la práctica real.
+
+[FOTOGRAFÍA PENDIENTE: Flujo de trabajo de izquierda a derecha con flechas: pesar, mezclar, amasar, reposar, formar, charola, corte, horno y rejilla.]
+
+> **Chef Juanote™ dice:** Si buscas la navaja cuando la masa ya está lista, ya vas tarde. La masa no espera a que ordenes tu cajón.
+
+---
+
+## 17. Higiene, seguridad y mantenimiento
+
+Una herramienta también comunica cuidado. Si está sucia, rota o mal guardada, afecta el proceso y puede volver inseguro el trabajo.
+
+### Reglas básicas
+
+- Lava y seca herramientas antes de guardar.
+- Separa paños de panadería de paños de limpieza general.
+- Protege navajas y objetos filosos.
+- No uses recipientes con olores fuertes.
+- No trabajes con charolas oxidadas o deformadas.
+- Mantén cables de batidora lejos de humedad y calor.
+- Revisa que superficies sean aptas para alimentos.
+
+### Tabla de reemplazo de herramientas
+
+| Herramienta | Señal de reemplazo | Riesgo de no reemplazar |
+|---|---|---|
+| Báscula | Lecturas inestables o botones fallando | Fórmulas inconsistentes |
+| Navaja | Rasga, se atora o perdió filo | Corte irregular y masa lastimada |
+| Charola | Deformación, óxido o calentamiento disparejo | Horneado desigual |
+| Termómetro | Lectura errática o pantalla dañada | Mala fermentación u horno incorrecto |
+| Raspa | Borde roto o plástico quebrado | Manipulación insegura |
+| Paños | Olor, manchas persistentes o pelusa | Contaminación y superficie defectuosa |
+| Bowl | Grietas, olores o pérdida de estabilidad | Higiene deficiente y derrames |
+
+[BOLY™ INTERVIENE]
+
+> ¿Cada cuándo cambio mis herramientas? No por calendario, sino por señal. Si la herramienta ya no mide, corta, protege o limpia bien, ya está afectando tu pan.
+
+---
+
+## 18. Errores comunes y soluciones
+
+| Error | Cómo se ve | Causa probable | Solución práctica |
+|---|---|---|---|
+| Medir harina solo con taza | Masa seca o variable | Harina compactada de forma distinta | Pasar a gramos con báscula |
+| No preparar herramientas | Prisas y fermentación descuidada | Falta de mise en place | Montar mesa antes de mezclar |
+| Usar bowl pequeño | Derrames y mezcla incómoda | Recipiente sin capacidad | Usar bowl amplio |
+| Navaja sin filo | Corte rasgado | Hoja gastada o incorrecta | Cambiar hoja y cortar con decisión |
+| Charola oscura abajo | Base quemada y parte superior pálida | Absorción intensa de calor | Subir nivel, usar doble charola o cambiar charola |
+| No cubrir masa | Costra superficial | Aire directo o paño seco | Cubrir con paño limpio húmedo o tapa |
+| Confiar ciegamente en horno | Horneado irregular | Termostato impreciso | Usar termómetro y registrar zonas calientes |
+| Agregar harina por falta de raspa | Bolillo duro | Manipulación incorrecta | Usar raspa y reposos cortos |
+
+---
+
+## 19. Caso real del obrador
+
+**Caso:** una alumna obtenía bolillos con bases quemadas aunque el color superior era correcto. Había repetido la receta tres veces y pensaba que el problema era la fórmula.
+
+**Diagnóstico:** la charola era muy oscura, estaba colocada en la parte baja del horno y el horno doméstico calentaba fuerte desde abajo.
+
+**Solución:** se subió la charola una posición, se usó doble charola como aislante, se verificó la temperatura con termómetro de horno y se registró el resultado. La base dejó de quemarse y el color superior mejoró con un precalentado más estable.
+
+> **Chef Juanote™ dice:** Cuando el defecto se repite igual, no es mala suerte: es una variable pidiendo atención.
+
+[BOLY™ INTERVIENE]
+
+> Si tu pan falla tres veces de la misma manera, no cambies todo. Cambia una variable, anótala y compara.
+
+[FOTOGRAFÍA PENDIENTE: Bolillo con base quemada junto a bolillo corregido. Incluir nota visual de posición de charola.]
+
+---
+
+## 20. Método Chef Juanote™ aplicado
+
+### Historia
+
+El obrador tradicional siempre ha dependido del orden. Antes de hornos modernos y equipos digitales, el panadero ya sabía que cada herramienta debía estar en su lugar. La mesa, la pala, la charola, el paño y la navaja forman parte del oficio porque reducen improvisación.
+
+### Ciencia
+
+Una herramienta controla variables: peso, tiempo, temperatura, corte, vapor, manipulación y enfriado. Cuando controlas variables, puedes comparar resultados. Cuando comparas resultados, puedes mejorar.
+
+### Práctica
+
+Prepara la mesa completa antes de tocar ingredientes. No empieces si todavía falta charola, paño, navaja o espacio para enfriar.
+
+### Error real
+
+Usar una herramienta buena sin entender su función. Por ejemplo: tener báscula, pero medir sal a ojo; tener termómetro, pero no revisar el horno; tener navaja, pero usarla sin filo.
+
+### Laboratorio
+
+Monta tu estación y cronometra cuánto tardas en encontrar cada herramienta. Luego reorganiza la mesa y repite. Tu objetivo es reducir movimientos innecesarios.
+
+### Bitácora
+
+Anota herramienta, uso, estado, limpieza y reemplazo posible. Si un lote falla, revisa también herramientas, no solo ingredientes.
+
+### Secreto del obrador
+
+> **Chef Juanote™ dice:** La herramienta correcta solo trabaja bien en manos ordenadas.
+
+> **Boly™ dice:** Si puedes explicar para qué sirve cada herramienta, ya no estás copiando una receta: estás construyendo criterio.
+
+---
+
+## 21. Checklist profesional del capítulo
+
+Antes de iniciar una práctica de bolillo, confirma:
+
+- [ ] Mi mesa o superficie de trabajo está limpia y despejada.
+- [ ] Tengo báscula digital funcional y sé usar la tara.
+- [ ] Tengo recipientes para pesar ingredientes.
+- [ ] Tengo bowl o vasija grande, limpio y sin olores fuertes.
+- [ ] Tengo raspa o espátula firme.
+- [ ] Tengo paños limpios, plástico alimentario o tapa para cubrir masa.
+- [ ] Tengo charola limpia, plana y seca.
+- [ ] Tengo papel, tapete o preparación adecuada para evitar que se pegue.
+- [ ] Tengo navaja, lame, cutter limpio o cuchillo muy filoso.
+- [ ] Tengo termómetro disponible si voy a controlar agua, masa u horno.
+- [ ] Tengo cronómetro o reloj para registrar tiempos.
+- [ ] Tengo rejilla o espacio ventilado para enfriar.
+- [ ] Revisé que el horno esté limpio y pueda precalentarse.
+- [ ] Tengo libreta o archivo para anotar resultados.
+- [ ] Separé herramientas antes de mezclar ingredientes.
+
+**Confirmación del alumno:**
+
+Mi estación panadera está lista porque:
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+---
+
+## 22. Actividades prácticas
+
+### Actividad 1: fotografía de estación panadera
+
+Prepara una mesa con todas tus herramientas. Toma una fotografía desde arriba o en ángulo amplio. Revisa:
+
+- ¿Está la báscula accesible?
+- ¿Hay espacio para el bowl?
+- ¿La raspa está cerca de la zona de amasado?
+- ¿La charola está lista antes de formar?
+- ¿La navaja está protegida pero disponible?
+- ¿La rejilla está lista antes de hornear?
+
+Marca en la foto lo que falta o lo que estorba.
+
+### Actividad 2: simulación sin ingredientes
+
+Haz el recorrido completo sin harina ni agua. Toca cada herramienta en el orden en que la usarás. Si en algún paso tienes que buscar algo en cajones, la estación todavía no está lista.
+
+### Actividad 3: revisión de herramientas
+
+| Herramienta | Estado actual | Riesgo | Acción |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+## 23. Autoevaluación
+
+Responde con tus propias palabras:
+
+1. ¿Por qué la báscula es más confiable que una taza medidora para panadería?
+2. ¿Para qué sirve la función de tara?
+3. ¿Qué características debe tener un bowl adecuado para masa de bolillo?
+4. ¿La amasadora es obligatoria para iniciar? Explica.
+5. ¿Por qué debe cubrirse la masa durante los reposos?
+6. ¿Qué problema causa una navaja sin filo?
+7. ¿Qué señales indican que una charola debe reemplazarse?
+8. ¿Qué puede descubrir un termómetro sobre tu horno?
+9. ¿Qué significa preparar mise en place panadero?
+10. ¿Qué herramienta de tu estación necesitas mejorar primero y por qué?
+
+### Respuestas guía
+
+1. Porque el peso en gramos permite repetir cantidades con más precisión.
+2. Para descontar el peso del recipiente y medir solo el ingrediente.
+3. Debe ser amplio, limpio, estable, de uso alimenticio y sin olores fuertes.
+4. No. Se puede amasar a mano; la máquina ayuda, pero no sustituye observación.
+5. Para evitar resequedad superficial y proteger la fermentación.
+6. Rasga la masa, arrastra la superficie y afecta la apertura del corte.
+7. Deformación, óxido, grasa quemada persistente o calentamiento irregular.
+8. Si la temperatura real coincide con la indicada y dónde hay zonas calientes.
+9. Tener ingredientes, herramientas, espacio y ruta listos antes de comenzar.
+10. Respuesta personal, con acción concreta de mejora.
+
+**Resultado sugerido:**
+
+- **8 a 10 respuestas claras:** listo para avanzar al estudio de ingredientes.
+- **5 a 7 respuestas claras:** repasar herramientas principales y checklist.
+- **Menos de 5 respuestas claras:** repetir montaje de mesa y autoevaluación antes de producir.
+
+> **Chef Juanote™ dice:** Equivocarse también enseña, pero revisar con honestidad te hace avanzar más rápido.
+
+---
+
+## 24. Recursos visuales y multimedia del capítulo
+
+### Fotografías pendientes
+
+- [FOTOGRAFÍA PENDIENTE] Mesa completa de herramientas esenciales y profesionales.
+- [FOTOGRAFÍA PENDIENTE] Uso correcto de báscula y tara.
+- [FOTOGRAFÍA PENDIENTE] Bowl amplio con mise en place de ingredientes.
+- [FOTOGRAFÍA PENDIENTE] Amasado manual vs amasadora.
+- [FOTOGRAFÍA PENDIENTE] Charola correcta vs charola incorrecta.
+- [FOTOGRAFÍA PENDIENTE] Flujo de trabajo de izquierda a derecha.
+- [FOTOGRAFÍA PENDIENTE] Comparativa de base quemada vs base corregida.
+- [FOTOGRAFÍA PENDIENTE] Toma Chef Juanote™ + Boly™ para humanizar la enseñanza del capítulo.
+
+### Videos pendientes
+
+- [VIDEO PENDIENTE] Montaje profesional de mesa de trabajo para bolillo.
+- [VIDEO PENDIENTE] Uso de raspa sin maltratar masa.
+- [VIDEO PENDIENTE] Herramientas de corte y seguridad.
+- [VIDEO PENDIENTE] Cómo conocer tu horno doméstico.
+- [VIDEO PENDIENTE] Animación de Boly™: “La herramienta no hace pan, pero evita errores”.
+
+### Diagramas e infografías pendientes
+
+- [DIAGRAMA PENDIENTE] Herramientas por variable del proceso.
+- [DIAGRAMA PENDIENTE] Flujo de mise en place: pesar, mezclar, amasar, reposar, formar, cortar, hornear y enfriar.
+- [INFOGRAFÍA PENDIENTE] Herramientas indispensables, recomendadas y profesionales.
+- [INFOGRAFÍA PENDIENTE] Señales de reemplazo de herramientas.
+
+### Recurso descargable pendiente
+
+- [DESCARGABLE PENDIENTE] Checklist y bitácora de herramientas del Capítulo 2.
+
+---
+
+## 25. QR recomendado del capítulo
+
+**QR-LMB-C02-MESA:** video “Montaje profesional de mesa de trabajo para bolillo”. Debe mostrar mise en place, flujo de herramientas, errores de organización y recomendaciones de seguridad.
+
+**Texto sugerido debajo del QR:**
+
+“Escanea para ver cómo preparar tu estación panadera antes de hacer bolillo.”
+
+**Estado:** pendiente de publicación. No insertar QR definitivo hasta contar con URL final validada.
+
+---
+
+## 26. Cierre del Capítulo 2
+
+Las herramientas son el puente entre la intención y el resultado. Un alumno puede tener buena actitud, buena harina y buena receta, pero si pesa mal, corta con una navaja sin filo o hornea en charolas deformadas, el proceso se vuelve inestable. La herramienta correcta no garantiza excelencia, pero reduce variables innecesarias.
+
+En este capítulo preparaste tu estación panadera, aprendiste a distinguir herramientas indispensables, recomendadas y profesionales, revisaste errores comunes y entendiste que el orden también es técnica.
+
+> **Chef Juanote™ dice:** La mesa bien preparada no hace el bolillo por ti, pero te deja pensar como panadero mientras trabajas.
+
+[BOLY™ INTERVIENE]
+
+> ¡Muy bien, camarada! Ya tienes tu estación lista. Ahora sí, en el siguiente capítulo podremos mirar los ingredientes con más criterio. La herramienta mide; el ingrediente responde.
+
+## Continuidad hacia el Capítulo 3
+
+Con las herramientas listas, el siguiente paso es entender los ingredientes. Si no sabes qué hace la harina, cómo influye el agua, por qué trabaja la levadura y cómo ordena la sal, solo estarás mezclando sin criterio. El próximo capítulo entra al corazón de la fórmula del bolillo.
+
+> **Capítulos posteriores:** no se desarrollan en esta entrega.
