@@ -10,18 +10,20 @@ Cada flujo futuro deberá describirse mediante:
 
 1. Nombre del flujo.
 2. Propósito operativo.
-3. Evento de origen.
-4. Disparador autorizado.
-5. Acción automática prevista.
-6. Registro requerido.
-7. Responsable de revisión.
-8. Criterio de pausa o cancelación.
+3. Sistema maestro relacionado.
+4. Evento de origen.
+5. Disparador autorizado.
+6. Acción automática prevista.
+7. Registro requerido.
+8. Responsable de revisión.
+9. Criterio de pausa, bloqueo o cancelación.
+10. Mecanismo de reversión cuando aplique.
 
 ## Flujos base previstos
 
 ### Flujo de organización documental
 
-Gestionará movimientos, clasificación o validación documental cuando exista autorización futura. No deberá alterar capítulos ni archivos finales sin aprobación expresa.
+Gestionará clasificación, validación o señalización documental cuando exista autorización futura. No deberá alterar capítulos ni archivos finales sin aprobación expresa.
 
 ### Flujo de revisión operativa
 
@@ -30,6 +32,30 @@ Permitirá preparar alertas, listas de verificación o reportes internos sobre e
 ### Flujo de mantenimiento del ecosistema
 
 Podrá coordinar revisiones de estructura, nomenclatura, consistencia documental y disponibilidad de recursos.
+
+### Flujo editorial
+
+Podrá sugerir revisiones, alertas o estados de control editorial, sin editar manuscritos ni capítulos del libro.
+
+### Flujo comercial y de ventas
+
+Podrá organizar señales futuras sobre ofertas, embudos, productos, oportunidades y seguimiento, sin activar campañas reales ni procesar pagos.
+
+### Flujo educativo
+
+Podrá apoyar revisión de módulos, lecciones, evaluaciones y recursos, sin publicar contenidos ni calificar estudiantes reales.
+
+### Flujo multimedia
+
+Podrá coordinar estados futuros de guiones, imágenes, videos y activos, sin generar ni publicar archivos multimedia.
+
+### Flujo de IA
+
+Podrá documentar asistencia futura para clasificación, resumen, alertas y control de conocimiento, sin implementar modelos ni consumir APIs.
+
+### Flujo de clientes
+
+Podrá orientar futuras alertas de atención, soporte o fidelización, sin recopilar datos personales ni crear CRM.
 
 ### Flujo de integración externa
 
