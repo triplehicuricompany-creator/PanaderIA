@@ -1,63 +1,75 @@
 # Sistema Maestro de Calidad PanaderIA™
 
-Sistema oficial de control de calidad para futuras integraciones del Libro Maestro Premium PanaderIA™.
+El **Sistema Maestro de Calidad PanaderIA™** es la infraestructura documental oficial para definir, ordenar y preservar los criterios de calidad del ecosistema PanaderIA™.
 
-> Estado: sistema de planeación, revisión y aprobación. No contiene contenido final del libro ni modifica capítulos existentes.
+Su función es establecer estándares, políticas, validaciones, criterios de aceptación, trazabilidad documental y mejora continua para que todo activo editorial, técnico, pedagógico y multimedia mantenga coherencia, precisión y valor formativo.
 
-## Objetivo
+> Estado: infraestructura documental conceptual. No desarrolla código, no implementa procesos funcionales, no consume APIs y no modifica capítulos del libro.
 
-Establecer un marco único para revisar, aprobar y registrar la calidad técnica, editorial, multimedia, QR y descargable antes de publicar cualquier integración futura del ecosistema PanaderIA™.
+## Propósito
+
+- Formalizar los estándares de calidad del ecosistema PanaderIA™.
+- Distinguir control de calidad, aseguramiento de calidad y auditoría de calidad.
+- Definir revisión editorial, validación técnica, validación pedagógica y validación multimedia.
+- Establecer criterios de aceptación antes de liberar documentos, recursos o integraciones.
+- Organizar la gestión conceptual de incidencias y acciones de mejora.
+- Preservar el versionado documental y la trazabilidad de decisiones.
+- Mantener un roadmap de evolución para la calidad del ecosistema.
 
 ## Alcance
 
-Este sistema aplica a:
+Este sistema aplica a documentos maestros, recursos educativos, recursos multimedia, descargables, activos de apoyo, integraciones conceptuales y futuras versiones autorizadas del ecosistema PanaderIA™.
 
-- Capítulos futuros o actualizaciones autorizadas.
-- Recursos multimedia vinculados al libro.
-- Códigos QR y destinos digitales.
-- Recursos descargables complementarios.
-- Checklist final previo a publicación.
-- Registro de cambios aprobados.
+No sustituye la aprobación humana experta, no corrige directamente capítulos existentes y no define procesos automatizados ejecutables.
 
-## Estructura del sistema
+## Índice documental
 
-| Archivo | Función |
-|---|---|
-| `manifest.json` | Registro maestro del sistema, alcance, estados y restricciones. |
-| `criterios.md` | Criterios oficiales de calidad y niveles de aprobación. |
-| `revision_editorial.md` | Protocolo de revisión de estilo, claridad, coherencia y marca. |
-| `revision_tecnica.md` | Protocolo de revisión técnica panadera y pedagógica. |
-| `revision_multimedia.md` | Protocolo para validar imágenes, videos, audio y recursos visuales. |
-| `revision_qr.md` | Protocolo para validar códigos QR, enlaces y trazabilidad. |
-| `revision_descargables.md` | Protocolo para validar recursos complementarios descargables. |
-| `checklist_final.md` | Lista maestra antes de liberar una versión publicable. |
-| `control_cambios.md` | Registro oficial de cambios aprobados y criterios de aceptación. |
+- `manifest.json`: identificación, alcance, archivos y restricciones del sistema.
+- `indice_maestro.md`: mapa de navegación documental del sistema.
+- `arquitectura_documental.md`: estructura oficial de carpetas, documentos y relaciones.
+- `documentacion_maestra.md`: documento rector del Sistema Maestro de Calidad.
+- `gobernanza.md`: modelo de gobierno documental de calidad.
+- `politicas.md`: políticas oficiales de calidad, revisión y trazabilidad.
+- `estandares_calidad.md`: estándares generales de calidad PanaderIA™.
+- `control_calidad.md`: marco conceptual de control de calidad.
+- `aseguramiento_calidad.md`: marco conceptual de aseguramiento de calidad.
+- `revision_editorial.md`: criterios de revisión editorial.
+- `validacion_tecnica.md`: criterios de validación técnica panadera y operativa.
+- `validacion_pedagogica.md`: criterios de validación pedagógica.
+- `validacion_multimedia.md`: criterios de validación multimedia.
+- `criterios_aceptacion.md`: criterios oficiales de aceptación y rechazo.
+- `gestion_incidencias.md`: clasificación y trazabilidad conceptual de incidencias.
+- `mejora_continua.md`: ciclo documental de mejora continua.
+- `versionado_documental.md`: reglas de versionado, estados y trazabilidad.
+- `auditorias_calidad.md`: auditorías documentales de calidad.
+- `roadmap.md`: evolución planificada del sistema.
 
-## Flujo maestro de calidad
+## Restricciones oficiales
 
-1. Registrar la pieza, recurso o integración en estado `propuesto` o `borrador`.
-2. Confirmar que existe autorización para revisar el material.
-3. Aplicar los criterios generales de `criterios.md`.
-4. Ejecutar las revisiones especializadas que correspondan.
-5. Documentar hallazgos, pendientes y responsables.
-6. Corregir fuera de este sistema cuando aplique.
-7. Repetir revisión hasta alcanzar estado `aprobado`.
-8. Ejecutar `checklist_final.md` antes de publicar.
-9. Registrar la aprobación en `control_cambios.md`.
+1. No desarrollar código.
+2. No implementar procesos funcionales.
+3. No consumir APIs.
+4. No modificar capítulos del libro.
+5. No sustituir revisión humana experta.
+6. No publicar activos sin criterios de aceptación documentados.
+7. No mezclar documentación de calidad con contenido comercial o narrativo final.
 
-## Estados oficiales
+## Principios rectores
 
-- `propuesto`: elemento identificado para revisión futura.
-- `borrador`: elemento en desarrollo, no listo para validación final.
-- `en_revision`: elemento listo para revisión especializada.
-- `observado`: elemento con ajustes requeridos.
-- `aprobado`: elemento validado para integración.
-- `publicado`: elemento liberado oficialmente.
-- `retirado`: elemento reemplazado, cancelado u obsoleto.
+1. La calidad debe ser verificable, trazable y comprensible.
+2. Cada validación debe tener criterios explícitos antes de aprobar un activo.
+3. La mejora continua debe preservar la estabilidad documental.
+4. La revisión editorial, técnica, pedagógica y multimedia deben complementarse sin invadir sus alcances.
+5. Toda incidencia relevante debe registrar impacto, severidad, estado y resolución conceptual.
 
-## Restricciones
+## Documentos de compatibilidad
 
-- Este sistema no modifica capítulos existentes.
-- Este sistema no genera contenido final del libro.
-- Este sistema no sustituye la aprobación editorial humana.
-- Ningún elemento debe publicarse sin trazabilidad de revisión y cambio aprobado.
+El sistema conserva documentos de versiones previas para mantener trazabilidad histórica y continuidad documental:
+
+- `criterios.md`: puente hacia estándares y criterios de aceptación vigentes.
+- `revision_tecnica.md`: puente hacia `validacion_tecnica.md`.
+- `revision_multimedia.md`: puente hacia `validacion_multimedia.md`.
+- `revision_qr.md`: revisión conceptual de QR y enlaces.
+- `revision_descargables.md`: revisión conceptual de recursos descargables.
+- `checklist_final.md`: checklist conceptual final.
+- `control_cambios.md`: registro conceptual de cambios.
