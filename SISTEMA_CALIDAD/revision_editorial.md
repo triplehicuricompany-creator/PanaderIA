@@ -1,36 +1,26 @@
 # Revisión Editorial
 
-## Objetivo
+## Propósito
 
-Validar que futuras integraciones mantengan claridad, coherencia narrativa, tono premium y consistencia con la identidad PanaderIA™.
+Asegurar que cada documento o recurso PanaderIA™ sea claro, consistente, legible y alineado con la voz del ecosistema.
 
-## Puntos de revisión
+## Criterios editoriales
 
-- Ortografía, gramática y puntuación.
-- Claridad de instrucciones, títulos y subtítulos.
-- Consistencia de términos técnicos y nombres de marca.
-- Tono profesional, didáctico y accesible.
-- Ausencia de repeticiones innecesarias.
-- Orden lógico de explicación.
-- Coherencia con recursos vinculados.
-- Separación clara entre contenido formativo, comercial y operativo.
+- Ortografía, gramática y puntuación correctas.
+- Estructura lógica de títulos, secciones y listas.
+- Tono didáctico, profesional y cercano.
+- Terminología consistente con el ecosistema.
+- Ausencia de contradicciones internas.
+- Claridad de instrucciones, advertencias y conclusiones.
 
-## Criterios de aprobación
+## Hallazgos frecuentes
 
-Una pieza editorial puede aprobarse cuando:
+- Ambigüedad en instrucciones.
+- Repeticiones sin función pedagógica.
+- Cambio de tono entre secciones.
+- Títulos que no reflejan el contenido.
+- Inconsistencia de nombres, marcas o estados documentales.
 
-1. No contiene errores ortográficos o gramaticales relevantes.
-2. Su estructura permite lectura fluida.
-3. La voz editorial coincide con PanaderIA™.
-4. No introduce contenido final no autorizado.
-5. Sus referencias internas son consistentes.
+## Decisión editorial
 
-## Registro recomendado
-
-| Campo | Descripción |
-|---|---|
-| ID editorial | Código del elemento revisado. |
-| Tipo de pieza | Capítulo, recurso, anexo, ficha, guion o índice. |
-| Estado | `en_revision`, `observado` o `aprobado`. |
-| Observaciones | Cambios editoriales necesarios. |
-| Responsable | Editor o rol aprobador. |
+La revisión editorial puede recomendar aprobación, observación o rechazo editorial. La aprobación editorial no implica aprobación técnica, pedagógica o multimedia.

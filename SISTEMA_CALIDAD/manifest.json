@@ -1,41 +1,137 @@
 {
   "sistema": "Sistema Maestro de Calidad PanaderIA™",
-  "version_sistema": "1.0.0",
-  "estado": "oficial",
-  "fecha_creacion": "2026-07-06",
-  "proposito": "Controlar la calidad técnica, editorial, multimedia, QR y descargable del Libro Maestro Premium PanaderIA™ antes de futuras integraciones.",
+  "version": "1.0.0",
+  "fase": "FASE 14",
+  "mision": "MISIÓN 53",
+  "estado": "infraestructura documental oficial creada",
+  "proposito": "Definir la infraestructura documental oficial para estándares, control, aseguramiento, revisiones, validaciones, criterios de aceptación, incidencias, mejora continua, versionado, auditorías y roadmap de calidad del ecosistema PanaderIA™.",
   "alcance": [
-    "Libro Maestro Premium PanaderIA™",
-    "recursos multimedia",
-    "codigos QR",
-    "descargables",
-    "checklists de publicacion",
-    "registro de cambios aprobados"
+    "Estándares de calidad.",
+    "Control de calidad.",
+    "Aseguramiento de calidad.",
+    "Revisión editorial.",
+    "Validación técnica.",
+    "Validación pedagógica.",
+    "Validación multimedia.",
+    "Criterios de aceptación.",
+    "Gestión de incidencias.",
+    "Mejora continua.",
+    "Versionado documental.",
+    "Auditorías de calidad.",
+    "Roadmap de calidad."
   ],
-  "archivos_control": [
-    "README.md",
-    "criterios.md",
-    "revision_editorial.md",
-    "revision_tecnica.md",
-    "revision_multimedia.md",
-    "revision_qr.md",
-    "revision_descargables.md",
-    "checklist_final.md",
-    "control_cambios.md"
+  "archivos": [
+    {
+      "nombre": "README.md",
+      "funcion": "Presentación general del Sistema Maestro de Calidad."
+    },
+    {
+      "nombre": "indice_maestro.md",
+      "funcion": "Índice rector y mapa de navegación documental."
+    },
+    {
+      "nombre": "arquitectura_documental.md",
+      "funcion": "Describe la arquitectura documental y relaciones internas del sistema."
+    },
+    {
+      "nombre": "documentacion_maestra.md",
+      "funcion": "Documento rector conceptual del sistema de calidad."
+    },
+    {
+      "nombre": "gobernanza.md",
+      "funcion": "Define gobierno documental, roles conceptuales y autoridad de aprobación."
+    },
+    {
+      "nombre": "politicas.md",
+      "funcion": "Establece políticas oficiales de calidad y trazabilidad."
+    },
+    {
+      "nombre": "estandares_calidad.md",
+      "funcion": "Formaliza estándares generales de calidad PanaderIA™."
+    },
+    {
+      "nombre": "control_calidad.md",
+      "funcion": "Documenta el marco conceptual de control de calidad."
+    },
+    {
+      "nombre": "aseguramiento_calidad.md",
+      "funcion": "Documenta el marco conceptual de aseguramiento de calidad."
+    },
+    {
+      "nombre": "revision_editorial.md",
+      "funcion": "Define criterios editoriales de revisión."
+    },
+    {
+      "nombre": "validacion_tecnica.md",
+      "funcion": "Define criterios técnicos de validación."
+    },
+    {
+      "nombre": "validacion_pedagogica.md",
+      "funcion": "Define criterios pedagógicos de validación."
+    },
+    {
+      "nombre": "validacion_multimedia.md",
+      "funcion": "Define criterios multimedia de validación."
+    },
+    {
+      "nombre": "criterios_aceptacion.md",
+      "funcion": "Establece criterios de aceptación, observación y rechazo."
+    },
+    {
+      "nombre": "gestion_incidencias.md",
+      "funcion": "Organiza incidencias de calidad y su trazabilidad conceptual."
+    },
+    {
+      "nombre": "mejora_continua.md",
+      "funcion": "Define el ciclo documental de mejora continua."
+    },
+    {
+      "nombre": "versionado_documental.md",
+      "funcion": "Establece reglas de estados, versiones y cambios documentales."
+    },
+    {
+      "nombre": "auditorias_calidad.md",
+      "funcion": "Define auditorías documentales de calidad."
+    },
+    {
+      "nombre": "roadmap.md",
+      "funcion": "Traza la evolución planificada del sistema de calidad."
+    },
+    {
+      "nombre": "criterios.md",
+      "funcion": "Puente documental hacia estándares y criterios de aceptación vigentes."
+    },
+    {
+      "nombre": "revision_tecnica.md",
+      "funcion": "Puente documental hacia validación técnica vigente."
+    },
+    {
+      "nombre": "revision_multimedia.md",
+      "funcion": "Puente documental hacia validación multimedia vigente."
+    },
+    {
+      "nombre": "revision_qr.md",
+      "funcion": "Protocolo conceptual heredado para revisión de QR y enlaces."
+    },
+    {
+      "nombre": "revision_descargables.md",
+      "funcion": "Protocolo conceptual heredado para revisión de recursos descargables."
+    },
+    {
+      "nombre": "checklist_final.md",
+      "funcion": "Checklist conceptual final de calidad."
+    },
+    {
+      "nombre": "control_cambios.md",
+      "funcion": "Registro conceptual de cambios del sistema."
+    }
   ],
-  "estados_permitidos": [
-    "propuesto",
-    "borrador",
-    "en_revision",
-    "observado",
-    "aprobado",
-    "publicado",
-    "retirado"
-  ],
-  "restricciones": {
-    "modificar_capitulos_existentes": false,
-    "generar_contenido_final_libro": false,
-    "publicar_sin_revision": false,
-    "requiere_trazabilidad": true
-  }
+  "restricciones": [
+    "No desarrollar código.",
+    "No implementar procesos funcionales.",
+    "No consumir APIs.",
+    "No modificar capítulos del libro.",
+    "No sustituir la aprobación humana experta.",
+    "No crear contenido final del libro."
+  ]
 }
