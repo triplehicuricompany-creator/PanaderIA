@@ -1803,4 +1803,435 @@ No culpes al horno antes de revisar la harina. No culpes al amasado antes de rev
 
 Con los ingredientes comprendidos, el siguiente paso natural será aprender a amasarlos con técnica. El Capítulo 4 deberá estudiar cómo la harina hidratada se convierte en masa, cómo se desarrolla el gluten y cómo las manos o la amasadora transforman ingredientes separados en una estructura capaz de fermentar, formarse y abrir en el horno.
 
+---
+
+# Capítulo 4 — Amasado profesional
+
+## 1. Objetivo del capítulo
+
+El amasado profesional transforma ingredientes pesados en una masa viva, organizada y capaz de fermentar. En el bolillo, esta etapa decide gran parte de la estructura interna, el volumen, la elasticidad, la greña, la textura del migajón y la regularidad de la producción.
+
+Al terminar este capítulo podrás:
+
+- Comprender qué ocurre cuando harina, agua, levadura y sal se integran.
+- Distinguir mezcla, amasado, reposo y desarrollo de gluten.
+- Reconocer una masa subamasada, bien amasada y sobreamasada.
+- Aplicar técnicas de amasado manual y mecánico con criterio.
+- Usar la prueba de membrana como referencia, no como superstición.
+- Registrar tiempo, temperatura, sensación y resultado para repetir tandas exitosas.
+
+> **Chef Juanote™ dice:** El pan se aprende con las manos, pero se mejora con método.
+
+[BOLY™ INTERVIENE]
+
+> Si tu masa cambia de textura durante el amasado, no te asustes. Primero observa: ¿está más lisa, más elástica, más caliente o más pegajosa? Cada cambio trae una pista.
+
+[FOTOGRAFÍA PENDIENTE — C04-F01: mesa de trabajo con ingredientes recién integrados, antes del desarrollo de gluten.]
+
+[VIDEO PENDIENTE — C04-V01: demostración completa de mezcla inicial, amasado y prueba de membrana.]
+
+---
+
+## 2. Qué es realmente amasar
+
+Amasar no es golpear masa sin dirección. Amasar es ordenar agua y harina para formar una red de gluten capaz de retener gases de fermentación. Esa red no se ve al inicio, pero se siente: la masa pasa de grumosa a homogénea, de rasposa a lisa, de quebradiza a elástica.
+
+En una fórmula básica de bolillo, la harina aporta proteínas formadoras de gluten; el agua hidrata esas proteínas; la levadura producirá gas y aroma; la sal fortalece estructura, regula fermentación y mejora sabor. El amasado une estos papeles en una sola masa funcional.
+
+### Las cuatro metas del amasado
+
+1. **Integración:** que no queden harina seca, grumos duros ni zonas con sal concentrada.
+2. **Hidratación:** que el agua llegue al interior de la harina y permita elasticidad.
+3. **Desarrollo:** que la masa gane fuerza, extensibilidad y capacidad de retención.
+4. **Control térmico:** que la masa no termine demasiado caliente ni debilitada.
+
+> **Consejo exclusivo del Chef Juanote™:** No midas el amasado solo con reloj. El reloj te orienta; la masa confirma.
+
+---
+
+## 3. La transformación de la masa paso a paso
+
+### Etapa 1: mezcla desordenada
+
+Al principio, la masa puede verse seca, pegajosa o irregular. Esta etapa no debe juzgarse demasiado pronto. Muchas masas de bolillo parecen imperfectas durante los primeros minutos porque el agua todavía no se distribuye completamente.
+
+**Señales esperadas:**
+
+- Harina visible en bordes o fondo del recipiente.
+- Masa quebradiza o con parches húmedos.
+- Sensación pegajosa sin elasticidad clara.
+
+[BOLY™ INTERVIENE]
+
+> Pregunta frecuente: “¿Agrego más harina porque se pega?” Respuesta corta: espera. Primero permite que la harina absorba agua. Agregar harina demasiado pronto puede endurecer el bolillo.
+
+[FOTOGRAFÍA PENDIENTE — C04-F02: masa recién mezclada con textura irregular.]
+
+### Etapa 2: masa integrada
+
+La masa ya no tiene harina seca visible y se comporta como una unidad. Aún puede sentirse rústica, pero empieza a responder al movimiento.
+
+**Señales esperadas:**
+
+- La masa se despega parcialmente de la mesa o tazón.
+- Hay menos grumos secos.
+- La superficie sigue opaca, pero más uniforme.
+
+### Etapa 3: desarrollo medio
+
+La masa gana elasticidad. Si la estiras, ofrece resistencia y empieza a regresar. En bolillo, esta etapa suele ser suficiente para continuar con reposos y fermentación controlada, dependiendo de la fórmula, la harina y el método.
+
+**Señales esperadas:**
+
+- Superficie más lisa.
+- Mayor tensión al bolear una porción.
+- Menos ruptura inmediata al estirar.
+
+### Etapa 4: desarrollo óptimo
+
+La masa se siente viva: elástica, extensible, lisa y con fuerza. Puede formar una membrana delgada antes de romperse. No necesita ser una película perfecta de concurso; necesita ser una red adecuada para el producto.
+
+**Señales esperadas:**
+
+- Masa lisa y ligeramente satinada.
+- Elasticidad sin rigidez excesiva.
+- Temperatura controlada.
+- Membrana fina con ruptura gradual, no desgarrada de inmediato.
+
+[VIDEO PENDIENTE — C04-V02: comparación en tiempo real entre masa subdesarrollada, masa lista y masa sobreamasada.]
+
+---
+
+## 4. Gluten: la estructura que sostiene el bolillo
+
+El gluten funciona como una malla. Durante la fermentación, la levadura producirá gas; si la malla es débil, el gas escapa o deforma la pieza. Si la malla es adecuada, el bolillo gana volumen, conserva forma y abre mejor durante el horneado.
+
+En el bolillo buscamos equilibrio:
+
+- **Fuerza:** para sostener la pieza.
+- **Extensibilidad:** para permitir expansión sin romperse.
+- **Elasticidad:** para recuperar forma y mantener tensión.
+- **Tolerancia:** para soportar manipulación, fermentación y corte.
+
+Una masa muy débil puede dar bolillos planos, greña pobre y migajón apretado. Una masa demasiado trabajada puede calentarse, volverse pegajosa y perder calidad.
+
+> **Chef Juanote™ dice:** Si la masa se queja, revisa agua, tiempo y temperatura.
+
+---
+
+## 5. Temperatura de la masa: el control invisible
+
+El amasado genera fricción. Esa fricción calienta la masa, especialmente en amasadora. Si la masa termina demasiado caliente, la levadura se acelera, la fermentación se desordena y la estructura puede debilitarse.
+
+### Referencia práctica
+
+Para producción consistente, registra la temperatura de la masa al terminar el amasado. No hace falta obsesionarse en casa, pero sí conviene comparar resultados.
+
+**Ejemplo práctico:**
+
+- Tanda A: masa final tibia, fermentó rápido, bolillos bajos.
+- Tanda B: masa final moderada, fermentó con control, bolillos con mejor volumen.
+
+La diferencia puede no estar en la receta, sino en la temperatura alcanzada durante el amasado.
+
+[FOTOGRAFÍA PENDIENTE — C04-F03: termómetro insertado en masa recién amasada.]
+
+[BOLY™ INTERVIENE]
+
+> Si un día tu bolillo fermenta mucho más rápido que ayer, revisa tres datos: temperatura del agua, temperatura del obrador y tiempo de amasado.
+
+---
+
+## 6. Amasado manual profesional
+
+El amasado manual enseña sensibilidad. Aunque una panadería use amasadora, todo panadero debe saber leer la masa con las manos.
+
+### Método básico recomendado
+
+1. Coloca la masa sobre mesa limpia, sin exceso de harina.
+2. Empuja la masa con la base de la palma.
+3. Estira sin desgarrar completamente.
+4. Dobla la masa sobre sí misma.
+5. Gira un cuarto de vuelta.
+6. Repite con ritmo constante.
+7. Descansa brevemente si la masa se tensa demasiado.
+
+### Cómo evitar endurecer la masa
+
+No agregues harina cada vez que se pegue. Usa una raspa para levantar la masa y mantén el movimiento. Si agregas harina sin medir, cambias la hidratación y puedes obtener bolillos secos.
+
+### Ejemplo práctico de sesión manual
+
+Para una masa de bolillo de hidratación media:
+
+- 0 a 3 minutos: integración.
+- 3 a 8 minutos: desarrollo inicial.
+- Reposo breve de 5 minutos: hidratación y relajación.
+- 8 a 12 minutos: desarrollo final.
+- Prueba: estirado pequeño y observación de elasticidad.
+
+Estos tiempos son orientativos. Una harina fuerte, una masa más grande o un ambiente frío pueden requerir ajustes.
+
+[VIDEO PENDIENTE — C04-V03: técnica de amasado manual con empuje, doblez, giro y uso de raspa.]
+
+> **Consejo exclusivo del Chef Juanote™:** La mesa no es ring de box. No castigues la masa; condúcela.
+
+---
+
+## 7. Amasado en amasadora
+
+La amasadora aporta velocidad, regularidad y capacidad de producción. También puede ocultar errores si el panadero solo presiona un botón y deja de observar.
+
+### Fases recomendadas
+
+1. **Velocidad baja:** integra ingredientes sin forzar la masa.
+2. **Velocidad media:** desarrolla gluten con mayor eficiencia.
+3. **Revisión:** detén, toca, estira y mide temperatura.
+4. **Ajuste final:** continúa solo si la masa lo necesita.
+
+### Riesgos en amasadora
+
+- Calentar demasiado la masa por fricción.
+- Desarrollar de más y debilitar la estructura.
+- No raspar zonas secas del tazón.
+- Confiar en el tiempo de una máquina distinta.
+
+**Ejemplo práctico:** si una receta indica 10 minutos de amasado, una amasadora espiral potente puede desarrollar antes que una doméstica. Por eso conviene registrar máquina, velocidad, carga y resultado.
+
+[FOTOGRAFÍA PENDIENTE — C04-F04: masa separándose del tazón en amasadora durante desarrollo medio.]
+
+[VIDEO PENDIENTE — C04-V04: puntos de revisión en amasadora: minuto inicial, medio y final.]
+
+[BOLY™ INTERVIENE]
+
+> Pregunta frecuente: “¿La masa debe despegarse totalmente del tazón?” No siempre. Depende de hidratación, harina y máquina. Mejor combina tres pruebas: textura, elasticidad y temperatura.
+
+---
+
+## 8. La prueba de membrana
+
+La prueba de membrana consiste en tomar una porción pequeña de masa y estirarla suavemente hasta formar una película delgada. Sirve para evaluar desarrollo de gluten.
+
+### Cómo hacerla
+
+1. Toma una porción pequeña de masa.
+2. Déjala reposar uno o dos minutos si está muy tensa.
+3. Estira con ambas manos desde el centro hacia afuera.
+4. Observa si forma una película delgada.
+5. Revisa cómo rompe: lisa, gradual, irregular o desgarrada.
+
+### Cómo interpretarla
+
+| Resultado | Lectura probable | Acción sugerida |
+|---|---|---|
+| Se rompe de inmediato | Falta desarrollo o hidratación insuficiente | Amasar un poco más o dar reposo |
+| Forma membrana gruesa | Desarrollo medio | Puede servir según método |
+| Forma membrana fina | Desarrollo adecuado | Pasar a reposo/fermentación |
+| Está pegajosa, caliente y se desgarra | Posible sobreamasado o exceso térmico | Detener, enfriar proceso y ajustar próxima tanda |
+
+La membrana no debe convertirse en obsesión. En bolillo, el objetivo es una masa funcional, no una lámina perfecta para fotografía.
+
+[FOTOGRAFÍA PENDIENTE — C04-F05: secuencia de prueba de membrana correcta e incorrecta.]
+
+> **Chef Juanote™ dice:** No corrijas a ciegas; observa, compara y ajusta.
+
+---
+
+## 9. Reposos durante el amasado
+
+Un reposo breve puede mejorar la masa sin esfuerzo extra. Durante el reposo, el agua sigue hidratando la harina y la red comienza a organizarse. Esto puede reducir tiempo de amasado y evitar calentamiento.
+
+### Cuándo usar reposo
+
+- Masa muy tensa.
+- Masa irregular que no termina de hidratarse.
+- Amasado manual cansado o difícil.
+- Harina que tarda en absorber agua.
+
+### Ejemplo práctico
+
+Mezcla hasta integrar, reposa 10 minutos cubierto y después amasa. Muchas veces la masa se vuelve más amable, requiere menos fuerza y desarrolla mejor.
+
+[BOLY™ INTERVIENE]
+
+> Si estás luchando con la masa, pausa. A veces cinco o diez minutos de reposo enseñan más que cinco minutos de fuerza bruta.
+
+---
+
+## 10. Hidratación y ajustes durante el amasado
+
+La hidratación determina qué tan firme o extensible será la masa. No todas las harinas absorben igual. Por eso un panadero profesional no agrega toda el agua de manera ciega si está trabajando con harina nueva o clima cambiante.
+
+### Ajuste responsable
+
+- Reserva una pequeña parte del agua si no conoces la harina.
+- Integra primero y observa.
+- Agrega agua poco a poco si la masa está demasiado rígida.
+- Evita corregir con harina sin pesar.
+
+**Ejemplo práctico:** una harina más fuerte puede pedir más agua para lograr la misma sensación. Una harina débil puede sentirse pegajosa con la misma fórmula. El ajuste debe anotarse, no improvisarse cada día desde cero.
+
+---
+
+## 11. Señales sensoriales de una masa lista
+
+Una masa de bolillo correctamente amasada suele mostrar:
+
+- Superficie lisa o casi lisa.
+- Sensación elástica al presionar.
+- Capacidad de estirarse sin romper de inmediato.
+- Tensión moderada al formar una bola.
+- Temperatura final coherente con la fermentación deseada.
+- Aroma limpio a harina hidratada, sin notas extrañas.
+
+### Mini prueba de presión
+
+Presiona la masa con un dedo. Si se hunde sin resistencia, puede faltar desarrollo. Si rebota con fuerza excesiva y se siente dura, puede faltar hidratación o reposo. Si responde con elasticidad moderada, vas por buen camino.
+
+[FOTOGRAFÍA PENDIENTE — C04-F06: huella de dedo en masa con respuesta elástica adecuada.]
+
+---
+
+## 12. Errores comunes y cómo evitarlos
+
+| Error común | Síntoma visible | Causa probable | Cómo evitarlo |
+|---|---|---|---|
+| Subamasado | Masa áspera, se rompe, bolillo bajo | Poco tiempo o mala técnica | Amasar hasta elasticidad mínima y usar prueba de membrana |
+| Sobreamasado | Masa caliente, pegajosa, débil | Exceso de tiempo o fricción | Medir temperatura y detener al lograr desarrollo |
+| Agregar harina sin control | Bolillo seco o pesado | Corrección impulsiva de pegajosidad | Usar raspa, reposo y registro de hidratación |
+| Agua sin control | Masa variable cada día | Temperatura o cantidad irregular | Medir agua y anotar temperatura |
+| Sal mal distribuida | Sabor desigual y fermentación irregular | Mezcla deficiente | Integrar bien antes de desarrollo final |
+| No raspar el tazón | Partes secas o grumos | Ingredientes adheridos | Detener y raspar durante mezcla inicial |
+| Amasar solo por reloj | Resultados variables | No leer la masa | Combinar tiempo, tacto, elasticidad y temperatura |
+
+> **Consejo exclusivo del Chef Juanote™:** Una buena tanda empieza antes de pesar la harina, pero se confirma cuando la masa responde en tus manos.
+
+[BOLY™ INTERVIENE]
+
+> Para diagnosticar tu amasado, describe cinco cosas: textura, elasticidad, temperatura, tiempo y resultado del bolillo. Con esos datos se puede corregir mejor.
+
+---
+
+## 13. Ejercicios prácticos del capítulo
+
+### Ejercicio 1: compara tres puntos de amasado
+
+Prepara una misma masa y toma pequeñas muestras en tres momentos:
+
+1. Recién integrada.
+2. A medio desarrollo.
+3. Al punto final.
+
+Estira cada muestra y anota qué ocurre. Este ejercicio entrena más que leer diez definiciones.
+
+### Ejercicio 2: bitácora de temperatura
+
+Durante tres tandas, registra:
+
+- Temperatura del agua.
+- Temperatura ambiente.
+- Tiempo de amasado.
+- Temperatura final de masa.
+- Resultado del bolillo.
+
+Después compara. Si el resultado cambia, busca relación entre temperatura y fermentación.
+
+### Ejercicio 3: reposo estratégico
+
+Haz una tanda con amasado continuo y otra con reposo breve después de integrar. Compara textura, esfuerzo, elasticidad y volumen final.
+
+[VIDEO PENDIENTE — C04-V05: ejercicio guiado de bitácora y comparación de muestras.]
+
+---
+
+## 14. Checklist profesional de amasado
+
+Antes de terminar esta etapa, confirma:
+
+- [ ] No queda harina seca visible.
+- [ ] La masa está homogénea.
+- [ ] La textura pasó de áspera a más lisa.
+- [ ] La masa tiene elasticidad y extensibilidad.
+- [ ] La temperatura final fue registrada.
+- [ ] La prueba de membrana es coherente con el producto.
+- [ ] No se agregó harina extra sin medir.
+- [ ] Se anotaron tiempos, velocidad o técnica usada.
+
+---
+
+## 15. Recursos multimedia sugeridos
+
+### Fotografías
+
+- [FOTOGRAFÍA PENDIENTE — C04-F01] Ingredientes integrados al inicio.
+- [FOTOGRAFÍA PENDIENTE — C04-F02] Masa irregular recién mezclada.
+- [FOTOGRAFÍA PENDIENTE — C04-F03] Medición de temperatura final.
+- [FOTOGRAFÍA PENDIENTE — C04-F04] Desarrollo en amasadora.
+- [FOTOGRAFÍA PENDIENTE — C04-F05] Prueba de membrana comparativa.
+- [FOTOGRAFÍA PENDIENTE — C04-F06] Respuesta elástica al tacto.
+
+### Videos
+
+- [VIDEO PENDIENTE — C04-V01] Amasado completo del bolillo.
+- [VIDEO PENDIENTE — C04-V02] Comparativa subamasado, punto correcto y sobreamasado.
+- [VIDEO PENDIENTE — C04-V03] Amasado manual profesional.
+- [VIDEO PENDIENTE — C04-V04] Amasado en máquina y puntos de revisión.
+- [VIDEO PENDIENTE — C04-V05] Ejercicio de bitácora de temperatura y desarrollo.
+
+---
+
+## 16. Autoevaluación
+
+Responde con honestidad:
+
+1. ¿Cuál es la diferencia entre mezclar y amasar?
+2. ¿Qué señales indican subamasado?
+3. ¿Qué riesgos tiene sobreamasar?
+4. ¿Por qué la temperatura final de masa importa?
+5. ¿Cuándo conviene usar reposo durante el amasado?
+6. ¿Qué evalúa la prueba de membrana?
+7. ¿Por qué no conviene agregar harina sin medir?
+8. ¿Qué datos registrarías para repetir una tanda exitosa?
+9. ¿Cómo cambia el amasado manual frente al amasado en máquina?
+10. ¿Qué harías si la masa está tensa pero no lisa?
+
+### Escala personal
+
+Marca del 1 al 5:
+
+- Entendí la transformación de ingredientes a masa: ____ / 5
+- Puedo reconocer una masa subamasada: ____ / 5
+- Puedo evitar sobreamasado: ____ / 5
+- Sé aplicar la prueba de membrana: ____ / 5
+- Registraré temperatura y tiempos en mis tandas: ____ / 5
+
+---
+
+## 17. QR recomendado del capítulo
+
+**QR-LMB-C04-AMASADO-PRO:** video “Amasado profesional del bolillo: de mezcla a membrana”. Debe mostrar amasado manual, amasadora, temperatura final y prueba de membrana.
+
+**QR-LMB-C04-BITACORA-MASA:** plantilla descargable para registrar hidratación, tiempo, temperatura, sensación de masa y resultado.
+
+**Texto sugerido debajo del QR:**
+
+“Escanea para ver la transformación completa de la masa y descargar la bitácora profesional del Capítulo 4.”
+
+**Estado:** pendiente de publicación. No insertar QR definitivo hasta contar con URL final validada.
+
+---
+
+## 18. Cierre del Capítulo 4
+
+El amasado es el puente entre ingredientes y fermentación. Aquí la harina deja de ser polvo, el agua deja de ser líquido suelto y la masa empieza a comportarse como una estructura capaz de crecer. Si amasas poco, el bolillo queda débil. Si amasas de más, la masa se fatiga. Si amasas con método, la fermentación tendrá una base mucho más confiable.
+
+Recuerda: no se trata de imponer fuerza, sino de desarrollar estructura. Tus manos, tu amasadora, tu termómetro y tu bitácora deben trabajar juntos.
+
+> **Chef Juanote™ dice:** Orden en la mesa, orden en el resultado.
+
+[BOLY™ INTERVIENE]
+
+> ¡Buen trabajo! Ya sabes leer una masa en transformación. En el siguiente capítulo, esa masa empezará a fermentar; ahí aprenderás a controlar tiempo, temperatura y volumen para que el bolillo gane vida sin perder estructura.
+
+
 > **Capítulos posteriores:** no se desarrollan en esta entrega.
