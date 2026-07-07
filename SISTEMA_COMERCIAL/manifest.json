@@ -43,5 +43,12 @@
     "escribir_contenido_comercial_definitivo": false,
     "desarrollar_codigo": false,
     "requiere_revision_comercial": true
-  }
+  },
+  "fase": "FASE 14",
+  "mision": "MISIÓN 45",
+  "tipo": "sistema_maestro_comercial",
+  "desarrolla_codigo": false,
+  "crea_campanas_reales": false,
+  "modifica_capitulos_libro": false,
+  "genera_contenido_comercial_final": false
 }
