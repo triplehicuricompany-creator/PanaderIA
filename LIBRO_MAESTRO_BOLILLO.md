@@ -2842,3 +2842,695 @@ Con la fermentación comprendida, el siguiente paso será aprender a dividir, bo
 ---
 
 > **Capítulos posteriores:** no se desarrollan en esta entrega.
+
+# Capítulo 6 — División, boleado y formado
+
+## 1. Objetivo del capítulo
+
+La división, el boleado y el formado convierten una masa fermentada en piezas individuales con peso, tensión, simetría y dirección. En esta etapa el panadero deja de trabajar una masa grande y empieza a construir cada bolillo como una pieza con identidad propia. Si el amasado creó estructura y la fermentación dio vida, el formado ordena esa vida para que el horno la exprese correctamente.
+
+Al terminar este capítulo podrás:
+
+- Dividir masa con pesos consistentes y mínima agresión.
+- Preformar o bolear piezas para organizar tensión inicial.
+- Aplicar reposo intermedio cuando la masa lo necesita.
+- Formar bolillos alargados, simétricos y con tensión superficial adecuada.
+- Reconocer errores de manipulación que afectan volumen, greña y migajón.
+- Registrar peso, sensación de masa y resultado para mejorar tandas futuras.
+
+> **Chef Juanote™ dice:** Un bolillo bien formado empieza antes del corte. La greña abre mejor cuando la pieza ya trae orden desde la mesa.
+
+[BOLY™ INTERVIENE]
+
+> ¡Camarada, aquí las manos se vuelven herramienta fina! No se trata de aplastar la masa ni de pelear con ella. Se trata de guiarla: dividir con precisión, bolear con respeto y formar con intención.
+
+[FOTOGRAFÍA PENDIENTE — C06-F01: mesa de trabajo con masa fermentada, báscula, raspa, piezas divididas y bolillos ya formados en secuencia.]
+
+[VIDEO PENDIENTE — C06-V01: Chef Juanote™ demuestra división, boleado, reposo intermedio y formado completo del bolillo.]
+
+[QR PENDIENTE — QR-LMB-C06-FORMADO-PRO: video principal del capítulo, checklist de formado y plantilla de control de pesos.]
+
+---
+
+## 2. Por qué esta etapa define la apariencia del bolillo
+
+La masa puede venir bien amasada y fermentada, pero si se divide mal, se desgarra, se aplasta o se forma sin tensión, el bolillo perderá calidad. Esta etapa influye directamente en:
+
+- Peso final de cada pieza.
+- Uniformidad de horneado.
+- Volumen y altura.
+- Simetría del bolillo.
+- Dirección de expansión.
+- Calidad de la greña.
+- Textura interna del migajón.
+- Presentación comercial.
+
+Un formado correcto no es solo estética. También distribuye tensión, ordena gases internos y prepara la superficie para recibir el corte. Cuando la pieza tiene buena tensión, el corte encuentra una superficie capaz de abrir. Cuando la pieza está floja, torcida o desgarrada, el corte pierde control.
+
+### Cadena técnica del formado
+
+| Etapa | Función principal | Riesgo si se hace mal |
+|---|---|---|
+| División | Separar porciones de peso uniforme | Piezas de distinto tamaño y horneado desigual |
+| Boleado o preformado | Organizar tensión inicial | Masa floja, irregular o difícil de formar |
+| Reposo intermedio | Relajar gluten antes del formado final | Rasgaduras, encogimiento y exceso de fuerza |
+| Formado final | Dar forma, tensión y dirección | Bolillos planos, torcidos o sin greña limpia |
+| Acomodo en charola | Proteger forma y expansión | Piezas pegadas, deformadas o mal horneadas |
+
+> **Consejo exclusivo del Chef Juanote™:** No formes para que “parezca” bolillo. Forma para que se comporte como bolillo en fermentación final y horno.
+
+[DIAGRAMA PENDIENTE — C06-D01: flujo visual de masa en bloque, división, boleado, reposo, formado, charola y fermentación final.]
+
+---
+
+## 3. Preparación de la mesa antes de dividir
+
+Antes de tocar la masa, la mesa debe estar lista. La improvisación provoca exceso de harina, piezas mal pesadas, masas resecas y movimientos bruscos. Un panadero profesional prepara su estación para trabajar con continuidad.
+
+### Herramientas recomendadas
+
+- Báscula digital calibrada.
+- Raspa metálica o plástica limpia.
+- Charolas o tablas preparadas.
+- Paño limpio o plástico alimentario para cubrir piezas.
+- Harina mínima para espolvoreo, solo si hace falta.
+- Bitácora y lápiz para registrar pesos y observaciones.
+- Reloj o temporizador para controlar reposos.
+
+### Orden de trabajo
+
+1. Limpia y seca la superficie.
+2. Coloca la báscula en zona estable.
+3. Prepara charolas antes de dividir.
+4. Ten cubierta lista para proteger piezas.
+5. Define el peso objetivo de cada bolillo.
+6. Trabaja con movimientos seguros, no apresurados.
+
+[BOLY™ INTERVIENE]
+
+> Pregunta rápida: ¿ya tienes dónde poner las piezas después de formarlas? Si no, detente. La masa no debe esperar destapada mientras buscas charolas.
+
+[FOTOGRAFÍA PENDIENTE — C06-F02: estación de división ordenada con báscula, raspa, charola, paño y bitácora.]
+
+---
+
+## 4. División profesional: peso, precisión y cuidado
+
+Dividir es separar la masa en porciones. Parece sencillo, pero aquí empiezan muchos problemas. Si una pieza pesa mucho más que otra, no horneará igual. Si se corrige el peso arrancando pedacitos sin cuidado, la pieza puede quedar llena de uniones débiles. Si se aplasta la masa al dividir, se pierde gas y estructura.
+
+### Peso objetivo
+
+El peso depende del tamaño comercial deseado, merma de horneado y estilo de panadería. Para prácticas de aprendizaje, lo importante no es imponer un peso universal, sino mantener consistencia dentro de la misma tanda.
+
+| Uso del bolillo | Peso de masa orientativo | Observación |
+|---|---:|---|
+| Mini bolillo | 35–45 g | Útil para degustaciones o servicio pequeño |
+| Bolillo estándar chico | 55–65 g | Práctica frecuente en panadería comercial |
+| Bolillo estándar mediano | 70–85 g | Buen tamaño para torta o mesa familiar |
+| Bolillo grande | 90–110 g | Requiere buen control de horneado interno |
+
+**Nota técnica:** Estos rangos son orientativos. Cada obrador debe validar tamaño, merma, precio, horno y expectativa del cliente.
+
+### Técnica de división
+
+1. Coloca la masa suavemente sobre la mesa.
+2. Extiéndela apenas lo necesario, sin desgasificar de más.
+3. Corta porciones con raspa limpia, no jalando con las manos.
+4. Pesa cada porción.
+5. Ajusta con pequeños recortes limpios cuando sea necesario.
+6. Integra recortes en la parte interna durante el boleado, no en la superficie final.
+7. Cubre las piezas mientras continúas trabajando.
+
+> **Chef Juanote™ dice:** La raspa corta; la mano guía. Si arrancas masa a jalones, ya empezaste a maltratar el bolillo.
+
+[VIDEO PENDIENTE — C06-V02: división con báscula, ajuste de peso y manejo correcto de recortes.]
+
+---
+
+## 5. Cómo ajustar peso sin dañar la pieza
+
+Ajustar peso es normal. Lo incorrecto es hacerlo de cualquier manera. Cuando una porción queda corta, se agrega un recorte; cuando queda pasada, se retira un poco. Pero el recorte debe incorporarse para que no quede como parche visible o punto débil.
+
+### Buenas prácticas
+
+- Agrega recortes pequeños en la parte que quedará hacia abajo durante el boleado.
+- Evita pegar pedazos secos en la superficie externa.
+- No amases cada pieza como si empezaras de nuevo.
+- No uses exceso de harina para “secar” recortes pegajosos.
+- Mantén las piezas cubiertas mientras ajustas el resto.
+
+### Ejemplo práctico
+
+Si el peso objetivo es 75 g y una pieza pesa 69 g, agrega un recorte de 6 g. Colócalo en el centro de la porción, envuelve con tensión suave y deja la unión hacia abajo. Si el recorte queda afuera, puede abrirse durante formado u horneado.
+
+[BOLY™ INTERVIENE]
+
+> Si tu pieza parece rompecabezas, algo pasó. Ajustar peso no debe dejar cicatrices visibles. Esconde el recorte con técnica, no con harina.
+
+[FOTOGRAFÍA PENDIENTE — C06-F03: secuencia de ajuste de peso correcto e incorrecto, mostrando recorte integrado y recorte visible.]
+
+---
+
+## 6. Boleado o preformado: ordenar la masa
+
+El boleado no busca convertir el bolillo en una bola definitiva; busca organizar la masa antes del formado final. En esta etapa se crea tensión inicial, se reúne la porción y se prepara para reposar. Una pieza bien boleada se siente compacta, viva y manejable, sin estar apretada en exceso.
+
+### Objetivos del boleado
+
+- Reunir recortes y bordes de la división.
+- Crear una superficie más lisa.
+- Organizar tensión inicial.
+- Facilitar reposo intermedio.
+- Preparar una forma base para el alargado posterior.
+
+### Técnica básica de boleado
+
+1. Coloca la porción sobre mesa limpia.
+2. Lleva bordes hacia el centro con suavidad.
+3. Voltea la unión hacia abajo.
+4. Usa la palma o dedos curvos para generar tensión circular.
+5. Evita rasgar la superficie.
+6. Deja la pieza cubierta para reposar.
+
+### Señales de un buen boleado
+
+- Superficie lisa, sin grietas grandes.
+- Unión inferior relativamente cerrada.
+- Pieza con tensión moderada.
+- Forma compacta y estable.
+- Masa relajada, no aplastada.
+
+> **Consejo exclusivo del Chef Juanote™:** Bolear no es hacer canicas. Si aprietas demasiado, expulsas gas y tensas de más el gluten. La pieza debe quedar ordenada, no castigada.
+
+[VIDEO PENDIENTE — C06-V03: boleado manual visto desde arriba y de perfil, con comparación de tensión correcta e incorrecta.]
+
+---
+
+## 7. Reposo intermedio: cuando la masa necesita respirar
+
+Después de dividir y bolear, la masa suele quedar activa y algo tensa. El reposo intermedio permite que el gluten se relaje para aceptar el formado final sin romperse ni encogerse. No es una pausa por descuido; es una herramienta técnica.
+
+### Cuándo usarlo
+
+- La pieza se encoge al intentar alargarla.
+- La superficie se rasga con facilidad.
+- La masa se siente nerviosa o resistente.
+- El formado exige demasiada fuerza.
+- El gluten viene fuerte por harina, amasado o baja hidratación.
+
+### Cómo reposar correctamente
+
+- Mantén las piezas cubiertas.
+- Evita corrientes de aire.
+- No prolongues el reposo hasta perder tensión.
+- Revisa tacto antes de formar.
+- Registra tiempo real en bitácora.
+
+### Tiempo orientativo
+
+Un reposo intermedio puede ser breve, por ejemplo de 5 a 20 minutos, según temperatura, fuerza de masa y ritmo de producción. El dato importante no es solo el minuto: es que la pieza deje de pelear y permita ser formada sin desgarro.
+
+[BOLY™ INTERVIENE]
+
+> Si la masa se encoge como resorte, no insistas. Cúbrela, deja que respire y vuelve con manos tranquilas. A veces esperar cinco minutos salva toda la forma.
+
+[FOTOGRAFÍA PENDIENTE — C06-F04: piezas boleadas cubiertas durante reposo intermedio, con temporizador y paño limpio.]
+
+---
+
+## 8. Formado final del bolillo: tensión, longitud y simetría
+
+El formado final transforma la pieza boleada en bolillo. La meta es una pieza alargada, con extremos definidos, superficie tensa y unión inferior cerrada. Esa tensión superficial ayuda a que la fermentación final sostenga forma y el horno produzca expansión ordenada.
+
+### Principios técnicos
+
+- Trabaja con la cantidad mínima necesaria de harina.
+- Mantén la superficie externa limpia y con agarre suficiente.
+- No aplastes todo el gas acumulado.
+- Distribuye tensión desde el centro hacia los extremos.
+- Cierra la unión inferior sin dejar grietas abiertas.
+- Busca piezas iguales en longitud y grosor.
+
+### Técnica paso a paso
+
+1. Coloca la pieza reposada con la unión hacia arriba.
+2. Aplana suavemente para formar un óvalo, sin desgasificar por completo.
+3. Dobla el tercio superior hacia el centro y sella con presión ligera.
+4. Dobla el tercio inferior hacia el centro y sella.
+5. Pliega nuevamente para crear un cilindro corto.
+6. Rueda con ambas manos desde el centro hacia los extremos.
+7. Afina ligeramente las puntas sin dejarlas demasiado delgadas.
+8. Coloca la unión hacia abajo en charola o tela de fermentación.
+
+### Forma deseable
+
+- Centro con buen cuerpo.
+- Extremos ligeramente afinados.
+- Longitud uniforme.
+- Superficie lisa y tensa.
+- Unión inferior sellada.
+- Sin torsión visible.
+
+> **Chef Juanote™ dice:** La tensión correcta no se ve como fuerza bruta; se ve como piel lisa, forma estable y pan que conserva dignidad en la charola.
+
+[DIAGRAMA PENDIENTE — C06-D02: secuencia ilustrada de formado final en ocho pasos, con flechas de dirección de manos.]
+
+[VIDEO PENDIENTE — C06-V04: formado final del bolillo en cámara lenta, mostrando sellado, alargado y puntas.]
+
+---
+
+## 9. La tensión superficial: el secreto visible
+
+La tensión superficial es la fuerza ordenada en la capa externa de la pieza. No debe confundirse con dureza. Una pieza con tensión adecuada se mantiene levantada, conserva forma y permite que el corte abra con definición. Una pieza sin tensión se extiende y pierde altura. Una pieza con tensión excesiva se rasga, se encoge o fermenta de manera irregular.
+
+### Comparación práctica
+
+| Estado de tensión | Señales en mesa | Resultado probable |
+|---|---|---|
+| Baja tensión | Pieza floja, se aplana rápido | Bolillo bajo, greña pobre, forma irregular |
+| Tensión correcta | Superficie lisa, pieza estable | Buen volumen, corte más limpio, forma uniforme |
+| Exceso de tensión | Rasgaduras, encogimiento, resistencia | Reventones, miga apretada o deformación |
+
+### Prueba visual
+
+Después de formar, observa la pieza de lado. Si se mantiene con altura y superficie lisa, vas bien. Si se extiende como masa cansada, faltó tensión o hubo sobrefermentación. Si muestra grietas, quizá forzaste demasiado o faltó reposo.
+
+[BOLY™ INTERVIENE]
+
+> Truco de observación: mira el bolillo de perfil, no solo desde arriba. Desde arriba puede verse bonito; de lado te dice si tiene cuerpo o si ya se está acostando.
+
+[FOTOGRAFÍA PENDIENTE — C06-F05: comparación lateral de tres bolillos formados con baja tensión, tensión correcta y exceso de tensión.]
+
+---
+
+## 10. Harina de banco: ayuda mínima, problema máximo si se abusa
+
+La harina sobre la mesa puede ayudar cuando la masa está ligeramente pegajosa, pero en exceso se vuelve enemiga del formado. Demasiada harina impide que la masa agarre la mesa para generar tensión, seca la superficie y puede crear capas internas que no se integran bien.
+
+### Uso correcto
+
+- Espolvorea muy poco y solo cuando sea necesario.
+- Retira excedentes con la mano o raspa.
+- Evita llenar de harina la superficie que deberá sellar.
+- No uses harina para ocultar una masa sobrefermentada o mal hidratada.
+
+### Señales de exceso de harina
+
+- La pieza patina y no se tensa.
+- El cierre inferior no sella.
+- Aparecen vetas secas en la superficie.
+- La corteza queda manchada o polvosa.
+- El migajón muestra líneas compactas.
+
+> **Consejo exclusivo del Chef Juanote™:** La harina de banco es condimento técnico, no cobija. Si tapas todo de harina, dejas de sentir la masa.
+
+[VIDEO PENDIENTE — C06-V05: demostración de formado con poca harina vs exceso de harina y sus consecuencias.]
+
+---
+
+## 11. Acomodo en charola, tabla o tela
+
+Después de formar, la pieza debe colocarse de manera que conserve tensión y tenga espacio para fermentar. El acomodo incorrecto puede deformar bolillos que estaban bien trabajados.
+
+### Reglas de acomodo
+
+- Coloca la unión hacia abajo.
+- Deja espacio suficiente entre piezas.
+- Alinea los bolillos en una misma dirección.
+- Evita moverlos repetidamente.
+- Cubre para evitar costra durante fermentación final.
+- Si usas tela, forma pliegues de soporte cuando sea necesario.
+
+### Distancia entre piezas
+
+La separación depende del tamaño del bolillo y del crecimiento esperado. Como guía, deja espacio para que aumenten volumen sin pegarse. Si se tocan durante fermentación u horneado, pueden rasgarse al separarse o presentar zonas pálidas.
+
+[BOLY™ INTERVIENE]
+
+> No hagas estacionamiento apretado de bolillos. Cada pieza necesita su espacio para crecer, respirar y llegar bonita al horno.
+
+[FOTOGRAFÍA PENDIENTE — C06-F06: charola con bolillos correctamente espaciados y orientados, junto a ejemplo de piezas demasiado juntas.]
+
+---
+
+## 12. Relación entre formado, fermentación final y corte
+
+El Capítulo 5 explicó la fermentación final, y el Capítulo 8 estudiará el corte profesional. Este capítulo está en medio porque el formado conecta ambas cosas. Si el bolillo se forma sin tensión, la fermentación final lo puede aplanar. Si se forma demasiado apretado, puede resistirse, rasgarse o abrir de forma brusca. Si la unión queda mal sellada, el pan puede reventar por abajo o por un costado.
+
+### Lectura técnica
+
+| Problema observado después | Posible causa en formado |
+|---|---|
+| Greña débil | Falta de tensión superficial o pieza sobreharinada |
+| Reventón lateral | Unión mal sellada, tensión desigual o formado torcido |
+| Bolillo plano | Formado flojo, sobrefermentación o masa debilitada |
+| Migajón irregular | Desgasificado brusco o enrollado desigual |
+| Puntas quemadas | Extremos demasiado delgados |
+| Centro crudo | Pieza demasiado gruesa o peso excesivo para el horneado |
+
+> **Chef Juanote™ dice:** El corte no corrige un mal formado; solo lo revela con más claridad.
+
+[DIAGRAMA PENDIENTE — C06-D03: relación causa-efecto entre formado, fermentación final, corte y horneado.]
+
+---
+
+## 13. Errores comunes y cómo corregirlos
+
+| Error común | Síntoma visible | Causa probable | Corrección práctica |
+|---|---|---|---|
+| Dividir sin pesar | Piezas de tamaños distintos | Falta de báscula o prisa | Definir peso objetivo y pesar cada pieza |
+| Jalar la masa con manos | Desgarros y piezas irregulares | No usar raspa | Cortar limpio con raspa |
+| Aplastar demasiado | Bolillo denso y bajo | Desgasificado excesivo | Manipular con suavidad y conservar gas útil |
+| Bolear muy flojo | Pieza sin estructura | Falta de tensión inicial | Practicar boleado con unión inferior cerrada |
+| Bolear demasiado fuerte | Masa rasgada o rígida | Exceso de presión | Reducir fuerza y usar reposo intermedio |
+| Omitir reposo | Masa se encoge | Gluten tenso | Reposar cubierta hasta que acepte formado |
+| Usar mucha harina | No sella y patina | Harina de banco excesiva | Usar mínima harina y limpiar mesa |
+| Formar torcido | Greña desviada o pan irregular | Presión desigual de manos | Rodar desde centro hacia extremos con simetría |
+| Dejar unión arriba | Reventón o apertura inferior | Acomodo incorrecto | Colocar siempre unión hacia abajo |
+| Puntas muy delgadas | Extremos secos o quemados | Exceso de presión al afinar | Mantener puntas definidas pero con masa suficiente |
+
+[BOLY™ INTERVIENE]
+
+> Si todos tus bolillos salen diferentes, no digas “así son artesanales” todavía. Primero revisa peso, tensión, longitud y acomodo. Lo artesanal también puede ser consistente.
+
+---
+
+## 14. Preguntas frecuentes del capítulo
+
+### ¿Debo quitar todo el gas antes de formar?
+
+No. El objetivo es ordenar la masa, no vaciarla por completo. Una desgasificación suave puede ayudar a uniformar, pero aplastar con fuerza produce piezas densas y migajón pobre.
+
+### ¿Por qué mis bolillos se encogen cuando los alargo?
+
+Probablemente el gluten está tenso y necesita reposo intermedio. Cubre las piezas, espera unos minutos y vuelve a formar con menos fuerza.
+
+### ¿Qué hago si la masa está muy pegajosa?
+
+Primero revisa si está sobrefermentada, demasiado caliente o con hidratación alta. Usa harina mínima en mesa, pero no conviertas la harina de banco en solución principal. También puedes humedecer ligeramente las manos si la fórmula lo permite.
+
+### ¿Por qué se abre la unión inferior?
+
+Puede faltar sellado, sobrar harina en la zona de cierre o existir tensión mal distribuida. Forma con mesa limpia, sella con presión moderada y coloca la unión hacia abajo.
+
+### ¿Es obligatorio bolear antes de formar?
+
+En producción profesional, el preformado ayuda a organizar piezas y mejorar consistencia. Algunos métodos pueden variar, pero para aprendizaje conviene practicar división, boleado, reposo y formado porque desarrolla control de mano.
+
+### ¿Cómo sé si formé con suficiente tensión?
+
+La pieza debe verse lisa, estable y con cuerpo. Si se aplana rápido, faltó tensión o la masa está débil. Si se rasga o se encoge demasiado, hubo exceso de tensión o faltó reposo.
+
+### ¿Puedo corregir un bolillo mal formado?
+
+Sí, pero con límite. Si acabas de formarlo y notas una falla, puedes reposar brevemente y reformar con cuidado. Si ya está fermentado, manipularlo de nuevo puede desgasificarlo y empeorar el resultado.
+
+---
+
+## 15. Caso real del obrador
+
+**Caso:** una alumna lograba buena fermentación, pero sus bolillos salían planos y con greña pobre. Pensaba que el horno no tenía suficiente temperatura.
+
+**Revisión:** las piezas se dividían sin báscula, se boleaban muy flojas y se colocaban en charola con mucha harina. Durante el formado, la masa patinaba sobre la mesa y no generaba tensión. La unión inferior quedaba abierta en varias piezas.
+
+**Diagnóstico:** falta de tensión superficial, exceso de harina de banco y sellado inferior deficiente.
+
+**Solución:** se definió peso objetivo de 75 g, se redujo harina de mesa, se practicó boleado con unión hacia abajo y se aplicó reposo intermedio de 10 minutos. Después, el formado pudo hacerse con mejor agarre y las piezas conservaron altura durante fermentación final.
+
+> **Chef Juanote™ dice:** Cuando la masa patina, tus manos trabajan mucho y la pieza aprende poco.
+
+[FOTOGRAFÍA PENDIENTE — C06-F07: comparación de bolillo plano por falta de tensión contra bolillo con formado corregido y mayor altura.]
+
+---
+
+## 16. Laboratorio guiado: tres niveles de tensión
+
+Este laboratorio entrena la mano para reconocer cómo cambia el resultado según la tensión del formado.
+
+### Procedimiento
+
+1. Prepara masa de bolillo con fórmula conocida.
+2. Divide nueve piezas del mismo peso.
+3. Forma tres piezas con tensión baja.
+4. Forma tres piezas con tensión correcta.
+5. Forma tres piezas con tensión excesiva.
+6. Fermenta y hornea en condiciones iguales.
+7. Compara forma, greña, volumen, corteza y migajón.
+
+### Tabla de observación
+
+| Grupo | Sensación al formar | Aspecto antes de fermentar | Aspecto antes de hornear | Resultado de greña | Migajón | Conclusión |
+|---|---|---|---|---|---|---|
+| Baja tensión |  |  |  |  |  |  |
+| Tensión correcta |  |  |  |  |  |  |
+| Exceso de tensión |  |  |  |  |  |  |
+
+[VIDEO PENDIENTE — C06-V06: laboratorio comparativo de tensión baja, correcta y excesiva en bolillo.]
+
+[QR PENDIENTE — QR-LMB-C06-LAB-TENSION: guía descargable del laboratorio con tabla de observación y fotos comparativas.]
+
+---
+
+## 17. Bitácora profesional de división y formado
+
+La consistencia en formado se construye con registro. Si una tanda salió uniforme, necesitas saber qué hiciste. Si salió irregular, necesitas identificar dónde se perdió el control.
+
+### Datos mínimos
+
+- Fecha y fórmula usada.
+- Peso total de masa.
+- Peso objetivo por pieza.
+- Número de piezas obtenidas.
+- Tiempo de reposo intermedio.
+- Sensación de masa al formar.
+- Cantidad aproximada de harina de banco.
+- Observación de tensión.
+- Resultado de forma, greña y volumen.
+- Ajuste para la siguiente tanda.
+
+### Tabla sugerida
+
+| Tanda | Peso objetivo | Piezas | Reposo intermedio | Harina de banco | Tensión observada | Forma final | Ajuste siguiente |
+|---|---:|---:|---:|---|---|---|---|
+| 1 |  |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |  |
+
+[QR PENDIENTE — QR-LMB-C06-BITACORA-FORMADO: plantilla descargable para registrar pesos, reposos, tensión y resultado de formado.]
+
+---
+
+## 18. Método Chef Juanote™ aplicado al Capítulo 6
+
+### Historia
+
+En el obrador tradicional, el aprendiz pasaba horas dividiendo y formando piezas hasta que la mano entendía peso, presión y ritmo. La vista aprendía uniformidad; la palma aprendía tensión.
+
+### Ciencia
+
+El gluten responde a presión, reposo y dirección. La masa retiene gas, pero puede perderlo si se aplasta. La tensión superficial dirige expansión y ayuda a sostener forma durante fermentación final.
+
+### Práctica
+
+Pesa cada pieza, corta con raspa, bolea con unión inferior, reposa si hay resistencia y forma desde el centro hacia los extremos.
+
+### Error real
+
+Usar demasiada harina de banco, haciendo que la masa patine y no genere tensión suficiente.
+
+### Laboratorio
+
+Compara piezas con baja tensión, tensión correcta y exceso de tensión para observar cómo cambia greña, altura y migajón.
+
+### Bitácora
+
+Registra peso objetivo, reposo intermedio, harina de banco, sensación de formado y resultado final.
+
+### Secreto del obrador
+
+> **Chef Juanote™:** La mano experta no aprieta más; aprieta mejor.
+
+> **Boly™ dice:** Si tus piezas pesan igual, reposan igual y se forman igual, ya diste un paso enorme hacia la consistencia.
+
+---
+
+## 19. Participación guiada de Boly™
+
+[BOLY™ INTERVIENE]
+
+**Rol de Boly™ en este capítulo:** ayudar al alumno a revisar peso, tensión, reposo y simetría antes de culpar al horno o al corte.
+
+### Flujo de conversación recomendado
+
+**Boly™:** ¿Todas tus piezas pesan lo mismo?
+
+**Alumno:** Más o menos, las corté a ojo.
+
+**Boly™:** Para aprender, mejor pésalas. Si una pieza pesa 60 g y otra 90 g, no van a fermentar ni hornear igual.
+
+**Alumno:** También se me encogen cuando las alargo.
+
+**Boly™:** Entonces necesitan reposo intermedio. Cúbrelas unos minutos y vuelve a formar cuando el gluten esté más relajado.
+
+### Preguntas base de Boly™
+
+- ¿Cuál es tu peso objetivo por pieza?
+- ¿Usaste raspa o jalaste la masa?
+- ¿La pieza quedó lisa después del boleado?
+- ¿Cuánto reposó antes del formado final?
+- ¿La masa se encogía o aceptaba el alargado?
+- ¿Usaste demasiada harina de banco?
+- ¿La unión quedó hacia abajo?
+- ¿Todas las piezas tienen longitud similar?
+
+### Mensaje motivador
+
+> Formar bolillos es entrenar paciencia en las manos. Cada pieza te enseña presión, ritmo y respeto por la masa.
+
+[ILUSTRACIÓN PENDIENTE — C06-I01: Boly™ con báscula, raspa y una fila de bolillos formados, revisando simetría con actitud alegre.]
+
+[VIDEO PENDIENTE — C06-V07: animación de Boly™ explicando “peso igual, tensión igual, horneado más parejo”.]
+
+---
+
+## 20. Recursos visuales y multimedia del capítulo
+
+### Fotografías pendientes
+
+- [FOTOGRAFÍA PENDIENTE — C06-F01] Secuencia completa de división, boleado y formado.
+- [FOTOGRAFÍA PENDIENTE — C06-F02] Estación de división ordenada.
+- [FOTOGRAFÍA PENDIENTE — C06-F03] Ajuste de peso correcto e incorrecto.
+- [FOTOGRAFÍA PENDIENTE — C06-F04] Reposo intermedio cubierto.
+- [FOTOGRAFÍA PENDIENTE — C06-F05] Comparación de tensión baja, correcta y excesiva.
+- [FOTOGRAFÍA PENDIENTE — C06-F06] Acomodo correcto en charola y ejemplo de piezas juntas.
+- [FOTOGRAFÍA PENDIENTE — C06-F07] Bolillo plano por falta de tensión vs bolillo corregido.
+
+### Videos pendientes
+
+- [VIDEO PENDIENTE — C06-V01] Demostración completa de división, boleado y formado.
+- [VIDEO PENDIENTE — C06-V02] División con báscula y manejo de recortes.
+- [VIDEO PENDIENTE — C06-V03] Boleado manual y tensión inicial.
+- [VIDEO PENDIENTE — C06-V04] Formado final del bolillo en cámara lenta.
+- [VIDEO PENDIENTE — C06-V05] Harina de banco: uso correcto y exceso.
+- [VIDEO PENDIENTE — C06-V06] Laboratorio de tres niveles de tensión.
+- [VIDEO PENDIENTE — C06-V07] Animación de Boly™ sobre peso y tensión.
+
+### Diagramas e infografías pendientes
+
+- [DIAGRAMA PENDIENTE — C06-D01] Flujo de división a fermentación final.
+- [DIAGRAMA PENDIENTE — C06-D02] Formado final en ocho pasos.
+- [DIAGRAMA PENDIENTE — C06-D03] Relación formado, fermentación final, corte y horneado.
+- [INFOGRAFÍA PENDIENTE — C06-INFO01] Errores visuales del formado y correcciones.
+- [INFOGRAFÍA PENDIENTE — C06-INFO02] Tensión baja, correcta y excesiva.
+
+### Recursos descargables pendientes
+
+- [DESCARGABLE PENDIENTE — C06-R01] Plantilla de control de pesos.
+- [DESCARGABLE PENDIENTE — C06-R02] Checklist de formado profesional.
+- [DESCARGABLE PENDIENTE — C06-R03] Tabla del laboratorio de tensión.
+
+---
+
+## 21. Ejercicios del capítulo
+
+1. Divide una masa en piezas con peso objetivo y registra variación máxima entre piezas.
+2. Practica boleado con diez piezas y observa cuáles quedan lisas y cuáles se rasgan.
+3. Forma tres piezas sin reposo y tres con reposo intermedio; compara resistencia y acabado.
+4. Forma una pieza con exceso de harina y otra con harina mínima; observa cuál genera mejor tensión.
+5. Revisa cada bolillo de perfil antes de fermentar para evaluar altura y simetría.
+6. Fotografía una charola bien acomodada y marca distancia entre piezas.
+7. Anota qué relación encontraste entre formado, greña y volumen final.
+
+### Espacio de notas
+
+- Peso objetivo de mi bolillo:
+- Variación máxima entre piezas:
+- Tiempo de reposo intermedio:
+- Sensación de la masa al formar:
+- Cantidad de harina de banco usada:
+- Error principal detectado:
+- Corrección para la siguiente tanda:
+
+---
+
+## 22. Checklist profesional de división, boleado y formado
+
+Antes de pasar a fermentación final, confirma:
+
+- [ ] Preparé mesa, báscula, raspa, charolas y cubierta antes de iniciar.
+- [ ] Definí peso objetivo por pieza.
+- [ ] Dividí con raspa, sin jalar la masa.
+- [ ] Pesé cada porción o validé un sistema de peso consistente.
+- [ ] Integré recortes sin dejarlos visibles en superficie.
+- [ ] Boleé con tensión moderada y unión inferior.
+- [ ] Cubrí las piezas durante el reposo intermedio.
+- [ ] No forcé la masa si se encogía.
+- [ ] Usé harina de banco mínima.
+- [ ] Formé desde el centro hacia los extremos.
+- [ ] Sellé la unión inferior.
+- [ ] Coloqué unión hacia abajo.
+- [ ] Dejé espacio suficiente entre piezas.
+- [ ] Registré observaciones para la siguiente tanda.
+
+---
+
+## 23. Autoevaluación
+
+Responde con tus propias palabras:
+
+1. ¿Por qué es importante pesar las piezas de bolillo?
+2. ¿Qué problema causa jalar la masa en lugar de cortarla con raspa?
+3. ¿Para qué sirve el boleado o preformado?
+4. ¿Cuándo conviene aplicar reposo intermedio?
+5. ¿Qué es la tensión superficial?
+6. ¿Qué pasa si usas demasiada harina de banco?
+7. ¿Cómo debe quedar la unión inferior del bolillo?
+8. ¿Qué señales indican exceso de tensión?
+9. ¿Qué relación existe entre formado y greña?
+10. ¿Qué dato registrarías primero si tus bolillos salen irregulares?
+
+### Escala personal
+
+Marca del 1 al 5:
+
+- Puedo dividir con peso consistente: ____ / 5
+- Puedo bolear sin rasgar la masa: ____ / 5
+- Sé cuándo usar reposo intermedio: ____ / 5
+- Puedo formar con tensión correcta: ____ / 5
+- Registraré peso, reposo y resultado: ____ / 5
+
+---
+
+## 24. QR recomendado del capítulo
+
+**QR-LMB-C06-FORMADO-PRO:** video “División, boleado y formado profesional del bolillo”. Debe mostrar preparación de mesa, división por peso, boleado, reposo intermedio, formado final y acomodo en charola.
+
+**QR-LMB-C06-BITACORA-FORMADO:** plantilla descargable para registrar peso objetivo, variación entre piezas, reposo, tensión y resultado final.
+
+**QR-LMB-C06-LAB-TENSION:** laboratorio comparativo de baja tensión, tensión correcta y exceso de tensión.
+
+**Texto sugerido debajo del QR:**
+
+“Escanea para practicar el formado profesional del bolillo y descargar la plantilla de control de pesos del Capítulo 6.”
+
+**Estado:** pendiente de publicación. No insertar QR definitivo hasta contar con URL final validada.
+
+---
+
+## 25. Cierre del Capítulo 6
+
+La división, el boleado y el formado son etapas donde la precisión se vuelve visible. Cada pieza debe nacer con peso consistente, tensión ordenada y forma clara. No basta con que la masa esté buena; hay que tratarla con manos profesionales para que conserve fuerza, simetría y potencial de expansión.
+
+En este capítulo aprendiste que dividir no es arrancar, bolear no es apretar sin medida y formar no es solo alargar. Cada gesto tiene consecuencia. La raspa protege la estructura, la báscula ordena la producción, el reposo intermedio relaja el gluten y la tensión superficial prepara el camino para una buena fermentación final, un corte limpio y un horneado más parejo.
+
+Recuerda: el bolillo debe llegar al horno con forma, fuerza y dirección. Si tus piezas son uniformes antes de fermentar, tendrás más posibilidades de obtener una charola consistente después de hornear.
+
+> **Chef Juanote™ dice:** La mano del panadero se reconoce en la pieza antes de que el horno haga su trabajo.
+
+[BOLY™ INTERVIENE]
+
+> ¡Muy bien, camarada! Ya convertiste una masa grande en bolillos con orden. En el siguiente capítulo entraremos al horneado profesional: calor, vapor, expansión, corteza y ese crujido que hace que todo el trabajo valga la pena.
+
+## Continuidad hacia el Capítulo 7
+
+Con las piezas divididas, boleadas y formadas correctamente, el siguiente paso será comprender el horneado profesional. El Capítulo 7 deberá estudiar temperatura, vapor, transferencia de calor, expansión en horno, color de corteza y punto de cocción interna.
