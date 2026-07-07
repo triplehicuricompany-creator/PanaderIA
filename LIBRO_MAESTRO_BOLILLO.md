@@ -1207,4 +1207,600 @@ En este capítulo preparaste tu estación panadera, aprendiste a distinguir herr
 
 Con las herramientas listas, el siguiente paso es entender los ingredientes. Si no sabes qué hace la harina, cómo influye el agua, por qué trabaja la levadura y cómo ordena la sal, solo estarás mezclando sin criterio. El próximo capítulo entra al corazón de la fórmula del bolillo.
 
+
+# Capítulo 3 — Ingredientes del bolillo
+
+## Objetivo del capítulo
+
+Que el alumno comprenda la función técnica y práctica de los ingredientes del bolillo, aprenda a revisarlos antes de usarlos, los mida con precisión, los almacene correctamente y relacione cada ingrediente con los resultados visibles de la masa y del pan terminado.
+
+Al terminar este capítulo, el alumno deberá poder:
+
+- Identificar los ingredientes base del bolillo: harina, agua, levadura y sal.
+- Explicar qué aporta cada ingrediente al amasado, la fermentación, el horneado, el sabor, la textura y la conservación.
+- Distinguir ingredientes de apoyo o variantes: azúcar, mejorantes, grasas e ingredientes opcionales.
+- Revisar calidad, olor, apariencia, fecha, empaque y estado antes de mezclar.
+- Medir ingredientes en gramos y registrar cambios entre marcas, lotes o proveedores.
+- Reconocer errores comunes de ingredientes y proponer correcciones prácticas.
+
+> **Chef Juanote™ dice:** El pan no perdona ingredientes mal entendidos. Si quieres dominar la masa, primero entiende lo que le estás dando.
+
+[BOLY™ INTERVIENE]
+
+> ¡Qué tal, camarada! Ya tienes tu mesa lista. Ahora vamos a conocer a los protagonistas del bolillo. Harina, agua, levadura y sal parecen sencillos, pero cada uno tiene una misión. Si los entiendes, la masa deja de ser misterio y empieza a hablarte con claridad.
+
+[FOTOGRAFÍA PENDIENTE: Ingredientes base del bolillo organizados en mesa limpia: harina, agua, levadura y sal, cada uno en recipiente transparente e identificado. Luz cálida, estilo obrador mexicano ordenado.]
+
+[VIDEO PENDIENTE: Chef Juanote™ presenta los ingredientes base del bolillo y explica por qué una receta empieza antes de mezclar. QR sugerido: `QR-LMB-C03-INGREDIENTES-BASE`.]
+
+---
+
+## 1. Una receta empieza antes de mezclar
+
+Muchos alumnos creen que el proceso inicia cuando el agua toca la harina. En realidad, el bolillo puede fallar antes de tocar la mesa: harina vieja, levadura débil, agua inadecuada, sal mal medida o ingredientes opcionales agregados sin criterio pueden arruinar una producción completa.
+
+El Capítulo 2 preparó la estación de trabajo. Este capítulo prepara el criterio. Antes de amasar, el panadero debe preguntar:
+
+- ¿Qué harina voy a usar y cómo se comporta?
+- ¿El agua es potable, limpia y está a buena temperatura?
+- ¿Mi levadura está activa y vigente?
+- ¿La sal está seca, limpia y bien medida?
+- ¿La fórmula requiere azúcar, grasa, mejorante o algún ingrediente opcional?
+- ¿Estoy usando la misma marca de la práctica anterior o cambió una variable?
+
+> **Chef Juanote™ dice:** Antes de corregir una masa, revisa tus ingredientes. Muchas veces el error no empezó en tus manos, empezó en una mala medición, un ingrediente vencido o un almacenamiento descuidado.
+
+[BOLY™ INTERVIENE]
+
+> Si un bolillo salió raro, no empieces culpando al horno. Haz una investigación: ¿qué cambió hoy en los ingredientes?
+
+---
+
+## 2. Ingredientes base del bolillo
+
+El bolillo tradicional se sostiene sobre cuatro ingredientes principales:
+
+| Ingrediente | Función principal | Señal que debes controlar |
+|---|---|---|
+| Harina | Aporta estructura, almidones y proteínas para formar gluten | Fuerza, absorción, olor, color y consistencia |
+| Agua | Hidrata la harina y permite que ocurra la masa | Cantidad, limpieza y temperatura |
+| Levadura | Fermenta, produce gas y desarrolla aroma | Actividad, frescura y dosificación |
+| Sal | Aporta sabor y ayuda a ordenar el proceso | Medida exacta, distribución y sequedad |
+
+A partir de ellos pueden aparecer ingredientes de apoyo o variantes:
+
+- Azúcar.
+- Mejorantes.
+- Grasas.
+- Semillas, hierbas, ajo, cebolla, granos, nueces u otros ingredientes opcionales.
+
+Ninguno debe agregarse por costumbre. Cada ingrediente debe tener propósito.
+
+[FOTOGRAFÍA PENDIENTE: Vista cenital de cuatro recipientes etiquetados: harina, agua, levadura y sal. Incluir báscula al centro para reforzar precisión.]
+
+[INFOGRAFÍA PENDIENTE: Mapa visual “Ingrediente — función — defecto si falta — defecto si sobra”.]
+
+---
+
+## 3. Harina: la estructura del bolillo
+
+La harina es el ingrediente estructural principal. Aporta almidones y proteínas que, al hidratarse y trabajarse, permiten formar gluten. Sin una harina adecuada, la masa puede sentirse débil, seca, pegajosa, pesada o difícil de controlar.
+
+### Qué observar antes de usarla
+
+- Color uniforme.
+- Olor limpio, sin rancidez ni humedad.
+- Ausencia de grumos duros, insectos o contaminación.
+- Empaque íntegro.
+- Fecha vigente.
+- Comportamiento consistente entre prácticas.
+
+### Qué aporta al proceso
+
+Durante el amasado, la harina se hidrata y empieza a formar estructura. Durante la fermentación, esa estructura debe sostener el gas producido por la levadura. Durante el horneado, participa en volumen, miga, corteza, aroma y dorado.
+
+Si la harina cambia, puede cambiar todo: absorción de agua, tiempo de amasado, elasticidad, volumen final y textura del migajón.
+
+> **Chef Juanote™ recomienda:** No cambies de harina justo el día que quieres evaluar tu técnica. Primero aprende cómo se comporta una harina conocida; después compara con bitácora.
+
+[BOLY™ INTERVIENE]
+
+> **Pregunta frecuente:** “Chef, ¿todas las harinas sirven igual?”
+> **Respuesta:** No. Algunas absorben más agua, otras dan más fuerza y otras producen masas más flojas. Si cambias harina, anótalo como variable importante.
+
+[FOTOGRAFÍA PENDIENTE: Comparativa de harina limpia y suelta vs harina con grumos por humedad.]
+
+[VIDEO PENDIENTE: Cómo revisar harina antes de usarla: olor, textura, fecha, empaque y prueba visual.]
+
+---
+
+## 4. Agua: la hidratación que despierta la masa
+
+El agua hidrata la harina, permite integrar los ingredientes y hace posible que la masa exista. También influye en la temperatura final de la masa, en la velocidad de fermentación y en la sensación de manejo.
+
+### Qué observar antes de usarla
+
+- Que sea potable y limpia.
+- Que no tenga olor extraño.
+- Que no esté turbia.
+- Que se mida en gramos o mililitros con precisión.
+- Que su temperatura sea adecuada para el clima y el proceso.
+
+Poca agua puede producir una masa dura, seca y con poca expansión. Demasiada agua puede generar una masa floja, pegajosa y difícil de formar. El problema no es que una masa hidratada sea mala; el problema es no saber manejarla ni registrar cuánto cambió.
+
+> **Chef Juanote™ recomienda:** El agua no solo moja: decide ritmo. Si el día está caliente, cuida la temperatura del agua. Si el día está frío, entiende que la masa puede avanzar más lento.
+
+[BOLY™ INTERVIENE]
+
+> **Pregunta frecuente:** “¿Le pongo más harina si la masa se pega?”
+> Primero espera. A veces la masa necesita amasado, reposo o raspa, no más harina. Si agregas harina por miedo, puedes terminar con bolillo duro.
+
+[FOTOGRAFÍA PENDIENTE: Agua medida en recipiente sobre báscula, con termómetro mostrando temperatura.]
+
+[VIDEO PENDIENTE: Cómo ajustar la temperatura del agua según clima y temperatura de la cocina.]
+
+---
+
+## 5. Levadura: vida, gas y aroma
+
+La levadura es un agente biológico vivo. Fermenta azúcares disponibles, produce gas y aporta compuestos aromáticos. Sin levadura activa, la masa no desarrolla volumen adecuado; con exceso de levadura, el proceso puede acelerarse, perder control y generar sabor desequilibrado.
+
+### Levadura fresca
+
+La levadura fresca suele tener textura húmeda pero no viscosa, color uniforme y olor fresco fermentativo. Debe mantenerse refrigerada según indicación del proveedor y usarse dentro de su vida útil.
+
+### Levadura seca
+
+La levadura seca tiene mayor vida útil y permite dosificación controlada. Debe mantenerse en envase cerrado, seco y protegido de humedad. Una vez abierta, conviene identificar fecha de apertura.
+
+### Señales de alerta
+
+- Olor desagradable.
+- Color extraño.
+- Empaque dañado.
+- Fecha vencida.
+- Levadura fresca viscosa, manchada o reseca.
+- Levadura seca apelmazada por humedad.
+- Masas que no muestran actividad pese a condiciones correctas.
+
+> **Chef Juanote™ recomienda:** No intentes compensar una levadura débil agregando cantidades a ciegas. Revisa frescura, almacenamiento y temperatura antes de culpar a la receta.
+
+[BOLY™ INTERVIENE]
+
+> **Pregunta frecuente:** “¿La levadura fresca y la seca son lo mismo?”
+> Hacen el mismo trabajo principal, pero no se manejan igual. Cambiar una por otra requiere ajustar dosificación y revisar instrucciones del proveedor.
+
+[FOTOGRAFÍA PENDIENTE: Levadura fresca y levadura seca lado a lado, con etiquetas claras y empaque visible.]
+
+[VIDEO PENDIENTE: Levadura fresca vs levadura seca: diferencias de manejo, almacenamiento y señales de calidad.]
+
+---
+
+## 6. Sal: sabor, control y equilibrio
+
+La sal no está solo para “que sepa rico”. Aporta sabor, ayuda a equilibrar la fermentación y participa en la sensación de masa. Mal medida puede afectar sabor, ritmo de fermentación y calidad final.
+
+### Qué observar antes de usarla
+
+- Que esté seca.
+- Que no tenga grumos por humedad.
+- Que esté limpia y sin contaminantes.
+- Que tenga granulometría adecuada para integrarse bien.
+- Que se pese con precisión.
+
+Poca sal produce pan plano, insípido y con sensación incompleta. Demasiada sal puede volver el pan salado, alterar el comportamiento de la fermentación y hacer que el resultado sea desagradable.
+
+> **Chef Juanote™ recomienda:** La sal se respeta con báscula. Un “poquito más” puede cambiar el sabor de todo el lote.
+
+[BOLY™ INTERVIENE]
+
+> **Pregunta frecuente:** “¿Puedo echar la sal al tanteo?”
+> Mejor no, camarada. La sal parece poca cosa, pero manda mucho en el sabor. Pésala siempre.
+
+[FOTOGRAFÍA PENDIENTE: Sal seca en recipiente pequeño sobre báscula de precisión, junto a etiqueta de lote.]
+
+[VIDEO PENDIENTE: Por qué la sal importa en el bolillo más allá del sabor.]
+
+---
+
+## 7. Ingredientes de apoyo: azúcar, grasas y mejorantes
+
+El bolillo base no debe convertirse en una colección de ingredientes sin propósito. Azúcar, grasas y mejorantes pueden aparecer en algunas fórmulas, estilos o producciones, pero deben entenderse antes de usarse.
+
+### Azúcar
+
+Puede alimentar fermentación, apoyar color y equilibrar sabor cuando la fórmula lo requiere. En exceso puede cambiar dorado, sabor, textura y ritmo de fermentación.
+
+### Grasas
+
+Aceite, manteca, mantequilla u otras grasas pueden modificar suavidad, miga, sabor y conservación. También pueden alterar sensación de amasado y estructura si se agregan sin criterio.
+
+### Mejorantes
+
+Los mejorantes son mezclas funcionales que pueden apoyar volumen, tolerancia, color, conservación o manejo. Pero no sustituyen conocimiento, amasado, fermentación ni horneado correcto.
+
+> **Chef Juanote™ recomienda:** Un mejorante puede ayudar a una buena técnica; no debe esconder una mala técnica. Primero aprende el pan, luego decide si necesitas apoyo.
+
+[BOLY™ INTERVIENE]
+
+> **Pregunta frecuente:** “¿Si uso mejorante ya me sale perfecto?”
+> No. Puede mejorar tolerancia o volumen, pero no corrige una mesa desordenada, una levadura muerta, una sal mal pesada o un horno mal usado.
+
+[FOTOGRAFÍA PENDIENTE: Azúcar, grasa y mejorante identificados por separado, con etiquetas de “solo si la fórmula lo requiere”.]
+
+[VIDEO PENDIENTE: Ingredientes de apoyo: cuándo ayudan y cuándo confunden al aprendiz.]
+
+---
+
+## 8. Ingredientes opcionales para variantes
+
+Semillas, hierbas, ajo, cebolla, cereales, nueces, arándano, romero u otros ingredientes pueden aportar identidad y valor comercial. Pero también pueden interferir con estructura, absorción, sabor, humedad y conservación.
+
+Antes de agregarlos, pregunta:
+
+- ¿Aportan sabor, textura, color o identidad?
+- ¿Traen humedad extra?
+- ¿Absorben agua?
+- ¿Pueden romper la red de gluten?
+- ¿Deben tostarse, hidratarse, picarse o enfriarse antes?
+- ¿Cambian el tiempo de fermentación o el formado?
+
+> **Chef Juanote™ recomienda:** La creatividad no es aventar ingredientes a la masa. La creatividad profesional prueba, mide, registra y corrige.
+
+[BOLY™ INTERVIENE]
+
+> Si vas a inventar una variante, cambia una cosa a la vez. Si cambias harina, agua, semillas y fermentación el mismo día, luego no sabrás qué provocó el resultado.
+
+[FOTOGRAFÍA PENDIENTE: Ingredientes opcionales para variantes de bolillo en recipientes pequeños: semillas, hierbas, ajo, cebolla y granos.]
+
+[VIDEO PENDIENTE: Cómo probar ingredientes opcionales sin descontrolar la masa.]
+
+---
+
+## 9. Interacción entre ingredientes
+
+Un bolillo no depende de un ingrediente aislado. Depende del equilibrio entre todos.
+
+| Interacción | Qué significa | Error frecuente |
+|---|---|---|
+| Harina + agua | La harina se hidrata y se convierte en masa | Agregar harina de más por miedo a la pegajosidad |
+| Harina + levadura | La estructura sostiene el gas de fermentación | Masa débil que no retiene volumen |
+| Sal + levadura | La sal aporta sabor y ayuda a controlar el proceso | Sal mal medida y fermentación desequilibrada |
+| Agua + temperatura | El agua influye en temperatura final de masa | Masa muy caliente que corre o masa fría que avanza lento |
+| Opcionales + estructura | Extras pueden aportar sabor, pero interferir con gluten | Agregar semillas o grasas sin ajustar proceso |
+
+> **Chef Juanote™ dice:** Todo afecta a todo. La harina necesita agua, la levadura depende del ambiente, la sal regula, el amasado organiza y el horno revela.
+
+[DIAGRAMA PENDIENTE: Red de interacción de ingredientes: harina al centro, conectada con agua, levadura, sal, temperatura, amasado y horneado.]
+
+---
+
+## 10. Revisión de calidad antes de mezclar
+
+Antes de iniciar cualquier práctica, realiza una inspección rápida. No toma mucho tiempo y puede salvar un lote completo.
+
+### Checklist de inspección
+
+- [ ] Harina con olor limpio, sin grumos duros, insectos ni humedad.
+- [ ] Agua potable, limpia, sin olor extraño y a temperatura registrada.
+- [ ] Levadura activa, vigente y almacenada correctamente.
+- [ ] Sal seca, limpia y pesada con precisión.
+- [ ] Azúcar solo si la fórmula lo requiere.
+- [ ] Mejorante identificado y dosificado según indicación si aplica.
+- [ ] Grasa fresca y sin olor rancio si la fórmula la usa.
+- [ ] Ingredientes opcionales limpios, seguros y preparados.
+- [ ] Todos los ingredientes pesados antes de mezclar.
+- [ ] Recipientes cerrados después de usar.
+
+[BOLY™ INTERVIENE]
+
+> Antes de mezclar, haz pausa de diez segundos: mira, huele, mide y registra. Esa pausa puede evitar una hora de problemas.
+
+[FOTOGRAFÍA PENDIENTE: Mano del panadero revisando etiqueta, fecha y estado de un ingrediente antes de pesarlo.]
+
+[VIDEO PENDIENTE: Rutina de revisión de ingredientes en menos de tres minutos.]
+
+---
+
+## 11. Almacenamiento correcto
+
+Los ingredientes se dañan por humedad, calor, olores fuertes, insectos, recipientes sucios y mala rotación. La regla profesional es sencilla: proteger, identificar, cerrar y rotar.
+
+### Reglas generales
+
+- Guarda harina en recipiente cerrado, seco y fresco.
+- Protege levadura según su tipo: refrigerada si es fresca; seca y cerrada si es seca.
+- Mantén sal, azúcar y mejorantes lejos de humedad.
+- Evita recipientes con olores fuertes.
+- Etiqueta fecha de apertura cuando aplique.
+- Aplica rotación: primero entra, primero sale.
+- No uses ingredientes con señales claras de contaminación.
+
+> **Chef Juanote™ recomienda:** La alacena también es parte del obrador. Si tus ingredientes viven mal, tu masa empieza en desventaja.
+
+[FOTOGRAFÍA PENDIENTE: Estante limpio con ingredientes en contenedores cerrados, etiquetados con nombre y fecha de apertura.]
+
+[VIDEO PENDIENTE: Cómo organizar y rotar ingredientes para producción doméstica o pequeña panadería.]
+
+---
+
+## 12. Errores comunes y cómo corregirlos
+
+| Error | Cómo se ve en la masa o pan | Causa probable | Corrección práctica |
+|---|---|---|---|
+| Medir ingredientes al tanteo | Cada lote sale diferente | Falta de báscula o disciplina | Pesar todo en gramos y registrar |
+| Usar harina húmeda o vieja | Masa extraña, olor raro, baja calidad | Mal almacenamiento | Revisar olor, textura y fecha; cambiar harina si hay duda |
+| Cambiar harina sin anotar | Hidratación y amasado variables | Marca o lote distinto | Registrar marca, lote y ajuste de agua |
+| Agregar agua sin medir | Masa floja o incontrolable | Corrección impulsiva | Agregar en pequeñas cantidades registradas |
+| Usar levadura débil | Poco volumen y fermentación lenta | Levadura vencida o mal guardada | Revisar actividad, fecha y almacenamiento |
+| Exceder levadura | Fermentación acelerada y sabor desequilibrado | Querer “apurar” la masa | Respetar fórmula y controlar temperatura |
+| Pesar mal la sal | Pan insípido o demasiado salado | Medida al tanteo | Usar báscula precisa y recipiente separado |
+| Agregar mejorante como solución mágica | Pan inconsistente y sin aprendizaje real | Falta de diagnóstico | Corregir proceso antes de depender de aditivos |
+| Añadir semillas o extras sin preparar | Masa rota, pesada o irregular | Opcionales mal incorporados | Probar poco, preparar ingrediente y ajustar hidratación |
+| No cerrar recipientes | Humedad, insectos u olores | Almacenamiento descuidado | Cerrar, etiquetar y limpiar área |
+
+### Regla de corrección del Chef Juanote™
+
+Cuando sospeches de ingredientes, no cambies todo. Cambia una variable, anótala y compara. Si hoy cambias harina, levadura, agua y tiempo, el resultado no enseña con claridad.
+
+[BOLY™ INTERVIENE]
+
+> Si algo falla, pregúntate: “¿Qué ingrediente cambió, cuánto puse y cómo estaba guardado?” Esa pregunta ya te pone en modo panadero.
+
+---
+
+## 13. Caso real del obrador
+
+**Caso:** un alumno reportó bolillos pálidos, con poco volumen y sabor plano. Pensó que el problema era el horno.
+
+**Revisión:** el horno sí estaba caliente, pero la harina se había cambiado por otra marca sin registrarlo, la levadura seca llevaba meses abierta y la sal se medía con una cucharita distinta cada práctica.
+
+**Diagnóstico:** tres variables de ingredientes sin control: harina nueva, levadura debilitada y sal inconsistente.
+
+**Solución:** se regresó a una harina conocida, se compró levadura nueva, se etiquetó fecha de apertura, se pesó la sal en gramos y se registró temperatura del agua. El siguiente lote mostró mejor fermentación, sabor más claro y color más estable.
+
+> **Chef Juanote™ dice:** Cuando un pan falla, escucha la historia completa. A veces el horno solo está mostrando un problema que nació en la alacena.
+
+[FOTOGRAFÍA PENDIENTE: Comparativa de bolillo pálido y bajo volumen vs bolillo corregido, con etiquetas de variables revisadas.]
+
+---
+
+## 14. Laboratorio guiado: inspección de ingredientes
+
+Antes de preparar masa, realiza este laboratorio sin mezclar todavía.
+
+### Procedimiento
+
+1. Coloca harina, agua, levadura y sal sobre la mesa.
+2. Revisa olor, color, textura, empaque y fecha de cada ingrediente.
+3. Pesa cada ingrediente como si fueras a producir.
+4. Anota marca, lote o presentación si está disponible.
+5. Registra temperatura del agua y temperatura ambiente.
+6. Identifica una posible señal de riesgo.
+7. Decide si el ingrediente se usa, se reemplaza o se observa con precaución.
+
+### Tabla de observación
+
+| Ingrediente | Estado visual | Olor | Fecha/empaque | Medida | Observación | Decisión |
+|---|---|---|---|---|---|---|
+| Harina |  |  |  |  |  |  |
+| Agua |  |  |  |  |  |  |
+| Levadura |  |  |  |  |  |  |
+| Sal |  |  |  |  |  |  |
+| Opcional |  |  |  |  |  |  |
+
+[VIDEO PENDIENTE: Chef Juanote™ realiza el laboratorio de inspección de ingredientes y muestra cómo llenar la tabla.]
+
+[QR PENDIENTE: `QR-LMB-C03-LAB-INGREDIENTES` — plantilla descargable de inspección y bitácora de ingredientes.]
+
+---
+
+## 15. Método Chef Juanote™ aplicado al Capítulo 3
+
+### Historia
+
+El bolillo nace de ingredientes humildes, pero no descuidados. Harina, agua, levadura y sal han sostenido generaciones de panaderías porque, cuando se respetan, permiten producir pan honesto y constante.
+
+### Ciencia
+
+La harina aporta estructura, el agua activa e hidrata, la levadura produce gas y aroma, y la sal equilibra sabor y proceso. Cada ingrediente afecta amasado, fermentación, horneado, textura y conservación.
+
+### Práctica
+
+Antes de mezclar, inspecciona, pesa, identifica y registra. La precisión no le quita alma al pan; le da repetibilidad.
+
+### Error real
+
+Culpar al horno cuando el problema viene de harina cambiada, levadura debilitada, agua sin controlar o sal mal medida.
+
+### Laboratorio
+
+Revisa ingredientes, compara marcas si es posible y registra cómo cambia la masa cuando cambia una sola variable.
+
+### Bitácora
+
+Anota marca, fecha de apertura, temperatura del agua, estado de levadura, cantidad exacta de sal y cualquier ingrediente opcional agregado.
+
+### Secreto del obrador
+
+> **Chef Juanote™:** No hay ingrediente pequeño cuando afecta a todo el lote.
+
+> **Boly™ dice:** Si puedes explicar qué hace cada ingrediente, ya no estás siguiendo una receta a ciegas.
+
+---
+
+## 16. Participación guiada de Boly™
+
+[BOLY™ INTERVIENE]
+
+**Rol de Boly™ en este capítulo:** ayudar al alumno a hacer preguntas antes de mezclar y a relacionar ingredientes con resultados.
+
+### Flujo de conversación recomendado
+
+**Boly™:** ¿Qué ingrediente quieres revisar primero: harina, agua, levadura o sal?
+
+**Alumno:** La levadura.
+
+**Boly™:** Perfecto. Revisa fecha, olor, empaque y almacenamiento. ¿Está fresca, seca, vencida o dudosa?
+
+**Alumno:** Está abierta desde hace mucho.
+
+**Boly™:** Entonces ya tienes una pista. No la culpes todavía, pero anótala como variable de riesgo antes de producir.
+
+### Preguntas base de Boly™
+
+- ¿Qué ingrediente cambió desde tu última práctica?
+- ¿Mediste todo en gramos?
+- ¿La levadura estaba vigente y bien guardada?
+- ¿La harina olía limpia?
+- ¿El agua estaba limpia y a qué temperatura?
+- ¿La sal se pesó o se agregó al tanteo?
+- ¿Agregaste algún ingrediente opcional sin ajustar proceso?
+
+### Mensaje motivador
+
+> No tienes que memorizar toda la ciencia hoy. Empieza por revisar, medir y anotar. Ese hábito ya mejora tu pan.
+
+[ILUSTRACIÓN PENDIENTE: Boly™ con lupa revisando sacos de harina, recipiente de agua, levadura y sal.]
+
+[VIDEO PENDIENTE: Animación de Boly™: “Antes de culpar a la masa, revisa ingredientes”.]
+
+---
+
+## 17. Recursos visuales y multimedia del capítulo
+
+### Fotografías pendientes
+
+- [FOTOGRAFÍA PENDIENTE] Ingredientes base del bolillo organizados y etiquetados.
+- [FOTOGRAFÍA PENDIENTE] Harina limpia vs harina con grumos por humedad.
+- [FOTOGRAFÍA PENDIENTE] Agua medida con báscula y termómetro.
+- [FOTOGRAFÍA PENDIENTE] Levadura fresca vs levadura seca.
+- [FOTOGRAFÍA PENDIENTE] Sal seca pesada con precisión.
+- [FOTOGRAFÍA PENDIENTE] Ingredientes de apoyo: azúcar, grasa y mejorante.
+- [FOTOGRAFÍA PENDIENTE] Ingredientes opcionales para variantes.
+- [FOTOGRAFÍA PENDIENTE] Estante de almacenamiento con recipientes cerrados y etiquetados.
+- [FOTOGRAFÍA PENDIENTE] Bolillo defectuoso por ingredientes vs lote corregido.
+
+### Videos pendientes
+
+- [VIDEO PENDIENTE] Ingredientes base del bolillo.
+- [VIDEO PENDIENTE] Cómo revisar harina antes de usar.
+- [VIDEO PENDIENTE] Cómo controlar temperatura del agua.
+- [VIDEO PENDIENTE] Levadura fresca vs levadura seca.
+- [VIDEO PENDIENTE] Por qué la sal importa.
+- [VIDEO PENDIENTE] Ingredientes de apoyo: azúcar, grasas y mejorantes.
+- [VIDEO PENDIENTE] Cómo almacenar ingredientes correctamente.
+- [VIDEO PENDIENTE] Laboratorio de inspección de ingredientes.
+- [VIDEO PENDIENTE] Animación de Boly™ sobre errores comunes con ingredientes.
+
+### Diagramas e infografías pendientes
+
+- [DIAGRAMA PENDIENTE] Interacción harina-agua-gluten.
+- [DIAGRAMA PENDIENTE] Fermentación por levadura y producción de gas.
+- [DIAGRAMA PENDIENTE] Efecto de sal en sabor y control del proceso.
+- [INFOGRAFÍA PENDIENTE] Ingrediente, función, exceso, falta y corrección.
+- [INFOGRAFÍA PENDIENTE] Flujo de almacenamiento correcto: recibir, revisar, etiquetar, cerrar y rotar.
+
+### Recurso descargable pendiente
+
+- [DESCARGABLE PENDIENTE] Checklist y bitácora de ingredientes del Capítulo 3.
+
+---
+
+## 18. Ejercicios del capítulo
+
+1. Revisa tu harina y describe color, olor, textura, empaque y fecha.
+2. Mide el agua de una práctica y registra también su temperatura.
+3. Compara levadura fresca y seca si tienes acceso a ambas; anota diferencias de apariencia y almacenamiento.
+4. Pesa la sal de una fórmula y compárala con lo que habrías puesto “al tanteo”.
+5. Identifica un ingrediente de apoyo o variante y explica por qué lo usarías o por qué no.
+6. Revisa tu alacena panadera y detecta tres mejoras de almacenamiento.
+7. Escribe qué ingrediente sospecharías si el bolillo sale: pálido, denso, insípido o con poco volumen.
+
+### Espacio de notas
+
+- Ingrediente que más debo controlar:
+- Señal de calidad que aprendí:
+- Error que debo evitar:
+- Variable que cambió en mi última práctica:
+- Próxima corrección:
+
+---
+
+## 19. Checklist de cierre del capítulo
+
+- [ ] Identifico harina, agua, levadura y sal como ingredientes base.
+- [ ] Comprendo que cada ingrediente afecta amasado, fermentación y horneado.
+- [ ] Sé revisar calidad, olor, textura, fecha y empaque.
+- [ ] Peso ingredientes en gramos antes de mezclar.
+- [ ] Registro marca o lote cuando cambia una variable.
+- [ ] Entiendo que el agua también controla temperatura de masa.
+- [ ] Distingo levadura fresca y seca en manejo general.
+- [ ] Peso la sal con precisión.
+- [ ] Uso azúcar, grasas, mejorantes u opcionales solo con propósito.
+- [ ] Sé almacenar ingredientes lejos de humedad, calor, olores e insectos.
+- [ ] No culpo al horno antes de revisar ingredientes.
+- [ ] Estoy listo para estudiar el amasado profesional.
+
+---
+
+## 20. Evaluación rápida
+
+Responde con tus propias palabras:
+
+1. ¿Por qué la harina es el ingrediente estructural principal del bolillo?
+2. ¿Cómo puede afectar el agua a la textura y temperatura de la masa?
+3. ¿Qué señales revisarías para saber si una levadura está en buen estado?
+4. ¿Por qué la sal importa además del sabor?
+5. ¿Qué riesgo existe al cambiar marcas de harina sin registrar?
+6. ¿Por qué un mejorante no sustituye la técnica?
+7. ¿Qué ingrediente revisarías primero si la masa no fermenta bien?
+8. ¿Qué ingrediente revisarías si el pan salió insípido?
+9. ¿Qué datos anotarías en tu bitácora de ingredientes?
+10. ¿Qué significa cambiar una variable a la vez?
+
+### Escala personal
+
+Marca del 1 al 5:
+
+- Entendí la función de la harina: ____ / 5
+- Entendí el papel del agua: ____ / 5
+- Entendí cómo revisar levadura: ____ / 5
+- Entendí la importancia de la sal: ____ / 5
+- Puedo revisar y almacenar ingredientes mejor que antes: ____ / 5
+
+---
+
+## 21. QR recomendado del capítulo
+
+**QR-LMB-C03-INGREDIENTES-BASE:** video “Ingredientes base del bolillo”. Debe mostrar revisión, pesado, calidad, almacenamiento y relación con errores comunes.
+
+**QR-LMB-C03-LAB-INGREDIENTES:** plantilla descargable de inspección y bitácora de ingredientes.
+
+**Texto sugerido debajo del QR:**
+
+“Escanea para revisar tus ingredientes antes de mezclar y descargar la bitácora del Capítulo 3.”
+
+**Estado:** pendiente de publicación. No insertar QR definitivo hasta contar con URL final validada.
+
+---
+
+## 22. Cierre del Capítulo 3
+
+Los ingredientes son el inicio real del bolillo. Harina, agua, levadura y sal parecen simples, pero juntos forman una historia completa: estructura, hidratación, fermentación, sabor, aroma, volumen, corteza, migajón y conservación.
+
+En este capítulo aprendiste que un panadero no mezcla a ciegas. Revisa, mide, huele, observa, registra y decide. También aprendiste que azúcar, grasas, mejorantes e ingredientes opcionales pueden ayudar cuando tienen propósito, pero pueden confundir si se agregan sin criterio.
+
+No culpes al horno antes de revisar la harina. No culpes al amasado antes de revisar el agua. No culpes a la fermentación antes de revisar la levadura. No culpes al sabor antes de revisar la sal.
+
+> **Chef Juanote™ dice:** Si entiendes tus ingredientes, empiezas a entender tu masa.
+
+[BOLY™ INTERVIENE]
+
+> ¡Excelente trabajo, camarada! Hoy conociste a los protagonistas del bolillo. Antes de mezclar, revisa. Antes de corregir, observa. Antes de culpar a la masa, pregunta qué pasó con los ingredientes.
+
+## Continuidad hacia el Capítulo 4
+
+Con los ingredientes comprendidos, el siguiente paso natural será aprender a amasarlos con técnica. El Capítulo 4 deberá estudiar cómo la harina hidratada se convierte en masa, cómo se desarrolla el gluten y cómo las manos o la amasadora transforman ingredientes separados en una estructura capaz de fermentar, formarse y abrir en el horno.
+
 > **Capítulos posteriores:** no se desarrollan en esta entrega.
