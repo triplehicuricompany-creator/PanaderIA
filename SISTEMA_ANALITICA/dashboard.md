@@ -1,51 +1,31 @@
-# Dashboards conceptuales
+# Dashboards Conceptuales
 
 ## Objetivo
 
-Definir la arquitectura conceptual de dashboards futuros sin crear tableros funcionales, interfaces, código ni conexiones a datos.
+Documentar tableros futuros como modelos conceptuales, sin construir interfaces ni conectar datos.
 
-## Principios de diseño
+## Dashboards propuestos
 
-- Claridad antes que volumen de información.
-- Indicadores agregados y relevantes.
-- Separación por audiencias y permisos.
-- Trazabilidad hacia métricas y KPIs oficiales.
-- Revisión humana antes de decisiones estratégicas.
+- Dashboard ejecutivo del ecosistema.
+- Dashboard editorial del libro.
+- Dashboard educativo.
+- Dashboard comercial.
+- Dashboard de clientes y comunidad.
+- Dashboard de marketing.
+- Dashboard multimedia.
+- Dashboard de IA.
+- Dashboard de calidad y auditoría.
 
-## Tipos de dashboard futuros
+## Estructura mínima de cada dashboard
 
-### Dashboard ejecutivo
-
-Vista conceptual para dirección estratégica del ecosistema, salud general, prioridades y riesgos.
-
-### Dashboard educativo
-
-Vista conceptual para seguimiento de aprendizaje, avance y calidad de experiencia formativa.
-
-### Dashboard operativo
-
-Vista conceptual para producción, revisión, pendientes, ciclos de trabajo y bloqueos.
-
-### Dashboard comercial
-
-Vista conceptual para oportunidades, licencias, alianzas y comportamiento de embudos futuros.
-
-### Dashboard técnico
-
-Vista conceptual para estabilidad, disponibilidad, incidentes y mantenimiento de plataformas autorizadas.
-
-## Componentes documentales
-
-Cada dashboard futuro deberá especificar:
-
-- Audiencia.
 - Objetivo.
-- KPIs incluidos.
-- Métricas de soporte.
-- Frecuencia de actualización prevista.
-- Permisos.
+- Audiencia.
+- Métricas principales.
+- KPIs destacados.
 - Riesgos de interpretación.
+- Frecuencia conceptual.
+- Decisiones que podría orientar.
 
-## Estado actual
+## Restricción
 
-No existe dashboard funcional creado en esta misión.
+No se generan dashboards funcionales, prototipos interactivos, consultas, gráficos activos ni conexiones a datos.
