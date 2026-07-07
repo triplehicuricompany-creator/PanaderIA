@@ -1,52 +1,89 @@
 {
   "sistema": "Sistema Maestro de Inteligencia Artificial PanaderIA™",
-  "version": "1.0.0",
-  "fase": "FASE 12",
-  "mision": "MISIÓN 34",
-  "estado": "base oficial creada",
-  "proposito": "Organizar futuras integraciones de inteligencia artificial del proyecto PanaderIA™ sin generar contenido final del libro ni crear asistentes nuevos.",
-  "archivos": [
-    {
-      "nombre": "README.md",
-      "funcion": "Presentación general del sistema maestro de IA."
-    },
-    {
-      "nombre": "arquitectura.md",
-      "funcion": "Define la arquitectura general de IA."
-    },
-    {
-      "nombre": "asistentes.md",
-      "funcion": "Organiza asistentes existentes y criterios para futuros asistentes autorizados."
-    },
-    {
-      "nombre": "prompts.md",
-      "funcion": "Establece la biblioteca base de prompts y sus reglas de uso."
-    },
-    {
-      "nombre": "automatizaciones.md",
-      "funcion": "Documenta automatizaciones posibles y controles humanos requeridos."
-    },
-    {
-      "nombre": "integraciones.md",
-      "funcion": "Registra integraciones futuras con herramientas internas y externas."
-    },
-    {
-      "nombre": "modelos.md",
-      "funcion": "Define criterios para seleccionar y usar modelos de IA."
-    },
-    {
-      "nombre": "seguridad.md",
-      "funcion": "Establece buenas prácticas de seguridad, privacidad y gobernanza."
-    },
-    {
-      "nombre": "roadmap_ia.md",
-      "funcion": "Traza la evolución del sistema de IA por etapas."
-    }
+  "directorio": "SISTEMA_IA",
+  "version_documental": "1.0.0",
+  "fase": "FASE 14",
+  "mision": "MISIÓN 49",
+  "estado": "infraestructura_documental_oficial",
+  "tipo": "sistema_maestro_inteligencia_artificial",
+  "proyecto": "PanaderIA™",
+  "idioma_principal": "es-MX",
+  "desarrolla_codigo": false,
+  "implementa_modelos_ia": false,
+  "consume_apis": false,
+  "modifica_capitulos_libro": false,
+  "genera_conversaciones_finales": false,
+  "proposito": "Diseñar la infraestructura documental oficial del Sistema Maestro de Inteligencia Artificial del ecosistema PanaderIA™.",
+  "alcance": {
+    "incluye": [
+      "asistentes virtuales",
+      "Boly™",
+      "futuros asistentes de Pastelería",
+      "futuros asistentes de Chocolatería",
+      "modelos de IA",
+      "prompts maestros",
+      "base de conocimiento",
+      "memoria",
+      "personalidades",
+      "flujo de conversación",
+      "seguridad",
+      "límites de actuación",
+      "integración conceptual con el ecosistema PanaderIA™"
+    ],
+    "excluye": [
+      "código ejecutable",
+      "implementación de modelos",
+      "consumo de APIs",
+      "modificación de capítulos del libro",
+      "conversaciones finales de producción",
+      "automatizaciones activas"
+    ]
+  },
+  "documentos": [
+    "README.md",
+    "00_MANIFIESTO_IA.md",
+    "arquitectura_documental.md",
+    "indice_maestro.md",
+    "gobernanza.md",
+    "politicas.md",
+    "asistentes_virtuales.md",
+    "boly.md",
+    "asistentes_futuros.md",
+    "modelos_ia.md",
+    "prompts_maestros.md",
+    "base_conocimiento.md",
+    "memoria.md",
+    "personalidades.md",
+    "flujo_conversacion.md",
+    "seguridad.md",
+    "limites_actuacion.md",
+    "integracion_ecosistema.md",
+    "roadmap.md"
   ],
+  "gobernanza": {
+    "revision_humana_obligatoria": true,
+    "criterio_actualizacion": "solo mediante revisión documental, editorial, pedagógica, técnica o de seguridad aprobada",
+    "relacion_sistemas": [
+      "SISTEMA_CONOCIMIENTO",
+      "SISTEMA_BOLY",
+      "SISTEMA_CONTENIDO_EDUCATIVO",
+      "SISTEMA_MAESTRO_CONTENIDO",
+      "SISTEMA_LIBRO",
+      "SISTEMA_CALIDAD",
+      "SISTEMA_VERSIONES",
+      "SISTEMA_INTEGRACIONES",
+      "SISTEMA_AUTOMATIZACIONES",
+      "SISTEMA_PERSONAJES",
+      "BIBLIOTECA_VISUAL_IA"
+    ]
+  },
   "restricciones": [
-    "No modificar capítulos existentes.",
-    "No generar contenido final del libro.",
-    "No crear asistentes nuevos en esta misión.",
-    "Toda salida crítica de IA requiere revisión humana."
+    "No desarrollar código",
+    "No implementar modelos de IA",
+    "No consumir APIs",
+    "No modificar capítulos del libro",
+    "No generar conversaciones finales",
+    "No sustituir revisión humana",
+    "No activar automatizaciones"
   ]
 }
