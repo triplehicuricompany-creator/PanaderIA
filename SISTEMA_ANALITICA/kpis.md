@@ -1,47 +1,27 @@
-# KPIs oficiales
+# KPIs del Ecosistema PanaderIA™
 
-## Objetivo
+## Definición
 
-Establecer el marco documental para KPIs futuros del ecosistema PanaderIA™.
+Un KPI es un indicador clave vinculado a un objetivo estratégico del ecosistema. No toda métrica es un KPI.
 
-## Definición institucional
+## Criterios para designar un KPI
 
-Un KPI PanaderIA™ deberá representar un indicador clave vinculado a un objetivo estratégico, operativo, educativo, comercial o técnico.
+- Impacta una decisión estratégica.
+- Tiene propietario documental.
+- Posee umbral conceptual.
+- Puede revisarse periódicamente.
+- Tiene riesgo de interpretación documentado.
 
-## Criterios mínimos
+## KPIs conceptuales por dominio
 
-Todo KPI futuro deberá incluir:
-
-- Objetivo relacionado.
-- Fórmula conceptual.
-- Interpretación esperada.
-- Periodicidad de revisión.
-- Umbral conceptual o criterio cualitativo.
-- Responsable de seguimiento.
-- Riesgo de sesgo o mal uso.
-
-## Categorías de KPIs
-
-### KPIs educativos
-
-Permiten evaluar desempeño formativo, progresión, finalización y calidad de experiencia de aprendizaje.
-
-### KPIs editoriales
-
-Permiten evaluar avance documental, calidad de recursos, coherencia entre sistemas y preparación de materiales.
-
-### KPIs operativos
-
-Permiten revisar eficiencia de procesos, tiempos de entrega, cumplimiento de checklists y capacidad de producción.
-
-### KPIs comerciales
-
-Permiten monitorear salud de embudos, adopción, expansión, alianzas y modelos de licencia en fases futuras.
-
-### KPIs técnicos
-
-Permiten evaluar estabilidad, disponibilidad, integraciones, incidentes y experiencia digital cuando exista implementación autorizada.
+- **Libro:** avance editorial, calidad de revisión, cobertura de recursos.
+- **Educación:** finalización, comprensión, práctica, certificación.
+- **Comercial:** conversión, ticket conceptual, recurrencia, devoluciones.
+- **Clientes:** satisfacción, soporte, fidelización, participación.
+- **Marketing:** alcance, engagement, conversión atribuible conceptual.
+- **Multimedia:** consumo, retención, completitud y reutilización.
+- **IA:** utilidad percibida, seguridad, precisión documental y escalamiento humano.
 
 ## Restricción
 
-No se definen metas reales, resultados reales ni datos numéricos de operación en esta misión.
+Los KPIs aquí descritos son conceptuales y no representan mediciones reales actuales.

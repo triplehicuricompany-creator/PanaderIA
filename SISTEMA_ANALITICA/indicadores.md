@@ -1,35 +1,31 @@
-# Indicadores estratégicos
+# Indicadores Analíticos
 
 ## Objetivo
 
-Organizar los indicadores estratégicos que podrán orientar decisiones futuras del ecosistema PanaderIA™.
+Definir señales de seguimiento que permitan interpretar el estado conceptual del ecosistema PanaderIA™.
 
-## Ejes estratégicos
+## Indicadores estratégicos
 
-### Calidad educativa
+- Salud general del ecosistema.
+- Avance editorial del libro.
+- Progreso educativo de estudiantes.
+- Desempeño comercial conceptual.
+- Participación de clientes y comunidad.
+- Efectividad de marketing conceptual.
+- Consumo multimedia conceptual.
+- Calidad de interacciones de IA.
 
-Indicadores vinculados con aprendizaje, comprensión, avance, retención conceptual y experiencia del estudiante.
+## Indicadores operativos
 
-### Calidad editorial
+- Completitud documental.
+- Consistencia de nomenclatura.
+- Vigencia de reportes.
+- Estado de auditorías.
+- Riesgos abiertos.
+- Métricas pendientes de aprobación.
 
-Indicadores vinculados con coherencia, completitud, revisión, consistencia y preparación de activos documentales.
+## Semáforo conceptual
 
-### Eficiencia operativa
-
-Indicadores vinculados con tiempos, recursos, flujo de producción, capacidad interna y control de pendientes.
-
-### Crecimiento comercial
-
-Indicadores vinculados con adopción, alianzas, licencias, expansión y oportunidades de mercado futuras.
-
-### Salud técnica
-
-Indicadores vinculados con estabilidad, disponibilidad, seguridad, compatibilidad y continuidad operacional.
-
-### Gobernanza
-
-Indicadores vinculados con auditoría, cumplimiento, permisos, documentación y trazabilidad de decisiones.
-
-## Regla de uso
-
-Los indicadores estratégicos no deberán utilizarse de forma aislada. Toda decisión deberá considerar contexto, revisión humana y limitaciones de datos.
+- **Verde:** indicador documentado, vigente y sin riesgos críticos.
+- **Amarillo:** indicador requiere revisión, aclaración o actualización.
+- **Rojo:** indicador presenta riesgo de interpretación, privacidad o gobernanza.

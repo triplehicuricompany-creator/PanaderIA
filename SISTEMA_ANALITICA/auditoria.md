@@ -1,42 +1,20 @@
-# Auditoría analítica
+# Auditorías Analíticas
 
-## Objetivo
+## Propósito
 
-Definir controles de auditoría para asegurar que la analítica futura de PanaderIA™ sea confiable, trazable, responsable y respetuosa de las restricciones documentales.
+Definir controles para revisar que la analítica futura sea útil, ética, confiable y alineada con el ecosistema.
 
-## Controles principales
+## Áreas auditables
 
-### Control de definición
+- Alineación estratégica de métricas.
+- Privacidad y minimización de datos.
+- Calidad de definiciones.
+- Uso correcto de KPIs.
+- Trazabilidad de cambios.
+- Vigencia de reportes.
+- Riesgos de interpretación.
+- Cumplimiento de restricciones de misión.
 
-Toda métrica, KPI, evento, reporte o dashboard deberá tener definición aprobada antes de cualquier implementación.
+## Evidencia documental
 
-### Control de privacidad
-
-Toda captura futura de información deberá justificar necesidad, minimización, retención y permisos.
-
-### Control de trazabilidad
-
-Toda modificación a la arquitectura analítica deberá registrar propósito, responsable, fecha, impacto y aprobación.
-
-### Control de interpretación
-
-Toda conclusión derivada de analítica deberá incluir alcance, limitaciones y posibles sesgos.
-
-### Control de acceso
-
-Los reportes y dashboards futuros deberán segmentarse por audiencia, permisos y nivel de sensibilidad.
-
-## Bitácora documental futura
-
-Cuando se autorice una fase operativa, la bitácora deberá registrar:
-
-- Cambios de definición.
-- Nuevas métricas o KPIs.
-- Eventos aprobados o retirados.
-- Reportes publicados.
-- Incidentes de calidad de datos.
-- Revisiones de privacidad.
-
-## Estado actual
-
-La auditoría definida aquí es documental y no opera sobre datos reales.
+Toda auditoría futura deberá documentar alcance, hallazgos, severidad, responsable, acciones recomendadas y estado de cierre.

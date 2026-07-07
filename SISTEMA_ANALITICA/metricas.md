@@ -1,43 +1,34 @@
-# Métricas oficiales
+# Métricas Generales
 
-## Objetivo
+## Definición
 
-Definir el catálogo documental de métricas futuras que podrán orientar decisiones del ecosistema PanaderIA™ en fases posteriores autorizadas.
+Una métrica es una unidad de medición futura que describe comportamiento, desempeño, calidad o evolución de un componente del ecosistema PanaderIA™.
 
-## Reglas de definición
+## Campos mínimos
 
-Cada métrica futura deberá documentar:
-
-- Nombre oficial.
-- Propósito de medición.
-- Área responsable.
-- Fuente conceptual de información.
-- Frecuencia de revisión prevista.
-- Riesgos de interpretación.
-- Criterios de privacidad y seguridad.
+- Nombre.
+- Dominio.
+- Descripción.
+- Propósito.
+- Fórmula conceptual, si aplica.
+- Fuente conceptual.
+- Frecuencia conceptual.
+- Riesgo de interpretación.
+- Responsable documental.
 
 ## Familias de métricas
 
-### Métricas educativas
+- Alcance.
+- Actividad.
+- Progreso.
+- Calidad.
+- Conversión.
+- Retención.
+- Satisfacción.
+- Eficiencia.
+- Seguridad.
+- Cumplimiento.
 
-Orientadas a comprender avance, participación, evaluación, finalización y experiencia formativa sin registrar datos reales en esta fase.
+## Criterios de aceptación
 
-### Métricas de contenido
-
-Orientadas a revisar estructura documental, uso previsto de recursos, claridad editorial, completitud de materiales y consistencia del ecosistema.
-
-### Métricas operativas
-
-Orientadas a observar procesos internos, tiempos de revisión, ciclos de producción, control de calidad y preparación para publicaciones futuras.
-
-### Métricas comerciales
-
-Orientadas a evaluar embudos, interés, licencias, adopción y oportunidades de expansión únicamente como categorías conceptuales.
-
-### Métricas técnicas
-
-Orientadas a monitorear estabilidad, disponibilidad, errores, rendimiento y compatibilidad de plataformas futuras sin implementación en esta misión.
-
-## Estado actual
-
-Este archivo no contiene mediciones reales, valores, bases de datos ni resultados históricos.
+Una métrica solo deberá aprobarse si es comprensible, accionable, verificable en una fase futura, no invasiva y alineada con un objetivo del ecosistema.

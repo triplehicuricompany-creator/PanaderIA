@@ -1,44 +1,31 @@
-# Reportes analíticos
+# Reportes Analíticos
 
-## Objetivo
+## Propósito
 
-Definir los lineamientos documentales para reportes futuros del ecosistema PanaderIA™.
+Definir los reportes documentales futuros que podrían sintetizar el estado del ecosistema PanaderIA™.
 
 ## Tipos de reportes
 
-### Reporte educativo
-
-Resume avance, participación, desempeño y necesidades de mejora formativa de manera agregada y autorizada.
-
-### Reporte editorial
-
-Resume estado de materiales, revisiones, pendientes, coherencia documental y cumplimiento de estándares.
-
-### Reporte operativo
-
-Resume tiempos, flujos, bloqueos, calidad de procesos y capacidad de producción.
-
-### Reporte comercial
-
-Resume comportamiento de embudos, oportunidades, licencias, alianzas y proyecciones de crecimiento en fases futuras.
-
-### Reporte técnico
-
-Resume disponibilidad, incidentes, rendimiento, errores y mantenimiento de plataformas cuando exista implementación.
+- Reporte ejecutivo mensual conceptual.
+- Reporte educativo conceptual.
+- Reporte comercial conceptual.
+- Reporte de clientes y comunidad.
+- Reporte de marketing.
+- Reporte multimedia.
+- Reporte de IA.
+- Reporte de calidad de datos.
+- Reporte de auditoría analítica.
 
 ## Estructura sugerida
 
-Todo reporte futuro deberá incluir:
+1. Resumen ejecutivo.
+2. Periodo conceptual.
+3. Métricas observadas.
+4. Interpretación responsable.
+5. Riesgos o anomalías.
+6. Decisiones recomendadas.
+7. Pendientes de revisión.
 
-- Propósito.
-- Periodo cubierto.
-- Alcance.
-- Fuentes autorizadas.
-- Hallazgos principales.
-- Riesgos o limitaciones.
-- Recomendaciones.
-- Responsable documental.
+## Límites
 
-## Restricciones
-
-Este documento no genera reportes reales, no contiene resultados y no sustituye análisis validado por humanos.
+Los reportes de esta fase son lineamientos, no informes con datos reales.

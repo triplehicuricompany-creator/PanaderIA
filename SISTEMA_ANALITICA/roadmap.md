@@ -1,43 +1,27 @@
-# Roadmap de analítica
+# Roadmap Analítico
 
-## Objetivo
+## Fase actual
 
-Planificar la evolución del Sistema Maestro de Analítica PanaderIA™ desde infraestructura documental hacia capacidades futuras controladas.
+Crear infraestructura documental oficial del Sistema Maestro de Analítica PanaderIA™.
 
-## Etapa 1: Marco documental
+## Próximas fases conceptuales
 
-- Crear estructura oficial del sistema.
-- Definir arquitectura conceptual.
-- Catalogar métricas, KPIs, eventos, reportes, dashboards e indicadores.
-- Establecer lineamientos de auditoría.
+1. Consolidar diccionario maestro de métricas.
+2. Priorizar KPIs por objetivos estratégicos.
+3. Diseñar plantillas de reportes aprobables.
+4. Definir matriz de privacidad y minimización.
+5. Validar dashboards conceptuales con responsables del ecosistema.
+6. Preparar criterios para una futura instrumentación técnica, si se autoriza.
+7. Establecer calendario de auditorías documentales.
+8. Integrar el sistema con la gobernanza general del ecosistema.
 
-## Etapa 2: Diseño metodológico
+## Dependencias futuras
 
-- Crear plantillas de especificación analítica.
-- Definir matriz de permisos y responsabilidades.
-- Establecer reglas de nomenclatura para eventos y métricas.
-- Diseñar criterios de calidad de datos futuros.
+- Aprobación estratégica.
+- Políticas de privacidad vigentes.
+- Definiciones de sistemas comerciales, clientes, multimedia, IA y educación.
+- Recursos técnicos autorizados en fases posteriores.
 
-## Etapa 3: Simulación documental
+## Cierre de misión
 
-- Validar escenarios ficticios sin datos reales.
-- Revisar riesgos de privacidad y sesgo.
-- Ajustar definiciones antes de cualquier implementación.
-
-## Etapa 4: Implementación futura autorizada
-
-- Implementar mediciones únicamente si una fase posterior lo aprueba.
-- Conectar fuentes de datos validadas.
-- Crear dashboards funcionales solo con autorización explícita.
-- Activar reportes bajo controles de auditoría.
-
-## Etapa 5: Optimización y gobierno continuo
-
-- Revisar desempeño de métricas y KPIs.
-- Retirar indicadores que no aporten valor.
-- Fortalecer auditoría, privacidad y trazabilidad.
-- Evolucionar la analítica con base en objetivos estratégicos.
-
-## Estado actual
-
-La presente misión completa únicamente la Etapa 1 documental.
+La misión queda completa cuando la carpeta contiene índice, arquitectura, gobernanza, políticas, métricas, KPIs, dominios estadísticos, dashboards conceptuales, reportes, auditoría, calidad, gobierno de datos y roadmap sin implementación funcional.
