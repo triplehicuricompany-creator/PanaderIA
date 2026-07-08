@@ -8131,3 +8131,858 @@ El Capítulo 12 une todo lo aprendido: ingredientes, amasado, fermentación, for
 ## Continuidad hacia el Capítulo 13
 
 Después de aprender a organizar una producción profesional completa, el siguiente paso será evaluar y certificar el aprendizaje del panadero. El Capítulo 13 estará dedicado a criterios de certificación, evidencias, evaluación técnica y desarrollo profesional del oficio.
+
+---
+
+# Capítulo 13 — Certificación profesional del panadero
+
+## 1. Propósito del capítulo
+
+La certificación profesional del panadero no consiste en entregar un diploma decorativo. Consiste en demostrar, con evidencias claras, que una persona puede producir bolillo con calidad constante, seguridad, criterio técnico, orden de trabajo y capacidad de corregir problemas reales dentro del obrador.
+
+En los capítulos anteriores aprendiste a reconocer ingredientes, amasar, fermentar, formar, cortar, hornear, enfriar, diagnosticar, crear variantes y organizar una producción completa. El Capítulo 13 convierte ese aprendizaje en una evaluación profesional.
+
+Un panadero certificado debe poder responder tres preguntas fundamentales:
+
+1. ¿Sé hacer bolillo correctamente?
+2. ¿Puedo repetirlo bajo condiciones reales de producción?
+3. ¿Puedo explicar técnicamente por qué mi proceso funciona?
+
+La certificación no mide memoria; mide oficio aplicado.
+
+[BOLY™ INTERVIENE]
+
+> ¡Alerta de examen panadero! Pero no te asustes. Aquí no se trata de adivinar respuestas, sino de demostrar lo que ya sabes hacer con tus manos, tus ojos, tu nariz, tu bitácora y tu criterio.
+
+[ESPACIO PARA FOTOGRAFÍA — C13-F01: Mesa de evaluación con bolillos terminados, bitácora, báscula, termómetro y ficha técnica.]
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C13-INICIO: Video introductorio a la certificación profesional del panadero.]
+
+---
+
+## 2. ¿Qué significa certificarse como panadero de bolillo?
+
+Certificarse significa que el panadero ha alcanzado un estándar verificable. En panadería profesional, un estándar no es una opinión. Es una referencia medible, observable y repetible.
+
+Un bolillo puede gustar mucho a una persona y poco a otra. Sin embargo, ciertos aspectos técnicos sí pueden evaluarse de manera objetiva:
+
+- Peso final.
+- Volumen.
+- Color de corteza.
+- Expansión de la greña.
+- Cocción interna.
+- Textura de miga.
+- Aroma.
+- Limpieza del proceso.
+- Control de fermentación.
+- Registro de tiempos y temperaturas.
+- Manejo higiénico.
+- Capacidad de diagnóstico.
+
+La certificación profesional une tres tipos de evidencia:
+
+### Evidencia de conocimiento
+
+El panadero entiende los fundamentos del proceso: función del gluten, fermentación, temperatura, humedad, vapor, gelatinización del almidón, coagulación de proteínas, caramelización y pérdida de humedad.
+
+### Evidencia de desempeño
+
+El panadero ejecuta correctamente: pesa, mezcla, amasa, divide, bolea, forma, fermenta, corta, hornea, enfría y presenta.
+
+### Evidencia de producto
+
+El bolillo terminado cumple criterios definidos: forma, corteza, miga, aroma, peso, sabor, conservación y uniformidad.
+
+> **Chef Juanote™ dice:** Un certificado serio no premia al que tuvo suerte una vez. Reconoce al que puede repetir calidad aunque cambie el clima, el horno esté lleno y la masa venga más viva de lo normal.
+
+---
+
+## 3. Perfil profesional esperado
+
+Al terminar este libro, el candidato a certificación debe demostrar el siguiente perfil:
+
+### Competencias técnicas
+
+- Interpretar una fórmula panadera.
+- Escalar producción por porcentaje panadero.
+- Medir temperatura final de masa.
+- Ajustar hidratación según harina y ambiente.
+- Controlar fermentación primaria y final.
+- Formar bolillos uniformes.
+- Realizar cortes limpios y funcionales.
+- Hornear con vapor y temperatura adecuada.
+- Enfriar sin condensación.
+- Diagnosticar defectos.
+
+### Competencias de organización
+
+- Preparar mise en place.
+- Ordenar tiempos de producción.
+- Mantener limpieza durante el proceso.
+- Registrar datos en bitácora.
+- Coordinar herramientas, charolas, horno y área de enfriado.
+- Trabajar con seguridad e higiene.
+
+### Competencias sensoriales
+
+- Reconocer masa corta, masa sobretrabajada y masa subamasada.
+- Identificar fermentación joven, óptima o pasada.
+- Evaluar corteza por color, sonido y textura.
+- Evaluar miga por elasticidad, alveolado y humedad.
+- Detectar aromas anómalos.
+
+### Competencias de criterio
+
+- Decidir cuándo corregir y cuándo descartar.
+- Explicar la causa probable de un defecto.
+- Proponer acciones preventivas.
+- Mantener calidad sin depender únicamente de la receta.
+
+[BOLY™ INTERVIENE]
+
+> Un panadero profesional no dice solamente: “así me salió”. Dice: “salió así por esta causa, y la próxima vez ajustaré esto”. ¡Eso es criterio!
+
+---
+
+## 4. Fundamentos científicos de la evaluación
+
+Evaluar bolillo profesionalmente exige comprender qué ocurre dentro de la masa. La ciencia ayuda a que la calificación no dependa solo del gusto personal.
+
+### 4.1 Desarrollo de gluten
+
+El gluten se forma cuando las proteínas de la harina, principalmente gliadina y glutenina, se hidratan y se organizan durante el amasado. La gliadina aporta extensibilidad; la glutenina aporta elasticidad.
+
+En una evaluación, el gluten se refleja en:
+
+- Capacidad de retener gas.
+- Volumen final.
+- Resistencia durante formado.
+- Apertura de greña.
+- Miga elástica.
+
+Una masa subamasada se rompe, no retiene bien gas y produce bolillos bajos. Una masa sobretrabajada puede sentirse pegajosa, caliente y débil.
+
+### 4.2 Fermentación y producción de gas
+
+La levadura consume azúcares disponibles y produce dióxido de carbono, alcohol y compuestos aromáticos. El dióxido de carbono infla la red de gluten; los compuestos secundarios enriquecen aroma y sabor.
+
+Una fermentación correcta produce:
+
+- Volumen equilibrado.
+- Aroma limpio y ligeramente láctico o fermentado.
+- Corte expansivo.
+- Miga abierta pero estable.
+
+Una fermentación insuficiente produce piezas densas. Una fermentación excesiva produce piezas débiles, ácidas, planas o con corte que no abre.
+
+### 4.3 Temperatura final de masa
+
+La temperatura final de masa controla la velocidad de fermentación. Una masa caliente fermenta rápido y puede descontrolarse. Una masa fría fermenta lento y puede llegar rígida al formado.
+
+En certificación se recomienda registrar:
+
+- Temperatura ambiente.
+- Temperatura de harina.
+- Temperatura de agua.
+- Temperatura final de masa.
+- Tiempo real de fermentación.
+
+### 4.4 Vapor, gelatinización y corteza
+
+Durante los primeros minutos de horneado, el vapor mantiene flexible la superficie del bolillo. Esto permite expansión y apertura de greña. Después, el calor seca la superficie y forma corteza.
+
+La corteza correcta depende de:
+
+- Vapor inicial suficiente.
+- Temperatura adecuada.
+- Tiempo de horneado completo.
+- Separación entre piezas.
+- Enfriado sobre rejilla.
+
+### 4.5 Pérdida de humedad y conservación
+
+El bolillo pierde agua durante horneado y enfriado. Si se empaca caliente, el vapor se condensa y ablanda la corteza. Si se hornea poco, la miga queda gomosa. Si se hornea demasiado, la pieza pierde peso, se reseca y amarga.
+
+> **Chef Juanote™ dice:** La ciencia no le quita alma al pan. Le da al panadero una linterna para ver lo que antes solo intuía.
+
+[ESPACIO PARA VIDEO — C13-V01: Explicación visual de gluten, fermentación, vapor y corteza en la evaluación del bolillo.]
+
+---
+
+## 5. Estructura de la certificación
+
+La certificación propuesta para este libro se divide en cinco módulos:
+
+1. Evaluación teórica.
+2. Evaluación de mise en place e higiene.
+3. Evaluación práctica de producción.
+4. Evaluación sensorial del producto terminado.
+5. Evaluación de diagnóstico y mejora.
+
+Cada módulo aporta evidencia diferente. Un candidato puede hacer un buen bolillo, pero si no registra datos, no trabaja limpio o no sabe explicar defectos, todavía no tiene dominio profesional completo.
+
+### Ponderación sugerida
+
+| Módulo | Valor sugerido |
+|---|---:|
+| Teoría técnica | 15% |
+| Mise en place, higiene y seguridad | 15% |
+| Producción práctica | 35% |
+| Producto terminado | 25% |
+| Diagnóstico y mejora | 10% |
+
+Puntaje mínimo recomendado para certificación: **85 de 100 puntos**.
+
+Puntaje mínimo por módulo: **70% del valor de cada módulo**. Esto evita que un candidato compense una mala higiene con un buen sabor, o una mala técnica con respuestas teóricas.
+
+[BOLY™ INTERVIENE]
+
+> ¡Importante! En panadería profesional no basta con que el pan esté rico. También debe estar limpio, registrado, bien hecho y repetible.
+
+---
+
+## 6. Preparación previa del candidato
+
+Antes de presentar la certificación, el candidato debe preparar su carpeta técnica.
+
+### Documentos requeridos
+
+- Ficha técnica de fórmula base de bolillo.
+- Bitácora de al menos tres prácticas previas.
+- Registro de temperaturas.
+- Registro de tiempos de fermentación.
+- Fotografías de producto terminado.
+- Diagnóstico de al menos tres errores corregidos.
+- Lista de equipo utilizado.
+- Plan de producción para la prueba.
+
+### Revisión personal antes del examen
+
+El candidato debe poder explicar:
+
+1. Por qué eligió esa hidratación.
+2. Cómo calculó la cantidad de levadura.
+3. Qué temperatura final de masa buscó.
+4. Cómo determinó el punto de amasado.
+5. Cómo decidió el momento de hornear.
+6. Qué defectos vigilará durante el proceso.
+7. Cómo enfriará y presentará el pan.
+
+### Materiales personales sugeridos
+
+- Báscula digital.
+- Termómetro de lectura rápida.
+- Raspas.
+- Cuchilla o lame.
+- Libreta de bitácora.
+- Pluma resistente a humedad.
+- Cronómetro.
+- Paño limpio.
+- Guantes o equipo de seguridad si el obrador lo requiere.
+
+[ESPACIO PARA FOTOGRAFÍA — C13-F02: Carpeta técnica del candidato con bitácora, fichas y evidencias fotográficas.]
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C13-CARPETA: Plantilla descargable de carpeta técnica para certificación.]
+
+---
+
+## 7. Procedimiento paso a paso de la prueba práctica
+
+La prueba práctica debe reproducir una situación real de panadería, pero con criterios claros de evaluación.
+
+### Paso 1: recepción de instrucciones
+
+El evaluador entrega:
+
+- Cantidad de piezas solicitadas.
+- Peso objetivo por pieza.
+- Tiempo máximo de producción.
+- Equipo disponible.
+- Criterios de presentación.
+
+El candidato debe leer, hacer preguntas técnicas pertinentes y registrar los datos iniciales.
+
+### Paso 2: cálculo de fórmula
+
+El candidato calcula cantidades según número de piezas, peso esperado y merma. Debe usar porcentaje panadero y justificar su cálculo.
+
+Ejemplo de datos a registrar:
+
+| Concepto | Dato |
+|---|---|
+| Piezas solicitadas | 24 bolillos |
+| Peso objetivo final | 60 g |
+| Peso estimado antes de hornear | 70 g |
+| Merma esperada | 12% a 15% |
+| Harina total | Según fórmula calculada |
+
+### Paso 3: mise en place
+
+El candidato pesa ingredientes, verifica equipo, prepara charolas, revisa horno y ordena estación.
+
+Se evalúa:
+
+- Exactitud de pesado.
+- Limpieza de mesa.
+- Separación de ingredientes.
+- Uso correcto de herramientas.
+- Prevención de contaminación cruzada.
+
+### Paso 4: amasado
+
+El candidato mezcla y amasa hasta lograr desarrollo adecuado. Debe controlar temperatura y textura.
+
+Debe registrar:
+
+- Hora de inicio.
+- Hora de término.
+- Temperatura final de masa.
+- Observación táctil.
+- Corrección realizada, si existió.
+
+### Paso 5: fermentación primaria
+
+La masa se deja reposar hasta alcanzar el punto esperado. El candidato no debe depender solamente del reloj; debe observar volumen, elasticidad y aroma.
+
+### Paso 6: división y preformado
+
+El candidato divide piezas uniformes y realiza preformado. Se evalúa precisión de peso y manejo de tensión.
+
+Tolerancia sugerida de peso en división: **±2 g** por pieza.
+
+### Paso 7: reposo intermedio
+
+El reposo permite relajar gluten y facilitar formado. Saltarlo puede causar piezas tensas, deformes o con mala greña.
+
+### Paso 8: formado final
+
+El candidato forma bolillos con simetría, tensión superficial y cierre correcto.
+
+Se evalúa:
+
+- Longitud uniforme.
+- Puntas equilibradas.
+- Cierre inferior sellado.
+- Superficie lisa.
+- Ausencia de desgarres.
+
+### Paso 9: fermentación final
+
+El candidato decide el punto de entrada al horno. Debe evitar tanto la prisa como el exceso.
+
+Se evalúa con:
+
+- Volumen.
+- Prueba táctil suave.
+- Resistencia de la masa.
+- Apariencia de superficie.
+
+### Paso 10: corte
+
+El corte debe ser firme, inclinado, continuo y funcional. No es adorno; dirige la expansión.
+
+### Paso 11: horneado
+
+El candidato carga el horno con seguridad, aplica vapor si corresponde y controla tiempo.
+
+Debe registrar:
+
+- Temperatura de entrada.
+- Tiempo total.
+- Uso de vapor.
+- Rotación de charola, si fue necesaria.
+- Observación de color.
+
+### Paso 12: enfriado y presentación
+
+El pan debe enfriarse sobre rejilla o superficie ventilada. La presentación final incluye selección de piezas, evaluación y explicación.
+
+[ESPACIO PARA VIDEO — C13-V02: Simulación completa de prueba práctica de certificación.]
+
+---
+
+## 8. Rúbrica profesional de evaluación
+
+### 8.1 Teoría técnica — 15 puntos
+
+| Criterio | Puntos |
+|---|---:|
+| Explica función de ingredientes | 3 |
+| Comprende porcentaje panadero | 3 |
+| Explica fermentación | 3 |
+| Relaciona temperatura con proceso | 3 |
+| Explica horneado, vapor y corteza | 3 |
+
+### 8.2 Mise en place, higiene y seguridad — 15 puntos
+
+| Criterio | Puntos |
+|---|---:|
+| Mesa limpia y ordenada | 3 |
+| Pesado exacto | 3 |
+| Herramientas listas | 2 |
+| Manejo higiénico | 3 |
+| Seguridad con horno y utensilios | 2 |
+| Bitácora desde el inicio | 2 |
+
+### 8.3 Producción práctica — 35 puntos
+
+| Criterio | Puntos |
+|---|---:|
+| Amasado correcto | 6 |
+| Control de temperatura | 4 |
+| Fermentación primaria | 5 |
+| División uniforme | 4 |
+| Formado profesional | 6 |
+| Fermentación final | 5 |
+| Corte correcto | 3 |
+| Manejo del horno | 2 |
+
+### 8.4 Producto terminado — 25 puntos
+
+| Criterio | Puntos |
+|---|---:|
+| Forma y uniformidad | 4 |
+| Greña abierta y limpia | 4 |
+| Corteza crujiente | 4 |
+| Color adecuado | 3 |
+| Miga cocida y elástica | 4 |
+| Aroma y sabor | 4 |
+| Peso final dentro de tolerancia | 2 |
+
+### 8.5 Diagnóstico y mejora — 10 puntos
+
+| Criterio | Puntos |
+|---|---:|
+| Identifica defectos reales | 3 |
+| Explica causas probables | 3 |
+| Propone correcciones viables | 3 |
+| Registra aprendizaje final | 1 |
+
+> **Chef Juanote™ dice:** Una buena rúbrica no humilla al aprendiz. Le muestra con precisión dónde está fuerte y dónde todavía necesita horno, mesa y práctica.
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C13-RUBRICA: Rúbrica imprimible de certificación profesional del bolillo.]
+
+---
+
+## 9. Evaluación sensorial profesional
+
+La evaluación sensorial debe hacerse con orden. No se muerde el pan al azar; se observa, se escucha, se huele, se toca y finalmente se prueba.
+
+### 9.1 Vista
+
+Observar:
+
+- Simetría.
+- Color de corteza.
+- Apertura de greña.
+- Volumen.
+- Uniformidad entre piezas.
+- Ausencia de quemaduras o zonas pálidas.
+
+### 9.2 Oído
+
+Al presionar suavemente la corteza, un bolillo bien horneado puede producir un crujido seco. Una corteza muda, blanda o correosa indica exceso de humedad, falta de horneado o mal enfriado.
+
+### 9.3 Olfato
+
+El aroma debe ser limpio, panoso, ligeramente tostado y fermentado. Aromas ácidos agresivos, levadura cruda, humedad encerrada o quemado son señales de alerta.
+
+### 9.4 Tacto
+
+La pieza debe sentirse ligera para su volumen, con corteza firme y miga que recupera parcialmente su forma al presionarse.
+
+### 9.5 Gusto
+
+El sabor debe equilibrar cereal, sal, fermentación y tostado. No debe dominar la levadura, la acidez, la harina cruda ni el amargor.
+
+### Formato breve de cata
+
+| Aspecto | Observación | Calificación 1-5 |
+|---|---|---:|
+| Vista |  |  |
+| Corteza |  |  |
+| Miga |  |  |
+| Aroma |  |  |
+| Sabor |  |  |
+| Persistencia |  |  |
+
+[BOLY™ INTERVIENE]
+
+> ¡La cata empieza antes de la mordida! Si miras bien, escuchas bien y hueles bien, el bolillo ya te está contando su historia.
+
+[ESPACIO PARA FOTOGRAFÍA — C13-F03: Corte transversal de bolillo certificado mostrando corteza, greña y miga.]
+
+---
+
+## 10. Casos reales de panadería
+
+### Caso 1: el candidato que sabía la receta pero no controlaba temperatura
+
+En una panadería escuela, un alumno presentó una fórmula correcta y pesos exactos. Sin embargo, usó agua tibia en un día caluroso. La masa terminó a temperatura alta, fermentó demasiado rápido y llegó débil al formado.
+
+Resultado:
+
+- Bolillos planos.
+- Greña poco definida.
+- Sabor ligeramente ácido.
+- Miga irregular.
+
+Corrección profesional:
+
+- Medir temperatura de harina y ambiente.
+- Usar agua más fría.
+- Reducir tiempo de reposo.
+- Registrar temperatura final de masa.
+
+Lección: saber la fórmula no sustituye controlar el proceso.
+
+### Caso 2: la panadería con buen sabor pero mala uniformidad
+
+Una panadería de barrio producía bolillos sabrosos, pero cada pieza tenía peso diferente. Algunos clientes se quejaban porque unas tortas quedaban pequeñas y otras demasiado grandes.
+
+Diagnóstico:
+
+- División visual sin báscula.
+- Falta de tolerancia definida.
+- Formado apresurado.
+
+Solución:
+
+- Establecer peso objetivo.
+- Usar báscula durante entrenamiento.
+- Revisar cada décima pieza.
+- Definir tolerancia máxima de variación.
+
+Lección: la calidad también se mide en justicia para el cliente.
+
+### Caso 3: certificación fallida por higiene
+
+Un candidato produjo bolillos técnicamente aceptables, pero trabajó con mesa desordenada, trapo sucio y bitácora colocada junto a harina derramada y utensilios húmedos.
+
+Resultado:
+
+- Producto aceptable.
+- Evaluación no aprobatoria en higiene.
+
+Corrección:
+
+- Separar zona limpia y zona de residuos.
+- Usar paños identificados.
+- Limpiar durante el proceso, no solo al final.
+- Mantener bitácora protegida.
+
+Lección: el panadero profesional no puede separar calidad de inocuidad.
+
+### Caso 4: horno saturado en prueba de producción
+
+Durante una evaluación grupal, varios candidatos cargaron demasiadas charolas al mismo tiempo. El horno perdió temperatura, el vapor se distribuyó mal y los bolillos salieron pálidos.
+
+Solución:
+
+- Planear tandas.
+- Precalentar con margen suficiente.
+- No bloquear circulación de calor.
+- Registrar recuperación térmica del horno.
+
+Lección: el horno también se administra.
+
+---
+
+## 11. Errores frecuentes y soluciones
+
+| Error frecuente | Causa probable | Solución profesional |
+|---|---|---|
+| El candidato no registra datos | Falta de hábito de bitácora | Registrar desde mise en place, no al final |
+| Piezas con pesos variables | División visual o prisa | Usar báscula y definir tolerancia |
+| Greña cerrada | Corte superficial, masa seca o fermentación incorrecta | Ajustar corte, humedad y punto de fermentación |
+| Bolillo plano | Sobrefermentación o gluten débil | Controlar temperatura, amasado y tiempos |
+| Corteza blanda | Falta de horneado o enfriado deficiente | Hornear completo y enfriar en rejilla |
+| Miga gomosa | Cocción insuficiente o empacado caliente | Prolongar horneado y esperar enfriado total |
+| Sabor a levadura | Exceso de levadura o fermentación corta | Reducir levadura y dar tiempo adecuado |
+| Producto bonito pero sin explicación técnica | Aprendizaje mecánico | Practicar diagnóstico oral y escrito |
+| Mesa desordenada | Falta de método | Aplicar mise en place y limpieza continua |
+| Pánico durante evaluación | Falta de simulacros | Realizar prácticas cronometradas |
+
+> **Chef Juanote™ dice:** En examen se cae quien solo practicó cuando todo salía bonito. Practica también corregir problemas, porque el obrador real nunca pregunta si estás listo.
+
+---
+
+## 12. Consejos exclusivos del Chef Juanote™ para certificarse
+
+### Consejo 1: llega con tu fórmula entendida, no memorizada
+
+Si no puedes explicar por qué usas cierta cantidad de agua, sal o levadura, todavía no dominas tu fórmula. Memorizar sirve para repetir; entender sirve para corregir.
+
+### Consejo 2: mide aunque tengas experiencia
+
+El ojo experto es valioso, pero la certificación necesita evidencia. Usa báscula, termómetro y reloj. El oficio se honra mejor cuando se puede demostrar.
+
+### Consejo 3: no persigas velocidad antes de dominar orden
+
+Una producción rápida pero sucia, irregular o mal registrada no es profesional. Primero orden, luego ritmo.
+
+### Consejo 4: habla técnicamente sin presumir
+
+Durante la evaluación, explica con claridad: “la masa está lista porque presenta elasticidad, superficie lisa y temperatura final adecuada”. Evita frases vagas como “yo la siento bien” sin fundamento.
+
+### Consejo 5: presenta tu mejor pieza y también tu análisis honesto
+
+Si una pieza salió defectuosa, no la escondas sin aprender. Señálala, explica la causa y propón corrección. La honestidad técnica vale mucho.
+
+### Consejo 6: cuida el enfriado como cuidas el amasado
+
+Muchos candidatos pierden calidad al final. Un bolillo bien hecho puede arruinarse si se amontona caliente.
+
+### Consejo 7: practica con presión real
+
+Haz simulacros con tiempo límite, interrupciones controladas y revisión externa. El día de certificación no debe ser la primera vez que trabajas bajo observación.
+
+[BOLY™ INTERVIENE]
+
+> Chef Juanote™ acaba de revelar un secreto: el examen no empieza cuando prendes la batidora. Empieza cuando preparas tu mente, tus datos y tu estación.
+
+---
+
+## 13. Ejercicios prácticos del capítulo
+
+### Ejercicio 1: simulacro de certificación individual
+
+Produce una tanda de 12 bolillos con tiempo máximo definido. Registra todos los datos desde el pesado hasta el enfriado.
+
+Evalúa:
+
+- Peso de cada pieza antes de hornear.
+- Peso de cada pieza después de hornear.
+- Tiempo de fermentación primaria.
+- Tiempo de fermentación final.
+- Temperatura final de masa.
+- Color de corteza.
+- Calidad de greña.
+- Observación de miga.
+
+Al final escribe tres mejoras concretas.
+
+### Ejercicio 2: defensa oral de la fórmula
+
+Explica tu fórmula en voz alta durante cinco minutos. Debes mencionar:
+
+1. Función de cada ingrediente.
+2. Porcentaje panadero.
+3. Hidratación.
+4. Temperatura buscada.
+5. Tipo de amasado.
+6. Señales de fermentación.
+7. Criterios de horneado.
+
+Graba tu explicación y revisa si usaste lenguaje técnico claro.
+
+[ESPACIO PARA VIDEO — C13-V03: Ejemplo de defensa oral de fórmula ante evaluador.]
+
+### Ejercicio 3: evaluación de piezas mixtas
+
+Coloca sobre una mesa seis bolillos: algunos correctos y otros con defectos. Sin saber cuál es cuál, evalúalos con la rúbrica sensorial.
+
+Identifica:
+
+- Mejor pieza.
+- Peor pieza.
+- Defecto principal.
+- Causa probable.
+- Acción correctiva.
+
+### Ejercicio 4: bitácora comparativa
+
+Realiza dos prácticas con la misma fórmula en días diferentes. Compara resultados.
+
+Registra:
+
+- Clima.
+- Temperatura ambiente.
+- Temperatura del agua.
+- Temperatura final de masa.
+- Tiempo de fermentación.
+- Resultado final.
+
+Conclusión: ¿qué variable cambió más el comportamiento de la masa?
+
+### Ejercicio 5: examen de higiene y flujo
+
+Antes de producir, dibuja tu estación de trabajo. Marca:
+
+- Zona de ingredientes.
+- Zona de amasado.
+- Zona de formado.
+- Zona de charolas.
+- Zona de residuos.
+- Zona de producto terminado.
+
+Después de producir, revisa si respetaste el flujo.
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C13-EJERCICIOS: Formatos descargables para simulacros y ejercicios de certificación.]
+
+---
+
+## 14. Formatos profesionales de evidencia
+
+### 14.1 Ficha de producción para certificación
+
+| Campo | Registro |
+|---|---|
+| Nombre del candidato |  |
+| Fecha |  |
+| Lugar de evaluación |  |
+| Fórmula utilizada |  |
+| Harina total |  |
+| Hidratación |  |
+| Temperatura ambiente |  |
+| Temperatura del agua |  |
+| Temperatura final de masa |  |
+| Hora de amasado |  |
+| Hora de formado |  |
+| Hora de entrada al horno |  |
+| Hora de salida |  |
+| Observaciones |  |
+
+### 14.2 Registro de peso
+
+| Pieza | Peso antes de hornear | Peso final | Observación |
+|---:|---:|---:|---|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+| 4 |  |  |  |
+| 5 |  |  |  |
+| 6 |  |  |  |
+| 7 |  |  |  |
+| 8 |  |  |  |
+| 9 |  |  |  |
+| 10 |  |  |  |
+| 11 |  |  |  |
+| 12 |  |  |  |
+
+### 14.3 Registro de diagnóstico
+
+| Defecto observado | Causa probable | Evidencia | Corrección propuesta |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+[ESPACIO PARA FOTOGRAFÍA — C13-F04: Ejemplo de ficha de producción llena durante una evaluación real.]
+
+---
+
+## 15. Checklist profesional de certificación
+
+Antes de iniciar:
+
+- [ ] Leí las instrucciones completas.
+- [ ] Calculé la fórmula con porcentaje panadero.
+- [ ] Preparé ingredientes y herramientas.
+- [ ] Verifiqué báscula y termómetro.
+- [ ] Revisé limpieza de mesa.
+- [ ] Preparé charolas y área de reposo.
+- [ ] Precalenté horno o confirmé disponibilidad.
+- [ ] Abrí bitácora de evaluación.
+
+Durante la producción:
+
+- [ ] Registré hora de inicio.
+- [ ] Controlé temperatura final de masa.
+- [ ] Observé desarrollo de gluten.
+- [ ] Controlé fermentación primaria.
+- [ ] Dividí con peso uniforme.
+- [ ] Formé piezas simétricas.
+- [ ] Evalué punto de fermentación final.
+- [ ] Realicé corte limpio.
+- [ ] Apliqué vapor correctamente.
+- [ ] Registré tiempo de horneado.
+
+Después del horneado:
+
+- [ ] Enfrié sobre rejilla o zona ventilada.
+- [ ] Seleccioné piezas para evaluación.
+- [ ] Medí peso final.
+- [ ] Evalué corteza, miga, aroma y sabor.
+- [ ] Identifiqué defectos.
+- [ ] Propuse mejoras.
+- [ ] Cerré bitácora.
+- [ ] Dejé limpia el área de trabajo.
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C13-CHECKLIST: Checklist imprimible para día de certificación.]
+
+---
+
+## 16. Recursos visuales y multimedia del capítulo
+
+### Fotografías pendientes
+
+- C13-F01: Mesa de evaluación con bolillos terminados, bitácora, báscula, termómetro y ficha técnica.
+- C13-F02: Carpeta técnica del candidato con bitácora, fichas y evidencias fotográficas.
+- C13-F03: Corte transversal de bolillo certificado mostrando corteza, greña y miga.
+- C13-F04: Ejemplo de ficha de producción llena durante una evaluación real.
+- C13-F05: Evaluador revisando uniformidad de piezas con báscula.
+- C13-F06: Candidato realizando corte profesional durante prueba práctica.
+- C13-F07: Comparación visual entre pieza certificable y pieza con defecto.
+- C13-F08: Mesa limpia al cierre de la evaluación.
+
+### Videos pendientes
+
+- C13-V01: Explicación visual de gluten, fermentación, vapor y corteza en la evaluación del bolillo.
+- C13-V02: Simulación completa de prueba práctica de certificación.
+- C13-V03: Ejemplo de defensa oral de fórmula ante evaluador.
+- C13-V04: Cómo llenar la rúbrica profesional de evaluación.
+- C13-V05: Evaluación sensorial paso a paso del bolillo.
+- C13-V06: Simulacro de diagnóstico de defectos en certificación.
+
+### Códigos QR sugeridos
+
+- QR-LMB-C13-INICIO.
+- QR-LMB-C13-CARPETA.
+- QR-LMB-C13-RUBRICA.
+- QR-LMB-C13-EJERCICIOS.
+- QR-LMB-C13-CHECKLIST.
+- QR-LMB-C13-EVALUACION-SENSORIAL.
+
+---
+
+## 17. Autoevaluación del capítulo
+
+Responde con honestidad:
+
+1. ¿Puedo explicar técnicamente mi fórmula de bolillo?
+2. ¿Uso porcentaje panadero sin depender de una receta fija?
+3. ¿Registro temperaturas y tiempos durante la producción?
+4. ¿Puedo demostrar higiene y orden durante todo el proceso?
+5. ¿Puedo formar piezas uniformes bajo presión de tiempo?
+6. ¿Sé identificar el punto correcto de fermentación final?
+7. ¿Puedo explicar por qué abre o no abre una greña?
+8. ¿Evalúo corteza, miga, aroma y sabor con método?
+9. ¿Puedo diagnosticar defectos y proponer soluciones?
+10. ¿Estoy listo para que otra persona evalúe objetivamente mi trabajo?
+
+### Escala personal
+
+- **0 a 3 respuestas afirmativas:** necesitas reforzar fundamentos y practicar con bitácora antes de certificarte.
+- **4 a 7 respuestas afirmativas:** tienes base técnica, pero debes mejorar consistencia, explicación y control.
+- **8 a 10 respuestas afirmativas:** estás preparado para presentar una certificación profesional de bolillo.
+
+---
+
+## 18. Cierre del Capítulo 13
+
+La certificación profesional del panadero es un puente entre aprender y demostrar. No reemplaza la experiencia diaria, pero ayuda a ordenarla, medirla y convertirla en evidencia.
+
+Un panadero certificado no es quien nunca se equivoca. Es quien trabaja limpio, mide, observa, entiende, corrige y puede repetir calidad. Su valor no está solo en sus manos, sino en su criterio.
+
+Este capítulo te invita a mirar tu propio proceso con ojos profesionales. Cada bolillo que produces puede ser una práctica, una evidencia y una oportunidad de mejora.
+
+> **Chef Juanote™ dice:** El diploma puede colgarse en la pared, pero la verdadera certificación se defiende cada madrugada, cuando el primer cliente parte el bolillo y vuelve por otro.
+
+[BOLY™ INTERVIENE]
+
+> ¡Capítulo completado! Ya no solo sabes hacer bolillo: ahora sabes cómo demostrarlo, evaluarlo y mejorarlo como panadero profesional.
+
+## Continuidad hacia el Capítulo 14
+
+Después de certificar el aprendizaje del panadero, el siguiente paso será mirar hacia el futuro del oficio. El Capítulo 14 estará dedicado a negocio, expansión, innovación, profesionalización continua y nuevas oportunidades para el panadero de bolillo.
