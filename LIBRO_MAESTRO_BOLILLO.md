@@ -65,13 +65,43 @@ El método de trabajo se apoya en tres voces:
 
 El libro sigue el orden natural del proceso panadero. Primero se entiende el producto; después se prepara el espacio, se estudian los ingredientes y se avanza gradualmente hacia las etapas técnicas. No se busca correr. En panadería, avanzar sin observar produce errores repetidos; avanzar con método produce criterio.
 
-> **Consejo de Chef Juanote™:** No brinques lo básico pensando que ya lo sabes. En panadería, lo básico mal entendido aparece después como problema avanzado.
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> No brinques lo básico pensando que ya lo sabes. En panadería, lo básico mal entendido aparece después como problema avanzado.
 
-> **Boly™ interviene:** ¡Vamos paso a paso! Si una palabra suena técnica, la vamos a explicar. Si una masa se porta rara, la vamos a observar. Si algo falla, no es tragedia: es información.
+> **🤖 TIP DE BOLY**
+> ¡Vamos paso a paso! Si una palabra suena técnica, la vamos a explicar. Si una masa se porta rara, la vamos a observar. Si algo falla, no es tragedia: es información.
 
 ## Sistema multimedia del libro
 
 A lo largo del libro se integrarán fotografías, videos, diagramas, QR y cápsulas de Boly™. En esta versión se marcan claramente los lugares donde esos recursos deberán incorporarse durante la etapa visual y audiovisual.
+
+## Sistema editorial unificado
+
+Para que el aprendizaje se mantenga claro y consistente, este libro utiliza bloques editoriales reutilizables. Cada bloque conserva el mismo formato visual en todos los capítulos y aparece solo cuando aporta valor directo al lector.
+
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> Recomendación profesional basada en oficio, criterio de panadería y experiencia de obrador.
+
+> **🤖 TIP DE BOLY**
+> Consejo sencillo, amable y práctico para principiantes o para reforzar una idea clave.
+
+> **⚠️ ¡CUIDADO!**
+> Advertencia sobre seguridad, higiene, errores de proceso o decisiones que pueden afectar el resultado.
+
+> **🔬 DATO CIENTÍFICO**
+> Explicación breve de la ciencia del pan aplicada al tema que se está estudiando.
+
+> **❌ ERROR COMÚN**
+> Problema frecuente, su causa probable y una forma concreta de evitarlo.
+
+> **🧪 EJERCICIO PRÁCTICO**
+> Actividad breve para observar, practicar, comparar o reforzar el aprendizaje antes de avanzar.
+
+> **✅ CHECKLIST**
+> Lista de verificación para confirmar que el lector está listo para continuar.
+
+> **📌 RESUMEN DEL CAPÍTULO**
+> Síntesis de los puntos más importantes para cerrar una etapa de aprendizaje.
 
 - **[FOTOGRAFÍA PENDIENTE]** indica una imagen real necesaria para reforzar la comprensión.
 - **[VIDEO PENDIENTE]** indica una cápsula o demostración asociada al capítulo.
@@ -117,7 +147,8 @@ Ese miedo es normal, pero no debe dirigir el proceso.
 
 Un bolillo que sale mal no es el final del aprendizaje. Es el principio de una conversación técnica. Si el pan salió pálido, algo está diciendo sobre el horno, el vapor o el tiempo. Si no abrió, habla del corte, la fermentación o la tensión. Si quedó pesado, puede estar hablando de amasado, hidratación, reposo o fermentación. Si se deformó, tal vez la masa no tenía estructura suficiente o el formado no generó tensión.
 
-> **Chef Juanote™ dice:** “No hay mejor maestro que el error mismo.”
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> “No hay mejor maestro que el error mismo.”
 
 La clave no es evitar todo error desde el primer día. La clave es aprender a leerlo.
 
@@ -178,7 +209,8 @@ En muchas panaderías, el bolillo es un producto de ritmo diario. Se produce con
 
 Un buen bolillo habla bien del panadero. Un bolillo descuidado también habla: habla de prisa, falta de control, fermentación deficiente, horno mal manejado o poca atención al proceso.
 
-> **Chef Juanote™ dice:** El bolillo parece humilde, pero exige respeto. Si aprendes a respetarlo, aprendes a respetar el oficio.
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> El bolillo parece humilde, pero exige respeto. Si aprendes a respetarlo, aprendes a respetar el oficio.
 
 [FOTOGRAFÍA PENDIENTE: Bolillos en canasta tradicional dentro de una panadería mexicana.]
 [FOTO 04: Bolillos en canasta tradicional dentro de una panadería mexicana.]
@@ -247,7 +279,8 @@ Una receta puede decir: “fermentar hasta doblar volumen”. El oficio pregunta
 
 La diferencia entre copiar y aprender está en la observación. Copiar una fórmula puede producir un resultado una vez. Entender el proceso permite corregir cuando las condiciones cambian.
 
-> **Chef Juanote™ dice:** La masa no se domina a la fuerza. Se entiende con las manos y se corrige con criterio.
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> La masa no se domina a la fuerza. Se entiende con las manos y se corrige con criterio.
 
 ### La bitácora del aprendiz
 
@@ -354,9 +387,11 @@ Registra lugar de compra, apariencia, textura, aroma y defecto principal observa
 
 ### Secreto del obrador
 
-> **Chef Juanote™:** El primer secreto no es amasar: es aprender a mirar sin prisa.
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> El primer secreto no es amasar: es aprender a mirar sin prisa.
 
-> **Boly™ dice:** Si puedes explicar esta etapa con tus palabras, ya no estás copiando: estás aprendiendo con criterio.
+> **🤖 TIP DE BOLY**
+> Si puedes explicar esta etapa con tus palabras, ya no estás copiando: estás aprendiendo con criterio.
 
 ---
 
@@ -562,10 +597,12 @@ Al terminar este capítulo, el alumno deberá poder:
 - Organizar el flujo de trabajo para evitar prisas, olvidos y contaminación.
 - Registrar el estado de sus herramientas en una bitácora sencilla.
 
-> **Chef Juanote™ dice:** Antes de hacer masa, haz orden. Una mesa preparada vale más que diez minutos de improvisación.
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> Antes de hacer masa, haz orden. Una mesa preparada vale más que diez minutos de improvisación.
 
 [BOLY™ INTERVIENE]
 
+> **🤖 TIP DE BOLY**
 > ¡No necesitas una panadería gigante para empezar! Necesitas herramientas limpias, medidas correctas, espacio despejado y una ruta clara para que la masa no te agarre corriendo.
 
 [FOTOGRAFÍA PENDIENTE: Mesa de trabajo limpia con báscula, bowl, raspa, charolas, navaja, paños, termómetro, rejilla y horno al fondo. Composición horizontal, luz cálida, estilo obrador mexicano ordenado.]
@@ -581,6 +618,9 @@ Al terminar este capítulo, el alumno deberá poder:
 Una herramienta no hace pan por sí sola, pero una herramienta incorrecta puede provocar errores constantes. Una báscula imprecisa altera la hidratación. Una charola deformada hornea irregular. Una navaja sin filo rasga la masa. Un termómetro ausente obliga a adivinar. Un bowl demasiado pequeño estresa el mezclado. Un horno mal conocido convierte cada hornada en apuesta.
 
 El bolillo parece sencillo, pero depende de variables sensibles: peso, temperatura, tiempo, humedad, tensión, corte, vapor y enfriado. Las herramientas sirven para controlar esas variables.
+
+> **⚠️ ¡CUIDADO!**
+> Una herramienta dañada o sucia multiplica errores y riesgos. Antes de producir, revisa filo, estabilidad, limpieza y precisión.
 
 En PanaderIA™, las herramientas cumplen tres funciones principales:
 
@@ -1256,11 +1296,16 @@ Al terminar este capítulo, el alumno deberá poder:
 - Medir ingredientes en gramos y registrar cambios entre marcas, lotes o proveedores.
 - Reconocer errores comunes de ingredientes y proponer correcciones prácticas.
 
-> **Chef Juanote™ dice:** El pan no perdona ingredientes mal entendidos. Si quieres dominar la masa, primero entiende lo que le estás dando.
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> El pan no perdona ingredientes mal entendidos. Si quieres dominar la masa, primero entiende lo que le estás dando.
 
 [BOLY™ INTERVIENE]
 
+> **🤖 TIP DE BOLY**
 > ¡Qué tal, camarada! Ya tienes tu mesa lista. Ahora vamos a conocer a los protagonistas del bolillo. Harina, agua, levadura y sal parecen sencillos, pero cada uno tiene una misión. Si los entiendes, la masa deja de ser misterio y empieza a hablarte con claridad.
+
+> **🔬 DATO CIENTÍFICO**
+> La harina aporta proteínas y almidones; el agua activa hidratación; la levadura genera gas y aromas; la sal regula sabor, fuerza y fermentación.
 
 [FOTOGRAFÍA PENDIENTE: Ingredientes base del bolillo organizados en mesa limpia: harina, agua, levadura y sal, cada uno en recipiente transparente e identificado. Luz cálida, estilo obrador mexicano ordenado.]
 [FOTO 26: Ingredientes base del bolillo organizados en mesa limpia: harina, agua, levadura y sal, cada uno en recipiente transparente e identificado. Luz cálida, estilo obrador mexicano ordenado.]
@@ -1887,6 +1932,9 @@ Con los ingredientes comprendidos, el siguiente paso natural será aprender a am
 
 El amasado profesional transforma ingredientes pesados en una masa viva, organizada y capaz de fermentar. En el bolillo, esta etapa decide gran parte de la estructura interna, el volumen, la elasticidad, la greña, la textura del migajón y la regularidad de la producción.
 
+> **❌ ERROR COMÚN**
+> Confundir fuerza con técnica. Amasar sin observar temperatura, elasticidad y textura puede debilitar la masa en lugar de mejorarla.
+
 Al terminar este capítulo podrás:
 
 - Comprender qué ocurre cuando harina, agua, levadura y sal se integran.
@@ -2329,6 +2377,9 @@ Recuerda: no se trata de imponer fuerza, sino de desarrollar estructura. Tus man
 ## 1. Objetivo del capítulo
 
 La fermentación profesional es la etapa donde la masa deja de ser solamente estructura y empieza a ganar vida, volumen, aroma y carácter. Después del amasado, el gluten ya tiene una red capaz de sostener gas; ahora toca controlar cómo la levadura trabaja dentro de esa red sin que la masa se quede corta ni se pase de punto.
+
+> **🔬 DATO CIENTÍFICO**
+> Durante la fermentación, el gas queda atrapado en la red de gluten; por eso una masa con buena estructura puede crecer sin colapsar.
 
 Al terminar este capítulo podrás:
 
@@ -2956,6 +3007,12 @@ Con la fermentación comprendida, el siguiente paso será aprender a dividir, bo
 ## 1. Objetivo del capítulo
 
 La división, el boleado y el formado convierten una masa fermentada en piezas individuales con peso, tensión, simetría y dirección. En esta etapa el panadero deja de trabajar una masa grande y empieza a construir cada bolillo como una pieza con identidad propia. Si el amasado creó estructura y la fermentación dio vida, el formado ordena esa vida para que el horno la exprese correctamente.
+
+> **✅ CHECKLIST**
+> - Peso objetivo definido.
+> - Raspa y báscula listas.
+> - Mesa preparada sin exceso de harina.
+> - Reposo intermedio previsto si la masa está tensa.
 
 Al terminar este capítulo podrás:
 
@@ -3673,6 +3730,9 @@ Al finalizar este capítulo, el alumno será capaz de comprender, preparar, ejec
 
 El horneado no es simplemente “meter el pan al horno”. Es la etapa donde todo lo anterior se revela: ingredientes, amasado, fermentación, formado, tensión, corte y manejo de charola. El horno no perdona; muestra con claridad lo que se hizo bien y también lo que se descuidó.
 
+> **⚠️ ¡CUIDADO!**
+> El vapor mejora la corteza, pero también quema. Aplícalo con método, distancia y protección; nunca improvises con agua cerca de resistencias o flamas sin conocer tu horno.
+
 En este capítulo aprenderás a:
 
 - Preparar el horno antes de cargar las piezas.
@@ -3683,7 +3743,8 @@ En este capítulo aprenderás a:
 - Ajustar tiempos y temperaturas según horno, charola y tamaño de pieza.
 - Registrar resultados para repetir una tanda exitosa.
 
-> **Chef Juanote™ dice:** El horno no arregla una masa mal llevada, pero sí puede arruinar una masa bien trabajada si lo tratas como adorno caliente.
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> El horno no arregla una masa mal llevada, pero sí puede arruinar una masa bien trabajada si lo tratas como adorno caliente.
 
 [FOTOGRAFÍA PENDIENTE — C07-F01: Chef Juanote™ frente a un horno precalentado, con charola de bolillos formados listos para entrar. Mostrar guantes, pala o charola y termómetro de horno.]
 [FOTO 66: Chef Juanote™ frente a un horno precalentado, con charola de bolillos formados listos para entrar. Mostrar guantes, pala o charola y termómetro de horno.]
@@ -4568,7 +4629,11 @@ El corte profesional del bolillo, también llamado greñado, es una de las técn
 
 Este capítulo desarrolla el corte como una operación técnica completa: herramienta, seguridad, momento exacto, ángulo, profundidad, velocidad, dirección, diagnóstico y corrección. El objetivo no es hacer una marca decorativa, sino dirigir la expansión natural de la masa durante los primeros minutos de horno.
 
-> **Chef Juanote™ dice:** El corte no es una herida; es una puerta. Si la abres bien, el bolillo respira, crece y presume su oficio.
+> **🧪 EJERCICIO PRÁCTICO**
+> Practica el gesto del corte sobre una hoja o una masa de prueba: movimiento firme, inclinado y continuo. La seguridad de la mano se entrena antes de tocar piezas finales.
+
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> El corte no es una herida; es una puerta. Si la abres bien, el bolillo respira, crece y presume su oficio.
 
 [FOTOGRAFÍA PENDIENTE — C08-F01: Bolillos correctamente greñados antes de entrar al horno, vistos desde arriba. Incluir comparación con piezas sin corte.]
 [FOTO 72: Bolillos correctamente greñados antes de entrar al horno, vistos desde arriba. Incluir comparación con piezas sin corte.]
@@ -5296,6 +5361,9 @@ El bolillo no termina cuando sale del horno. En realidad, al abrir la puerta del
 
 Un bolillo recién horneado parece listo para comerse, venderse o empacarse, pero todavía está vivo térmicamente. Su interior conserva calor, humedad y presión de vapor. Si se encierra demasiado pronto, suda. Si se expone al aire incorrecto, se reseca. Si se apila caliente, se aplasta. Si se guarda sin criterio, pierde calidad en cuestión de minutos.
 
+> **❌ ERROR COMÚN**
+> Apilar o embolsar bolillos calientes atrapa vapor, ablanda la corteza y deforma piezas. Enfría con separación y ventilación antes de empacar.
+
 Este capítulo enseña a cuidar el bolillo desde la salida del horno hasta el momento de consumo. El objetivo no es alargar artificialmente la vida de un pan que por naturaleza es mejor fresco, sino conservar con inteligencia sus mejores cualidades: corteza crujiente, miga suave, aroma limpio y estructura estable.
 
 [FOTOGRAFÍA PENDIENTE: Bolillos recién salidos del horno sobre rejilla de enfriado, separados entre sí, con vapor visible y corteza brillante.]
@@ -5728,7 +5796,11 @@ El diagnóstico profesional del bolillo es la capacidad de mirar una pieza termi
 
 Este capítulo reúne los aprendizajes anteriores para convertir cada defecto en una ruta de solución. No se trata de culpar a la harina, al horno o al clima como primera respuesta. Se trata de observar, comparar, medir, registrar y corregir una variable a la vez.
 
-> **Chef Juanote™ dice:** Un panadero principiante pregunta “¿qué salió mal?”. Un panadero profesional pregunta “¿en qué etapa nació el problema?”.
+> **🤖 TIP DE BOLY**
+> Si no sabes por dónde empezar, usa tres preguntas: ¿qué veo?, ¿en qué etapa pudo nacer?, ¿qué variable cambiaré en la siguiente prueba?
+
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> Un panadero principiante pregunta “¿qué salió mal?”. Un panadero profesional pregunta “¿en qué etapa nació el problema?”.
 
 [FOTOGRAFÍA PENDIENTE — C10-F01: Mesa de diagnóstico con bolillos de diferentes defectos: pálidos, reventados, planos, duros, arrugados y con buena referencia profesional.]
 [FOTO 81: Mesa de diagnóstico con bolillos de diferentes defectos: pálidos, reventados, planos, duros, arrugados y con buena referencia profesional.]
@@ -7569,6 +7641,9 @@ Responde con honestidad:
 
 Las variantes profesionales del bolillo permiten crecer sin abandonar la raíz del oficio. Un bolillo con ajonjolí, integral, rústico, mini, tortero, especiado o preparado para producción diferida puede abrir nuevos mercados si nace de una base técnica sólida.
 
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> Una variante debe mejorar una intención: sabor, venta, nutrición, formato o servicio. Si solo cambia por ocurrencia, todavía no es producto.
+
 La clave está en respetar el equilibrio. Cada ingrediente nuevo modifica agua, gluten, fermentación, horneado, costo y experiencia del cliente. Por eso el panadero profesional no improvisa a ciegas: prueba, mide, documenta, escucha y corrige.
 
 El Capítulo 11 convierte la creatividad en método. A partir de aquí, cada variante debe responder a una pregunta concreta: ¿qué mejora, para quién sirve y cómo puedo repetirla?
@@ -8338,7 +8413,14 @@ Un obrador profesional no depende de la suerte. Depende de planeación, medició
 
 El Capítulo 12 une todo lo aprendido: ingredientes, amasado, fermentación, formado, corte, horneado, enfriado, diagnóstico y variantes. Ahora el alumno puede mirar el bolillo no solo como pan, sino como producción completa.
 
-> **Chef Juanote™ dice:** Hacer pan es oficio. Producir bien todos los días es disciplina. Y sostener calidad cuando el obrador está lleno, eso ya es profesionalismo.
+> **✅ CHECKLIST**
+> - Fórmula y rendimiento revisados.
+> - Roles y tiempos definidos.
+> - Área limpia antes de producir.
+> - Enfriado, empaque y registro contemplados desde el inicio.
+
+> **👨‍🍳 CONSEJO DEL CHEF JUANOTE**
+> Hacer pan es oficio. Producir bien todos los días es disciplina. Y sostener calidad cuando el obrador está lleno, eso ya es profesionalismo.
 
 [BOLY™ INTERVIENE]
 
@@ -8357,6 +8439,9 @@ Después de aprender a organizar una producción profesional completa, el siguie
 La certificación profesional del panadero no consiste en entregar un diploma decorativo. Consiste en demostrar, con evidencias claras, que una persona puede producir bolillo con calidad constante, seguridad, criterio técnico, orden de trabajo y capacidad de corregir problemas reales dentro del obrador.
 
 En los capítulos anteriores aprendiste a reconocer ingredientes, amasar, fermentar, formar, cortar, hornear, enfriar, diagnosticar, crear variantes y organizar una producción completa. El Capítulo 13 convierte ese aprendizaje en una evaluación profesional.
+
+> **🧪 EJERCICIO PRÁCTICO**
+> Presenta una tanda como evidencia: registra fórmula, tiempos, temperatura, fotos, defectos y correcciones. Practica explicar cada decisión con lenguaje técnico claro.
 
 Un panadero certificado debe poder responder tres preguntas fundamentales:
 
@@ -9234,6 +9319,9 @@ Al finalizar este capítulo, el lector deberá poder:
 ## 1. Llegar al final no significa terminar
 
 Terminar este libro no significa que el panadero ya lo sabe todo. Significa algo más importante: ahora tiene lenguaje, método, criterio y una ruta para seguir aprendiendo sin depender únicamente de la suerte.
+
+> **📌 RESUMEN DEL CAPÍTULO**
+> El cierre del libro une técnica, disciplina, negocio y mejora continua para que el panadero conserve estándar mientras crece.
 
 Antes de este recorrido, el bolillo podía parecer una receta sencilla. Después de estudiar cada capítulo, el lector sabe que detrás de una pieza bien hecha existen decisiones técnicas:
 
