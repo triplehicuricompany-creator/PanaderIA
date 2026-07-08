@@ -6486,3 +6486,899 @@ El Capítulo 10 convierte los errores en herramientas de aprendizaje. Una tanda 
 [BOLY™ INTERVIENE]
 
 > ¡Listo, equipo! Ahora ya no vemos un bolillo feo y decimos “salió mal” nada más. Lo miramos como detectives del pan: corteza, greña, base, miga, aroma, bitácora y solución. El error ya no manda; ahora manda el diagnóstico.
+
+---
+
+# Capítulo 11 — Variantes profesionales del bolillo
+
+## Objetivo del capítulo
+
+Aprender a desarrollar variantes profesionales del bolillo sin perder la identidad técnica del pan: corteza crujiente, miga ligera, greña definida, sabor limpio y estructura suficiente para mesa, torta o servicio de panadería.
+
+En este capítulo el aprendiz deja de repetir una sola fórmula y empieza a diseñar con criterio. Una variante no es “ponerle algo” a la masa. Una variante profesional exige entender qué cambia en hidratación, fermentación, amasado, formado, horneado, conservación, costo y experiencia del cliente.
+
+Al terminar este capítulo podrás:
+
+- Identificar qué elementos del bolillo pueden modificarse sin romper su estructura.
+- Ajustar fórmulas con semillas, granos, prefermentos, harinas alternativas, hierbas, grasas, rellenos o acabados especiales.
+- Diseñar variantes para venta diaria, temporada, restaurantes, torterías y panadería artesanal.
+- Prevenir defectos causados por ingredientes extra.
+- Crear fichas técnicas profesionales para cada variante.
+- Evaluar si una variante es bonita, rentable, repetible y vendible.
+
+> **Chef Juanote™ dice:** Innovar no es aventar ingredientes a la masa. Innovar es saber qué tocar, cuánto tocar y por qué tocarlo.
+
+[BOLY™ INTERVIENE]
+
+> ¡Ajá! Aquí empieza la parte divertida: bolillos con personalidad. Pero ojo, si el bolillo base todavía no sale bien, una variante solo va a disfrazar el problema. Primero dominio, luego creatividad.
+
+---
+
+## 1. Qué es una variante profesional
+
+Una variante profesional es una modificación controlada del bolillo base que conserva su función principal y mejora o diversifica su valor comercial. Puede cambiar sabor, color, textura, aroma, nutrición, presentación o uso, pero debe seguir siendo reconocible como bolillo.
+
+No toda modificación merece llamarse variante profesional. Para serlo debe cumplir cinco condiciones:
+
+1. **Tiene intención clara:** responde a un cliente, temporada, menú o necesidad de venta.
+2. **Es técnicamente estable:** puede repetirse con resultados similares.
+3. **Respeta la estructura del pan:** no destruye volumen, greña ni miga.
+4. **Tiene costo calculado:** no compromete margen de ganancia.
+5. **Puede documentarse:** cuenta con fórmula, procedimiento y estándar visual.
+
+Una panadería profesional no vende ocurrencias; vende productos consistentes. La creatividad debe estar respaldada por método.
+
+### Diferencia entre variante, especialidad y error disfrazado
+
+| Tipo | Descripción | Ejemplo | Riesgo |
+|---|---|---|---|
+| Variante | Cambio controlado sobre el bolillo base | Bolillo con ajonjolí | Bajo si está documentado |
+| Especialidad | Producto con identidad propia derivada del bolillo | Bolillo rústico con masa madre | Medio, requiere proceso específico |
+| Error disfrazado | Producto defectuoso presentado como innovación | Bolillo plano vendido como “artesanal” | Alto, daña reputación |
+
+> **Chef Juanote™ dice:** Si no puedes repetirlo tres veces, todavía no es producto; es accidente bonito.
+
+---
+
+## 2. Fundamento técnico: qué se puede modificar en un bolillo
+
+El bolillo tiene una arquitectura básica: harina, agua, levadura, sal, amasado, fermentación, formado, corte, vapor y horneado. Las variantes nacen al modificar una o varias de estas áreas.
+
+### Zonas de modificación
+
+| Zona | Qué puede cambiar | Impacto principal |
+|---|---|---|
+| Harinas | Integral, centeno, espelta, malta, maíz nixtamalizado en baja proporción | Sabor, color, absorción, fuerza |
+| Líquidos | Agua, infusiones, leche parcial, cerveza sin gas | Aroma, color, suavidad, fermentación |
+| Inclusiones | Semillas, granos cocidos, hierbas, queso seco, chile | Textura, sabor, peso, costo |
+| Fermentación | Directa, prefermento, masa vieja, retardación en frío | Aroma, vida útil, corteza |
+| Acabado | Semillas externas, harina espolvoreada, cortes decorativos | Apariencia y diferenciación |
+| Tamaño | Mini bolillo, bolillo tortero, bolillo banquetero | Uso comercial y horneado |
+| Función | Mesa, torta, restaurante, congelación, reparto | Resistencia y conservación |
+
+La regla principal es sencilla: cada cambio modifica el equilibrio. Si agregas fibra, sube la absorción. Si agregas grasa, cambia la corteza. Si agregas azúcar, acelera coloración. Si agregas semillas, aumenta peso y reduce volumen si no ajustas técnica.
+
+[BOLY™ INTERVIENE]
+
+> O sea: el bolillo es como una banda musical. Si metes un instrumento nuevo, todos los demás tienen que acomodarse para que no suene a ruido.
+
+---
+
+## 3. Fundamentos científicos de las variantes
+
+### Gluten y dilución de estructura
+
+El gluten es la red formada principalmente por gluteninas y gliadinas al hidratar y trabajar la harina de trigo. Esa red retiene los gases de fermentación y permite que el bolillo crezca. Cuando se agregan ingredientes sin gluten, como semillas, salvado, maíz, avena o hierbas secas, la red se interrumpe.
+
+Por eso muchas variantes requieren:
+
+- Mayor hidratación.
+- Reposos más largos.
+- Amasado más cuidadoso.
+- Formado con mejor tensión.
+- Fermentación final vigilada.
+
+Si el ingrediente añadido corta o pesa la masa, el bolillo puede quedar compacto.
+
+### Absorción de agua
+
+Ingredientes como harina integral, salvado, avena, chía, linaza, ajonjolí tostado y granos cocidos cambian la absorción. Algunos toman agua lentamente. Si se agregan sin hidratación previa, pueden robar humedad durante la fermentación y endurecer la miga.
+
+Soluciones profesionales:
+
+- Remojar semillas duras.
+- Hidratar granos cocidos y escurrirlos bien.
+- Aumentar agua de la fórmula en pequeños porcentajes.
+- Usar autólisis o reposo inicial.
+
+### Fermentación y sabor
+
+Las variantes con prefermento, masa vieja o retardación en frío desarrollan compuestos aromáticos por actividad enzimática y fermentativa. La harina libera azúcares simples, la levadura produce gas y alcoholes, y las bacterias presentes en masas prolongadas pueden aportar acidez moderada.
+
+El reto es mantener equilibrio. Demasiada fermentación puede causar:
+
+- Masa débil.
+- Sabor ácido excesivo.
+- Greña pobre.
+- Corteza opaca.
+- Volumen bajo.
+
+### Reacción de Maillard y caramelización
+
+El color de la corteza depende de azúcares, proteínas, humedad superficial, vapor y temperatura. Variantes con leche, azúcar, cerveza, malta o harinas integrales suelen dorar más rápido. Esto exige ajustar temperatura o tiempo para evitar corteza oscura con miga insuficientemente cocida.
+
+> **Chef Juanote™ dice:** Cuando cambias la fórmula, también cambia el horno. El pan no se adapta solo; lo adaptas tú.
+
+---
+
+## 4. Método profesional para diseñar una variante
+
+Antes de producir una variante para venta, usa este método de desarrollo.
+
+### Paso 1: Define el propósito
+
+Responde:
+
+- ¿Para quién es esta variante?
+- ¿Se venderá diario, por temporada o por pedido?
+- ¿Es para torta, mesa, restaurante, cafetería o evento?
+- ¿Debe ser más crujiente, más aromática, más nutritiva o más visual?
+
+### Paso 2: Elige una sola línea de cambio
+
+No cambies todo al mismo tiempo. Empieza por una categoría:
+
+- Semillas.
+- Harina alternativa.
+- Prefermento.
+- Tamaño.
+- Acabado.
+- Sabor regional.
+
+### Paso 3: Calcula porcentaje panadero
+
+Todo ingrediente debe expresarse en relación con la harina total. Esto permite escalar.
+
+Ejemplo básico:
+
+| Ingrediente | Porcentaje |
+|---|---:|
+| Harina de trigo | 100% |
+| Agua | 58% a 64% |
+| Sal | 1.8% a 2.2% |
+| Levadura seca | 0.8% a 1.5% |
+| Semillas | 3% a 10% |
+
+### Paso 4: Produce prueba pequeña
+
+Trabaja primero con 500 g o 1 kg de harina. Registra:
+
+- Absorción real.
+- Tiempo de amasado.
+- Temperatura final de masa.
+- Tiempo de fermentación.
+- Peso antes y después de hornear.
+- Evaluación sensorial.
+
+### Paso 5: Ajusta una variable
+
+Si la masa quedó seca, ajusta agua. Si quedó pesada, baja inclusión. Si doró demasiado, ajusta horno. Si perdió greña, revisa fermentación y corte.
+
+### Paso 6: Repite y documenta
+
+Una variante profesional se valida al repetirse mínimo tres veces con resultado aceptable.
+
+[BOLY™ INTERVIENE]
+
+> Regla Boly™: si cambias agua, no cambies horno al mismo tiempo. Si cambias semillas, no cambies levadura al mismo tiempo. ¡Una variable a la vez, panaderos!
+
+---
+
+## 5. Variante 1: bolillo con ajonjolí
+
+El bolillo con ajonjolí es una de las variantes más nobles para iniciar. Agrega aroma tostado, textura y apariencia sin modificar demasiado la fórmula base.
+
+### Fórmula sugerida
+
+| Ingrediente | Porcentaje panadero |
+|---|---:|
+| Harina de trigo panadera | 100% |
+| Agua | 60% a 62% |
+| Sal | 2% |
+| Levadura seca | 1% |
+| Azúcar opcional | 1% |
+| Ajonjolí interno opcional | 3% |
+| Ajonjolí externo | Cantidad necesaria |
+
+### Procedimiento paso a paso
+
+1. Prepara la masa base de bolillo.
+2. Si usarás ajonjolí interno, tuéstalo ligeramente y déjalo enfriar.
+3. Incorpora el ajonjolí al final del amasado para no romper la red de gluten.
+4. Fermenta hasta desarrollo adecuado.
+5. Divide y preforma.
+6. Forma bolillos con tensión firme.
+7. Humedece ligeramente la superficie.
+8. Pasa la parte superior por ajonjolí.
+9. Fermenta final vigilando que las semillas no resequen la piel.
+10. Corta con navaja limpia.
+11. Hornea con vapor inicial.
+12. Enfría sobre rejilla.
+
+### Consejos del Chef Juanote™
+
+- Tuesta el ajonjolí solo hasta que suelte aroma; si se oscurece demasiado, amarga.
+- No sobrecargues la superficie: demasiado ajonjolí impide ver el color real de la corteza.
+- Si el ajonjolí se cae después de hornear, faltó humedad superficial antes de adherirlo.
+
+### Errores frecuentes y soluciones
+
+| Error | Causa probable | Solución |
+|---|---|---|
+| Semillas quemadas | Horno muy alto o ajonjolí demasiado tostado | Tostar menos y bajar ligeramente temperatura |
+| Semillas se caen | Superficie seca | Humedecer antes de cubrir |
+| Miga compacta | Exceso de ajonjolí interno | Bajar inclusión a 3% |
+| Greña irregular | Semillas obstruyen el corte | Dejar una línea limpia para greñar |
+
+[FOTOGRAFÍA PENDIENTE — C11-F01: Bolillo con ajonjolí externo, corte limpio y greña visible.]
+
+[VIDEO PENDIENTE — C11-V01: Cómo adherir ajonjolí sin deformar el bolillo. QR sugerido: `QR-LMB-C11-AJONJOLI`.]
+
+---
+
+## 6. Variante 2: bolillo integral
+
+El bolillo integral aporta sabor profundo, color más oscuro y percepción nutritiva. Sin embargo, el salvado presente en la harina integral interrumpe la red de gluten y absorbe más agua.
+
+### Fórmula sugerida
+
+| Ingrediente | Porcentaje panadero |
+|---|---:|
+| Harina panadera | 70% a 85% |
+| Harina integral | 15% a 30% |
+| Agua | 62% a 68% |
+| Sal | 2% |
+| Levadura seca | 1% |
+| Aceite opcional | 1% a 2% |
+
+### Procedimiento profesional
+
+1. Mezcla harinas y agua, reservando un pequeño porcentaje de agua.
+2. Reposa 20 a 30 minutos para permitir hidratación del salvado.
+3. Agrega sal y levadura.
+4. Amasa hasta desarrollo medio; no busques una membrana tan fina como en masa blanca.
+5. Ajusta agua si la masa se siente rígida.
+6. Fermenta hasta que aumente volumen sin debilitarse.
+7. Forma con tensión moderada.
+8. Fermenta final un poco menos que el bolillo blanco si la masa se debilita rápido.
+9. Hornea con vapor y permite buen secado final.
+
+### Señales de calidad
+
+- Color café claro uniforme.
+- Aroma a cereal.
+- Corteza crujiente pero no dura.
+- Miga ligeramente más cerrada que el bolillo blanco.
+- Sabor limpio, sin amargor.
+
+> **Chef Juanote™ dice:** Integral no significa pesado. Si pesa como piedra, no es por integral; es por mala hidratación o mala fermentación.
+
+[BOLY™ INTERVIENE]
+
+> El salvado es como una esponjita con bordes. Toma agua y estorba al gluten. Por eso hay que darle tiempo, no pleito.
+
+---
+
+## 7. Variante 3: bolillo con masa vieja
+
+La masa vieja es una porción de masa fermentada de una producción anterior que se incorpora a una nueva masa para aportar sabor, fuerza, aroma y mejor conservación.
+
+### Uso recomendado
+
+| Masa vieja | Resultado esperado |
+|---:|---|
+| 5% | Aroma ligero |
+| 10% | Mejor sabor y corteza |
+| 15% | Sabor más marcado y fermentación activa |
+| Más de 20% | Riesgo de acidez y masa débil si no se controla |
+
+### Procedimiento
+
+1. Reserva masa base ya fermentada, sin contaminar y bien identificada.
+2. Guárdala en refrigeración en recipiente cerrado.
+3. Úsala preferentemente dentro de 24 a 48 horas.
+4. Resta de la fórmula la harina y agua contenidas en esa masa si se requiere precisión avanzada.
+5. Incorpórala en trozos durante la mezcla inicial.
+6. Ajusta fermentación porque la masa puede arrancar más rápido.
+7. Evalúa sabor, volumen y greña.
+
+### Caso real de panadería
+
+Una panadería de barrio producía bolillo muy correcto por la mañana, pero el cliente lo percibía “sin aroma” frente a una panadería artesanal cercana. Se introdujo 10% de masa vieja refrigerada de la producción anterior. En tres semanas, los clientes empezaron a describir el pan como “más sabroso” sin que cambiara drásticamente el precio. El equipo tuvo que ajustar tiempos porque la masa fermentaba más rápido en días calurosos.
+
+### Riesgos
+
+- Usar masa vieja ácida en exceso.
+- No identificar fecha y hora.
+- Mezclar masa contaminada o reseca.
+- No ajustar sal y fermentación.
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C11-MASA-VIEJA: Ficha descargable para control de masa vieja.]
+
+---
+
+## 8. Variante 4: bolillo rústico con prefermento
+
+El bolillo rústico busca corteza más expresiva, aroma más profundo y miga con carácter. Puede elaborarse con prefermento tipo poolish o esponja firme.
+
+### Poolish básico
+
+| Ingrediente | Porcentaje sobre harina del prefermento |
+|---|---:|
+| Harina | 100% |
+| Agua | 100% |
+| Levadura seca | 0.1% a 0.2% |
+
+Se fermenta de 8 a 12 horas a temperatura fresca, hasta presentar burbujas, aroma agradable y superficie ligeramente abombada o apenas comenzando a bajar.
+
+### Fórmula general con poolish
+
+| Ingrediente | Porcentaje panadero total |
+|---|---:|
+| Harina total | 100% |
+| Agua total | 62% a 68% |
+| Sal | 2% |
+| Levadura seca final | 0.3% a 0.8% |
+| Harina prefermentada | 20% a 40% |
+
+### Procedimiento
+
+1. Prepara el poolish la noche anterior.
+2. Al día siguiente verifica aroma: debe ser lácteo, dulce o ligeramente fermentado, nunca podrido.
+3. Mezcla poolish con el agua de la masa final.
+4. Incorpora harina restante.
+5. Reposa 15 minutos.
+6. Agrega sal y levadura final.
+7. Amasa moderadamente.
+8. Fermenta con uno o dos pliegues si la masa está hidratada.
+9. Divide con cuidado para no desgasificar en exceso.
+10. Forma bolillos rústicos.
+11. Fermenta final.
+12. Greña con decisión.
+13. Hornea con vapor generoso al inicio.
+
+### Resultado esperado
+
+- Corteza más aromática.
+- Color más profundo.
+- Miga más húmeda.
+- Sabor con mayor complejidad.
+- Vida útil ligeramente mejor.
+
+> **Chef Juanote™ dice:** El prefermento no es magia; es tiempo trabajando a tu favor.
+
+---
+
+## 9. Variante 5: bolillo mini, banquetero o botanero
+
+El mini bolillo se usa para eventos, mesas de degustación, box lunch, cafeterías y servicio restaurantero. Su reto principal es no resecarse por su tamaño reducido.
+
+### Parámetros sugeridos
+
+| Tipo | Peso de masa | Uso |
+|---|---:|---|
+| Mini botanero | 25 g a 35 g | Degustación y canapés |
+| Banquetero | 40 g a 55 g | Eventos y mesas de pan |
+| Mini torta | 60 g a 75 g | Lunch y cafetería |
+
+### Ajustes técnicos
+
+- Amasado igual que bolillo base.
+- División precisa con báscula.
+- Formado delicado para no desgarrar.
+- Fermentación final más corta.
+- Corte proporcional, no demasiado profundo.
+- Horneado más breve.
+- Enfriado rápido pero protegido de corrientes secas.
+
+### Error común
+
+Hornear mini bolillos con el mismo tiempo del bolillo estándar. Esto produce piezas secas, corteza dura y miga quebradiza.
+
+### Solución
+
+Reducir tiempo, vigilar color y evaluar temperatura interna. También puede aumentarse ligeramente la hidratación o usar una pequeña proporción de prefermento para mejorar humedad.
+
+[FOTOGRAFÍA PENDIENTE — C11-F02: Comparativo de bolillo estándar, banquetero y mini botanero con regla de escala.]
+
+[VIDEO PENDIENTE — C11-V02: División y formado rápido de mini bolillos para evento. QR sugerido: `QR-LMB-C11-MINI-BOLILLO`.]
+
+---
+
+## 10. Variante 6: bolillo tortero reforzado
+
+El bolillo tortero debe abrirse, rellenarse, resistir salsa, plancha, frijol, crema, aguacate, guisado o proteína sin deshacerse. No siempre conviene que sea tan frágil como un bolillo de mesa.
+
+### Características deseables
+
+- Corteza crujiente pero no excesivamente quebradiza.
+- Miga uniforme y ligeramente elástica.
+- Base resistente.
+- Volumen suficiente para abrir.
+- Sabor neutro que acompañe rellenos.
+
+### Ajustes posibles
+
+| Ajuste | Efecto |
+|---|---|
+| Hidratación moderada | Mejora manejo y resistencia |
+| Formado con mayor tensión | Evita pan plano |
+| Horneado bien seco | Resiste humedad del relleno |
+| Peso mayor | Permite torta abundante |
+| Reposo antes de abrir | Evita miga gomosa |
+
+### Procedimiento recomendado
+
+1. Usa fórmula base bien balanceada.
+2. Divide piezas de 100 g a 130 g según mercado.
+3. Forma más alargado y con buen sellado.
+4. Fermenta final sin sobrepasar el punto.
+5. Haz greña longitudinal firme.
+6. Hornea hasta base resistente.
+7. Enfría completamente antes de embolsar o entregar.
+8. Prueba con relleno real antes de venderlo como tortero.
+
+### Caso real de tortería
+
+Una tortería compraba bolillo muy crujiente, pero al cargar milanesa, salsa y aguacate, la pieza se rompía. Se desarrolló un bolillo tortero con miga un poco más uniforme, formado más firme y horneado con secado final controlado. El cliente no pidió “más bonito”; pidió “que aguante”. La variante fue exitosa porque respondió a función, no a moda.
+
+[BOLY™ INTERVIENE]
+
+> ¡Torta ahogada, torta de milanesa, torta de tamal! Cada relleno tiene carácter. El bolillo tortero no solo debe verse bien: debe sobrevivir la batalla.
+
+---
+
+## 11. Variante 7: bolillo con hierbas, ajo o chile
+
+Estas variantes tienen alto impacto sensorial y funcionan bien para restaurantes, parrilladas, pan de mesa, acompañamiento de sopas o productos de temporada.
+
+### Reglas técnicas
+
+- Usa hierbas secas en baja proporción para no humedecer ni manchar demasiado la masa.
+- Si usas ajo, prefiere ajo asado, ajo deshidratado o aceite infusionado controlado.
+- Si usas chile, considera picor, color, humedad y público objetivo.
+- No agregues ingredientes frescos con exceso de agua sin ajustar fórmula.
+
+### Rangos sugeridos
+
+| Ingrediente | Rango recomendado |
+|---|---:|
+| Orégano seco | 0.3% a 0.8% |
+| Romero seco molido | 0.2% a 0.5% |
+| Ajo deshidratado | 0.5% a 1% |
+| Chile seco molido | 0.3% a 1.5% |
+| Aceite infusionado | 1% a 3% |
+
+### Procedimiento
+
+1. Prepara masa base.
+2. Incorpora hierbas o especias al final de la mezcla seca o al inicio del amasado.
+3. Si usas aceite infusionado, intégralo después de hidratar harina.
+4. Amasa hasta desarrollo adecuado.
+5. Fermenta vigilando aroma; algunas especias intensifican con calor.
+6. Forma piezas uniformes.
+7. Hornea y evalúa color.
+8. Cata con el alimento con el que se servirá.
+
+### Errores frecuentes
+
+| Error | Causa | Corrección |
+|---|---|---|
+| Sabor medicinal | Exceso de hierba intensa | Reducir porcentaje |
+| Masa manchada | Ingrediente mal distribuido | Mezclar mejor en seco |
+| Pan amargo | Ajo o chile quemado | Usar menos y controlar horno |
+| Cliente rechaza picor | Variante sin segmentación | Etiquetar nivel de picante |
+
+> **Chef Juanote™ dice:** El sabor debe invitar al siguiente bocado, no gritar desde el primero.
+
+---
+
+## 12. Variante 8: bolillo para congelación y horneado diferido
+
+Algunas panaderías necesitan producir con anticipación, congelar piezas o entregar producto parcialmente horneado. Esta variante requiere control técnico más estricto.
+
+### Opciones de trabajo
+
+| Método | Descripción | Uso |
+|---|---|---|
+| Congelar masa formada | Se congela antes de fermentación final completa | Producción programada |
+| Precocido | Se hornea parcialmente y se termina después | Restaurantes y puntos de venta |
+| Pan horneado congelado | Se congela producto terminado | Emergencias o distribución limitada |
+
+### Puntos críticos
+
+- La levadura sufre con congelación prolongada.
+- La masa puede resecarse si no se protege.
+- El descongelado debe ser lento y controlado.
+- El precocido requiere terminar color y corteza en segundo horneado.
+- La vida útil depende del empaque y cadena de frío.
+
+### Procedimiento para precocido
+
+1. Elabora bolillo con fórmula estable.
+2. Fermenta final un poco antes del punto máximo.
+3. Hornea con vapor hasta fijar estructura, sin dorar completamente.
+4. Enfría rápido sobre rejilla.
+5. Empaca cuando esté completamente frío.
+6. Congela o refrigera según plan.
+7. Termina horneado hasta color y corteza deseados.
+
+### Recomendación profesional
+
+Para venta al público tradicional, el bolillo recién horneado sigue siendo superior. El sistema diferido se justifica cuando hay logística, restaurantes, comedores, eventos o sucursales.
+
+[FOTOGRAFÍA PENDIENTE — C11-F03: Comparativo entre bolillo precocido pálido y bolillo terminado con color final.]
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C11-PRECOCIDO: Diagrama de flujo para producción diferida.]
+
+---
+
+## 13. Cómo costear una variante
+
+Una variante puede ser deliciosa y aun así fracasar si no se costea. El costo profesional considera ingredientes, merma, mano de obra, energía, empaque, tiempo y precio de venta.
+
+### Datos mínimos
+
+- Costo por kilo de cada ingrediente.
+- Cantidad usada en fórmula.
+- Rendimiento total de piezas.
+- Peso promedio por pieza.
+- Merma de horneado.
+- Tiempo adicional de producción.
+- Empaque especial si aplica.
+- Precio sugerido de venta.
+
+### Fórmula simple
+
+Costo total de tanda ÷ número de piezas vendibles = costo base por pieza.
+
+Después se agrega margen deseado. Si el bolillo base cuesta poco, una inclusión cara puede duplicar costo sin que el cliente acepte pagar el doble. Por eso se prueban variantes también desde el mercado.
+
+### Ejemplo de decisión
+
+Si agregar queso maduro aumenta mucho el costo y reduce vida útil, quizá convenga venderlo solo por pedido o como pieza premium de fin de semana. Si el ajonjolí sube poco el costo y mejora percepción visual, puede integrarse a venta diaria.
+
+> **Chef Juanote™ dice:** El pan que no deja ganancia se vuelve hobby. Y una panadería vive de oficio, pero también de números.
+
+---
+
+## 14. Casos reales de panadería
+
+### Caso 1: la variante que nadie pidió
+
+Una panadería lanzó bolillo con romero y chile para venta diaria. Técnicamente era correcto, pero sus clientes compraban bolillo para desayuno familiar y tortas escolares. El sabor intenso redujo ventas. La solución fue moverlo a producción de viernes por la tarde para parrilladas y etiquetarlo como “bolillo especiado para carne asada”. Vendió mejor porque encontró su momento.
+
+### Caso 2: el integral pesado
+
+Un obrador quiso hacer bolillo integral sustituyendo 50% de harina blanca por integral sin aumentar agua ni reposo. El resultado fue bajo, seco y compacto. Se corrigió bajando integral a 25%, agregando reposo de hidratación y aumentando agua. La pieza mantuvo identidad de bolillo y mejoró aceptación.
+
+### Caso 3: el mini bolillo seco
+
+Para un evento, se produjeron mini bolillos con peso de 30 g usando el mismo horneado de piezas de 90 g. Llegaron duros. En la segunda prueba se redujo tiempo, se vigiló color y se empacó después de enfriar completamente. El cliente aprobó porque el pan conservó suavidad interior.
+
+### Caso 4: masa vieja sin control
+
+Una panadería guardaba sobrantes de masa sin etiqueta. A veces el bolillo salía aromático; otras, ácido y plano. Se implementó etiqueta con fecha, hora, porcentaje y responsable. La masa vieja pasó de ser riesgo a herramienta.
+
+[BOLY™ INTERVIENE]
+
+> Moraleja: una variante no falla solo por receta. Puede fallar por cliente equivocado, horario equivocado, etiqueta equivocada o falta de bitácora.
+
+---
+
+## 15. Errores frecuentes al crear variantes y soluciones
+
+| Error frecuente | Consecuencia | Solución profesional |
+|---|---|---|
+| Agregar demasiados ingredientes | Masa pesada y confusa | Elegir un protagonista |
+| No ajustar agua | Miga seca o masa dura | Aumentar hidratación gradualmente |
+| Cambiar varias variables | No se sabe qué funcionó | Probar una modificación por tanda |
+| No costear | Margen bajo o pérdida | Crear ficha de costos |
+| No etiquetar alérgenos | Riesgo para clientes | Señalizar semillas, lácteos, gluten extra o picantes |
+| Hornear igual todas las variantes | Color o cocción incorrecta | Ajustar temperatura y tiempo |
+| No capacitar al equipo | Resultados inconsistentes | Usar ficha técnica y estándar visual |
+| Vender sin prueba de vida útil | Quejas por textura | Evaluar a 1, 3, 6 y 24 horas |
+| Usar ingredientes húmedos sin control | Masa pegajosa o fermentación irregular | Escurrir, precocer o ajustar fórmula |
+| Confundir artesanal con irregular | Producto poco profesional | Mantener peso, forma y calidad |
+
+---
+
+## 16. Ficha técnica profesional para variantes
+
+Cada variante aprobada debe tener una ficha. Esto protege la calidad cuando cambia el turno, el panadero o el volumen de producción.
+
+### Formato sugerido
+
+| Campo | Información |
+|---|---|
+| Nombre de la variante | |
+| Objetivo comercial | |
+| Cliente o uso | |
+| Fórmula en porcentaje panadero | |
+| Peso de masa por pieza | |
+| Tiempo de amasado | |
+| Temperatura final de masa | |
+| Fermentación inicial | |
+| Formado específico | |
+| Acabado externo | |
+| Fermentación final | |
+| Temperatura de horno | |
+| Tiempo de horneado | |
+| Rendimiento | |
+| Costo por pieza | |
+| Precio sugerido | |
+| Vida útil estimada | |
+| Alérgenos o advertencias | |
+| Estándar fotográfico | |
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C11-FICHA-VARIANTE: Descargar plantilla editable de ficha técnica para variantes.]
+
+---
+
+## 17. Procedimiento completo de desarrollo de producto
+
+Este procedimiento puede usarse en panadería profesional para lanzar una nueva variante.
+
+### Etapa 1: Idea
+
+Define nombre, propósito y cliente. Ejemplo: “bolillo integral con ajonjolí para desayunos saludables”.
+
+### Etapa 2: Fórmula piloto
+
+Crea una fórmula pequeña con porcentajes claros. No improvises al tanteo.
+
+### Etapa 3: Producción de prueba
+
+Elabora una tanda reducida. Registra todo.
+
+### Etapa 4: Evaluación técnica
+
+Revisa:
+
+- Volumen.
+- Greña.
+- Color.
+- Corteza.
+- Miga.
+- Aroma.
+- Sabor.
+- Resistencia.
+- Vida útil.
+
+### Etapa 5: Evaluación comercial
+
+Pregunta:
+
+- ¿El cliente entiende qué es?
+- ¿Se puede explicar en una frase?
+- ¿El precio es aceptable?
+- ¿Compite o complementa al bolillo base?
+- ¿El equipo puede producirlo sin atrasarse?
+
+### Etapa 6: Ajuste
+
+Corrige una variable por prueba. Documenta resultados.
+
+### Etapa 7: Lanzamiento controlado
+
+Vende pocas piezas, observa respuesta y registra sobrantes.
+
+### Etapa 8: Estandarización
+
+Si se vende bien y se produce bien, crea ficha definitiva.
+
+> **Chef Juanote™ dice:** El lanzamiento inteligente no presume muchas piezas; mide pocas piezas con mucha atención.
+
+---
+
+## 18. Recursos visuales y multimedia del capítulo
+
+### Fotografías pendientes
+
+- C11-F01: Bolillo con ajonjolí externo, corte limpio y greña visible.
+- C11-F02: Comparativo de bolillo estándar, banquetero y mini botanero.
+- C11-F03: Bolillo precocido y bolillo terminado.
+- C11-F04: Mesa de pruebas con variantes etiquetadas.
+- C11-F05: Miga comparativa de bolillo blanco, integral y con prefermento.
+- C11-F06: Ficha técnica impresa junto a tanda piloto.
+- C11-F07: Bolillo tortero abierto con relleno de prueba.
+- C11-F08: Ingredientes de variantes pesados en mise en place.
+
+### Videos pendientes
+
+- C11-V01: Cómo adherir ajonjolí sin deformar el bolillo.
+- C11-V02: División y formado de mini bolillos para evento.
+- C11-V03: Preparación y uso de masa vieja.
+- C11-V04: Elaboración de bolillo rústico con poolish.
+- C11-V05: Prueba de resistencia para bolillo tortero.
+- C11-V06: Cómo llenar ficha técnica de una variante.
+
+### Códigos QR sugeridos
+
+- QR-LMB-C11-AJONJOLI.
+- QR-LMB-C11-MINI-BOLILLO.
+- QR-LMB-C11-MASA-VIEJA.
+- QR-LMB-C11-PRECOCIDO.
+- QR-LMB-C11-FICHA-VARIANTE.
+- QR-LMB-C11-CATA-VARIANTES.
+
+---
+
+## 19. Ejercicios prácticos del capítulo
+
+### Ejercicio 1: variante de una sola inclusión
+
+Elige una inclusión: ajonjolí, linaza, chile seco, hierba seca o avena. Produce una tanda pequeña con máximo 5% de inclusión.
+
+Registra:
+
+- Porcentaje usado.
+- Momento de incorporación.
+- Absorción de agua.
+- Sensación de masa.
+- Volumen final.
+- Sabor.
+- Corrección para siguiente tanda.
+
+### Ejercicio 2: comparación de hidratación
+
+Produce dos masas pequeñas con 20% de harina integral:
+
+- Masa A: hidratación base.
+- Masa B: hidratación base + 4% de agua.
+
+Compara manejo, volumen, miga y vida útil.
+
+### Ejercicio 3: prueba de cliente
+
+Presenta una variante a cinco personas. Pide que respondan:
+
+1. ¿Qué sabor percibes?
+2. ¿Lo comprarías?
+3. ¿Para qué comida lo usarías?
+4. ¿Pagarías más que por un bolillo normal?
+5. ¿Qué cambiarías?
+
+No defiendas el producto mientras responden. Escucha.
+
+### Ejercicio 4: ficha técnica completa
+
+Diseña una variante propia y llena la ficha técnica del capítulo. Después produce la tanda siguiendo exclusivamente esa ficha. Evalúa si la ficha fue suficientemente clara.
+
+### Ejercicio 5: prueba de vida útil
+
+Guarda una pieza de la variante y evalúala en cuatro momentos:
+
+| Momento | Corteza | Miga | Aroma | Sabor | Observaciones |
+|---|---|---|---|---|---|
+| Recién frío | | | | | |
+| 3 horas | | | | | |
+| 6 horas | | | | | |
+| 24 horas | | | | | |
+
+[VIDEO PENDIENTE — C11-V06: Cómo llenar ficha técnica y evaluar vida útil. QR sugerido: `QR-LMB-C11-CATA-VARIANTES`.]
+
+---
+
+## 20. Laboratorio guiado: crear una variante vendible
+
+### Objetivo
+
+Diseñar, producir, evaluar y ajustar una variante profesional de bolillo lista para prueba comercial.
+
+### Material necesario
+
+- Fórmula base de bolillo.
+- Báscula.
+- Bitácora.
+- Ingrediente protagonista.
+- Cámara o celular.
+- Etiquetas.
+- Formato de evaluación.
+
+### Procedimiento
+
+1. Escribe el nombre tentativo de la variante.
+2. Define cliente objetivo.
+3. Selecciona un solo ingrediente protagonista.
+4. Calcula porcentaje panadero.
+5. Prepara mise en place.
+6. Produce una tanda pequeña.
+7. Fotografía masa, formado, fermentación final, greña, pan horneado y miga.
+8. Evalúa resultado técnico.
+9. Da a probar a tres personas.
+10. Registra comentarios sin discutir.
+11. Ajusta una variable para la siguiente prueba.
+12. Decide si la variante se descarta, se repite o pasa a prueba comercial.
+
+### Tabla de laboratorio
+
+| Prueba | Ingrediente protagonista | Porcentaje | Ajuste de agua | Resultado | Decisión |
+|---|---|---:|---:|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+
+> **Chef Juanote™ dice:** En panadería profesional, descartar una variante también es avanzar. Te ahorra tiempo, dinero y quejas.
+
+---
+
+## 21. Checklist profesional del capítulo
+
+Antes de lanzar una variante, confirma:
+
+- [ ] La variante tiene propósito comercial claro.
+- [ ] La fórmula está escrita en porcentaje panadero.
+- [ ] Se hizo prueba pequeña antes de escalar.
+- [ ] Solo se modificó una variable por prueba.
+- [ ] La hidratación fue ajustada si hubo ingredientes absorbentes.
+- [ ] La fermentación se observó, no solo se cronometró.
+- [ ] El horneado fue adaptado a la variante.
+- [ ] La pieza conserva identidad de bolillo.
+- [ ] La greña es visible y funcional.
+- [ ] La miga no está seca, gomosa ni pesada.
+- [ ] El sabor tiene equilibrio.
+- [ ] El costo por pieza está calculado.
+- [ ] El precio de venta es viable.
+- [ ] El equipo puede repetir el procedimiento.
+- [ ] Hay fotografía estándar del producto.
+- [ ] Hay ficha técnica completa.
+- [ ] Se evaluó vida útil.
+- [ ] Se identificaron alérgenos o advertencias.
+- [ ] Se definió si será producto diario, temporal o por pedido.
+- [ ] La variante fue probada por clientes reales o equipo de evaluación.
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C11-CHECKLIST-VARIANTES: Descargar checklist imprimible para lanzamiento de variantes.]
+
+---
+
+## 22. Autoevaluación del capítulo
+
+Responde con honestidad:
+
+1. ¿Puedo explicar qué diferencia una variante profesional de una ocurrencia?
+2. ¿Sé cómo afecta una harina integral a la hidratación y estructura?
+3. ¿Puedo usar semillas sin destruir volumen ni greña?
+4. ¿Entiendo para qué sirve la masa vieja?
+5. ¿Sé ajustar horneado para piezas mini?
+6. ¿Puedo diseñar un bolillo para torta según su función?
+7. ¿Registro costos antes de lanzar una variante?
+8. ¿Tengo una ficha técnica para repetir resultados?
+9. ¿Evalúo vida útil antes de vender?
+10. ¿Escucho al cliente antes de insistir en una idea?
+
+### Escala personal
+
+- **0 a 3 respuestas afirmativas:** refuerza fórmula base, porcentajes y observación.
+- **4 a 7 respuestas afirmativas:** ya puedes hacer pruebas, pero necesitas documentar mejor.
+- **8 a 10 respuestas afirmativas:** estás listo para desarrollar variantes con criterio profesional.
+
+---
+
+## 23. Cierre del Capítulo 11
+
+Las variantes profesionales del bolillo permiten crecer sin abandonar la raíz del oficio. Un bolillo con ajonjolí, integral, rústico, mini, tortero, especiado o preparado para producción diferida puede abrir nuevos mercados si nace de una base técnica sólida.
+
+La clave está en respetar el equilibrio. Cada ingrediente nuevo modifica agua, gluten, fermentación, horneado, costo y experiencia del cliente. Por eso el panadero profesional no improvisa a ciegas: prueba, mide, documenta, escucha y corrige.
+
+El Capítulo 11 convierte la creatividad en método. A partir de aquí, cada variante debe responder a una pregunta concreta: ¿qué mejora, para quién sirve y cómo puedo repetirla?
+
+> **Chef Juanote™ dice:** El bolillo tradicional te da raíz. Las variantes te dan ramas. Pero ningún árbol crece fuerte si olvida su tronco.
+
+[BOLY™ INTERVIENE]
+
+> ¡Capítulo completado! Ahora sí: podemos crear bolillos con estilo, con sabor, con función y con números. Pero prometido: nada de inventos sin bitácora, nada de semillas al aventón y nada de vender una prueba como si ya fuera estándar de la casa.
+
+## Continuidad hacia el Capítulo 12
+
+Después de aprender a diseñar variantes, el siguiente paso será pensar como panadería completa: organización, producción, venta, control de calidad y crecimiento del obrador. El bolillo ya no será solo una pieza; será parte de un sistema profesional.
