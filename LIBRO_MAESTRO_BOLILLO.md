@@ -1,11 +1,11 @@
 # Libro Maestro del Bolillo
 
-**PanaderIA™ — Formación panadera con método, criterio y corazón**  
-**Autor pedagógico:** Chef Juanote™  
-**Asistente educativo:** Boly™  
-**Estado:** Borrador editorial funcional — Capítulo 1 desarrollado  
+**PanaderIA™ — Formación panadera con método, criterio y corazón**
+**Autor pedagógico:** Chef Juanote™
+**Asistente educativo:** Boly™
+**Estado:** Borrador editorial funcional — capítulos 1 al 14 desarrollados
 **Fuente de desarrollo:** `PLAN_DESARROLLO_LIBRO.md`  
-**Alcance de esta versión:** índice general completo, introducción del libro y Capítulo 1 completo. Los capítulos 2 al 14 quedan únicamente listados en el índice y no se desarrollan todavía.
+**Alcance de esta versión:** índice general completo, introducción del libro, capítulos 1 al 14 y conclusión final.
 
 ---
 
@@ -13,16 +13,8 @@
 
 ### Páginas iniciales
 
-1. Portada
-2. Contraportada
-3. Índice general completo
-4. Introducción del libro
-5. Carta del Chef Juanote™
-6. Presentación de Chef Juanote™
-7. Presentación de Boly™
-8. Cómo usar este libro
-9. Historia del bolillo
-10. Mapa visual del aprendizaje
+1. Índice general completo
+2. Introducción del libro
 
 ### Capítulos principales
 
@@ -43,21 +35,9 @@
 
 ### Secciones finales
 
-15. Lecciones del Obrador
-16. Las Leyes del Chef Juanote™
-17. Banco maestro de tablas
-18. Banco maestro de fotografías sugeridas
-19. Banco maestro de diagramas e infografías
-20. Códigos QR premium
-21. Recursos descargables
-22. Evaluación final del libro
-23. Checklist final
-24. Conclusión
-25. Glosario
-26. Bibliografía y fuentes de consulta interna
-27. Créditos
+1. Conclusión final del libro
 
-> **Nota editorial:** Los apartados anteriores constituyen el mapa completo del libro. En esta entrega solo se desarrolla la introducción y el Capítulo 1; el resto permanece reservado para fases posteriores.
+> **Nota editorial:** Los apartados anteriores corresponden a las secciones existentes en esta versión del libro.
 
 ---
 
