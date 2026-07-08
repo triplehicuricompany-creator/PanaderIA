@@ -5544,3 +5544,945 @@ El panadero profesional no solo domina el fuego; también domina el tiempo poste
 ## Continuidad hacia el Capítulo 10
 
 Con el enfriado y la conservación comprendidos, el siguiente paso será estudiar el diagnóstico integral del bolillo. El Capítulo 10 deberá reunir defectos de mezcla, fermentación, formado, corte, horneado, enfriado y conservación para convertir cada problema en una solución práctica y repetible.
+
+# Capítulo 10 — Diagnóstico, errores y soluciones
+
+El diagnóstico profesional del bolillo es la capacidad de mirar una pieza terminada y reconstruir, con criterio técnico, lo que ocurrió durante todo el proceso. Un bolillo habla: su volumen cuenta la historia del amasado, su greña revela el formado y el corte, su corteza denuncia el vapor y el horno, su miga confirma la fermentación, y su conservación muestra si el enfriado fue correcto.
+
+Este capítulo reúne los aprendizajes anteriores para convertir cada defecto en una ruta de solución. No se trata de culpar a la harina, al horno o al clima como primera respuesta. Se trata de observar, comparar, medir, registrar y corregir una variable a la vez.
+
+> **Chef Juanote™ dice:** Un panadero principiante pregunta “¿qué salió mal?”. Un panadero profesional pregunta “¿en qué etapa nació el problema?”.
+
+[FOTOGRAFÍA PENDIENTE — C10-F01: Mesa de diagnóstico con bolillos de diferentes defectos: pálidos, reventados, planos, duros, arrugados y con buena referencia profesional.]
+
+[VIDEO PENDIENTE — C10-V01: Introducción del Chef Juanote™ al diagnóstico integral del bolillo. Mostrar cómo observar una pieza desde corteza, base, greña, volumen y miga. QR sugerido: `QR-LMB-C10-INTRO-DIAGNOSTICO`.]
+
+[QR PENDIENTE — QR-LMB-C10-INTRO-DIAGNOSTICO: Enlace a video de bienvenida y recorrido visual del capítulo.]
+
+---
+
+## 1. Objetivo técnico del capítulo
+
+Al finalizar este capítulo, el lector deberá ser capaz de:
+
+1. Identificar defectos frecuentes del bolillo por observación visual, táctil, auditiva y de miga.
+2. Relacionar cada defecto con posibles causas en mezcla, amasado, fermentación, formado, corte, horneado, enfriado o conservación.
+3. Aplicar correcciones ordenadas sin cambiar demasiadas variables al mismo tiempo.
+4. Diseñar una bitácora de diagnóstico para repetir resultados y reducir pérdidas.
+5. Tomar decisiones profesionales en producción real, incluso bajo presión de tiempo, clima o volumen de trabajo.
+
+El diagnóstico no reemplaza la receta. La receta indica el camino; el diagnóstico enseña a corregir cuando el camino cambia.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** Chef, ¿diagnosticar es lo mismo que adivinar?
+>
+> **Chef Juanote™ responde:** No, Boly. Adivinar es cambiar cosas por corazonada. Diagnosticar es observar evidencias y probar una corrección lógica. En panadería profesional, cada ajuste debe tener una razón.
+
+---
+
+## 2. La regla principal: no corrijas todo al mismo tiempo
+
+Uno de los errores más comunes en panadería es intentar corregir cinco cosas en la siguiente tanda: más agua, más levadura, más amasado, más horno y menos fermentación. Cuando el resultado mejora o empeora, nadie sabe cuál cambio fue responsable.
+
+La corrección profesional sigue esta regla:
+
+1. Observa el defecto principal.
+2. Elige la causa más probable.
+3. Cambia una variable medible.
+4. Registra el cambio.
+5. Compara el resultado.
+6. Decide si mantienes, ajustas o regresas al punto anterior.
+
+### Ejemplo práctico
+
+Si el bolillo sale pálido y blando, no cambies al mismo tiempo harina, azúcar, vapor, temperatura y tiempo. Primero revisa si el horno estuvo realmente caliente y si el pan tuvo tiempo suficiente de secado final. Después evalúa vapor y formulación.
+
+> **Chef Juanote™ dice:** El peor enemigo del diagnóstico es la desesperación. La masa perdona muchas cosas; el desorden no perdona ninguna.
+
+---
+
+## 3. Fundamento científico del diagnóstico panadero
+
+El bolillo es el resultado de transformaciones físicas, químicas y biológicas. Diagnosticar exige entender qué proceso pudo fallar.
+
+### Fermentación biológica
+
+La levadura consume azúcares disponibles y produce dióxido de carbono, alcohol y compuestos aromáticos. El gas queda atrapado en la red de gluten y genera volumen. Si la fermentación es insuficiente, el bolillo queda denso, pequeño y puede reventar de forma agresiva en el horno. Si la fermentación es excesiva, la red se debilita, la pieza pierde fuerza y puede salir plana, ácida o arrugada.
+
+### Desarrollo de gluten
+
+El amasado organiza proteínas de la harina para formar una red elástica. Esa red sostiene gas, permite expansión y define textura. Poco desarrollo produce piezas débiles, irregulares y con miga compacta. Exceso de trabajo mecánico puede calentar la masa, oxidarla o volverla demasiado tensa.
+
+### Gelatinización del almidón y coagulación de proteínas
+
+Durante el horneado, el almidón absorbe agua y gelatiniza; las proteínas se coagulan y fijan la estructura. Si falta cocción, la miga puede quedar gomosa o húmeda. Si sobra cocción, el bolillo pierde humedad en exceso y se vuelve seco o quebradizo.
+
+### Reacción de Maillard y color de corteza
+
+El dorado se produce por reacciones entre azúcares y aminoácidos bajo calor. Una corteza pálida puede indicar horno bajo, tiempo corto, exceso de vapor, fermentación desbalanceada o falta de azúcares disponibles. Una corteza demasiado oscura puede indicar horno excesivo, tiempo largo, piezas pequeñas o formulación con demasiados azúcares.
+
+### Migración de humedad
+
+Al salir del horno, la humedad interna se mueve hacia la corteza. Si el pan se apila, se embolsa caliente o se deja sobre charola caliente, el vapor atrapado ablanda la corteza y puede arrugar la superficie.
+
+---
+
+## 4. Método de diagnóstico en cinco sentidos
+
+El bolillo debe revisarse con todos los sentidos profesionales disponibles.
+
+### Vista
+
+Observa:
+
+- Volumen general.
+- Simetría.
+- Color de corteza.
+- Apertura de greña.
+- Reventones laterales o inferiores.
+- Base quemada, pálida o húmeda.
+- Arrugas, ampollas o manchas.
+
+### Tacto
+
+Evalúa:
+
+- Corteza crujiente o blanda.
+- Peso aparente.
+- Elasticidad de la pieza.
+- Resistencia de la base.
+- Humedad superficial.
+
+### Oído
+
+Un bolillo bien horneado suele emitir un sonido seco y ligero al presionar suavemente la corteza o golpear la base. Un sonido apagado puede indicar humedad interna, falta de cocción o enfriado incorrecto.
+
+### Olfato
+
+Aromas deseables:
+
+- Pan tostado.
+- Harina cocida.
+- Fermentación limpia.
+- Corteza fresca.
+
+Aromas de alerta:
+
+- Levadura cruda.
+- Acidez excesiva.
+- Quemado.
+- Humedad encerrada.
+- Rancio o contaminado.
+
+### Miga
+
+Corta una pieza de muestra y revisa:
+
+- Distribución de alveolos.
+- Elasticidad.
+- Humedad.
+- Color interno.
+- Sensación gomosa, seca o apelmazada.
+- Separación entre corteza y miga.
+
+[FOTOGRAFÍA PENDIENTE — C10-F02: Secuencia de diagnóstico sensorial: vista superior, base, corte lateral y miga abierta.]
+
+---
+
+## 5. Diagnóstico por apariencia externa
+
+La apariencia externa es la primera pista. No siempre da la respuesta definitiva, pero orienta la investigación.
+
+| Defecto visible | Posibles causas | Primera corrección sugerida |
+|---|---|---|
+| Bolillo plano | Sobrefermentación, formado flojo, masa débil, exceso de hidratación | Reducir fermentación final y mejorar tensión de formado |
+| Bolillo pequeño | Subfermentación, poco desarrollo de gluten, horno frío, levadura débil | Revisar amasado, levadura y punto de fermentación |
+| Greña cerrada | Corte superficial, falta de vapor, sobrefermentación, pieza seca | Cortar más decidido y cargar con vapor correcto |
+| Greña explosiva | Subfermentación, corte profundo, horno muy fuerte, formado tenso en exceso | Dar más fermentación final y ajustar profundidad |
+| Reventón lateral | Corte mal ubicado, unión débil, falta de greña funcional | Sellar mejor el formado y alinear el corte |
+| Base quemada | Charola muy caliente, piso agresivo, horno desbalanceado | Usar doble charola o reducir calor inferior |
+| Corteza pálida | Horno bajo, tiempo corto, exceso de vapor, fermentación larga | Aumentar secado final y verificar temperatura real |
+| Corteza arrugada | Enfriado deficiente, embolsado caliente, falta de cocción | Enfriar en rejilla y prolongar horneado final |
+
+> **Chef Juanote™ dice:** La vista te da sospechosos, no sentencia. La miga y la bitácora confirman al culpable.
+
+---
+
+## 6. Diagnóstico por miga
+
+La miga es el expediente interno del bolillo. Para revisarla correctamente, espera a que la pieza enfríe. Cortar caliente puede dar una lectura falsa porque la humedad interna todavía se está acomodando.
+
+### Miga compacta
+
+Posibles causas:
+
+- Amasado insuficiente.
+- Fermentación corta.
+- Levadura débil o mal dosificada.
+- Masa demasiado fría.
+- Desgasificado excesivo en formado.
+
+Soluciones:
+
+1. Verifica la actividad de la levadura.
+2. Aumenta ligeramente el tiempo de fermentación.
+3. Revisa temperatura final de masa.
+4. Mejora desarrollo de gluten.
+5. Forma sin aplastar toda la estructura interna.
+
+### Miga gomosa
+
+Posibles causas:
+
+- Falta de cocción interna.
+- Enfriado insuficiente antes de cortar o embolsar.
+- Hidratación alta sin ajuste de horneado.
+- Exceso de vapor o secado final débil.
+
+Soluciones:
+
+1. Prolonga el horneado de 1 a 3 minutos según tamaño.
+2. Asegura ventilación final de corteza.
+3. Enfría sobre rejilla.
+4. No cortes ni empaques caliente.
+
+### Miga seca
+
+Posibles causas:
+
+- Horneado excesivo.
+- Poca hidratación.
+- Fermentación muy larga.
+- Conservación al aire demasiado tiempo.
+
+Soluciones:
+
+1. Reduce tiempo de horno o temperatura final.
+2. Revisa hidratación real de la masa.
+3. Protege el pan después de enfriar.
+4. Ajusta horarios de producción y venta.
+
+### Huecos grandes irregulares
+
+Posibles causas:
+
+- Formado deficiente.
+- Burbujas grandes no redistribuidas.
+- Fermentación desigual.
+- Harina excesiva atrapada durante formado.
+
+Soluciones:
+
+1. Desgasifica de manera moderada y pareja.
+2. Forma con tensión uniforme.
+3. Evita exceso de harina de banco.
+4. Controla tiempos de reposo intermedio.
+
+[FOTOGRAFÍA PENDIENTE — C10-F03: Comparativo de migas: correcta, compacta, gomosa, seca y con huecos irregulares.]
+
+---
+
+## 7. Diagnóstico por etapa del proceso
+
+Cuando aparece un defecto, conviene regresar mentalmente por cada etapa.
+
+### Ingredientes
+
+Revisa:
+
+- Harina vencida, débil o mal almacenada.
+- Levadura inactiva.
+- Sal mal pesada.
+- Agua demasiado caliente o fría.
+- Mejorantes mal dosificados.
+
+Señales relacionadas:
+
+- Fermentación lenta sin causa ambiental.
+- Masa floja desde el inicio.
+- Sabor plano o excesivamente salado.
+- Volumen bajo en varias tandas consecutivas.
+
+### Mezcla y amasado
+
+Revisa:
+
+- Orden de incorporación.
+- Tiempo de amasado.
+- Temperatura final de masa.
+- Prueba de membrana.
+- Oxidación o calentamiento excesivo.
+
+Señales relacionadas:
+
+- Masa rasgada.
+- Falta de elasticidad.
+- Piezas que se extienden en charola.
+- Miga cerrada o irregular.
+
+### Fermentación
+
+Revisa:
+
+- Tiempo real, no solo tiempo planeado.
+- Temperatura ambiente.
+- Temperatura de masa.
+- Protección contra resequedad.
+- Punto de fermentación final.
+
+Señales relacionadas:
+
+- Volumen insuficiente.
+- Piezas planas.
+- Greña exagerada o cerrada.
+- Aroma ácido o pobre.
+
+### División y formado
+
+Revisa:
+
+- Peso uniforme.
+- Reposo intermedio.
+- Tensión superficial.
+- Sellado inferior.
+- Cantidad de harina de banco.
+
+Señales relacionadas:
+
+- Bolillos de tamaños distintos.
+- Reventones por abajo.
+- Formas torcidas.
+- Miga con túneles.
+
+### Corte
+
+Revisa:
+
+- Filo de la navaja.
+- Ángulo.
+- Profundidad.
+- Velocidad.
+- Tiempo entre corte y horno.
+
+Señales relacionadas:
+
+- Greña rasgada.
+- Corte plano.
+- Apertura irregular.
+- Superficie maltratada.
+
+### Horneado
+
+Revisa:
+
+- Precalentamiento real.
+- Vapor inicial.
+- Tiempo total.
+- Rotación de charolas.
+- Color y cocción interna.
+
+Señales relacionadas:
+
+- Corteza pálida.
+- Base quemada.
+- Miga cruda.
+- Corteza gruesa o débil.
+
+### Enfriado y conservación
+
+Revisa:
+
+- Separación al salir del horno.
+- Rejilla o ventilación.
+- Momento de empaque.
+- Apilado.
+- Exposición en mostrador.
+
+Señales relacionadas:
+
+- Corteza blanda.
+- Arrugas.
+- Pan deformado.
+- Vida útil corta.
+
+---
+
+## 8. Procedimiento paso a paso para diagnosticar una tanda
+
+Este procedimiento debe realizarse cuando una tanda no cumple el estándar esperado.
+
+### Paso 1: Separa muestras
+
+Elige al menos tres piezas:
+
+- Una de mejor apariencia.
+- Una de defecto medio.
+- Una de defecto grave.
+
+No diagnostiques toda la tanda con una sola pieza.
+
+### Paso 2: Fotografía antes de manipular
+
+Toma fotografías de:
+
+- Vista superior.
+- Vista lateral.
+- Base.
+- Greña.
+- Miga cortada.
+
+[FOTOGRAFÍA PENDIENTE — C10-F04: Plantilla visual de cinco fotografías obligatorias para diagnóstico de tanda.]
+
+### Paso 3: Registra datos de proceso
+
+Anota:
+
+- Fecha y hora.
+- Fórmula usada.
+- Temperatura de agua.
+- Temperatura final de masa.
+- Tiempo de amasado.
+- Tiempo de primera fermentación.
+- Tiempo de reposo intermedio.
+- Tiempo de fermentación final.
+- Temperatura de horno.
+- Tiempo de horneado.
+- Método de vapor.
+- Tiempo de enfriado antes de empaque.
+
+### Paso 4: Describe el defecto sin culpar todavía
+
+Escribe lo que ves, no lo que crees.
+
+Incorrecto:
+
+- “La harina salió mala”.
+
+Correcto:
+
+- “La pieza tiene bajo volumen, greña cerrada, base pálida y miga compacta”.
+
+### Paso 5: Elige la causa más probable
+
+Conecta evidencias. Si bajo volumen aparece junto con miga compacta y fermentación final corta, la causa probable puede ser subfermentación. Si bajo volumen aparece con masa floja, superficie extendida y aroma ácido, puede ser sobrefermentación.
+
+### Paso 6: Define una corrección medible
+
+Ejemplos:
+
+- Aumentar fermentación final 10 minutos.
+- Reducir fermentación final 8 minutos.
+- Subir horno 10 °C.
+- Prolongar horneado 2 minutos.
+- Reducir harina de banco.
+- Mejorar sellado inferior.
+
+### Paso 7: Repite y compara
+
+La siguiente tanda debe compararse contra la anterior con fotos, notas y, si es posible, el mismo peso de pieza.
+
+[VIDEO PENDIENTE — C10-V02: Diagnóstico completo de una tanda defectuosa usando fotografías, corte de miga y bitácora. QR sugerido: `QR-LMB-C10-DIAGNOSTICO-TANDA`.]
+
+[QR PENDIENTE — QR-LMB-C10-DIAGNOSTICO-TANDA: Enlace a demostración paso a paso del diagnóstico profesional.]
+
+---
+
+## 9. Mapa profesional de errores comunes y soluciones
+
+### Error 1: Bolillo duro
+
+Posibles causas:
+
+- Exceso de cocción.
+- Baja hidratación.
+- Fermentación deficiente.
+- Enfriado prolongado al aire sin protección.
+
+Soluciones:
+
+1. Revisa hidratación y pesaje de agua.
+2. Reduce ligeramente tiempo de horneado si el color es excesivo.
+3. Verifica que la fermentación no esté corta.
+4. Conserva en condiciones adecuadas después de enfriar.
+
+### Error 2: Bolillo chicloso
+
+Posibles causas:
+
+- Falta de horneado.
+- Empaque caliente.
+- Exceso de humedad retenida.
+- Corteza sin secado final.
+
+Soluciones:
+
+1. Aumenta el secado final.
+2. Enfría en rejilla.
+3. No embolses hasta que el pan esté estable.
+4. Revisa temperatura interna como referencia.
+
+### Error 3: Bolillo sin sabor
+
+Posibles causas:
+
+- Fermentación demasiado corta.
+- Sal insuficiente.
+- Harina débil o vieja.
+- Proceso acelerado sin desarrollo aromático.
+
+Soluciones:
+
+1. Verifica pesaje de sal.
+2. Da tiempo suficiente de fermentación.
+3. Evalúa calidad de harina.
+4. Registra aroma de masa antes de formar.
+
+### Error 4: Bolillo ácido
+
+Posibles causas:
+
+- Fermentación excesiva.
+- Masa retenida demasiado tiempo.
+- Temperatura ambiente alta.
+- Mala rotación de masas o prefermentos.
+
+Soluciones:
+
+1. Reduce tiempos en clima caliente.
+2. Usa agua más fresca.
+3. No mezcles masas pasadas con masas nuevas sin control.
+4. Limpia recipientes y evita contaminación cruzada.
+
+### Error 5: Bolillo con corteza blanda
+
+Posibles causas:
+
+- Enfriado incorrecto.
+- Exceso de vapor retenido.
+- Falta de secado final.
+- Empaque plástico demasiado pronto.
+
+Soluciones:
+
+1. Enfría en rejilla con separación.
+2. Ajusta vapor inicial y ventilación final.
+3. Usa bolsa de papel para venta inmediata.
+4. Evita apilar caliente.
+
+### Error 6: Bolillo que se abre por abajo
+
+Posibles causas:
+
+- Sellado inferior deficiente.
+- Corte superior insuficiente.
+- Formado con tensión mal distribuida.
+- Subfermentación.
+
+Soluciones:
+
+1. Refuerza técnica de cierre.
+2. Coloca la unión hacia abajo.
+3. Corta con decisión en la parte superior.
+4. Da fermentación final suficiente.
+
+### Error 7: Bolillo con base quemada
+
+Posibles causas:
+
+- Calor inferior excesivo.
+- Charola oscura o delgada.
+- Horno mal calibrado.
+- Tiempo excesivo.
+
+Soluciones:
+
+1. Usa doble charola.
+2. Sube una posición la bandeja.
+3. Reduce calor inferior si el horno lo permite.
+4. Rota charolas de forma ordenada.
+
+### Error 8: Bolillo pálido
+
+Posibles causas:
+
+- Horno bajo.
+- Tiempo corto.
+- Exceso de vapor.
+- Fermentación demasiado larga que consumió azúcares disponibles.
+
+Soluciones:
+
+1. Verifica temperatura real con termómetro.
+2. Aumenta tiempo de horneado.
+3. Reduce vapor prolongado.
+4. Ajusta fermentación si hay aroma pasado y poco color.
+
+### Error 9: Bolillo deformado
+
+Posibles causas:
+
+- División irregular.
+- Formado sin simetría.
+- Acomodo estrecho.
+- Manipulación brusca antes de hornear.
+
+Soluciones:
+
+1. Pesa cada pieza.
+2. Practica formado uniforme.
+3. Da distancia suficiente en charola.
+4. Carga al horno con movimientos seguros.
+
+### Error 10: Bolillo con greña rasgada
+
+Posibles causas:
+
+- Navaja sin filo.
+- Corte lento o temeroso.
+- Piel de masa seca.
+- Fermentación fuera de punto.
+
+Soluciones:
+
+1. Cambia o limpia la hoja.
+2. Corta en un solo movimiento.
+3. Protege piezas durante fermentación.
+4. Ajusta punto final antes del corte.
+
+---
+
+## 10. Casos reales de producción
+
+### Caso 1: Panadería de barrio con bolillo pálido en la primera tanda
+
+**Contexto:** Producción de 180 bolillos a las 5:00 a. m. La primera tanda salía pálida y con corteza débil, pero la segunda mejoraba.
+
+**Observación:** El horno se encendía tarde. El termómetro del horno marcaba temperatura objetivo, pero las charolas y la cámara no habían acumulado calor suficiente.
+
+**Diagnóstico:** Precalentamiento insuficiente. El horno tenía aire caliente, pero no masa térmica estable.
+
+**Corrección aplicada:** Precalentar 25 minutos adicionales y cargar la primera tanda solo cuando una charola de prueba confirmara dorado adecuado.
+
+**Resultado:** Color más uniforme, corteza más firme y menor devolución de producto.
+
+### Caso 2: Producción casera con bolillo que se aplastaba al salir
+
+**Contexto:** Emprendimiento doméstico con ventas por encargo. El bolillo salía con buen volumen aparente, pero se arrugaba durante el enfriado.
+
+**Observación:** Las piezas se retiraban del horno apenas doraban. Se apilaban sobre una tabla para liberar la charola.
+
+**Diagnóstico:** Cocción interna y secado final insuficientes, más vapor atrapado por apilado caliente.
+
+**Corrección aplicada:** Añadir 2 minutos de horneado, enfriar en rejilla y no apilar durante los primeros 20 minutos.
+
+**Resultado:** Menos arrugas, corteza más estable y mejor textura para entrega.
+
+### Caso 3: Obrador con reventones laterales en tandas grandes
+
+**Contexto:** Producción de 600 piezas. En tandas pequeñas el bolillo salía bien, pero en tandas grandes aparecían reventones laterales.
+
+**Observación:** El personal tardaba demasiado entre cortar la primera y la última charola. Algunas piezas se resecaban y otras entraban tarde al horno.
+
+**Diagnóstico:** Desfase operativo entre corte, carga y fermentación final.
+
+**Corrección aplicada:** Trabajar por bloques más pequeños, cubrir charolas en espera y asignar una persona solo a carga de horno.
+
+**Resultado:** Greña más uniforme y reducción de piezas rechazadas.
+
+### Caso 4: Restaurante que recibía bolillo blando para tortas
+
+**Contexto:** Una panadería entregaba bolillo a un restaurante a las 8:00 a. m. El cliente reportaba que el pan llegaba blando y se rompía al preparar tortas.
+
+**Observación:** El pan se embolsaba tibio en bolsas plásticas para transporte rápido.
+
+**Diagnóstico:** Condensación dentro del empaque y pérdida de estructura de corteza.
+
+**Corrección aplicada:** Enfriar completamente, transportar en caja ventilada y embolsar solo al llegar si el cliente lo requería.
+
+**Resultado:** Mejor resistencia al corte, menor humedad superficial y más satisfacción del cliente.
+
+---
+
+## 11. Consejos exclusivos del Chef Juanote™
+
+1. **Guarda una pieza testigo de cada tanda importante.** Te ayudará a comparar reclamos, horarios y cambios de proceso.
+2. **Fotografía los defectos, no solo los éxitos.** Las fotos de errores son material de entrenamiento para todo el equipo.
+3. **No culpes al horno sin medirlo.** Muchos hornos mienten; el termómetro externo y la observación mandan.
+4. **No culpes a la harina sin revisar fermentación.** Una masa mal llevada puede hacer parecer mala a una harina aceptable.
+5. **No cambies de proveedor y de receta el mismo día.** Si algo falla, no sabrás qué lo provocó.
+6. **El pan de venta debe tener estándar, no suerte.** Si solo sale bien cuando “el día está bonito”, falta control.
+7. **Entrena al equipo con lenguaje común.** Todos deben entender lo mismo por “pálido”, “pasado”, “flojo”, “joven” y “bien cocido”.
+8. **La bitácora vale más que la memoria.** La memoria acomoda historias; la bitácora guarda datos.
+
+> **Chef Juanote™ dice:** El secreto del maestro no es que nunca falla. El secreto es que cuando falla, sabe leer la falla.
+
+---
+
+## 12. Intervenciones de Boly™: preguntas frecuentes de diagnóstico
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Cómo sé si el problema fue fermentación o horno?
+>
+> **Chef Juanote™ responde:** Mira varias señales juntas. Si la pieza está pequeña, densa y revienta fuerte, sospecha fermentación corta. Si tenía buen volumen antes de entrar, pero salió pálida o cruda, sospecha horno. La clave es registrar cómo estaba antes de hornear.
+
+> **Boly™ pregunta:** ¿Por qué una misma receta sale diferente en días de lluvia?
+>
+> **Chef Juanote™ responde:** Porque el ambiente cambia. La humedad afecta la superficie, la harina puede absorber distinto y el enfriado se vuelve más lento. En días húmedos debes vigilar fermentación, secado final y conservación.
+
+> **Boly™ pregunta:** Si el bolillo salió mal, ¿puedo salvarlo después?
+>
+> **Chef Juanote™ responde:** Depende del defecto. Una corteza blanda puede recuperarse parcialmente con recalentado. Una miga cruda, una masa sobrefermentada o un mal formado no se arreglan por completo después del horno. Lo profesional es corregir la siguiente tanda.
+
+> **Boly™ pregunta:** ¿Qué hago si cada charola sale diferente?
+>
+> **Chef Juanote™ responde:** Revisa zonas calientes del horno, rotación, carga, distancia entre piezas y tiempo de espera antes de entrar. Si una charola espera más que otra, ya no son la misma tanda aunque vengan de la misma masa.
+
+> **Boly™ pregunta:** ¿Cuándo debo tirar una tanda?
+>
+> **Chef Juanote™ responde:** Cuando hay riesgo sanitario, contaminación, masa cruda peligrosa, olor extraño, presencia de objetos, moho o manipulación insegura. La merma duele, pero vender producto inseguro cuesta mucho más.
+
+---
+
+## 13. Checklist profesional de diagnóstico
+
+Antes de decidir una corrección, verifica:
+
+- [ ] ¿Se conservó la fórmula original de la tanda?
+- [ ] ¿Se pesaron ingredientes con báscula?
+- [ ] ¿Se registró temperatura de agua?
+- [ ] ¿Se registró temperatura final de masa?
+- [ ] ¿La levadura estaba activa?
+- [ ] ¿La masa alcanzó desarrollo suficiente?
+- [ ] ¿La primera fermentación mostró señales correctas?
+- [ ] ¿La división fue uniforme?
+- [ ] ¿El formado tuvo tensión adecuada?
+- [ ] ¿La fermentación final estuvo en punto?
+- [ ] ¿La superficie se mantuvo protegida?
+- [ ] ¿La navaja tenía filo?
+- [ ] ¿El corte fue inmediato antes del horno?
+- [ ] ¿El horno estaba realmente precalentado?
+- [ ] ¿Se aplicó vapor correctamente?
+- [ ] ¿El tiempo de horneado fue suficiente?
+- [ ] ¿El enfriado se hizo en rejilla o superficie ventilada?
+- [ ] ¿El pan se empacó completamente frío?
+- [ ] ¿Se tomaron fotografías del defecto?
+- [ ] ¿Se definió una sola variable para corregir?
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C10-CHECKLIST-DIAGNOSTICO: Descargar checklist imprimible para obrador.]
+
+---
+
+## 14. Tabla rápida de diagnóstico para obrador
+
+| Síntoma principal | Revisa primero | Después revisa | Acción inicial |
+|---|---|---|---|
+| Bajo volumen | Fermentación final | Amasado y levadura | Ajustar tiempo y temperatura de fermentación |
+| Pan plano | Sobrefermentación | Formado y harina | Reducir espera final y mejorar tensión |
+| Corteza blanda | Enfriado | Secado final y empaque | Enfriar separado y evitar bolsa caliente |
+| Miga gomosa | Cocción | Hidratación y vapor | Prolongar horneado y ventilar final |
+| Greña cerrada | Corte y vapor | Fermentación final | Cambiar hoja y revisar punto de pieza |
+| Reventón inferior | Sellado | Subfermentación | Mejorar cierre y dar más reposo final |
+| Base quemada | Calor inferior | Charola | Doble charola o cambiar altura |
+| Sabor ácido | Fermentación excesiva | Temperatura ambiente | Reducir tiempos y enfriar agua |
+| Pan seco | Horneado excesivo | Conservación | Reducir cocción o proteger después de enfriar |
+| Tamaños distintos | División | Formado | Pesar piezas y ordenar estación |
+
+[FOTOGRAFÍA PENDIENTE — C10-F05: Tabla impresa de diagnóstico colocada en pared de obrador junto a báscula y bitácora.]
+
+---
+
+## 15. Ejercicios prácticos del capítulo
+
+### Ejercicio 1: Diagnóstico de tres piezas
+
+Produce una tanda pequeña y elige tres bolillos con diferencias visibles. Para cada uno registra:
+
+- Fotografía superior.
+- Fotografía de base.
+- Fotografía de miga.
+- Defecto principal.
+- Dos causas posibles.
+- Una corrección medible para la siguiente tanda.
+
+Objetivo: aprender a describir antes de corregir.
+
+### Ejercicio 2: Una variable a la vez
+
+Durante tres tandas, mantén la misma fórmula y cambia solo una variable:
+
+1. Tanda A: proceso base.
+2. Tanda B: aumenta fermentación final 10 minutos.
+3. Tanda C: regresa fermentación final base y aumenta horneado 2 minutos.
+
+Compara volumen, greña, color, corteza y miga.
+
+### Ejercicio 3: Mapa de defectos del obrador
+
+Durante una semana registra los tres defectos más frecuentes. Clasifícalos por etapa:
+
+- Ingredientes.
+- Amasado.
+- Fermentación.
+- Formado.
+- Corte.
+- Horneado.
+- Enfriado.
+- Conservación.
+
+Al final, identifica en qué etapa se concentran más errores y diseña una capacitación breve.
+
+### Ejercicio 4: Cata técnica de bolillo
+
+Reúne al equipo y evalúen bolillos de la misma tanda. Cada persona debe calificar:
+
+- Apariencia.
+- Crujido.
+- Aroma.
+- Miga.
+- Sabor.
+- Resistencia para torta.
+- Vida útil después de 2 horas.
+
+Después comparen criterios y definan el estándar de la casa.
+
+[VIDEO PENDIENTE — C10-V03: Ejercicio de cata técnica y diagnóstico en equipo. QR sugerido: `QR-LMB-C10-CATA-TECNICA`.]
+
+[QR PENDIENTE — QR-LMB-C10-CATA-TECNICA: Enlace a formato guiado de evaluación sensorial.]
+
+---
+
+## 16. Laboratorio guiado: provocar defectos para aprender
+
+Este laboratorio debe realizarse con masa de práctica, no con producción destinada a venta. La intención es estudiar cómo nacen los errores.
+
+### Objetivo
+
+Comparar cuatro piezas con variables alteradas para reconocer defectos de manera controlada.
+
+### Procedimiento
+
+1. Prepara una masa base de bolillo.
+2. Divide piezas del mismo peso.
+3. Forma cuatro bolillos iguales.
+4. A la pieza A dale fermentación final correcta.
+5. A la pieza B hornéala con fermentación corta.
+6. A la pieza C déjala sobrefermentar.
+7. A la pieza D córtala con navaja sin filo o con corte superficial de práctica.
+8. Hornea en condiciones similares.
+9. Enfría y compara.
+
+### Tabla de observación
+
+| Pieza | Variable alterada | Volumen | Greña | Corteza | Miga | Conclusión |
+|---|---|---|---|---|---|---|
+| A | Control correcto | | | | | |
+| B | Fermentación corta | | | | | |
+| C | Sobrefermentación | | | | | |
+| D | Corte deficiente | | | | | |
+
+> **Chef Juanote™ dice:** Provocar errores en práctica evita sufrirlos en venta.
+
+---
+
+## 17. Recursos visuales y multimedia del capítulo
+
+### Fotografías pendientes
+
+- C10-F01: Mesa de diagnóstico con bolillos defectuosos y pieza estándar.
+- C10-F02: Diagnóstico por cinco sentidos.
+- C10-F03: Comparativo de migas.
+- C10-F04: Plantilla de fotografías obligatorias por tanda.
+- C10-F05: Tabla rápida de diagnóstico en pared de obrador.
+- C10-F06: Bolillo con reventón inferior y sellado correcto comparativo.
+- C10-F07: Base quemada, base pálida y base correcta.
+- C10-F08: Corteza arrugada por empaque caliente.
+
+### Videos pendientes
+
+- C10-V01: Introducción al diagnóstico integral.
+- C10-V02: Diagnóstico completo de tanda defectuosa.
+- C10-V03: Cata técnica de bolillo.
+- C10-V04: Corrección de formado para evitar reventones.
+- C10-V05: Uso de bitácora profesional de producción.
+
+### Códigos QR sugeridos
+
+- QR-LMB-C10-INTRO-DIAGNOSTICO.
+- QR-LMB-C10-DIAGNOSTICO-TANDA.
+- QR-LMB-C10-CHECKLIST-DIAGNOSTICO.
+- QR-LMB-C10-CATA-TECNICA.
+- QR-LMB-C10-BITACORA-PRODUCCION.
+
+---
+
+## 18. Bitácora profesional de diagnóstico
+
+Una bitácora útil no necesita ser complicada, pero sí constante. Debe permitir comparar tandas y tomar decisiones.
+
+### Datos mínimos
+
+- Fecha.
+- Hora de mezcla.
+- Responsable.
+- Fórmula.
+- Temperatura ambiente.
+- Temperatura del agua.
+- Temperatura final de masa.
+- Tiempo de amasado.
+- Tiempo de fermentación.
+- Peso de pieza.
+- Tiempo de fermentación final.
+- Temperatura de horno.
+- Tiempo de horneado.
+- Resultado visual.
+- Defecto principal.
+- Corrección propuesta.
+
+### Formato sugerido
+
+| Fecha | Tanda | Temp. masa | Fermentación final | Horno | Defecto | Causa probable | Corrección |
+|---|---|---:|---:|---:|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C10-BITACORA-PRODUCCION: Descargar plantilla editable de bitácora profesional.]
+
+---
+
+## 19. Autoevaluación del capítulo
+
+Responde con honestidad:
+
+1. ¿Puedo distinguir una pieza subfermentada de una sobrefermentada?
+2. ¿Sé describir un defecto sin culpar inmediatamente a un ingrediente?
+3. ¿Registro temperatura final de masa en mis tandas importantes?
+4. ¿Tengo fotografías de mis defectos más frecuentes?
+5. ¿Cambio una sola variable cuando quiero corregir?
+6. ¿Sé identificar si una corteza blanda nació en el horno o en el enfriado?
+7. ¿Puedo explicar por qué se abre un bolillo por abajo?
+8. ¿Mi equipo usa el mismo lenguaje para describir calidad?
+9. ¿Tengo un estándar visual de bolillo correcto?
+10. ¿Conservo bitácora de producción y corrección?
+
+### Escala personal
+
+- **0 a 3 respuestas afirmativas:** necesitas reforzar observación y registro.
+- **4 a 7 respuestas afirmativas:** tienes base técnica, pero falta constancia.
+- **8 a 10 respuestas afirmativas:** estás construyendo criterio profesional de diagnóstico.
+
+---
+
+## 20. Cierre del Capítulo 10
+
+Diagnosticar el bolillo es unir ciencia, oficio y memoria. Cada defecto tiene una historia, y cada historia deja señales en la pieza terminada. El panadero que aprende a leer esas señales deja de trabajar a ciegas: entiende cuándo una masa pidió más tiempo, cuándo el horno no estaba listo, cuándo el formado fue débil, cuándo el corte llegó tarde o cuándo el enfriado arruinó una buena cocción.
+
+El Capítulo 10 convierte los errores en herramientas de aprendizaje. Una tanda fallida ya no es solo pérdida; puede ser una clase práctica si se observa con método y se registra con honestidad. La mejora profesional no nace de negar los defectos, sino de mirarlos de frente y corregirlos con disciplina.
+
+> **Chef Juanote™ dice:** El bolillo perfecto no aparece por casualidad. Se construye corrigiendo, tanda tras tanda, hasta que el oficio se vuelve criterio.
+
+[BOLY™ INTERVIENE]
+
+> ¡Listo, equipo! Ahora ya no vemos un bolillo feo y decimos “salió mal” nada más. Lo miramos como detectives del pan: corteza, greña, base, miga, aroma, bitácora y solución. El error ya no manda; ahora manda el diagnóstico.
