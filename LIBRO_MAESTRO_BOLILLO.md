@@ -5126,3 +5126,421 @@ A partir de ahora, cada bolillo que cortes debe responder a una intención: abri
 ## Continuidad hacia el Capítulo 9
 
 Con el corte profesional comprendido, el siguiente paso será estudiar el enfriado y la conservación. El Capítulo 9 deberá explicar cómo estabilizar la corteza, proteger el crujido, evitar condensación, empacar correctamente y conservar la calidad del bolillo desde la salida del horno hasta el momento de consumo.
+
+# Capítulo 9 — Enfriado y conservación
+
+El bolillo no termina cuando sale del horno. En realidad, al abrir la puerta del horno comienza una etapa silenciosa y decisiva: el enfriado. Durante esos minutos, la corteza se estabiliza, el vapor interno migra, la miga termina de asentarse y el pan define cuánto tiempo conservará su crujido, su aroma y su textura.
+
+Un bolillo recién horneado parece listo para comerse, venderse o empacarse, pero todavía está vivo térmicamente. Su interior conserva calor, humedad y presión de vapor. Si se encierra demasiado pronto, suda. Si se expone al aire incorrecto, se reseca. Si se apila caliente, se aplasta. Si se guarda sin criterio, pierde calidad en cuestión de minutos.
+
+Este capítulo enseña a cuidar el bolillo desde la salida del horno hasta el momento de consumo. El objetivo no es alargar artificialmente la vida de un pan que por naturaleza es mejor fresco, sino conservar con inteligencia sus mejores cualidades: corteza crujiente, miga suave, aroma limpio y estructura estable.
+
+[FOTOGRAFÍA PENDIENTE: Bolillos recién salidos del horno sobre rejilla de enfriado, separados entre sí, con vapor visible y corteza brillante.]
+
+[VIDEO PENDIENTE: Transición completa desde salida del horno hasta enfriado correcto en rejilla, mostrando tiempos reales y errores de apilado.]
+
+[CÓDIGO QR PENDIENTE: QR-LMB-C09-ENFRIADO-INICIAL]
+
+---
+
+## 1. Objetivo técnico del enfriado
+
+El enfriado profesional cumple cinco funciones principales:
+
+1. Terminar de estabilizar la miga.
+2. Permitir la salida controlada del vapor interno.
+3. Conservar la corteza crujiente sin provocar condensación.
+4. Evitar deformaciones por manipulación o apilado prematuro.
+5. Preparar el pan para venta, servicio, transporte o conservación.
+
+Cuando el bolillo sale del horno, la temperatura interna puede seguir siendo alta. La miga está gelatinizada, húmeda y sensible. La corteza, aunque ya dorada, todavía intercambia humedad con el ambiente. Por eso, el manejo inmediato influye tanto como el horneado.
+
+> **Chef Juanote™ dice:** El horno cocina el bolillo; el enfriado lo termina de educar. Si lo tratas con prisa, se vuelve rebelde: suda, se aguada o se aplasta.
+
+[BOLY™ INTERVIENE]
+
+> Chef, ¿entonces no debo meter los bolillos calientes directo en una bolsa?
+>
+> Exacto, Boly. Si los embolsas calientes, el vapor queda atrapado, se condensa en la bolsa y regresa a la corteza en forma de humedad. Resultado: bolillo chicloso, corteza blanda y aroma encerrado.
+
+---
+
+## 2. Qué ocurre dentro del bolillo al salir del horno
+
+Para enfriar bien hay que entender tres fenómenos: migración de humedad, equilibrio térmico y retrogradación inicial del almidón.
+
+### Migración de humedad
+
+Durante el horneado, el agua de la masa se transforma parcialmente en vapor. Parte escapa por la greña y por la corteza; otra parte permanece dentro de la miga. Al sacar el bolillo del horno, el calor interno empuja vapor hacia afuera. Si la corteza puede respirar, ese vapor sale de manera gradual. Si se bloquea, se condensa.
+
+### Equilibrio térmico
+
+La superficie del pan pierde calor primero. El centro tarda más. Por eso un bolillo puede sentirse tibio por fuera y seguir caliente por dentro. Empacarlo en ese estado aumenta el riesgo de sudoración.
+
+### Retrogradación inicial del almidón
+
+Después del horneado, los almidones de la miga comienzan a reorganizarse. Este proceso forma parte del asentamiento normal del pan. Un enfriado adecuado permite una miga más estable al cortar o manipular. Un manejo agresivo en caliente puede compactarla.
+
+[FOTOGRAFÍA PENDIENTE: Corte transversal comparativo de bolillo cortado demasiado caliente y bolillo cortado después de enfriar correctamente.]
+
+[CÓDIGO QR PENDIENTE: QR-LMB-C09-CIENCIA-ENFRIADO]
+
+---
+
+## 3. Procedimiento profesional de salida del horno
+
+### Paso 1: Retirar sin golpear
+
+Saca los bolillos con pala, charola o guantes limpios. Evita volcarlos de forma brusca. La corteza caliente puede fracturarse y la miga puede comprimirse.
+
+### Paso 2: Separar inmediatamente
+
+Coloca las piezas con espacio entre ellas. El contacto pan contra pan atrapa vapor y reblandece los costados.
+
+### Paso 3: Usar rejilla o superficie ventilada
+
+La rejilla permite circulación de aire por debajo. Si se dejan sobre charola caliente, la base sigue recibiendo calor, puede concentrar humedad y perder textura.
+
+### Paso 4: Evitar corrientes agresivas
+
+Una corriente ligera ayuda; una corriente fría y fuerte puede resecar la corteza de forma desigual o provocar choque térmico superficial.
+
+### Paso 5: Esperar el punto de manejo
+
+Antes de embolsar, apilar o transportar, el bolillo debe estar completamente frío o apenas a temperatura ambiente. En producción comercial, conviene confirmar por tacto, peso, tiempo y ausencia de vapor visible.
+
+[VIDEO PENDIENTE: Procedimiento correcto de descarga del horno, acomodo en rejilla y separación profesional de piezas.]
+
+> **Chef Juanote™ dice:** Si el bolillo todavía empaña una bolsa, una vitrina o tus lentes, no está listo para encerrarse.
+
+---
+
+## 4. Tiempos orientativos de enfriado
+
+Los tiempos dependen del tamaño del bolillo, hidratación, temperatura ambiente, ventilación y tipo de corteza. Como guía profesional:
+
+- Bolillo pequeño: 20 a 30 minutos.
+- Bolillo estándar: 30 a 45 minutos.
+- Bolillo grande o con miga más húmeda: 45 a 60 minutos.
+- Producción en clima húmedo: agregar ventilación controlada y más separación.
+- Producción en clima seco: evitar corrientes fuertes que resequen en exceso.
+
+Estos tiempos no sustituyen la observación. Un panadero profesional evalúa señales: corteza firme, ausencia de vapor, base seca, aroma limpio y temperatura estable.
+
+[BOLY™ INTERVIENE]
+
+> ¿Y si tengo mucha venta y necesito entregar rápido?
+>
+> Puedes organizar la producción por tandas, usar rejillas amplias, mejorar la ventilación y empacar en materiales transpirables para venta inmediata. Lo que no conviene es encerrar pan caliente en plástico cerrado.
+
+---
+
+## 5. Conservación según destino del bolillo
+
+No todos los bolillos se conservan igual. La estrategia cambia según el uso.
+
+### Para consumo inmediato
+
+Mantén los bolillos en canasta ventilada, vitrina limpia o bolsa de papel abierta. El objetivo es preservar el crujido durante las primeras horas.
+
+### Para venta en mostrador
+
+Usa exhibición protegida del polvo, pero con respiración suficiente. Evita vitrinas completamente cerradas si el pan aún está tibio. Rota producto por horario: primero entra, primero sale.
+
+### Para entrega a restaurantes o fondas
+
+Enfría por completo antes de empacar. Usa cajas limpias con ventilación o bolsas de papel. No sobrecargues las cajas; el peso deforma las piezas inferiores.
+
+### Para tortas
+
+Si el bolillo se usará para torta, conviene conservar una corteza firme pero no excesivamente dura. Puede guardarse en bolsa de papel dentro de caja cerrada parcialmente, dependiendo del tiempo de servicio.
+
+### Para consumo al día siguiente
+
+El bolillo tradicional pierde crujido con el tiempo. Para conservarlo hasta el día siguiente, permite enfriado completo, guarda en bolsa de papel y después en recipiente limpio o bolsa no hermética. Para recuperar textura, puede calentarse brevemente antes de servir.
+
+[FOTOGRAFÍA PENDIENTE: Comparación de empaque en bolsa de papel, caja ventilada, canasta y bolsa plástica cerrada con condensación.]
+
+[CÓDIGO QR PENDIENTE: QR-LMB-C09-EMPAQUES-CONSERVACION]
+
+---
+
+## 6. Materiales de empaque: ventajas y riesgos
+
+### Bolsa de papel
+
+Es la opción clásica para conservar mejor la corteza durante venta rápida. Permite salida parcial de humedad y protege del contacto directo.
+
+**Ventaja:** conserva mejor el crujido.
+
+**Riesgo:** en ambientes muy secos puede acelerar resequedad.
+
+### Bolsa plástica
+
+Protege contra resequedad, pero atrapa humedad.
+
+**Ventaja:** conserva suavidad por más tiempo.
+
+**Riesgo:** ablanda la corteza si el pan no está completamente frío.
+
+### Caja de cartón
+
+Útil para transporte de volumen moderado.
+
+**Ventaja:** protege forma y permite acomodo.
+
+**Riesgo:** si se llena demasiado o se cierra con pan tibio, puede generar condensación interna.
+
+### Canasta con paño limpio
+
+Buena para servicio inmediato.
+
+**Ventaja:** presentación atractiva y ventilación.
+
+**Riesgo:** si el paño cubre pan caliente por completo, atrapa vapor.
+
+> **Chef Juanote™ dice:** El empaque no debe corregir un mal enfriado. Primero enfría bien; después decide cómo proteger.
+
+---
+
+## 7. Casos reales de panadería
+
+### Caso 1: Bolillo crujiente al salir del horno, blando en mostrador
+
+Una panadería producía bolillo con buen color y greña abierta, pero los clientes se quejaban de que a los treinta minutos estaba aguado. El problema no estaba en la receta, sino en el enfriado. Los bolillos salían del horno y se colocaban juntos en una tina plástica.
+
+**Diagnóstico:** condensación por acumulación de vapor.
+
+**Solución:** cambiar a rejillas, separar piezas y esperar enfriado completo antes de pasar a mostrador.
+
+**Resultado:** corteza más estable y menos devoluciones.
+
+### Caso 2: Bolillo deformado en entregas grandes
+
+Un proveedor entregaba bolillo a una fonda. Las piezas de abajo llegaban aplastadas. El pan se empacaba tibio y en cajas demasiado altas.
+
+**Diagnóstico:** combinación de calor residual, peso excesivo y falta de estructura firme.
+
+**Solución:** enfriar más tiempo, usar cajas menos profundas y no superar capas recomendadas.
+
+**Resultado:** mejor presentación y menos merma.
+
+### Caso 3: Bolillo seco antes del mediodía
+
+En una panadería con clima seco, el bolillo se dejaba en rejilla bajo ventilador directo. La corteza permanecía crujiente, pero la miga se resecaba rápido.
+
+**Diagnóstico:** pérdida excesiva de humedad por corriente agresiva.
+
+**Solución:** ventilación indirecta, canastas limpias después del enfriado y rotación por tandas.
+
+**Resultado:** miga más agradable y corteza todavía firme.
+
+---
+
+## 8. Errores comunes y cómo evitarlos
+
+### Error 1: Embolsar caliente
+
+**Consecuencia:** condensación, corteza blanda, sensación chiclosita.
+
+**Cómo evitarlo:** esperar enfriado completo y verificar ausencia de vapor.
+
+### Error 2: Apilar recién salido del horno
+
+**Consecuencia:** piezas aplastadas, costados húmedos y pérdida de volumen visual.
+
+**Cómo evitarlo:** usar rejillas amplias y separar por tanda.
+
+### Error 3: Dejar en charola caliente
+
+**Consecuencia:** base húmeda o sobrecocida, enfriado irregular.
+
+**Cómo evitarlo:** transferir a rejilla al salir del horno.
+
+### Error 4: Exponer a ventilador fuerte
+
+**Consecuencia:** resequedad prematura y corteza desigual.
+
+**Cómo evitarlo:** usar ventilación indirecta y controlar distancia.
+
+### Error 5: Mezclar pan caliente con pan frío
+
+**Consecuencia:** el pan frío absorbe humedad del caliente y se deteriora el lote completo.
+
+**Cómo evitarlo:** separar tandas por horario y temperatura.
+
+### Error 6: No rotar producto
+
+**Consecuencia:** venta desordenada, pan viejo mezclado con pan fresco y calidad inconsistente.
+
+**Cómo evitarlo:** aplicar sistema PEPS: primero en entrar, primero en salir.
+
+[BOLY™ INTERVIENE]
+
+> Chef, ¿puedo revivir un bolillo que ya se aguadó?
+>
+> Puedes recuperar parte de la corteza con calor breve, pero no siempre regresa igual. Lo mejor es prevenir: buen horneado, buen enfriado y buen empaque.
+
+---
+
+## 9. Recalentado y recuperación del crujido
+
+El recalentado no debe usarse para ocultar mala producción, pero sí es una herramienta útil para servicio.
+
+### Método recomendado en horno
+
+1. Precalienta el horno a temperatura media-alta.
+2. Coloca los bolillos directamente sobre rejilla o charola caliente.
+3. Calienta de 3 a 6 minutos, según tamaño y estado.
+4. Retira y deja reposar 1 minuto antes de servir.
+
+### Método rápido en comal
+
+1. Abre el bolillo si se usará para torta.
+2. Coloca la cara interior sobre comal caliente.
+3. Calienta brevemente hasta recuperar aroma y textura.
+4. Evita quemar la miga.
+
+### Lo que no conviene
+
+- Recalentar en microondas si se busca corteza crujiente.
+- Humedecer en exceso la corteza.
+- Calentar durante demasiado tiempo.
+- Recalentar varias veces el mismo pan.
+
+[FOTOGRAFÍA PENDIENTE: Bolillo antes y después de recuperación de crujido en horno.]
+
+[VIDEO PENDIENTE: Técnica de recalentado para bolillo de mostrador y bolillo para torta.]
+
+[CÓDIGO QR PENDIENTE: QR-LMB-C09-RECUPERAR-CRUJIDO]
+
+---
+
+## 10. Checklist profesional de enfriado y conservación
+
+Antes de vender, empacar o transportar bolillo, verifica:
+
+- [ ] Las piezas salieron del horno sin golpes ni deformaciones.
+- [ ] Los bolillos se colocaron sobre rejilla o superficie ventilada.
+- [ ] Hay separación suficiente entre piezas.
+- [ ] No se mezcló pan caliente con pan frío.
+- [ ] La base está seca y firme.
+- [ ] No hay vapor visible ni empañamiento.
+- [ ] La corteza conserva firmeza.
+- [ ] El empaque corresponde al destino del pan.
+- [ ] Las cajas o bolsas están limpias y secas.
+- [ ] Se aplica rotación PEPS.
+- [ ] La tanda está identificada por hora.
+- [ ] El responsable revisó calidad antes de liberar venta.
+
+> **Chef Juanote™ dice:** Un checklist no es burocracia; es memoria profesional. Cuando hay prisa, el papel recuerda lo que la cabeza olvida.
+
+---
+
+## 11. Ejercicios prácticos para el lector
+
+### Ejercicio 1: Prueba de empaque
+
+Hornea una tanda de bolillos y divídela en tres grupos:
+
+1. Bolsa de papel.
+2. Bolsa plástica cerrada.
+3. Canasta ventilada.
+
+Evalúa a los 30, 60 y 120 minutos:
+
+- Crujido de corteza.
+- Humedad superficial.
+- Aroma.
+- Textura de miga.
+- Preferencia de consumo.
+
+Registra resultados y elige el empaque más adecuado para tu clima y tipo de venta.
+
+### Ejercicio 2: Prueba de apilado
+
+Coloca una parte del lote en rejilla separada y otra parte apilada cuando aún esté tibia. Compara después de 30 minutos:
+
+- Forma.
+- Base.
+- Costados.
+- Corteza.
+- Sensación al tacto.
+
+El objetivo es observar cómo el vapor atrapado afecta la calidad.
+
+### Ejercicio 3: Bitácora de vida útil
+
+Durante una semana registra:
+
+- Hora de horneado.
+- Hora de empaque.
+- Temperatura aproximada del ambiente.
+- Humedad percibida.
+- Tipo de empaque.
+- Quejas o comentarios de clientes.
+- Hora en que el bolillo pierde crujido.
+
+Al final, ajusta tus horarios de producción y venta.
+
+[CÓDIGO QR PENDIENTE: QR-LMB-C09-BITACORA-VIDA-UTIL]
+
+---
+
+## 12. Dudas frecuentes con Boly™
+
+[BOLY™ INTERVIENE]
+
+> ¿Por qué mi bolillo se arruga al enfriar?
+>
+> Puede haber exceso de humedad, horneado insuficiente, corteza débil o enfriado en ambiente muy húmedo. Revisa color, tiempo de horno, vapor final y ventilación.
+
+> ¿Puedo guardar bolillo en refrigerador?
+>
+> No es lo ideal para calidad diaria. El frío del refrigerador acelera la sensación de pan viejo en muchos panes y puede resecar la miga. Es mejor producir fresco, conservar a temperatura ambiente por corto tiempo o congelar si se busca almacenamiento más largo.
+
+> ¿Se puede congelar bolillo?
+>
+> Sí, si está completamente frío y bien protegido. Debe congelarse en bolsa apta para congelación, con el menor aire posible. Para usarlo, descongela sin aplastar y recalienta brevemente para recuperar textura.
+
+> ¿Por qué unos bolillos duran crujientes más que otros?
+>
+> Influyen horneado, hidratación, grosor de corteza, vapor, enfriado, clima, empaque y tiempo de exhibición. No es una sola causa.
+
+---
+
+## 13. Higiene y seguridad durante la conservación
+
+La conservación también es un asunto sanitario. El bolillo debe protegerse de polvo, insectos, humedad contaminada, superficies sucias y manipulación excesiva.
+
+Buenas prácticas:
+
+- Lavar y desinfectar rejillas, charolas, canastas y vitrinas.
+- Usar paños limpios y secos.
+- Evitar colocar pan directamente en superficies no sanitizadas.
+- No manipular dinero y pan sin higiene de manos o herramienta intermedia.
+- Proteger el producto durante transporte.
+- Retirar piezas caídas, contaminadas o mojadas.
+- Capacitar al personal en rotación y empaque.
+
+[FOTOGRAFÍA PENDIENTE: Estación profesional de enfriado con rejillas limpias, guantes, pinzas, cajas ventiladas y etiquetas de tanda.]
+
+[VIDEO PENDIENTE: Buenas prácticas de higiene en enfriado, empaque y despacho de bolillo.]
+
+---
+
+## 14. Cierre del Capítulo 9
+
+El enfriado y la conservación son la última defensa de la calidad del bolillo. Después de amasar, fermentar, formar, cortar y hornear, sería un error perder textura por impaciencia o mal empaque. Un bolillo bien enfriado conserva mejor su corteza, su forma y su aroma. Un bolillo mal conservado puede arruinar en minutos el trabajo de horas.
+
+El panadero profesional no solo domina el fuego; también domina el tiempo posterior al fuego. Sabe esperar, separar, ventilar, proteger y entregar. Entiende que el crujido no se improvisa en el mostrador: se construye desde el horno y se defiende con cada decisión de manejo.
+
+> **Chef Juanote™ dice:** El cliente no compra tu esfuerzo; compra el resultado que llega a sus manos. Cuida el bolillo hasta el último segundo.
+
+[BOLY™ INTERVIENE]
+
+> ¡Ahora sí, camarada! Ya sabemos que sacar el bolillo del horno no es el final. Hay que dejarlo respirar, cuidarlo del vapor atrapado y elegir bien cómo llevarlo al cliente. En el siguiente capítulo tocará convertir todos los errores en diagnóstico profesional.
+
+## Continuidad hacia el Capítulo 10
+
+Con el enfriado y la conservación comprendidos, el siguiente paso será estudiar el diagnóstico integral del bolillo. El Capítulo 10 deberá reunir defectos de mezcla, fermentación, formado, corte, horneado, enfriado y conservación para convertir cada problema en una solución práctica y repetible.
