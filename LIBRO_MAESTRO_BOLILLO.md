@@ -4412,3 +4412,717 @@ Recuerda: el bolillo perfecto no nace solo de una receta. Nace de una cadena com
 ## Continuidad hacia el Capítulo 8
 
 Con el horneado profesional comprendido, el siguiente paso será estudiar el corte profesional del bolillo. El Capítulo 8 deberá profundizar en herramienta, ángulo, profundidad, momento del corte, dirección de expansión y relación entre greña, fermentación y horno.
+
+# Capítulo 8 — Corte profesional del bolillo
+
+El corte profesional del bolillo, también llamado greñado, es una de las técnicas más visibles y menos perdonadoras del oficio. Una línea de apenas unos centímetros puede decidir si el pan abre con elegancia, si revienta por un costado, si queda plano, si pierde volumen o si presenta una greña alta, crujiente y apetecible.
+
+Este capítulo desarrolla el corte como una operación técnica completa: herramienta, seguridad, momento exacto, ángulo, profundidad, velocidad, dirección, diagnóstico y corrección. El objetivo no es hacer una marca decorativa, sino dirigir la expansión natural de la masa durante los primeros minutos de horno.
+
+> **Chef Juanote™ dice:** El corte no es una herida; es una puerta. Si la abres bien, el bolillo respira, crece y presume su oficio.
+
+[FOTOGRAFÍA PENDIENTE — C08-F01: Bolillos correctamente greñados antes de entrar al horno, vistos desde arriba. Incluir comparación con piezas sin corte.]
+
+[VIDEO PENDIENTE — C08-V01: Introducción del Chef Juanote™ al corte profesional del bolillo. Mostrar herramienta, postura de mano, movimiento y resultado horneado. QR sugerido: `QR-LMB-C08-INTRO-CORTE`.]
+
+[QR PENDIENTE — QR-LMB-C08-INTRO-CORTE: Enlace a video de bienvenida y demostración general del capítulo.]
+
+---
+
+## 1. Objetivo técnico del corte
+
+El corte del bolillo cumple tres funciones principales:
+
+1. **Controlar la expansión en horno.** Durante el golpe de calor inicial, la masa genera vapor interno, los gases de fermentación se expanden y la pieza aumenta de volumen. El corte ofrece una zona de menor resistencia para que esa expansión ocurra de manera dirigida.
+2. **Formar la greña característica.** La greña es el levantamiento de la corteza alrededor del corte. En un bolillo bien trabajado, debe abrir de forma limpia, alargada y equilibrada.
+3. **Mejorar apariencia e identidad del pan.** El corte distingue al bolillo de otros panes de mesa. Una greña bien definida comunica frescura, técnica y cuidado artesanal.
+
+El corte no corrige una masa mal fermentada, mal formada o mal horneada. Solo revela con mayor claridad lo que ocurrió antes. Por eso debe entenderse como parte de una cadena: amasado, reposo, división, formado, fermentación final, corte, vapor y horneado.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Entonces el corte no sirve para “arreglar” un bolillo que ya viene mal?
+>
+> **Chef Juanote™ responde:** Exacto, Boly. El corte ayuda a dirigir la expansión, pero no reemplaza la fuerza de la masa, la tensión del formado ni el punto correcto de fermentación. Si la pieza viene débil, el corte solo hará más visible el problema.
+
+---
+
+## 2. Fundamento científico: qué ocurre cuando cortas la masa
+
+La masa fermentada es una estructura elástica formada por gluten, almidón, agua, gas, levadura y sal. Cuando el bolillo entra al horno, ocurren varios procesos al mismo tiempo:
+
+- Los gases atrapados en la red de gluten se expanden.
+- La levadura tiene una última actividad antes de morir por temperatura.
+- El agua interna comienza a transformarse en vapor.
+- La superficie empieza a secarse y formar corteza.
+- El almidón gelatiniza y las proteínas se coagulan, fijando la estructura.
+
+Si la superficie se cierra antes de que la pieza termine de expandirse, el bolillo puede abrirse por donde encuentre debilidad: costados, unión inferior o extremos. El corte profesional crea una zona planeada de expansión antes de que la corteza se endurezca.
+
+### Tensión superficial y punto de ruptura
+
+Durante el formado, se genera tensión en la superficie del bolillo. Esa tensión es necesaria para obtener volumen, pero también crea resistencia. Al hacer un corte con la profundidad y ángulo correctos, se reduce la resistencia en una línea específica. El pan entonces abre por ahí, no por accidente.
+
+### Vapor y elasticidad inicial
+
+El vapor del horno mantiene la superficie flexible durante los primeros minutos. Si no hay vapor suficiente, el corte puede sellarse rápido y abrir poco. Si hay exceso de vapor durante demasiado tiempo, la corteza puede quedar opaca, gomosa o demasiado delgada. El corte y el vapor trabajan juntos: el corte indica dónde abrir; el vapor da tiempo para que abra.
+
+### Coagulación y fijación de la greña
+
+Cuando el calor avanza, la estructura se fija. La greña que se levantó en los primeros minutos queda definida. Por eso el corte debe hacerse justo antes de hornear, no con demasiada anticipación.
+
+> **Chef Juanote™ dice:** La greña se decide en segundos, pero esos segundos cargan con horas de proceso.
+
+---
+
+## 3. Herramientas recomendadas
+
+Para cortar bolillo profesionalmente se necesita una hoja muy filosa, limpia y fácil de controlar. La herramienta debe cortar la piel de la masa sin arrastrarla.
+
+### Herramientas principales
+
+- **Navaja de panadero o lame:** ideal para cortes limpios y repetibles.
+- **Hoja de afeitar nueva:** excelente filo, pero requiere soporte o manejo experto.
+- **Cuchillo muy filoso de hoja delgada:** útil en emergencia, aunque menos preciso.
+- **Bisturí alimentario o cutter exclusivo para panadería:** solo si se mantiene higiénico, identificado y seguro.
+
+### Herramientas no recomendadas
+
+- Cuchillos sin filo.
+- Serruchos de pan para masa cruda.
+- Tijeras, salvo técnicas específicas no propias del bolillo clásico.
+- Navajas oxidadas, dobladas o compartidas con otros usos.
+
+[FOTOGRAFÍA PENDIENTE — C08-F02: Comparativa de herramientas: lame profesional, hoja nueva, cuchillo filoso y cuchillo sin filo. Incluir señal visual de herramienta recomendada y no recomendada.]
+
+[VIDEO PENDIENTE — C08-V02: Cómo montar, limpiar, manipular y guardar una navaja de panadero con seguridad. QR sugerido: `QR-LMB-C08-HERRAMIENTA-SEGURA`.]
+
+[QR PENDIENTE — QR-LMB-C08-HERRAMIENTA-SEGURA: Enlace a cápsula de seguridad y mantenimiento de la herramienta de corte.]
+
+---
+
+## 4. Seguridad e higiene en el corte
+
+El corte profesional exige rapidez, pero nunca descuido. Una navaja de greñado es extremadamente filosa y debe tratarse como herramienta de precisión.
+
+### Reglas básicas de seguridad
+
+1. Mantén la hoja protegida cuando no esté en uso.
+2. Usa una herramienta exclusiva para panadería.
+3. No dejes navajas sueltas sobre mesas con harina.
+4. Cambia la hoja cuando pierda filo.
+5. Corta siempre alejando los dedos de la trayectoria.
+6. No intentes atrapar una hoja si cae.
+7. Desecha hojas usadas en contenedor rígido.
+8. Limpia y seca la herramienta después de cada jornada.
+
+### Higiene profesional
+
+La hoja toca masa lista para hornear. Aunque el horno reduce riesgos microbiológicos, la práctica profesional exige higiene desde el inicio. La herramienta debe estar limpia, seca y libre de óxido, residuos de masa o grasa.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** Chef, ¿puedo limpiar la navaja con el trapo que uso para la mesa?
+>
+> **Chef Juanote™ responde:** No, Boly. Usa un paño limpio exclusivo o papel desechable. Un trapo con harina húmeda, grasa o restos de masa puede contaminar la herramienta y hacer que el corte se pegue.
+
+---
+
+## 5. Momento exacto para cortar
+
+El bolillo se corta después de la fermentación final y justo antes de entrar al horno. Este punto es crítico.
+
+### Si cortas demasiado pronto
+
+- El corte puede cerrarse antes de hornear.
+- La masa puede perder tensión.
+- La greña puede quedar plana o irregular.
+- La superficie puede resecarse alrededor de la abertura.
+
+### Si cortas demasiado tarde
+
+- La pieza puede sobrefermentarse mientras esperas.
+- La masa puede estar demasiado frágil.
+- El corte puede desinflar el bolillo.
+- La greña puede abrir poco por falta de fuerza interna.
+
+### Secuencia profesional recomendada
+
+1. Verifica que el horno esté precalentado.
+2. Confirma que el sistema de vapor esté listo.
+3. Revisa el punto de fermentación final.
+4. Ordena las charolas o pala de carga.
+5. Corta todas las piezas con ritmo uniforme.
+6. Carga inmediatamente al horno.
+7. Aplica vapor según el método elegido.
+
+> **Chef Juanote™ dice:** Nunca cortes primero y luego te pongas a buscar el atomizador, la pala o los guantes. El corte se hace cuando todo lo demás ya está listo.
+
+---
+
+## 6. Cómo reconocer el punto correcto antes del corte
+
+Antes de cortar, evalúa la pieza. El greñado profesional empieza con observación.
+
+### Señales de pieza lista
+
+- Aumento de volumen visible, sin colapso.
+- Superficie tersa, ligeramente elástica.
+- Respuesta lenta y parcial a la presión suave del dedo.
+- Unión inferior estable.
+- Forma alargada conservada.
+- Piel sin resequedad excesiva.
+
+### Señales de subfermentación
+
+- Pieza rígida y muy elástica.
+- Rebote inmediato al presionar.
+- Poco volumen.
+- Tensión exagerada.
+- Tendencia a abrir violentamente en horno.
+
+### Señales de sobrefermentación
+
+- Pieza muy inflada y frágil.
+- Huella del dedo que no regresa.
+- Superficie débil o arrugada.
+- Pérdida de altura.
+- Riesgo de desinflado al cortar.
+
+[VIDEO PENDIENTE — C08-V03: Prueba táctil antes del corte: subfermentado, punto ideal y sobrefermentado. QR sugerido: `QR-LMB-C08-PUNTO-CORTE`.]
+
+[QR PENDIENTE — QR-LMB-C08-PUNTO-CORTE: Enlace a guía visual interactiva para decidir si el bolillo está listo para greñar.]
+
+---
+
+## 7. Técnica paso a paso del corte profesional
+
+La técnica clásica del bolillo busca un corte longitudinal, limpio, ligeramente inclinado y centrado sobre la parte superior de la pieza. Debe permitir una apertura elegante sin partir el pan en dos.
+
+### Paso 1: Prepara la estación
+
+Ten lista la herramienta, las charolas, los guantes, el horno, el vapor y el espacio de carga. La mesa debe estar ordenada para que el movimiento sea continuo.
+
+### Paso 2: Coloca la pieza correctamente
+
+El bolillo debe estar con la unión hacia abajo y la parte más tensa hacia arriba. La pieza debe estar estable, no rodando ni deformada.
+
+### Paso 3: Sujeta la herramienta con precisión
+
+Toma la navaja como si fuera una pluma técnica: firme, pero sin tensión excesiva. La muñeca debe estar libre para hacer un movimiento fluido.
+
+### Paso 4: Define la trayectoria
+
+Visualiza una línea longitudinal sobre la parte superior del bolillo. La línea debe seguir el eje de la pieza, sin desviarse hacia los costados.
+
+### Paso 5: Ajusta el ángulo
+
+Para bolillo, trabaja con un ángulo aproximado de 30° a 45° respecto a la superficie. Un corte completamente vertical abre distinto y puede verse tosco. Un corte ligeramente inclinado favorece que se levante una pestaña de greña.
+
+### Paso 6: Controla la profundidad
+
+La profundidad común se mueve entre 5 y 8 milímetros, ajustando según hidratación, fermentación y tensión. Una pieza muy fuerte puede tolerar un corte más decidido; una pieza frágil exige menor profundidad.
+
+### Paso 7: Corta con decisión
+
+Haz un movimiento continuo, rápido y limpio. No serruches. No repases varias veces. La hoja debe entrar, avanzar y salir sin arrastrar masa.
+
+### Paso 8: Carga al horno de inmediato
+
+Después del corte, el bolillo debe entrar al horno lo antes posible. Aplica vapor durante la fase inicial conforme al método explicado en el capítulo anterior.
+
+[FOTOGRAFÍA PENDIENTE — C08-F03: Secuencia fotográfica de ocho pasos del corte profesional, desde preparación hasta carga al horno.]
+
+[VIDEO PENDIENTE — C08-V04: Demostración en cámara lenta del movimiento correcto de la navaja. QR sugerido: `QR-LMB-C08-CORTE-LENTO`.]
+
+[QR PENDIENTE — QR-LMB-C08-CORTE-LENTO: Enlace a video en cámara lenta con vista superior y lateral.]
+
+---
+
+## 8. Ángulo, profundidad y longitud
+
+El corte profesional se controla con tres variables: ángulo, profundidad y longitud. Cambiar una de ellas cambia el comportamiento de la greña.
+
+### Ángulo
+
+- **Muy vertical:** produce apertura directa, menos pestaña y aspecto más rústico.
+- **Muy acostado:** puede levantar buena greña, pero si se exagera, la hoja raspa la superficie sin abrir suficiente.
+- **Correcto:** entra con inclinación moderada y permite expansión limpia.
+
+### Profundidad
+
+- **Muy superficial:** el corte se sella o abre poco.
+- **Muy profundo:** la pieza puede colapsar, abrir de más o perder forma.
+- **Correcta:** libera tensión sin destruir la estructura.
+
+### Longitud
+
+- **Muy corta:** concentra presión y puede causar reventones laterales.
+- **Muy larga:** debilita extremos y puede deformar el bolillo.
+- **Correcta:** cubre la zona central de expansión, dejando extremos con estructura.
+
+### Referencia práctica
+
+Para un bolillo estándar, el corte debe recorrer aproximadamente del 60% al 75% de la longitud visible de la pieza, centrado y sin llegar hasta las puntas. Esta referencia debe ajustarse al tamaño real del pan y al estilo de la panadería.
+
+> **Chef Juanote™ dice:** No cortes con regla; corta con criterio. La regla enseña, pero la masa confirma.
+
+---
+
+## 9. Relación entre corte, formado y unión inferior
+
+Un buen corte necesita un buen formado. Si el formado dejó la unión mal sellada, el pan puede abrir por abajo aunque el corte superior sea correcto.
+
+### Formado con buena tensión
+
+Cuando la pieza tiene tensión uniforme, el corte superior funciona como salida principal de expansión. La greña se levanta y la base se mantiene estable.
+
+### Formado flojo
+
+Si la pieza está floja, el corte puede abrir sin fuerza, la greña queda baja y el pan se expande hacia los lados.
+
+### Formado demasiado apretado
+
+Si el formado exagera la tensión, el corte puede abrir de manera violenta, rasgar la superficie o provocar extremos deformes.
+
+### Unión inferior mal sellada
+
+Si la unión inferior queda débil, el bolillo puede reventar por abajo. Este defecto suele confundirse con error de corte, pero su origen está en el formado.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Por qué a veces hago un corte bonito arriba, pero el pan se abre abajo?
+>
+> **Chef Juanote™ responde:** Porque el pan siempre busca la salida más fácil. Si la unión de abajo está mal sellada, esa zona se vuelve más débil que tu corte. La solución no está en cortar más profundo, sino en formar y sellar mejor.
+
+---
+
+## 10. Relación entre corte y fermentación final
+
+La fermentación final determina cuánta fuerza queda disponible para la expansión en horno. El corte debe adaptarse a ese punto.
+
+### Pieza ligeramente joven
+
+Una pieza un poco joven tiene mucha fuerza. Puede abrir con potencia, pero también con riesgo de reventón si el corte es corto o superficial. En este caso conviene un corte seguro y suficientemente largo.
+
+### Pieza en punto ideal
+
+La pieza responde bien al corte, mantiene forma y abre de manera controlada. Aquí la técnica estándar funciona mejor.
+
+### Pieza pasada de fermentación
+
+Una pieza pasada tiene poca fuerza. El corte debe ser más delicado y rápido. Un corte profundo puede desinflarla. En producción profesional, si varias piezas están pasadas, se debe hornear de inmediato y registrar el problema para ajustar tiempos posteriores.
+
+### Ajuste práctico según fermentación
+
+| Estado de la pieza | Señal principal | Ajuste de corte recomendado |
+| --- | --- | --- |
+| Subfermentada | Rebote rápido, poca expansión previa | Corte ligeramente más largo y decidido |
+| En punto | Huella parcial, buen volumen | Corte estándar, limpio y centrado |
+| Sobrefermentada | Huella persistente, fragilidad | Corte más superficial, rápido y delicado |
+
+---
+
+## 11. Relación entre corte y horno
+
+El corte no trabaja solo. Necesita calor y vapor adecuados.
+
+### Horno frío
+
+Si el horno no tiene suficiente temperatura, el corte puede abrir lentamente, la pieza se expande poco y la greña queda baja.
+
+### Horno demasiado caliente
+
+Si el calor es excesivo, la superficie puede fijarse antes de que el pan expanda por completo. También puede quemarse la cresta de la greña mientras el interior aún necesita tiempo.
+
+### Falta de vapor
+
+La corteza se seca pronto, el corte se endurece y la apertura queda limitada.
+
+### Exceso de vapor
+
+La greña puede verse pálida, la corteza puede tardar en secar y el crujido puede debilitarse.
+
+### Carga lenta
+
+Si tardas mucho entre cortar y cargar, unas piezas pueden entrar más relajadas que otras. En producción, esto genera greñas desiguales dentro de la misma tanda.
+
+> **Chef Juanote™ dice:** Un corte perfecto en un horno mal preparado es una promesa incumplida.
+
+---
+
+## 12. Casos reales de panadería
+
+### Caso 1: Bolillo que revienta por un costado
+
+**Situación:** Una panadería obtiene buen sabor, pero muchas piezas revientan lateralmente.
+
+**Diagnóstico:** El corte era demasiado corto y superficial. Además, algunas piezas estaban ligeramente jóvenes.
+
+**Corrección:** Se alargó el corte hasta cubrir mejor la zona central, se profundizó ligeramente y se extendió cinco minutos la fermentación final en días frescos.
+
+**Resultado:** La apertura se concentró en la greña superior y disminuyeron los reventones laterales.
+
+### Caso 2: Greña plana y sin volumen
+
+**Situación:** Los bolillos salían con corte visible, pero sin levantamiento.
+
+**Diagnóstico:** La masa estaba sobrefermentada al momento del corte y el horno tardaba demasiado en recuperar temperatura después de cargar.
+
+**Corrección:** Se redujo la fermentación final, se precalentó más tiempo el horno y se cargaron menos charolas por tanda.
+
+**Resultado:** La greña ganó altura y el pan recuperó volumen.
+
+### Caso 3: Corte rasgado y superficie maltratada
+
+**Situación:** El corte dejaba bordes rotos y arrastraba masa.
+
+**Diagnóstico:** La hoja estaba gastada y la masa tenía superficie ligeramente reseca.
+
+**Corrección:** Se cambió la hoja diariamente, se protegieron las piezas durante fermentación y se practicó un movimiento más rápido.
+
+**Resultado:** Los cortes quedaron limpios y uniformes.
+
+### Caso 4: Bolillo abierto por abajo
+
+**Situación:** La greña superior abría poco y la base se rompía.
+
+**Diagnóstico:** Unión inferior deficiente durante el formado.
+
+**Corrección:** Se reforzó el sellado, se colocó la unión hacia abajo y se revisó el descanso previo al formado.
+
+**Resultado:** La expansión regresó a la parte superior y la base quedó limpia.
+
+---
+
+## 13. Errores comunes y cómo evitarlos
+
+### Error 1: Usar hoja sin filo
+
+**Consecuencia:** Arrastre, rasgado, desinflado y greña irregular.
+
+**Cómo evitarlo:** Cambia la hoja con frecuencia y prueba el corte en una pieza de práctica si dudas del filo.
+
+### Error 2: Cortar con miedo
+
+**Consecuencia:** Corte tembloroso, superficial o interrumpido.
+
+**Cómo evitarlo:** Practica el movimiento fuera de la masa, visualiza la trayectoria y corta con decisión.
+
+### Error 3: Cortar demasiado profundo
+
+**Consecuencia:** Colapso, pan abierto en exceso o pérdida de forma.
+
+**Cómo evitarlo:** Ajusta profundidad según fermentación. No confundas decisión con fuerza bruta.
+
+### Error 4: Cortar piezas resecas
+
+**Consecuencia:** La hoja se atora, la piel se rompe y la greña abre mal.
+
+**Cómo evitarlo:** Protege las piezas durante la fermentación final y evita corrientes de aire.
+
+### Error 5: Cortar y esperar demasiado
+
+**Consecuencia:** El corte se relaja, se cierra o pierde capacidad de expansión.
+
+**Cómo evitarlo:** Corta únicamente cuando el horno esté listo para cargar.
+
+### Error 6: Hacer varios repasos
+
+**Consecuencia:** Bordes maltratados y apertura desordenada.
+
+**Cómo evitarlo:** Un corte profesional debe ser un solo movimiento continuo.
+
+### Error 7: Cortar fuera del eje
+
+**Consecuencia:** Greña torcida y expansión lateral.
+
+**Cómo evitarlo:** Alinea visualmente la pieza antes de cortar y mantén la trayectoria longitudinal.
+
+---
+
+## 14. Diagnóstico visual de la greña después del horneado
+
+La greña terminada permite leer el proceso completo.
+
+### Greña alta, limpia y dorada
+
+Indica buen formado, fermentación adecuada, corte correcto, vapor inicial y horneado equilibrado.
+
+### Greña cerrada
+
+Puede indicar corte superficial, falta de vapor, horno frío, sobrefermentación o masa débil.
+
+### Greña rota y explosiva
+
+Puede indicar subfermentación, corte insuficiente, exceso de tensión o horno demasiado agresivo.
+
+### Greña pálida y blanda
+
+Puede indicar exceso de vapor, falta de secado final o temperatura insuficiente.
+
+### Greña desviada
+
+Puede indicar corte torcido, formado irregular, carga inclinada o tensión desigual.
+
+[FOTOGRAFÍA PENDIENTE — C08-F04: Panel comparativo de greñas: correcta, cerrada, explosiva, pálida, desviada y con reventón inferior.]
+
+[QR PENDIENTE — QR-LMB-C08-DIAGNOSTICO-GRENA: Enlace a guía visual de diagnóstico de greña.]
+
+---
+
+## 15. Método Chef Juanote™ para dominar el corte
+
+El método Chef Juanote™ resume el corte profesional en cinco palabras: **Listo, firme, inclinado, limpio, inmediato.**
+
+### 1. Listo
+
+Nada se corta hasta que horno, vapor, charola y equipo estén preparados.
+
+### 2. Firme
+
+La mano trabaja segura, sin temblar ni aplastar la pieza.
+
+### 3. Inclinado
+
+La hoja entra con ángulo técnico, no completamente vertical ni acostada en exceso.
+
+### 4. Limpio
+
+El movimiento es continuo, sin serruchar ni corregir varias veces.
+
+### 5. Inmediato
+
+Después del corte, el pan entra al horno sin esperas innecesarias.
+
+> **Chef Juanote™ dice:** Si quieres greña de maestro, no improvises en la charola. Ensaya el gesto, entiende la masa y respeta el tiempo.
+
+---
+
+## 16. Consejos exclusivos del Chef Juanote™
+
+- Practica el movimiento con una hoja protegida antes de cortar masa real.
+- Observa cada tanda horneada y compárala con el corte que hiciste.
+- No cambies tres variables al mismo tiempo; ajusta una y registra.
+- Si el pan revienta, no culpes primero al horno: revisa formado, fermentación y corte.
+- En días secos, protege más la superficie de las piezas.
+- En días fríos, confirma que la fermentación final no se quede corta.
+- En producción grande, asigna el corte a una persona entrenada para mantener uniformidad.
+- Cambia la hoja antes de que falle, no después de arruinar una tanda.
+- Si la masa está pasada, no hagas cortes heroicos: sé delicado y hornea pronto.
+- Si la masa está joven, no hagas cortes tímidos: dale salida real a la expansión.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** Chef, ¿cómo sé si mi problema es el corte o la fermentación?
+>
+> **Chef Juanote™ responde:** Mira el patrón. Si todas las piezas fallan igual, revisa fermentación, horno o método general. Si unas piezas abren bien y otras mal en la misma tanda, revisa uniformidad de formado y corte. El defecto repetido habla del proceso; el defecto aislado habla de ejecución.
+
+---
+
+## 17. Práctica profesional guiada
+
+### Ejercicio 1: Línea en seco
+
+**Objetivo:** Entrenar trayectoria y seguridad.
+
+**Material:** Papel, marcador y una herramienta de práctica sin filo.
+
+**Procedimiento:**
+
+1. Dibuja diez óvalos del tamaño aproximado de un bolillo.
+2. Traza una línea longitudinal centrada en cada óvalo.
+3. Practica el movimiento de corte siguiendo la línea sin detenerte.
+4. Repite hasta lograr trazos uniformes.
+
+**Evaluación:** Las líneas deben quedar centradas, limpias y con longitud similar.
+
+### Ejercicio 2: Masa de práctica
+
+**Objetivo:** Sentir resistencia real sin comprometer una tanda completa.
+
+**Material:** Dos piezas de masa destinadas a práctica.
+
+**Procedimiento:**
+
+1. Forma dos bolillos de prueba.
+2. Fermenta uno menos tiempo y otro hasta punto ideal.
+3. Corta ambos con la misma técnica.
+4. Hornea y compara apertura.
+
+**Evaluación:** Registra cómo cambia la greña según el punto de fermentación.
+
+### Ejercicio 3: Comparación de profundidad
+
+**Objetivo:** Comprender el efecto de profundidad.
+
+**Procedimiento:**
+
+1. Prepara seis piezas iguales.
+2. Corta dos superficialmente, dos con profundidad media y dos más profundo.
+3. Hornea en las mismas condiciones.
+4. Fotografía resultados.
+
+**Evaluación:** Identifica cuál profundidad produjo mejor expansión sin colapso.
+
+### Ejercicio 4: Bitácora de greña
+
+**Objetivo:** Convertir observación en mejora técnica.
+
+**Formato sugerido:**
+
+| Fecha | Harina | Hidratación | Fermentación final | Herramienta | Ángulo | Profundidad | Vapor | Resultado de greña | Ajuste próximo |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ____ | ____ | ____ | ____ | ____ | ____ | ____ | ____ | ____ | ____ |
+
+[QR PENDIENTE — QR-LMB-C08-BITACORA-GRENA: Plantilla descargable para registrar corte, fermentación, vapor y resultado de greña.]
+
+---
+
+## 18. Checklist profesional antes de cortar
+
+Marca cada punto antes de greñar una tanda:
+
+- [ ] El horno está precalentado y listo.
+- [ ] El sistema de vapor está preparado.
+- [ ] Las charolas o pala están listas para carga inmediata.
+- [ ] La herramienta de corte está limpia, seca y filosa.
+- [ ] Las piezas tienen la unión hacia abajo.
+- [ ] La fermentación final está en punto correcto.
+- [ ] La superficie no está reseca.
+- [ ] La trayectoria del corte está visualmente definida.
+- [ ] La persona que corta tiene espacio seguro de trabajo.
+- [ ] Las piezas entrarán al horno inmediatamente después del corte.
+
+---
+
+## 19. Checklist después del horneado
+
+Evalúa la tanda con criterios objetivos:
+
+- [ ] La greña abrió en la parte superior.
+- [ ] La apertura fue uniforme entre piezas.
+- [ ] No hubo reventones laterales significativos.
+- [ ] La base no se abrió por la unión.
+- [ ] La greña tiene color dorado atractivo.
+- [ ] La corteza alrededor del corte quedó crujiente.
+- [ ] El volumen general del bolillo se conservó.
+- [ ] El corte no deformó la pieza.
+- [ ] El resultado coincide con el estilo buscado por la panadería.
+- [ ] Se registraron ajustes para la siguiente tanda.
+
+---
+
+## 20. Preguntas frecuentes con Boly™
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Puedo hacer dos cortes en el bolillo?
+>
+> **Chef Juanote™ responde:** Puedes, pero ya no estarías trabajando el estilo clásico más común. Dos cortes cambian la expansión y la apariencia. Para dominar el bolillo tradicional, primero controla un corte longitudinal limpio.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿La greña debe abrir siempre igual?
+>
+> **Chef Juanote™ responde:** Debe ser consistente dentro del estilo de tu panadería, pero no idéntica como pieza industrial. En pan artesanal, la uniformidad profesional convive con pequeñas diferencias naturales.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Qué hago si la hoja se pega a la masa?
+>
+> **Chef Juanote™ responde:** Revisa tres cosas: filo, humedad superficial y velocidad. Una hoja gastada, una masa pegajosa o un movimiento lento hacen que la navaja arrastre.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Conviene mojar la navaja?
+>
+> **Chef Juanote™ responde:** Puede ayudar en masas pegajosas, pero no debe convertirse en dependencia. Si necesitas mojarla siempre, revisa hidratación, harina, fermentación y filo.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Por qué mi corte desaparece en el horno?
+>
+> **Chef Juanote™ responde:** Puede ser muy superficial, la masa puede estar sobrefermentada, puede faltar vapor o el horno puede estar bajo de temperatura. Observa el conjunto, no solo la línea.
+
+---
+
+## 21. Criterios de publicación fotográfica y audiovisual
+
+Para documentar este capítulo de forma profesional, las imágenes y videos deben mostrar detalles técnicos, no solo resultados bonitos.
+
+### Fotografías necesarias
+
+- Herramientas correctas e incorrectas.
+- Punto de fermentación antes del corte.
+- Posición de la mano y ángulo de navaja.
+- Corte recién hecho.
+- Greña después de hornear.
+- Comparación de errores comunes.
+
+### Videos necesarios
+
+- Seguridad con la navaja.
+- Movimiento de corte en cámara lenta.
+- Comparación de cortes superficial, correcto y profundo.
+- Diagnóstico de greña horneada.
+- Sesión de preguntas frecuentes con Boly™.
+
+### Códigos QR sugeridos
+
+- `QR-LMB-C08-INTRO-CORTE`
+- `QR-LMB-C08-HERRAMIENTA-SEGURA`
+- `QR-LMB-C08-PUNTO-CORTE`
+- `QR-LMB-C08-CORTE-LENTO`
+- `QR-LMB-C08-DIAGNOSTICO-GRENA`
+- `QR-LMB-C08-BITACORA-GRENA`
+
+**Estado:** pendiente de publicación. No insertar QR definitivo hasta contar con URL final validada.
+
+---
+
+## 22. Evaluación del capítulo
+
+Responde por escrito:
+
+1. ¿Cuál es la función principal del corte en el bolillo?
+2. ¿Por qué el corte debe hacerse justo antes de hornear?
+3. ¿Qué relación existe entre fermentación final y profundidad de corte?
+4. ¿Qué defecto puede indicar una unión inferior mal sellada?
+5. ¿Cómo afecta la falta de vapor a la greña?
+6. ¿Qué señales indican que una pieza está sobrefermentada antes del corte?
+7. ¿Por qué no conviene serruchar la masa?
+8. ¿Qué variables debes registrar en una bitácora de greña?
+
+### Prueba práctica
+
+Realiza una tanda de al menos seis bolillos y registra:
+
+- Punto de fermentación antes del corte.
+- Herramienta usada.
+- Ángulo aproximado.
+- Profundidad aproximada.
+- Tiempo entre corte y carga.
+- Método de vapor.
+- Resultado visual de greña.
+- Ajuste propuesto para la siguiente tanda.
+
+---
+
+## 23. Cierre del Capítulo 8
+
+El corte profesional del bolillo es una técnica pequeña en apariencia, pero enorme en consecuencia. Una navaja bien usada ordena la expansión, embellece el pan y confirma la calidad del proceso anterior. Cuando el corte falla, la greña habla: puede señalar falta de filo, mala fermentación, formado débil, horno frío, falta de vapor o ejecución insegura.
+
+Dominar el greñado exige observación, repetición y registro. No basta con copiar un movimiento; hay que entender por qué la masa abre, cuándo tiene fuerza, cuánto resiste la superficie y cómo el horno terminará de fijar la forma.
+
+A partir de ahora, cada bolillo que cortes debe responder a una intención: abrir donde tú decides, crecer con equilibrio y salir del horno con una greña que invite a escucharlo crujir.
+
+> **Chef Juanote™ dice:** La greña es la firma del panadero. Que cada corte diga: aquí hubo técnica, atención y respeto por la masa.
+
+[BOLY™ INTERVIENE]
+
+> ¡Listo, camarada! Ya sabes que el corte no es un adorno: es dirección, ciencia y oficio. En el siguiente capítulo vamos a cuidar lo que sucede después del horno: enfriado, conservación, crujido, empaque y vida útil del bolillo.
+
+## Continuidad hacia el Capítulo 9
+
+Con el corte profesional comprendido, el siguiente paso será estudiar el enfriado y la conservación. El Capítulo 9 deberá explicar cómo estabilizar la corteza, proteger el crujido, evitar condensación, empacar correctamente y conservar la calidad del bolillo desde la salida del horno hasta el momento de consumo.
