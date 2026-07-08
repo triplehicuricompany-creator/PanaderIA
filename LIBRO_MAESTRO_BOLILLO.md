@@ -131,7 +131,7 @@ Al terminar este capítulo, el alumno debe poder:
 [VIDEO 01: Bienvenida de Chef Juanote™ al Capítulo 1 y explicación del objetivo del aprendizaje.]
 
 [QR PENDIENTE: `QR-C01-INTRO` — guía, video, infografía y checklist del capítulo.]
-[QR 01: enlace pendiente al video correspondiente — `QR-C01-INTRO` — guía, video, infografía y checklist del capítulo.]
+[QR 01: enlace pendiente al recurso correspondiente — `QR-C01-INTRO` — guía, video, infografía y checklist del capítulo.]
 
 ---
 
@@ -195,7 +195,7 @@ Por eso el bolillo es una escuela. Enseña porque exige atención, responde a lo
 [VIDEO 03: “Por qué el bolillo parece simple, pero enseña técnica profesional”.]
 
 [QR PENDIENTE: `QR-M01-BOLILLO-ESCUELA` — video explicativo del bolillo como escuela técnica.]
-[QR 02: enlace pendiente al video correspondiente — `QR-M01-BOLILLO-ESCUELA` — video explicativo del bolillo como escuela técnica.]
+[QR 02: enlace pendiente al recurso correspondiente — `QR-M01-BOLILLO-ESCUELA` — video explicativo del bolillo como escuela técnica.]
 
 ---
 
@@ -307,7 +307,7 @@ Este hábito evita que cada práctica sea un intento aislado. Cuando registras, 
 [VIDEO 05: Cómo iniciar una bitácora panadera para el Libro Maestro del Bolillo.]
 
 [QR PENDIENTE: Plantilla descargable de bitácora del alumno.]
-[QR 03: enlace pendiente al video correspondiente — Plantilla descargable de bitácora del alumno.]
+[QR 03: enlace pendiente al recurso correspondiente — Plantilla descargable de bitácora del alumno.]
 
 ---
 
@@ -423,7 +423,7 @@ Compra tres bolillos en lugares diferentes. No los juzgues todavía por sabor. P
 [VIDEO 06: “Cómo observar un bolillo como panadero profesional”, con comparación visual de piezas correctas y defectuosas.]
 
 [QR PENDIENTE: `QR-LMBP-C01-OBSERVAR` — video de observación profesional y plantilla de bitácora.]
-[QR 04: enlace pendiente al video correspondiente — `QR-LMBP-C01-OBSERVAR` — video de observación profesional y plantilla de bitácora.]
+[QR 04: enlace pendiente al recurso correspondiente — `QR-LMBP-C01-OBSERVAR` — video de observación profesional y plantilla de bitácora.]
 
 ---
 
@@ -462,7 +462,7 @@ Compra tres bolillos en lugares diferentes. No los juzgues todavía por sabor. P
 [VIDEO 07: Animación corta de Boly™ explicando que equivocarse es parte del aprendizaje.]
 
 [QR PENDIENTE: `QR-C01-BOLY` — preguntas guiadas de Boly™ para observación del capítulo.]
-[QR 05: enlace pendiente al video correspondiente — `QR-C01-BOLY` — preguntas guiadas de Boly™ para observación del capítulo.]
+[QR 05: enlace pendiente al recurso correspondiente — `QR-C01-BOLY` — preguntas guiadas de Boly™ para observación del capítulo.]
 
 ---
 
@@ -1691,7 +1691,7 @@ Antes de preparar masa, realiza este laboratorio sin mezclar todavía.
 [VIDEO 32: Chef Juanote™ realiza el laboratorio de inspección de ingredientes y muestra cómo llenar la tabla.]
 
 [QR PENDIENTE: `QR-LMB-C03-LAB-INGREDIENTES` — plantilla descargable de inspección y bitácora de ingredientes.]
-[QR 07: enlace pendiente al video correspondiente — `QR-LMB-C03-LAB-INGREDIENTES` — plantilla descargable de inspección y bitácora de ingredientes.]
+[QR 07: enlace pendiente al recurso correspondiente — `QR-LMB-C03-LAB-INGREDIENTES` — plantilla descargable de inspección y bitácora de ingredientes.]
 
 ---
 
@@ -5373,7 +5373,7 @@ Este capítulo enseña a cuidar el bolillo desde la salida del horno hasta el mo
 [VIDEO 72: Transición completa desde salida del horno hasta enfriado correcto en rejilla, mostrando tiempos reales y errores de apilado.]
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-ENFRIADO-INICIAL]
-[QR 38: enlace pendiente al video correspondiente — QR-LMB-C09-ENFRIADO-INICIAL]
+[QR 38: enlace pendiente al recurso correspondiente — QR-LMB-C09-ENFRIADO-INICIAL]
 
 ---
 
@@ -5419,7 +5419,7 @@ Después del horneado, los almidones de la miga comienzan a reorganizarse. Este 
 [FOTO 77: Corte transversal comparativo de bolillo cortado demasiado caliente y bolillo cortado después de enfriar correctamente.]
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-CIENCIA-ENFRIADO]
-[QR 39: enlace pendiente al video correspondiente — QR-LMB-C09-CIENCIA-ENFRIADO]
+[QR 39: enlace pendiente al recurso correspondiente — QR-LMB-C09-CIENCIA-ENFRIADO]
 
 ---
 
@@ -5500,7 +5500,7 @@ El bolillo tradicional pierde crujido con el tiempo. Para conservarlo hasta el d
 [FOTO 78: Comparación de empaque en bolsa de papel, caja ventilada, canasta y bolsa plástica cerrada con condensación.]
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-EMPAQUES-CONSERVACION]
-[QR 40: enlace pendiente al video correspondiente — QR-LMB-C09-EMPAQUES-CONSERVACION]
+[QR 40: enlace pendiente al recurso correspondiente — QR-LMB-C09-EMPAQUES-CONSERVACION]
 
 ---
 
@@ -5654,7 +5654,7 @@ El recalentado no debe usarse para ocultar mala producción, pero sí es una her
 [VIDEO 74: Técnica de recalentado para bolillo de mostrador y bolillo para torta.]
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-RECUPERAR-CRUJIDO]
-[QR 41: enlace pendiente al video correspondiente — QR-LMB-C09-RECUPERAR-CRUJIDO]
+[QR 41: enlace pendiente al recurso correspondiente — QR-LMB-C09-RECUPERAR-CRUJIDO]
 
 ---
 
@@ -5726,7 +5726,7 @@ Durante una semana registra:
 Al final, ajusta tus horarios de producción y venta.
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-BITACORA-VIDA-UTIL]
-[QR 42: enlace pendiente al video correspondiente — QR-LMB-C09-BITACORA-VIDA-UTIL]
+[QR 42: enlace pendiente al recurso correspondiente — QR-LMB-C09-BITACORA-VIDA-UTIL]
 
 ---
 
@@ -9884,3 +9884,255 @@ El lector que ahora cierra estas páginas no recibe una promesa de perfección i
 Que cada práctica sea una lección. Que cada error tenga nombre. Que cada mejora quede registrada. Que cada bolillo lleve la firma invisible de un panadero que trabaja con respeto.
 
 **Fin del Libro Maestro del Bolillo.**
+
+---
+
+## ANEXO — Inventario Multimedia
+
+| Código | Tipo | Capítulo | Descripción del recurso |
+|---|---|---|---|
+| FOTO 01 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Bolillo tradicional terminado sobre mesa de trabajo con luz cálida, corteza dorada, greña visible y migajón expuesto. |
+| VIDEO 01 | Video | Capítulo 1 — Introducción al mundo del bolillo | Bienvenida de Chef Juanote™ al Capítulo 1 y explicación del objetivo del aprendizaje. |
+| QR 01 | QR | Capítulo 1 — Introducción al mundo del bolillo | enlace pendiente al recurso correspondiente — `QR-C01-INTRO` — guía, video, infografía y checklist del capítulo. |
+| FOTO 02 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Chef Juanote™ con mandil junto a una mesa de trabajo con bolillos, harina y herramientas básicas. |
+| VIDEO 02 | Video | Capítulo 1 — Introducción al mundo del bolillo | Chef Juanote™ saluda al alumno y explica la frase “No hay mejor maestro que el error mismo”. |
+| FOTO 03 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Serie comparativa de tres bolillos: correcto, sin corte adecuado y con fermentación deficiente. |
+| VIDEO 03 | Video | Capítulo 1 — Introducción al mundo del bolillo | “Por qué el bolillo parece simple, pero enseña técnica profesional”. |
+| QR 02 | QR | Capítulo 1 — Introducción al mundo del bolillo | enlace pendiente al recurso correspondiente — `QR-M01-BOLILLO-ESCUELA` — video explicativo del bolillo como escuela técnica. |
+| FOTO 04 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Bolillos en canasta tradicional dentro de una panadería mexicana. |
+| VIDEO 04 | Video | Capítulo 1 — Introducción al mundo del bolillo | “El bolillo en la cultura mexicana”. |
+| VIDEO 05 | Video | Capítulo 1 — Introducción al mundo del bolillo | Cómo iniciar una bitácora panadera para el Libro Maestro del Bolillo. |
+| QR 03 | QR | Capítulo 1 — Introducción al mundo del bolillo | enlace pendiente al recurso correspondiente — Plantilla descargable de bitácora del alumno. |
+| FOTO 05 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Comparación entre bolillo ideal y bolillos con defectos comunes. |
+| VIDEO 06 | Video | Capítulo 1 — Introducción al mundo del bolillo | “Cómo observar un bolillo como panadero profesional”, con comparación visual de piezas correctas y defectuosas. |
+| QR 04 | QR | Capítulo 1 — Introducción al mundo del bolillo | enlace pendiente al recurso correspondiente — `QR-LMBP-C01-OBSERVAR` — video de observación profesional y plantilla de bitácora. |
+| VIDEO 07 | Video | Capítulo 1 — Introducción al mundo del bolillo | Animación corta de Boly™ explicando que equivocarse es parte del aprendizaje. |
+| QR 05 | QR | Capítulo 1 — Introducción al mundo del bolillo | enlace pendiente al recurso correspondiente — `QR-C01-BOLY` — preguntas guiadas de Boly™ para observación del capítulo. |
+| FOTO 06 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Bolillo tradicional terminado sobre mesa oscura con luz cálida. |
+| FOTO 07 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Chef Juanote™ junto a mesa de trabajo con bolillos y herramientas básicas. |
+| FOTO 08 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Serie comparativa: bolillo correcto, bolillo sin corte adecuado y bolillo con fermentación deficiente. |
+| FOTO 09 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Bolillos en canasta tradicional dentro de panadería mexicana. |
+| FOTO 10 | Foto | Capítulo 1 — Introducción al mundo del bolillo | Comparación entre bolillo ideal y bolillos con defectos comunes. |
+| VIDEO 08 | Video | Capítulo 1 — Introducción al mundo del bolillo | Bienvenida de Chef Juanote™ al Capítulo 1. |
+| VIDEO 09 | Video | Capítulo 1 — Introducción al mundo del bolillo | “Por qué el bolillo parece simple, pero enseña técnica profesional”. |
+| VIDEO 10 | Video | Capítulo 1 — Introducción al mundo del bolillo | “El bolillo en la cultura mexicana”. |
+| VIDEO 11 | Video | Capítulo 1 — Introducción al mundo del bolillo | Cómo iniciar una bitácora panadera. |
+| VIDEO 12 | Video | Capítulo 1 — Introducción al mundo del bolillo | “Cómo observar un bolillo como panadero profesional”. |
+| VIDEO 13 | Video | Capítulo 1 — Introducción al mundo del bolillo | Animación de Boly™ sobre el valor del error. |
+| FOTO 11 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Mesa de trabajo limpia con báscula, bowl, raspa, charolas, navaja, paños, termómetro, rejilla y horno al fondo. Composición horizontal, luz cálida, estilo obrador mexicano ordenado. |
+| VIDEO 14 | Video | Capítulo 2 — Herramientas esenciales y profesionales | Chef Juanote™ muestra cómo preparar la estación panadera de izquierda a derecha antes de iniciar una receta de bolillo. QR sugerido: `QR-LMB-C02-MESA`. |
+| FOTO 12 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Primer plano de báscula digital marcando gramos, con bowl encima y harina agregándose lentamente. Mostrar mano usando función de tara. |
+| FOTO 13 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Bowl grande al centro, ingredientes en recipientes pequeños y herramientas organizadas alrededor. |
+| VIDEO 15 | Video | Capítulo 2 — Herramientas esenciales y profesionales | Uso de raspa sin maltratar masa. Demostración de levantar masa pegajosa, limpiar mesa y dividir porciones con movimiento firme. |
+| FOTO 14 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Comparativa de manos amasando en mesa limpia y amasadora con gancho trabajando una masa pequeña. |
+| VIDEO 16 | Video | Capítulo 2 — Herramientas esenciales y profesionales | Herramientas de corte y seguridad. Mostrar hoja correcta, hoja gastada, ángulo básico de corte y forma segura de guardar la navaja. La técnica completa se reserva para el Capítulo 8. |
+| FOTO 15 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Comparativa de charola plana y limpia frente a charola deformada u oscura, con etiquetas de riesgo. |
+| VIDEO 17 | Video | Capítulo 2 — Herramientas esenciales y profesionales | Cómo conocer tu horno. Demostración con termómetro de horno, ubicación de charola, prueba de color y registro de zonas calientes. |
+| FOTO 16 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Flujo de trabajo de izquierda a derecha con flechas: pesar, mezclar, amasar, reposar, formar, charola, corte, horno y rejilla. |
+| FOTO 17 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Bolillo con base quemada junto a bolillo corregido. Incluir nota visual de posición de charola. |
+| FOTO 18 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Mesa completa de herramientas esenciales y profesionales. |
+| FOTO 19 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Uso correcto de báscula y tara. |
+| FOTO 20 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Bowl amplio con mise en place de ingredientes. |
+| FOTO 21 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Amasado manual vs amasadora. |
+| FOTO 22 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Charola correcta vs charola incorrecta. |
+| FOTO 23 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Flujo de trabajo de izquierda a derecha. |
+| FOTO 24 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Comparativa de base quemada vs base corregida. |
+| FOTO 25 | Foto | Capítulo 2 — Herramientas esenciales y profesionales | Toma Chef Juanote™ + Boly™ para humanizar la enseñanza del capítulo. |
+| VIDEO 18 | Video | Capítulo 2 — Herramientas esenciales y profesionales | Montaje profesional de mesa de trabajo para bolillo. |
+| VIDEO 19 | Video | Capítulo 2 — Herramientas esenciales y profesionales | Uso de raspa sin maltratar masa. |
+| VIDEO 20 | Video | Capítulo 2 — Herramientas esenciales y profesionales | Herramientas de corte y seguridad. |
+| VIDEO 21 | Video | Capítulo 2 — Herramientas esenciales y profesionales | Cómo conocer tu horno doméstico. |
+| VIDEO 22 | Video | Capítulo 2 — Herramientas esenciales y profesionales | Animación de Boly™: “La herramienta no hace pan, pero evita errores”. |
+| QR 06 | QR | Capítulo 2 — Herramientas esenciales y profesionales | enlace pendiente al recurso correspondiente QR-LMB-C02-MESA — video “Montaje profesional de mesa de trabajo para bolillo”. Debe mostrar mise en place, flujo de herramientas, errores de organización y recomendaciones de seguridad. |
+| FOTO 26 | Foto | Capítulo 3 — Ingredientes del bolillo | Ingredientes base del bolillo organizados en mesa limpia: harina, agua, levadura y sal, cada uno en recipiente transparente e identificado. Luz cálida, estilo obrador mexicano ordenado. |
+| VIDEO 23 | Video | Capítulo 3 — Ingredientes del bolillo | Chef Juanote™ presenta los ingredientes base del bolillo y explica por qué una receta empieza antes de mezclar. QR sugerido: `QR-LMB-C03-INGREDIENTES-BASE`. |
+| FOTO 27 | Foto | Capítulo 3 — Ingredientes del bolillo | Vista cenital de cuatro recipientes etiquetados: harina, agua, levadura y sal. Incluir báscula al centro para reforzar precisión. |
+| FOTO 28 | Foto | Capítulo 3 — Ingredientes del bolillo | Comparativa de harina limpia y suelta vs harina con grumos por humedad. |
+| VIDEO 24 | Video | Capítulo 3 — Ingredientes del bolillo | Cómo revisar harina antes de usarla: olor, textura, fecha, empaque y prueba visual. |
+| FOTO 29 | Foto | Capítulo 3 — Ingredientes del bolillo | Agua medida en recipiente sobre báscula, con termómetro mostrando temperatura. |
+| VIDEO 25 | Video | Capítulo 3 — Ingredientes del bolillo | Cómo ajustar la temperatura del agua según clima y temperatura de la cocina. |
+| FOTO 30 | Foto | Capítulo 3 — Ingredientes del bolillo | Levadura fresca y levadura seca lado a lado, con etiquetas claras y empaque visible. |
+| VIDEO 26 | Video | Capítulo 3 — Ingredientes del bolillo | Levadura fresca vs levadura seca: diferencias de manejo, almacenamiento y señales de calidad. |
+| FOTO 31 | Foto | Capítulo 3 — Ingredientes del bolillo | Sal seca en recipiente pequeño sobre báscula de precisión, junto a etiqueta de lote. |
+| VIDEO 27 | Video | Capítulo 3 — Ingredientes del bolillo | Por qué la sal importa en el bolillo más allá del sabor. |
+| FOTO 32 | Foto | Capítulo 3 — Ingredientes del bolillo | Azúcar, grasa y mejorante identificados por separado, con etiquetas de “solo si la fórmula lo requiere”. |
+| VIDEO 28 | Video | Capítulo 3 — Ingredientes del bolillo | Ingredientes de apoyo: cuándo ayudan y cuándo confunden al aprendiz. |
+| FOTO 33 | Foto | Capítulo 3 — Ingredientes del bolillo | Ingredientes opcionales para variantes de bolillo en recipientes pequeños: semillas, hierbas, ajo, cebolla y granos. |
+| VIDEO 29 | Video | Capítulo 3 — Ingredientes del bolillo | Cómo probar ingredientes opcionales sin descontrolar la masa. |
+| FOTO 34 | Foto | Capítulo 3 — Ingredientes del bolillo | Mano del panadero revisando etiqueta, fecha y estado de un ingrediente antes de pesarlo. |
+| VIDEO 30 | Video | Capítulo 3 — Ingredientes del bolillo | Rutina de revisión de ingredientes en menos de tres minutos. |
+| FOTO 35 | Foto | Capítulo 3 — Ingredientes del bolillo | Estante limpio con ingredientes en contenedores cerrados, etiquetados con nombre y fecha de apertura. |
+| VIDEO 31 | Video | Capítulo 3 — Ingredientes del bolillo | Cómo organizar y rotar ingredientes para producción doméstica o pequeña panadería. |
+| FOTO 36 | Foto | Capítulo 3 — Ingredientes del bolillo | Comparativa de bolillo pálido y bajo volumen vs bolillo corregido, con etiquetas de variables revisadas. |
+| VIDEO 32 | Video | Capítulo 3 — Ingredientes del bolillo | Chef Juanote™ realiza el laboratorio de inspección de ingredientes y muestra cómo llenar la tabla. |
+| QR 07 | QR | Capítulo 3 — Ingredientes del bolillo | enlace pendiente al recurso correspondiente — `QR-LMB-C03-LAB-INGREDIENTES` — plantilla descargable de inspección y bitácora de ingredientes. |
+| VIDEO 33 | Video | Capítulo 3 — Ingredientes del bolillo | Animación de Boly™: “Antes de culpar a la masa, revisa ingredientes”. |
+| FOTO 37 | Foto | Capítulo 3 — Ingredientes del bolillo | Ingredientes base del bolillo organizados y etiquetados. |
+| FOTO 38 | Foto | Capítulo 3 — Ingredientes del bolillo | Harina limpia vs harina con grumos por humedad. |
+| FOTO 39 | Foto | Capítulo 3 — Ingredientes del bolillo | Agua medida con báscula y termómetro. |
+| FOTO 40 | Foto | Capítulo 3 — Ingredientes del bolillo | Levadura fresca vs levadura seca. |
+| FOTO 41 | Foto | Capítulo 3 — Ingredientes del bolillo | Sal seca pesada con precisión. |
+| FOTO 42 | Foto | Capítulo 3 — Ingredientes del bolillo | Ingredientes de apoyo: azúcar, grasa y mejorante. |
+| FOTO 43 | Foto | Capítulo 3 — Ingredientes del bolillo | Ingredientes opcionales para variantes. |
+| FOTO 44 | Foto | Capítulo 3 — Ingredientes del bolillo | Estante de almacenamiento con recipientes cerrados y etiquetados. |
+| FOTO 45 | Foto | Capítulo 3 — Ingredientes del bolillo | Bolillo defectuoso por ingredientes vs lote corregido. |
+| VIDEO 34 | Video | Capítulo 3 — Ingredientes del bolillo | Ingredientes base del bolillo. |
+| VIDEO 35 | Video | Capítulo 3 — Ingredientes del bolillo | Cómo revisar harina antes de usar. |
+| VIDEO 36 | Video | Capítulo 3 — Ingredientes del bolillo | Cómo controlar temperatura del agua. |
+| VIDEO 37 | Video | Capítulo 3 — Ingredientes del bolillo | Levadura fresca vs levadura seca. |
+| VIDEO 38 | Video | Capítulo 3 — Ingredientes del bolillo | Por qué la sal importa. |
+| VIDEO 39 | Video | Capítulo 3 — Ingredientes del bolillo | Ingredientes de apoyo: azúcar, grasas y mejorantes. |
+| VIDEO 40 | Video | Capítulo 3 — Ingredientes del bolillo | Cómo almacenar ingredientes correctamente. |
+| VIDEO 41 | Video | Capítulo 3 — Ingredientes del bolillo | Laboratorio de inspección de ingredientes. |
+| VIDEO 42 | Video | Capítulo 3 — Ingredientes del bolillo | Animación de Boly™ sobre errores comunes con ingredientes. |
+| QR 08 | QR | Capítulo 3 — Ingredientes del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C03-INGREDIENTES-BASE — video “Ingredientes base del bolillo”. Debe mostrar revisión, pesado, calidad, almacenamiento y relación con errores comunes. |
+| QR 09 | QR | Capítulo 3 — Ingredientes del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C03-LAB-INGREDIENTES — plantilla descargable de inspección y bitácora de ingredientes. |
+| FOTO 46 | Foto | Capítulo 4 — Amasado profesional | mesa de trabajo con ingredientes recién integrados, antes del desarrollo de gluten. |
+| VIDEO 43 | Video | Capítulo 4 — Amasado profesional | demostración completa de mezcla inicial, amasado y prueba de membrana. |
+| FOTO 47 | Foto | Capítulo 4 — Amasado profesional | masa recién mezclada con textura irregular. |
+| VIDEO 44 | Video | Capítulo 4 — Amasado profesional | comparación en tiempo real entre masa subdesarrollada, masa lista y masa sobreamasada. |
+| FOTO 48 | Foto | Capítulo 4 — Amasado profesional | termómetro insertado en masa recién amasada. |
+| VIDEO 45 | Video | Capítulo 4 — Amasado profesional | técnica de amasado manual con empuje, doblez, giro y uso de raspa. |
+| FOTO 49 | Foto | Capítulo 4 — Amasado profesional | masa separándose del tazón en amasadora durante desarrollo medio. |
+| VIDEO 46 | Video | Capítulo 4 — Amasado profesional | puntos de revisión en amasadora: minuto inicial, medio y final. |
+| FOTO 50 | Foto | Capítulo 4 — Amasado profesional | secuencia de prueba de membrana correcta e incorrecta. |
+| FOTO 51 | Foto | Capítulo 4 — Amasado profesional | huella de dedo en masa con respuesta elástica adecuada. |
+| VIDEO 47 | Video | Capítulo 4 — Amasado profesional | ejercicio guiado de bitácora y comparación de muestras. |
+| QR 10 | QR | Capítulo 4 — Amasado profesional | enlace pendiente al recurso correspondiente QR-LMB-C04-AMASADO-PRO — video “Amasado profesional del bolillo: de mezcla a membrana”. Debe mostrar amasado manual, amasadora, temperatura final y prueba de membrana. |
+| QR 11 | QR | Capítulo 4 — Amasado profesional | enlace pendiente al recurso correspondiente QR-LMB-C04-BITACORA-MASA — plantilla descargable para registrar hidratación, tiempo, temperatura, sensación de masa y resultado. |
+| FOTO 52 | Foto | Capítulo 5 — Fermentación profesional | masa de bolillo en contenedor transparente mostrando nivel inicial y nivel fermentado, con marcas de volumen visibles. |
+| VIDEO 48 | Video | Capítulo 5 — Fermentación profesional | Chef Juanote™ explica la fermentación profesional del bolillo con comparación de masa joven, lista y pasada. |
+| QR 12 | QR | Capítulo 5 — Fermentación profesional | enlace pendiente al recurso correspondiente QR-LMB-C05-FERMENTACION-PRO — video principal del capítulo, checklist y bitácora descargable de fermentación. |
+| FOTO 53 | Foto | Capítulo 5 — Fermentación profesional | comparación visual de tres contenedores: masa poco fermentada, masa en punto y masa sobrefermentada. |
+| VIDEO 49 | Video | Capítulo 5 — Fermentación profesional | primera fermentación en bloque con marcas de volumen, prueba de tacto y registro en bitácora. |
+| FOTO 54 | Foto | Capítulo 5 — Fermentación profesional | termómetro junto a masa cubierta en fermentación, con bitácora abierta al lado. |
+| VIDEO 50 | Video | Capítulo 5 — Fermentación profesional | cómo cubrir masa correctamente durante fermentación y errores de paños secos, aire directo y recipientes abiertos. |
+| FOTO 55 | Foto | Capítulo 5 — Fermentación profesional | prueba de presión en masa subfermentada, correcta y sobrefermentada. |
+| FOTO 56 | Foto | Capítulo 5 — Fermentación profesional | charola con bolillos formados al inicio y al final de fermentación final, con espacio entre piezas. |
+| VIDEO 51 | Video | Capítulo 5 — Fermentación profesional | señales de fermentación final antes del corte del bolillo. |
+| FOTO 57 | Foto | Capítulo 5 — Fermentación profesional | dos estaciones de fermentación: una protegida de frío y otra controlada en ambiente cálido, con termómetro visible. |
+| QR 13 | QR | Capítulo 5 — Fermentación profesional | enlace pendiente al recurso correspondiente QR-LMB-C05-BITACORA-FERMENTACION — plantilla descargable para registrar temperaturas, tiempos y señales de masa. |
+| FOTO 58 | Foto | Capítulo 5 — Fermentación profesional | bolillo aplanado por sobrefermentación frente a bolillo corregido con buena tensión y greña abierta. |
+| VIDEO 52 | Video | Capítulo 5 — Fermentación profesional | laboratorio comparativo de subfermentación, punto correcto y sobrefermentación. |
+| QR 14 | QR | Capítulo 5 — Fermentación profesional | enlace pendiente al recurso correspondiente QR-LMB-C05-LAB-TRES-PUNTOS — guía descargable del laboratorio con tabla de observación. |
+| VIDEO 53 | Video | Capítulo 5 — Fermentación profesional | animación de Boly™ explicando “el reloj orienta, la masa confirma”. |
+| QR 15 | QR | Capítulo 5 — Fermentación profesional | enlace pendiente al recurso correspondiente QR-LMB-C05-FERMENTACION-PRO — video “Fermentación profesional del bolillo: tiempo, temperatura y punto de masa”. Debe mostrar primera fermentación, prueba de presión, fermentación final y errores comunes. |
+| QR 16 | QR | Capítulo 5 — Fermentación profesional | enlace pendiente al recurso correspondiente QR-LMB-C05-BITACORA-FERMENTACION — plantilla descargable para registrar temperaturas, tiempos, señales sensoriales y resultado final. |
+| QR 17 | QR | Capítulo 5 — Fermentación profesional | enlace pendiente al recurso correspondiente QR-LMB-C05-LAB-TRES-PUNTOS — laboratorio comparativo de subfermentación, punto correcto y sobrefermentación. |
+| FOTO 59 | Foto | Capítulo 6 — División, boleado y formado | mesa de trabajo con masa fermentada, báscula, raspa, piezas divididas y bolillos ya formados en secuencia. |
+| VIDEO 54 | Video | Capítulo 6 — División, boleado y formado | Chef Juanote™ demuestra división, boleado, reposo intermedio y formado completo del bolillo. |
+| QR 18 | QR | Capítulo 6 — División, boleado y formado | enlace pendiente al recurso correspondiente QR-LMB-C06-FORMADO-PRO — video principal del capítulo, checklist de formado y plantilla de control de pesos. |
+| FOTO 60 | Foto | Capítulo 6 — División, boleado y formado | estación de división ordenada con báscula, raspa, charola, paño y bitácora. |
+| VIDEO 55 | Video | Capítulo 6 — División, boleado y formado | división con báscula, ajuste de peso y manejo correcto de recortes. |
+| FOTO 61 | Foto | Capítulo 6 — División, boleado y formado | secuencia de ajuste de peso correcto e incorrecto, mostrando recorte integrado y recorte visible. |
+| VIDEO 56 | Video | Capítulo 6 — División, boleado y formado | boleado manual visto desde arriba y de perfil, con comparación de tensión correcta e incorrecta. |
+| FOTO 62 | Foto | Capítulo 6 — División, boleado y formado | piezas boleadas cubiertas durante reposo intermedio, con temporizador y paño limpio. |
+| VIDEO 57 | Video | Capítulo 6 — División, boleado y formado | formado final del bolillo en cámara lenta, mostrando sellado, alargado y puntas. |
+| FOTO 63 | Foto | Capítulo 6 — División, boleado y formado | comparación lateral de tres bolillos formados con baja tensión, tensión correcta y exceso de tensión. |
+| VIDEO 58 | Video | Capítulo 6 — División, boleado y formado | demostración de formado con poca harina vs exceso de harina y sus consecuencias. |
+| FOTO 64 | Foto | Capítulo 6 — División, boleado y formado | charola con bolillos correctamente espaciados y orientados, junto a ejemplo de piezas demasiado juntas. |
+| FOTO 65 | Foto | Capítulo 6 — División, boleado y formado | comparación de bolillo plano por falta de tensión contra bolillo con formado corregido y mayor altura. |
+| VIDEO 59 | Video | Capítulo 6 — División, boleado y formado | laboratorio comparativo de tensión baja, correcta y excesiva en bolillo. |
+| QR 19 | QR | Capítulo 6 — División, boleado y formado | enlace pendiente al recurso correspondiente QR-LMB-C06-LAB-TENSION — guía descargable del laboratorio con tabla de observación y fotos comparativas. |
+| QR 20 | QR | Capítulo 6 — División, boleado y formado | enlace pendiente al recurso correspondiente QR-LMB-C06-BITACORA-FORMADO — plantilla descargable para registrar pesos, reposos, tensión y resultado de formado. |
+| VIDEO 60 | Video | Capítulo 6 — División, boleado y formado | animación de Boly™ explicando “peso igual, tensión igual, horneado más parejo”. |
+| QR 21 | QR | Capítulo 6 — División, boleado y formado | enlace pendiente al recurso correspondiente QR-LMB-C06-FORMADO-PRO — video “División, boleado y formado profesional del bolillo”. Debe mostrar preparación de mesa, división por peso, boleado, reposo intermedio, formado final y acomodo en charola. |
+| QR 22 | QR | Capítulo 6 — División, boleado y formado | enlace pendiente al recurso correspondiente QR-LMB-C06-BITACORA-FORMADO — plantilla descargable para registrar peso objetivo, variación entre piezas, reposo, tensión y resultado final. |
+| QR 23 | QR | Capítulo 6 — División, boleado y formado | enlace pendiente al recurso correspondiente QR-LMB-C06-LAB-TENSION — laboratorio comparativo de baja tensión, tensión correcta y exceso de tensión. |
+| FOTO 66 | Foto | Capítulo 7 — Horneado profesional | Chef Juanote™ frente a un horno precalentado, con charola de bolillos formados listos para entrar. Mostrar guantes, pala o charola y termómetro de horno. |
+| VIDEO 61 | Video | Capítulo 7 — Horneado profesional | Bienvenida de Chef Juanote™ al Capítulo 7. Explicación breve: “El horneado profesional empieza antes de abrir la puerta del horno”. QR sugerido: `QR-LMB-C07-BIENVENIDA-HORNO`. |
+| FOTO 67 | Foto | Capítulo 7 — Horneado profesional | Termómetro de horno mostrando temperatura real junto al panel del horno para comparar diferencia entre lectura interna y ajuste del equipo. |
+| VIDEO 62 | Video | Capítulo 7 — Horneado profesional | Prueba de precalentamiento real con termómetro independiente en horno doméstico y horno profesional. |
+| VIDEO 63 | Video | Capítulo 7 — Horneado profesional | Demostración segura de generación de vapor en horno doméstico, con enfoque en prevención de quemaduras. QR sugerido: `QR-LMB-C07-SEGURIDAD-VAPOR`. |
+| FOTO 68 | Foto | Capítulo 7 — Horneado profesional | Secuencia de carga de horno: charola lista, puerta abierta, entrada nivelada y cierre inmediato. |
+| QR 24 | QR | Capítulo 7 — Horneado profesional | enlace pendiente al recurso correspondiente C07-QR01 — Calculadora descargable de tiempos orientativos por peso, tipo de horno y nivel de carga. Código sugerido: `QR-LMB-C07-TIEMPO-TEMPERATURA`. |
+| FOTO 69 | Foto | Capítulo 7 — Horneado profesional | Escala de color de bolillo de pálido a dorado profundo, con etiquetas técnicas. |
+| VIDEO 64 | Video | Capítulo 7 — Horneado profesional | Chef Juanote™ demuestra pruebas de cocción: color, base, sonido, peso y temperatura interna. |
+| FOTO 70 | Foto | Capítulo 7 — Horneado profesional | Mapa de zonas calientes en una charola: piezas más doradas atrás, más pálidas adelante, con flechas de rotación sugerida. |
+| VIDEO 65 | Video | Capítulo 7 — Horneado profesional | Comparación de bolillos enfriados en rejilla, apilados calientes y embolsados demasiado pronto. |
+| QR 25 | QR | Capítulo 7 — Horneado profesional | enlace pendiente al recurso correspondiente C07-QR02 — Caso descargable “Tanda de 60 bolillos: diagnóstico de base oscura y corteza blanda”. Código sugerido: `QR-LMB-C07-CASO-60`. |
+| FOTO 71 | Foto | Capítulo 7 — Horneado profesional | Producción casera de tres tandas numeradas con bitácora visible: tanda 1, tanda 2 y tanda 3. |
+| VIDEO 66 | Video | Capítulo 7 — Horneado profesional | Laboratorio comparativo de tres condiciones de horneado con resultados lado a lado. |
+| QR 26 | QR | Capítulo 7 — Horneado profesional | enlace pendiente al recurso correspondiente C07-QR03 — Plantilla descargable del laboratorio “Tres condiciones de horneado”. Código sugerido: `QR-LMB-C07-LAB-HORNO`. |
+| VIDEO 67 | Video | Capítulo 7 — Horneado profesional | Animación de Boly™ explicando “calor inicial, vapor breve y secado final”. |
+| QR 27 | QR | Capítulo 7 — Horneado profesional | enlace pendiente al recurso correspondiente C07-QR04 — Preguntas interactivas de Boly™ para diagnosticar fallas de horneado. Código sugerido: `QR-LMB-C07-BOLY-DIAGNOSTICO`. |
+| QR 28 | QR | Capítulo 7 — Horneado profesional | enlace pendiente al recurso correspondiente QR-LMB-C07-HORNEADO-PRO — video principal “Horneado profesional del bolillo: precalentamiento, vapor, expansión y corteza”. Debe mostrar preparación del horno, carga, vapor seguro, lectura de color, prueba de base y enfriamiento. |
+| QR 29 | QR | Capítulo 7 — Horneado profesional | enlace pendiente al recurso correspondiente QR-LMB-C07-SEGURIDAD-VAPOR — cápsula de seguridad para generar vapor sin quemaduras en horno doméstico y profesional. |
+| QR 30 | QR | Capítulo 7 — Horneado profesional | enlace pendiente al recurso correspondiente QR-LMB-C07-BITACORA-HORNO — plantilla descargable para registrar temperatura, vapor, tiempo, carga, color, base y crujido. |
+| QR 31 | QR | Capítulo 7 — Horneado profesional | enlace pendiente al recurso correspondiente QR-LMB-C07-DIAGNOSTICO — guía interactiva de Boly™ para resolver fallas frecuentes de horneado. |
+| FOTO 72 | Foto | Capítulo 8 — Corte profesional del bolillo | Bolillos correctamente greñados antes de entrar al horno, vistos desde arriba. Incluir comparación con piezas sin corte. |
+| VIDEO 68 | Video | Capítulo 8 — Corte profesional del bolillo | Introducción del Chef Juanote™ al corte profesional del bolillo. Mostrar herramienta, postura de mano, movimiento y resultado horneado. QR sugerido: `QR-LMB-C08-INTRO-CORTE`. |
+| QR 32 | QR | Capítulo 8 — Corte profesional del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C08-INTRO-CORTE — Enlace a video de bienvenida y demostración general del capítulo. |
+| FOTO 73 | Foto | Capítulo 8 — Corte profesional del bolillo | Comparativa de herramientas: lame profesional, hoja nueva, cuchillo filoso y cuchillo sin filo. Incluir señal visual de herramienta recomendada y no recomendada. |
+| VIDEO 69 | Video | Capítulo 8 — Corte profesional del bolillo | Cómo montar, limpiar, manipular y guardar una navaja de panadero con seguridad. QR sugerido: `QR-LMB-C08-HERRAMIENTA-SEGURA`. |
+| QR 33 | QR | Capítulo 8 — Corte profesional del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C08-HERRAMIENTA-SEGURA — Enlace a cápsula de seguridad y mantenimiento de la herramienta de corte. |
+| VIDEO 70 | Video | Capítulo 8 — Corte profesional del bolillo | Prueba táctil antes del corte: subfermentado, punto ideal y sobrefermentado. QR sugerido: `QR-LMB-C08-PUNTO-CORTE`. |
+| QR 34 | QR | Capítulo 8 — Corte profesional del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C08-PUNTO-CORTE — Enlace a guía visual interactiva para decidir si el bolillo está listo para greñar. |
+| FOTO 74 | Foto | Capítulo 8 — Corte profesional del bolillo | Secuencia fotográfica de ocho pasos del corte profesional, desde preparación hasta carga al horno. |
+| VIDEO 71 | Video | Capítulo 8 — Corte profesional del bolillo | Demostración en cámara lenta del movimiento correcto de la navaja. QR sugerido: `QR-LMB-C08-CORTE-LENTO`. |
+| QR 35 | QR | Capítulo 8 — Corte profesional del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C08-CORTE-LENTO — Enlace a video en cámara lenta con vista superior y lateral. |
+| FOTO 75 | Foto | Capítulo 8 — Corte profesional del bolillo | Panel comparativo de greñas: correcta, cerrada, explosiva, pálida, desviada y con reventón inferior. |
+| QR 36 | QR | Capítulo 8 — Corte profesional del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C08-DIAGNOSTICO-GRENA — Enlace a guía visual de diagnóstico de greña. |
+| QR 37 | QR | Capítulo 8 — Corte profesional del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C08-BITACORA-GRENA — Plantilla descargable para registrar corte, fermentación, vapor y resultado de greña. |
+| FOTO 76 | Foto | Capítulo 9 — Enfriado y conservación | Bolillos recién salidos del horno sobre rejilla de enfriado, separados entre sí, con vapor visible y corteza brillante. |
+| VIDEO 72 | Video | Capítulo 9 — Enfriado y conservación | Transición completa desde salida del horno hasta enfriado correcto en rejilla, mostrando tiempos reales y errores de apilado. |
+| QR 38 | QR | Capítulo 9 — Enfriado y conservación | enlace pendiente al recurso correspondiente — QR-LMB-C09-ENFRIADO-INICIAL |
+| FOTO 77 | Foto | Capítulo 9 — Enfriado y conservación | Corte transversal comparativo de bolillo cortado demasiado caliente y bolillo cortado después de enfriar correctamente. |
+| QR 39 | QR | Capítulo 9 — Enfriado y conservación | enlace pendiente al recurso correspondiente — QR-LMB-C09-CIENCIA-ENFRIADO |
+| VIDEO 73 | Video | Capítulo 9 — Enfriado y conservación | Procedimiento correcto de descarga del horno, acomodo en rejilla y separación profesional de piezas. |
+| FOTO 78 | Foto | Capítulo 9 — Enfriado y conservación | Comparación de empaque en bolsa de papel, caja ventilada, canasta y bolsa plástica cerrada con condensación. |
+| QR 40 | QR | Capítulo 9 — Enfriado y conservación | enlace pendiente al recurso correspondiente — QR-LMB-C09-EMPAQUES-CONSERVACION |
+| FOTO 79 | Foto | Capítulo 9 — Enfriado y conservación | Bolillo antes y después de recuperación de crujido en horno. |
+| VIDEO 74 | Video | Capítulo 9 — Enfriado y conservación | Técnica de recalentado para bolillo de mostrador y bolillo para torta. |
+| QR 41 | QR | Capítulo 9 — Enfriado y conservación | enlace pendiente al recurso correspondiente — QR-LMB-C09-RECUPERAR-CRUJIDO |
+| QR 42 | QR | Capítulo 9 — Enfriado y conservación | enlace pendiente al recurso correspondiente — QR-LMB-C09-BITACORA-VIDA-UTIL |
+| FOTO 80 | Foto | Capítulo 9 — Enfriado y conservación | Estación profesional de enfriado con rejillas limpias, guantes, pinzas, cajas ventiladas y etiquetas de tanda. |
+| VIDEO 75 | Video | Capítulo 9 — Enfriado y conservación | Buenas prácticas de higiene en enfriado, empaque y despacho de bolillo. |
+| FOTO 81 | Foto | Capítulo 10 — Diagnóstico, errores y soluciones | Mesa de diagnóstico con bolillos de diferentes defectos: pálidos, reventados, planos, duros, arrugados y con buena referencia profesional. |
+| VIDEO 76 | Video | Capítulo 10 — Diagnóstico, errores y soluciones | Introducción del Chef Juanote™ al diagnóstico integral del bolillo. Mostrar cómo observar una pieza desde corteza, base, greña, volumen y miga. QR sugerido: `QR-LMB-C10-INTRO-DIAGNOSTICO`. |
+| QR 43 | QR | Capítulo 10 — Diagnóstico, errores y soluciones | enlace pendiente al recurso correspondiente QR-LMB-C10-INTRO-DIAGNOSTICO — Enlace a video de bienvenida y recorrido visual del capítulo. |
+| FOTO 82 | Foto | Capítulo 10 — Diagnóstico, errores y soluciones | Secuencia de diagnóstico sensorial: vista superior, base, corte lateral y miga abierta. |
+| FOTO 83 | Foto | Capítulo 10 — Diagnóstico, errores y soluciones | Comparativo de migas: correcta, compacta, gomosa, seca y con huecos irregulares. |
+| FOTO 84 | Foto | Capítulo 10 — Diagnóstico, errores y soluciones | Plantilla visual de cinco fotografías obligatorias para diagnóstico de tanda. |
+| VIDEO 77 | Video | Capítulo 10 — Diagnóstico, errores y soluciones | Diagnóstico completo de una tanda defectuosa usando fotografías, corte de miga y bitácora. QR sugerido: `QR-LMB-C10-DIAGNOSTICO-TANDA`. |
+| QR 44 | QR | Capítulo 10 — Diagnóstico, errores y soluciones | enlace pendiente al recurso correspondiente QR-LMB-C10-DIAGNOSTICO-TANDA — Enlace a demostración paso a paso del diagnóstico profesional. |
+| QR 45 | QR | Capítulo 10 — Diagnóstico, errores y soluciones | enlace pendiente al recurso correspondiente QR-LMB-C10-CHECKLIST-DIAGNOSTICO — Descargar checklist imprimible para obrador. |
+| FOTO 85 | Foto | Capítulo 10 — Diagnóstico, errores y soluciones | Tabla impresa de diagnóstico colocada en pared de obrador junto a báscula y bitácora. |
+| VIDEO 78 | Video | Capítulo 10 — Diagnóstico, errores y soluciones | Ejercicio de cata técnica y diagnóstico en equipo. QR sugerido: `QR-LMB-C10-CATA-TECNICA`. |
+| QR 46 | QR | Capítulo 10 — Diagnóstico, errores y soluciones | enlace pendiente al recurso correspondiente QR-LMB-C10-CATA-TECNICA — Enlace a formato guiado de evaluación sensorial. |
+| QR 47 | QR | Capítulo 10 — Diagnóstico, errores y soluciones | enlace pendiente al recurso correspondiente QR-LMB-C10-BITACORA-PRODUCCION — Descargar plantilla editable de bitácora profesional. |
+| FOTO 86 | Foto | Capítulo 11 — Variantes profesionales del bolillo | Bolillo con ajonjolí externo, corte limpio y greña visible. |
+| VIDEO 79 | Video | Capítulo 11 — Variantes profesionales del bolillo | Cómo adherir ajonjolí sin deformar el bolillo. QR sugerido: `QR-LMB-C11-AJONJOLI`. |
+| QR 48 | QR | Capítulo 11 — Variantes profesionales del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C11-MASA-VIEJA — Ficha descargable para control de masa vieja. |
+| FOTO 87 | Foto | Capítulo 11 — Variantes profesionales del bolillo | Comparativo de bolillo estándar, banquetero y mini botanero con regla de escala. |
+| VIDEO 80 | Video | Capítulo 11 — Variantes profesionales del bolillo | División y formado rápido de mini bolillos para evento. QR sugerido: `QR-LMB-C11-MINI-BOLILLO`. |
+| FOTO 88 | Foto | Capítulo 11 — Variantes profesionales del bolillo | Comparativo entre bolillo precocido pálido y bolillo terminado con color final. |
+| QR 49 | QR | Capítulo 11 — Variantes profesionales del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C11-PRECOCIDO — Diagrama de flujo para producción diferida. |
+| QR 50 | QR | Capítulo 11 — Variantes profesionales del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C11-FICHA-VARIANTE — Descargar plantilla editable de ficha técnica para variantes. |
+| VIDEO 81 | Video | Capítulo 11 — Variantes profesionales del bolillo | Cómo llenar ficha técnica y evaluar vida útil. QR sugerido: `QR-LMB-C11-CATA-VARIANTES`. |
+| QR 51 | QR | Capítulo 11 — Variantes profesionales del bolillo | enlace pendiente al recurso correspondiente QR-LMB-C11-CHECKLIST-VARIANTES — Descargar checklist imprimible para lanzamiento de variantes. |
+| FOTO 89 | Foto | Capítulo 12 — Producción profesional completa | Obrador profesional organizado antes de iniciar producción de bolillo, con mesas limpias, ingredientes pesados, charolas y bitácora visible. |
+| VIDEO 82 | Video | Capítulo 12 — Producción profesional completa | Introducción de Chef Juanote™ a la producción profesional completa de bolillo. |
+| QR 52 | QR | Capítulo 12 — Producción profesional completa | enlace pendiente al recurso correspondiente QR-LMB-C12-INICIO — Video de bienvenida, plantilla de plan de producción y checklist profesional del capítulo. |
+| FOTO 90 | Foto | Capítulo 12 — Producción profesional completa | Termómetro midiendo temperatura final de masa en una producción grande. |
+| VIDEO 83 | Video | Capítulo 12 — Producción profesional completa | Cómo medir temperatura de masa y ajustar agua en producción. |
+| QR 53 | QR | Capítulo 12 — Producción profesional completa | enlace pendiente al recurso correspondiente QR-LMB-C12-DEMANDA — Plantilla editable para pronóstico diario de bolillo. |
+| FOTO 91 | Foto | Capítulo 12 — Producción profesional completa | Diagrama visual del flujo del obrador desde ingredientes hasta exhibición. |
+| VIDEO 84 | Video | Capítulo 12 — Producción profesional completa | Recorrido por un obrador mostrando flujo correcto de producción. |
+| QR 54 | QR | Capítulo 12 — Producción profesional completa | enlace pendiente al recurso correspondiente QR-LMB-C12-CRONOGRAMA — Formato imprimible de cronograma por tandas. |
+| FOTO 92 | Foto | Capítulo 12 — Producción profesional completa | Charola con bolillos uniformes y una pieza defectuosa marcada para análisis. |
+| VIDEO 85 | Video | Capítulo 12 — Producción profesional completa | Producción completa de una tanda profesional desde mise en place hasta enfriado. |
+| QR 55 | QR | Capítulo 12 — Producción profesional completa | enlace pendiente al recurso correspondiente QR-LMB-C12-FICHA-PRODUCCION — Descargar ficha profesional de producción diaria. |
+| VIDEO 86 | Video | Capítulo 12 — Producción profesional completa | Cómo llenar ejercicios de producción y analizar resultados. |
+| FOTO 93 | Foto | Capítulo 12 — Producción profesional completa | Secuencia completa de laboratorio guiado con seis fotografías del proceso. |
+| QR 56 | QR | Capítulo 12 — Producción profesional completa | enlace pendiente al recurso correspondiente QR-LMB-C12-LABORATORIO — Carpeta de evidencias y formato de evaluación del laboratorio. |
+| QR 57 | QR | Capítulo 12 — Producción profesional completa | enlace pendiente al recurso correspondiente QR-LMB-C12-CHECKLIST — Checklist imprimible de producción profesional completa. |
+| QR 58 | QR | Capítulo 13 — Certificación profesional del panadero | enlace pendiente al recurso correspondiente QR-LMB-C13-INICIO — Video introductorio a la certificación profesional del panadero. |
+| QR 59 | QR | Capítulo 13 — Certificación profesional del panadero | enlace pendiente al recurso correspondiente QR-LMB-C13-CARPETA — Plantilla descargable de carpeta técnica para certificación. |
+| QR 60 | QR | Capítulo 13 — Certificación profesional del panadero | enlace pendiente al recurso correspondiente QR-LMB-C13-RUBRICA — Rúbrica imprimible de certificación profesional del bolillo. |
+| QR 61 | QR | Capítulo 13 — Certificación profesional del panadero | enlace pendiente al recurso correspondiente QR-LMB-C13-EJERCICIOS — Formatos descargables para simulacros y ejercicios de certificación. |
+| QR 62 | QR | Capítulo 13 — Certificación profesional del panadero | enlace pendiente al recurso correspondiente QR-LMB-C13-CHECKLIST — Checklist imprimible para día de certificación. |
+| QR 63 | QR | Capítulo 14 — Futuro, negocio y expansión del panadero | enlace pendiente al recurso correspondiente QR-LMB-C14-INICIO — Mensaje final del Chef Juanote™ y bienvenida al plan de crecimiento profesional. |
+| QR 64 | QR | Capítulo 14 — Futuro, negocio y expansión del panadero | enlace pendiente al recurso correspondiente QR-LMB-C14-ERRORES — Tabla imprimible de errores críticos del bolillo. |
+| QR 65 | QR | Capítulo 14 — Futuro, negocio y expansión del panadero | enlace pendiente al recurso correspondiente QR-LMB-C14-CHECKLIST — Checklist final descargable de dominio del bolillo. |
+| QR 66 | QR | Capítulo 14 — Futuro, negocio y expansión del panadero | enlace pendiente al recurso correspondiente QR-LMB-C14-MENSAJE-FINAL — Despedida multimedia del Chef Juanote™ y Boly™. |
