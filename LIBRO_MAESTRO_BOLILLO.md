@@ -95,10 +95,13 @@ Al terminar este capítulo, el alumno debe poder:
 - Preparar una bitácora para registrar prácticas, dudas y resultados.
 
 [FOTOGRAFÍA PENDIENTE: Bolillo tradicional terminado sobre mesa de trabajo con luz cálida, corteza dorada, greña visible y migajón expuesto.]
+[FOTO 01: Bolillo tradicional terminado sobre mesa de trabajo con luz cálida, corteza dorada, greña visible y migajón expuesto.]
 
 [VIDEO PENDIENTE: Bienvenida de Chef Juanote™ al Capítulo 1 y explicación del objetivo del aprendizaje.]
+[VIDEO 01: Bienvenida de Chef Juanote™ al Capítulo 1 y explicación del objetivo del aprendizaje.]
 
 [QR PENDIENTE: `QR-C01-INTRO` — guía, video, infografía y checklist del capítulo.]
+[QR 01: enlace pendiente al video correspondiente — `QR-C01-INTRO` — guía, video, infografía y checklist del capítulo.]
 
 ---
 
@@ -123,8 +126,10 @@ La clave no es evitar todo error desde el primer día. La clave es aprender a le
 > ¡Qué tal, camarada! Yo soy Boly™, tu compañero oficial de aprendizaje. En este capítulo no vengo a corregirte de inmediato; primero voy a ayudarte a observar. Antes de preguntar “¿qué hice mal?”, pregunta: “¿qué estoy viendo?”.
 
 [FOTOGRAFÍA PENDIENTE: Chef Juanote™ con mandil junto a una mesa de trabajo con bolillos, harina y herramientas básicas.]
+[FOTO 02: Chef Juanote™ con mandil junto a una mesa de trabajo con bolillos, harina y herramientas básicas.]
 
 [VIDEO PENDIENTE: Chef Juanote™ saluda al alumno y explica la frase “No hay mejor maestro que el error mismo”.]
+[VIDEO 02: Chef Juanote™ saluda al alumno y explica la frase “No hay mejor maestro que el error mismo”.]
 
 ---
 
@@ -153,10 +158,13 @@ Cada paso afecta al siguiente. Si pesas mal, la masa cambia. Si amasas poco, la 
 Por eso el bolillo es una escuela. Enseña porque exige atención, responde a lo que haces y muestra tus errores sin disfrazarlos.
 
 [FOTOGRAFÍA PENDIENTE: Serie comparativa de tres bolillos: correcto, sin corte adecuado y con fermentación deficiente.]
+[FOTO 03: Serie comparativa de tres bolillos: correcto, sin corte adecuado y con fermentación deficiente.]
 
 [VIDEO PENDIENTE: “Por qué el bolillo parece simple, pero enseña técnica profesional”.]
+[VIDEO 03: “Por qué el bolillo parece simple, pero enseña técnica profesional”.]
 
 [QR PENDIENTE: `QR-M01-BOLILLO-ESCUELA` — video explicativo del bolillo como escuela técnica.]
+[QR 02: enlace pendiente al video correspondiente — `QR-M01-BOLILLO-ESCUELA` — video explicativo del bolillo como escuela técnica.]
 
 ---
 
@@ -173,8 +181,10 @@ Un buen bolillo habla bien del panadero. Un bolillo descuidado también habla: h
 > **Chef Juanote™ dice:** El bolillo parece humilde, pero exige respeto. Si aprendes a respetarlo, aprendes a respetar el oficio.
 
 [FOTOGRAFÍA PENDIENTE: Bolillos en canasta tradicional dentro de una panadería mexicana.]
+[FOTO 04: Bolillos en canasta tradicional dentro de una panadería mexicana.]
 
 [VIDEO PENDIENTE: “El bolillo en la cultura mexicana”.]
+[VIDEO 04: “El bolillo en la cultura mexicana”.]
 
 [DIAGRAMA PENDIENTE: Línea del tiempo visual — influencia europea, adaptación mexicana, panadería de barrio, formación profesional.]
 
@@ -261,8 +271,10 @@ Datos mínimos para anotar en cada práctica:
 Este hábito evita que cada práctica sea un intento aislado. Cuando registras, puedes comparar. Cuando comparas, puedes mejorar.
 
 [VIDEO PENDIENTE: Cómo iniciar una bitácora panadera para el Libro Maestro del Bolillo.]
+[VIDEO 05: Cómo iniciar una bitácora panadera para el Libro Maestro del Bolillo.]
 
 [QR PENDIENTE: Plantilla descargable de bitácora del alumno.]
+[QR 03: enlace pendiente al video correspondiente — Plantilla descargable de bitácora del alumno.]
 
 ---
 
@@ -370,10 +382,13 @@ Compra tres bolillos en lugares diferentes. No los juzgues todavía por sabor. P
 | 3 |  |  |  |  |  |  |
 
 [FOTOGRAFÍA PENDIENTE: Comparación entre bolillo ideal y bolillos con defectos comunes.]
+[FOTO 05: Comparación entre bolillo ideal y bolillos con defectos comunes.]
 
 [VIDEO PENDIENTE: “Cómo observar un bolillo como panadero profesional”, con comparación visual de piezas correctas y defectuosas.]
+[VIDEO 06: “Cómo observar un bolillo como panadero profesional”, con comparación visual de piezas correctas y defectuosas.]
 
 [QR PENDIENTE: `QR-LMBP-C01-OBSERVAR` — video de observación profesional y plantilla de bitácora.]
+[QR 04: enlace pendiente al video correspondiente — `QR-LMBP-C01-OBSERVAR` — video de observación profesional y plantilla de bitácora.]
 
 ---
 
@@ -409,8 +424,10 @@ Compra tres bolillos en lugares diferentes. No los juzgues todavía por sabor. P
 [ILUSTRACIÓN PENDIENTE: Boly™ saludando con una charola de bolillos.]
 
 [VIDEO PENDIENTE: Animación corta de Boly™ explicando que equivocarse es parte del aprendizaje.]
+[VIDEO 07: Animación corta de Boly™ explicando que equivocarse es parte del aprendizaje.]
 
 [QR PENDIENTE: `QR-C01-BOLY` — preguntas guiadas de Boly™ para observación del capítulo.]
+[QR 05: enlace pendiente al video correspondiente — `QR-C01-BOLY` — preguntas guiadas de Boly™ para observación del capítulo.]
 
 ---
 
@@ -419,19 +436,30 @@ Compra tres bolillos en lugares diferentes. No los juzgues todavía por sabor. P
 ### Fotografías pendientes
 
 - [FOTOGRAFÍA PENDIENTE] Bolillo tradicional terminado sobre mesa oscura con luz cálida.
+- [FOTO 06: Bolillo tradicional terminado sobre mesa oscura con luz cálida.]
 - [FOTOGRAFÍA PENDIENTE] Chef Juanote™ junto a mesa de trabajo con bolillos y herramientas básicas.
+- [FOTO 07: Chef Juanote™ junto a mesa de trabajo con bolillos y herramientas básicas.]
 - [FOTOGRAFÍA PENDIENTE] Serie comparativa: bolillo correcto, bolillo sin corte adecuado y bolillo con fermentación deficiente.
+- [FOTO 08: Serie comparativa: bolillo correcto, bolillo sin corte adecuado y bolillo con fermentación deficiente.]
 - [FOTOGRAFÍA PENDIENTE] Bolillos en canasta tradicional dentro de panadería mexicana.
+- [FOTO 09: Bolillos en canasta tradicional dentro de panadería mexicana.]
 - [FOTOGRAFÍA PENDIENTE] Comparación entre bolillo ideal y bolillos con defectos comunes.
+- [FOTO 10: Comparación entre bolillo ideal y bolillos con defectos comunes.]
 
 ### Videos pendientes
 
 - [VIDEO PENDIENTE] Bienvenida de Chef Juanote™ al Capítulo 1.
+- [VIDEO 08: Bienvenida de Chef Juanote™ al Capítulo 1.]
 - [VIDEO PENDIENTE] “Por qué el bolillo parece simple, pero enseña técnica profesional”.
+- [VIDEO 09: “Por qué el bolillo parece simple, pero enseña técnica profesional”.]
 - [VIDEO PENDIENTE] “El bolillo en la cultura mexicana”.
+- [VIDEO 10: “El bolillo en la cultura mexicana”.]
 - [VIDEO PENDIENTE] Cómo iniciar una bitácora panadera.
+- [VIDEO 11: Cómo iniciar una bitácora panadera.]
 - [VIDEO PENDIENTE] “Cómo observar un bolillo como panadero profesional”.
+- [VIDEO 12: “Cómo observar un bolillo como panadero profesional”.]
 - [VIDEO PENDIENTE] Animación de Boly™ sobre el valor del error.
+- [VIDEO 13: Animación de Boly™ sobre el valor del error.]
 
 ### Diagramas e infografías pendientes
 
@@ -541,8 +569,10 @@ Al terminar este capítulo, el alumno deberá poder:
 > ¡No necesitas una panadería gigante para empezar! Necesitas herramientas limpias, medidas correctas, espacio despejado y una ruta clara para que la masa no te agarre corriendo.
 
 [FOTOGRAFÍA PENDIENTE: Mesa de trabajo limpia con báscula, bowl, raspa, charolas, navaja, paños, termómetro, rejilla y horno al fondo. Composición horizontal, luz cálida, estilo obrador mexicano ordenado.]
+[FOTO 11: Mesa de trabajo limpia con báscula, bowl, raspa, charolas, navaja, paños, termómetro, rejilla y horno al fondo. Composición horizontal, luz cálida, estilo obrador mexicano ordenado.]
 
 [VIDEO PENDIENTE: Chef Juanote™ muestra cómo preparar la estación panadera de izquierda a derecha antes de iniciar una receta de bolillo. QR sugerido: `QR-LMB-C02-MESA`.]
+[VIDEO 14: Chef Juanote™ muestra cómo preparar la estación panadera de izquierda a derecha antes de iniciar una receta de bolillo. QR sugerido: `QR-LMB-C02-MESA`.]
 
 ---
 
@@ -629,6 +659,7 @@ La báscula convierte la receta en datos verificables. Si una masa queda seca, p
 > ¿Y si mi báscula brinca de número en número? Revisa que esté en una mesa firme, cambia pilas, limpia la base y prueba con un peso conocido. Si sigue inestable, no la uses para sal o levadura.
 
 [FOTOGRAFÍA PENDIENTE: Primer plano de báscula digital marcando gramos, con bowl encima y harina agregándose lentamente. Mostrar mano usando función de tara.]
+[FOTO 12: Primer plano de báscula digital marcando gramos, con bowl encima y harina agregándose lentamente. Mostrar mano usando función de tara.]
 
 ---
 
@@ -671,6 +702,7 @@ El bowl debe permitir mezclar sin derrames y dar espacio a la masa durante repos
 > **Chef Juanote™ dice:** La masa absorbe ambiente. Si tu recipiente huele a detergente, cebolla o humedad, no esperes un pan limpio.
 
 [FOTOGRAFÍA PENDIENTE: Bowl grande al centro, ingredientes en recipientes pequeños y herramientas organizadas alrededor.]
+[FOTO 13: Bowl grande al centro, ingredientes en recipientes pequeños y herramientas organizadas alrededor.]
 
 ---
 
@@ -696,6 +728,7 @@ La raspa ayuda a dividir, levantar, limpiar y manipular masa. Una buena raspa ev
 > ¿Puedo usar una espátula normal? Sí, para empezar. Pero una raspa firme te dará más control, especialmente cuando la masa esté pegajosa o cuando necesites dividir sin arrancar.
 
 [VIDEO PENDIENTE: Uso de raspa sin maltratar masa. Demostración de levantar masa pegajosa, limpiar mesa y dividir porciones con movimiento firme.]
+[VIDEO 15: Uso de raspa sin maltratar masa. Demostración de levantar masa pegajosa, limpiar mesa y dividir porciones con movimiento firme.]
 
 ---
 
@@ -743,6 +776,7 @@ Una batidora con gancho o una amasadora permite mezclar y desarrollar masa con m
 > **Boly™ dice:** La máquina ayuda, pero no piensa. Tus manos y tus ojos siguen siendo parte del proceso.
 
 [FOTOGRAFÍA PENDIENTE: Comparativa de manos amasando en mesa limpia y amasadora con gancho trabajando una masa pequeña.]
+[FOTO 14: Comparativa de manos amasando en mesa limpia y amasadora con gancho trabajando una masa pequeña.]
 
 ---
 
@@ -772,6 +806,7 @@ El corte del bolillo no es decoración. Es una guía para que el pan expanda de 
 > Si no tengo navaja panadera, ¿puedo cortar? Sí, con un cuchillo muy filoso o cutter limpio de uso exclusivo. Pero si el corte arrastra la masa, cambia herramienta antes de culpar a la fermentación.
 
 [VIDEO PENDIENTE: Herramientas de corte y seguridad. Mostrar hoja correcta, hoja gastada, ángulo básico de corte y forma segura de guardar la navaja. La técnica completa se reserva para el Capítulo 8.]
+[VIDEO 16: Herramientas de corte y seguridad. Mostrar hoja correcta, hoja gastada, ángulo básico de corte y forma segura de guardar la navaja. La técnica completa se reserva para el Capítulo 8.]
 
 ---
 
@@ -792,6 +827,7 @@ Puedes usar papel para hornear, tapete de silicón apto para horno o charola lig
 > **Chef Juanote™ dice:** Si todos tus bolillos se queman abajo y arriba siguen pálidos, no mires solo la receta: mira la charola y la posición en el horno.
 
 [FOTOGRAFÍA PENDIENTE: Comparativa de charola plana y limpia frente a charola deformada u oscura, con etiquetas de riesgo.]
+[FOTO 15: Comparativa de charola plana y limpia frente a charola deformada u oscura, con etiquetas de riesgo.]
 
 ---
 
@@ -861,6 +897,7 @@ Un horno doméstico puede servir para aprender si se conoce bien. Un horno profe
 > ¿Necesito horno de panadería para empezar? No. Empieza con el horno que tienes, pero aprende cómo trabaja. El horno no se presume; se conoce.
 
 [VIDEO PENDIENTE: Cómo conocer tu horno. Demostración con termómetro de horno, ubicación de charola, prueba de color y registro de zonas calientes.]
+[VIDEO 17: Cómo conocer tu horno. Demostración con termómetro de horno, ubicación de charola, prueba de color y registro de zonas calientes.]
 
 ---
 
@@ -922,6 +959,7 @@ Antes de producir, realiza un ensayo sin harina ni agua. Camina el proceso menta
 Este ensayo evita errores durante la práctica real.
 
 [FOTOGRAFÍA PENDIENTE: Flujo de trabajo de izquierda a derecha con flechas: pesar, mezclar, amasar, reposar, formar, charola, corte, horno y rejilla.]
+[FOTO 16: Flujo de trabajo de izquierda a derecha con flechas: pesar, mezclar, amasar, reposar, formar, charola, corte, horno y rejilla.]
 
 > **Chef Juanote™ dice:** Si buscas la navaja cuando la masa ya está lista, ya vas tarde. La masa no espera a que ordenes tu cajón.
 
@@ -989,6 +1027,7 @@ Una herramienta también comunica cuidado. Si está sucia, rota o mal guardada, 
 > Si tu pan falla tres veces de la misma manera, no cambies todo. Cambia una variable, anótala y compara.
 
 [FOTOGRAFÍA PENDIENTE: Bolillo con base quemada junto a bolillo corregido. Incluir nota visual de posición de charola.]
+[FOTO 17: Bolillo con base quemada junto a bolillo corregido. Incluir nota visual de posición de charola.]
 
 ---
 
@@ -1130,21 +1169,34 @@ Responde con tus propias palabras:
 ### Fotografías pendientes
 
 - [FOTOGRAFÍA PENDIENTE] Mesa completa de herramientas esenciales y profesionales.
+- [FOTO 18: Mesa completa de herramientas esenciales y profesionales.]
 - [FOTOGRAFÍA PENDIENTE] Uso correcto de báscula y tara.
+- [FOTO 19: Uso correcto de báscula y tara.]
 - [FOTOGRAFÍA PENDIENTE] Bowl amplio con mise en place de ingredientes.
+- [FOTO 20: Bowl amplio con mise en place de ingredientes.]
 - [FOTOGRAFÍA PENDIENTE] Amasado manual vs amasadora.
+- [FOTO 21: Amasado manual vs amasadora.]
 - [FOTOGRAFÍA PENDIENTE] Charola correcta vs charola incorrecta.
+- [FOTO 22: Charola correcta vs charola incorrecta.]
 - [FOTOGRAFÍA PENDIENTE] Flujo de trabajo de izquierda a derecha.
+- [FOTO 23: Flujo de trabajo de izquierda a derecha.]
 - [FOTOGRAFÍA PENDIENTE] Comparativa de base quemada vs base corregida.
+- [FOTO 24: Comparativa de base quemada vs base corregida.]
 - [FOTOGRAFÍA PENDIENTE] Toma Chef Juanote™ + Boly™ para humanizar la enseñanza del capítulo.
+- [FOTO 25: Toma Chef Juanote™ + Boly™ para humanizar la enseñanza del capítulo.]
 
 ### Videos pendientes
 
 - [VIDEO PENDIENTE] Montaje profesional de mesa de trabajo para bolillo.
+- [VIDEO 18: Montaje profesional de mesa de trabajo para bolillo.]
 - [VIDEO PENDIENTE] Uso de raspa sin maltratar masa.
+- [VIDEO 19: Uso de raspa sin maltratar masa.]
 - [VIDEO PENDIENTE] Herramientas de corte y seguridad.
+- [VIDEO 20: Herramientas de corte y seguridad.]
 - [VIDEO PENDIENTE] Cómo conocer tu horno doméstico.
+- [VIDEO 21: Cómo conocer tu horno doméstico.]
 - [VIDEO PENDIENTE] Animación de Boly™: “La herramienta no hace pan, pero evita errores”.
+- [VIDEO 22: Animación de Boly™: “La herramienta no hace pan, pero evita errores”.]
 
 ### Diagramas e infografías pendientes
 
@@ -1162,6 +1214,7 @@ Responde con tus propias palabras:
 ## 25. QR recomendado del capítulo
 
 **QR-LMB-C02-MESA:** video “Montaje profesional de mesa de trabajo para bolillo”. Debe mostrar mise en place, flujo de herramientas, errores de organización y recomendaciones de seguridad.
+[QR 06: enlace pendiente al recurso correspondiente QR-LMB-C02-MESA — video “Montaje profesional de mesa de trabajo para bolillo”. Debe mostrar mise en place, flujo de herramientas, errores de organización y recomendaciones de seguridad.]
 
 **Texto sugerido debajo del QR:**
 
@@ -1210,8 +1263,10 @@ Al terminar este capítulo, el alumno deberá poder:
 > ¡Qué tal, camarada! Ya tienes tu mesa lista. Ahora vamos a conocer a los protagonistas del bolillo. Harina, agua, levadura y sal parecen sencillos, pero cada uno tiene una misión. Si los entiendes, la masa deja de ser misterio y empieza a hablarte con claridad.
 
 [FOTOGRAFÍA PENDIENTE: Ingredientes base del bolillo organizados en mesa limpia: harina, agua, levadura y sal, cada uno en recipiente transparente e identificado. Luz cálida, estilo obrador mexicano ordenado.]
+[FOTO 26: Ingredientes base del bolillo organizados en mesa limpia: harina, agua, levadura y sal, cada uno en recipiente transparente e identificado. Luz cálida, estilo obrador mexicano ordenado.]
 
 [VIDEO PENDIENTE: Chef Juanote™ presenta los ingredientes base del bolillo y explica por qué una receta empieza antes de mezclar. QR sugerido: `QR-LMB-C03-INGREDIENTES-BASE`.]
+[VIDEO 23: Chef Juanote™ presenta los ingredientes base del bolillo y explica por qué una receta empieza antes de mezclar. QR sugerido: `QR-LMB-C03-INGREDIENTES-BASE`.]
 
 ---
 
@@ -1257,6 +1312,7 @@ A partir de ellos pueden aparecer ingredientes de apoyo o variantes:
 Ninguno debe agregarse por costumbre. Cada ingrediente debe tener propósito.
 
 [FOTOGRAFÍA PENDIENTE: Vista cenital de cuatro recipientes etiquetados: harina, agua, levadura y sal. Incluir báscula al centro para reforzar precisión.]
+[FOTO 27: Vista cenital de cuatro recipientes etiquetados: harina, agua, levadura y sal. Incluir báscula al centro para reforzar precisión.]
 
 [INFOGRAFÍA PENDIENTE: Mapa visual “Ingrediente — función — defecto si falta — defecto si sobra”.]
 
@@ -1289,8 +1345,10 @@ Si la harina cambia, puede cambiar todo: absorción de agua, tiempo de amasado, 
 > **Respuesta:** No. Algunas absorben más agua, otras dan más fuerza y otras producen masas más flojas. Si cambias harina, anótalo como variable importante.
 
 [FOTOGRAFÍA PENDIENTE: Comparativa de harina limpia y suelta vs harina con grumos por humedad.]
+[FOTO 28: Comparativa de harina limpia y suelta vs harina con grumos por humedad.]
 
 [VIDEO PENDIENTE: Cómo revisar harina antes de usarla: olor, textura, fecha, empaque y prueba visual.]
+[VIDEO 24: Cómo revisar harina antes de usarla: olor, textura, fecha, empaque y prueba visual.]
 
 ---
 
@@ -1316,8 +1374,10 @@ Poca agua puede producir una masa dura, seca y con poca expansión. Demasiada ag
 > Primero espera. A veces la masa necesita amasado, reposo o raspa, no más harina. Si agregas harina por miedo, puedes terminar con bolillo duro.
 
 [FOTOGRAFÍA PENDIENTE: Agua medida en recipiente sobre báscula, con termómetro mostrando temperatura.]
+[FOTO 29: Agua medida en recipiente sobre báscula, con termómetro mostrando temperatura.]
 
 [VIDEO PENDIENTE: Cómo ajustar la temperatura del agua según clima y temperatura de la cocina.]
+[VIDEO 25: Cómo ajustar la temperatura del agua según clima y temperatura de la cocina.]
 
 ---
 
@@ -1351,8 +1411,10 @@ La levadura seca tiene mayor vida útil y permite dosificación controlada. Debe
 > Hacen el mismo trabajo principal, pero no se manejan igual. Cambiar una por otra requiere ajustar dosificación y revisar instrucciones del proveedor.
 
 [FOTOGRAFÍA PENDIENTE: Levadura fresca y levadura seca lado a lado, con etiquetas claras y empaque visible.]
+[FOTO 30: Levadura fresca y levadura seca lado a lado, con etiquetas claras y empaque visible.]
 
 [VIDEO PENDIENTE: Levadura fresca vs levadura seca: diferencias de manejo, almacenamiento y señales de calidad.]
+[VIDEO 26: Levadura fresca vs levadura seca: diferencias de manejo, almacenamiento y señales de calidad.]
 
 ---
 
@@ -1378,8 +1440,10 @@ Poca sal produce pan plano, insípido y con sensación incompleta. Demasiada sal
 > Mejor no, camarada. La sal parece poca cosa, pero manda mucho en el sabor. Pésala siempre.
 
 [FOTOGRAFÍA PENDIENTE: Sal seca en recipiente pequeño sobre báscula de precisión, junto a etiqueta de lote.]
+[FOTO 31: Sal seca en recipiente pequeño sobre báscula de precisión, junto a etiqueta de lote.]
 
 [VIDEO PENDIENTE: Por qué la sal importa en el bolillo más allá del sabor.]
+[VIDEO 27: Por qué la sal importa en el bolillo más allá del sabor.]
 
 ---
 
@@ -1407,8 +1471,10 @@ Los mejorantes son mezclas funcionales que pueden apoyar volumen, tolerancia, co
 > No. Puede mejorar tolerancia o volumen, pero no corrige una mesa desordenada, una levadura muerta, una sal mal pesada o un horno mal usado.
 
 [FOTOGRAFÍA PENDIENTE: Azúcar, grasa y mejorante identificados por separado, con etiquetas de “solo si la fórmula lo requiere”.]
+[FOTO 32: Azúcar, grasa y mejorante identificados por separado, con etiquetas de “solo si la fórmula lo requiere”.]
 
 [VIDEO PENDIENTE: Ingredientes de apoyo: cuándo ayudan y cuándo confunden al aprendiz.]
+[VIDEO 28: Ingredientes de apoyo: cuándo ayudan y cuándo confunden al aprendiz.]
 
 ---
 
@@ -1432,8 +1498,10 @@ Antes de agregarlos, pregunta:
 > Si vas a inventar una variante, cambia una cosa a la vez. Si cambias harina, agua, semillas y fermentación el mismo día, luego no sabrás qué provocó el resultado.
 
 [FOTOGRAFÍA PENDIENTE: Ingredientes opcionales para variantes de bolillo en recipientes pequeños: semillas, hierbas, ajo, cebolla y granos.]
+[FOTO 33: Ingredientes opcionales para variantes de bolillo en recipientes pequeños: semillas, hierbas, ajo, cebolla y granos.]
 
 [VIDEO PENDIENTE: Cómo probar ingredientes opcionales sin descontrolar la masa.]
+[VIDEO 29: Cómo probar ingredientes opcionales sin descontrolar la masa.]
 
 ---
 
@@ -1477,8 +1545,10 @@ Antes de iniciar cualquier práctica, realiza una inspección rápida. No toma m
 > Antes de mezclar, haz pausa de diez segundos: mira, huele, mide y registra. Esa pausa puede evitar una hora de problemas.
 
 [FOTOGRAFÍA PENDIENTE: Mano del panadero revisando etiqueta, fecha y estado de un ingrediente antes de pesarlo.]
+[FOTO 34: Mano del panadero revisando etiqueta, fecha y estado de un ingrediente antes de pesarlo.]
 
 [VIDEO PENDIENTE: Rutina de revisión de ingredientes en menos de tres minutos.]
+[VIDEO 30: Rutina de revisión de ingredientes en menos de tres minutos.]
 
 ---
 
@@ -1499,8 +1569,10 @@ Los ingredientes se dañan por humedad, calor, olores fuertes, insectos, recipie
 > **Chef Juanote™ recomienda:** La alacena también es parte del obrador. Si tus ingredientes viven mal, tu masa empieza en desventaja.
 
 [FOTOGRAFÍA PENDIENTE: Estante limpio con ingredientes en contenedores cerrados, etiquetados con nombre y fecha de apertura.]
+[FOTO 35: Estante limpio con ingredientes en contenedores cerrados, etiquetados con nombre y fecha de apertura.]
 
 [VIDEO PENDIENTE: Cómo organizar y rotar ingredientes para producción doméstica o pequeña panadería.]
+[VIDEO 31: Cómo organizar y rotar ingredientes para producción doméstica o pequeña panadería.]
 
 ---
 
@@ -1542,6 +1614,7 @@ Cuando sospeches de ingredientes, no cambies todo. Cambia una variable, anótala
 > **Chef Juanote™ dice:** Cuando un pan falla, escucha la historia completa. A veces el horno solo está mostrando un problema que nació en la alacena.
 
 [FOTOGRAFÍA PENDIENTE: Comparativa de bolillo pálido y bajo volumen vs bolillo corregido, con etiquetas de variables revisadas.]
+[FOTO 36: Comparativa de bolillo pálido y bajo volumen vs bolillo corregido, con etiquetas de variables revisadas.]
 
 ---
 
@@ -1570,8 +1643,10 @@ Antes de preparar masa, realiza este laboratorio sin mezclar todavía.
 | Opcional |  |  |  |  |  |  |
 
 [VIDEO PENDIENTE: Chef Juanote™ realiza el laboratorio de inspección de ingredientes y muestra cómo llenar la tabla.]
+[VIDEO 32: Chef Juanote™ realiza el laboratorio de inspección de ingredientes y muestra cómo llenar la tabla.]
 
 [QR PENDIENTE: `QR-LMB-C03-LAB-INGREDIENTES` — plantilla descargable de inspección y bitácora de ingredientes.]
+[QR 07: enlace pendiente al video correspondiente — `QR-LMB-C03-LAB-INGREDIENTES` — plantilla descargable de inspección y bitácora de ingredientes.]
 
 ---
 
@@ -1644,6 +1719,7 @@ Anota marca, fecha de apertura, temperatura del agua, estado de levadura, cantid
 [ILUSTRACIÓN PENDIENTE: Boly™ con lupa revisando sacos de harina, recipiente de agua, levadura y sal.]
 
 [VIDEO PENDIENTE: Animación de Boly™: “Antes de culpar a la masa, revisa ingredientes”.]
+[VIDEO 33: Animación de Boly™: “Antes de culpar a la masa, revisa ingredientes”.]
 
 ---
 
@@ -1652,26 +1728,44 @@ Anota marca, fecha de apertura, temperatura del agua, estado de levadura, cantid
 ### Fotografías pendientes
 
 - [FOTOGRAFÍA PENDIENTE] Ingredientes base del bolillo organizados y etiquetados.
+- [FOTO 37: Ingredientes base del bolillo organizados y etiquetados.]
 - [FOTOGRAFÍA PENDIENTE] Harina limpia vs harina con grumos por humedad.
+- [FOTO 38: Harina limpia vs harina con grumos por humedad.]
 - [FOTOGRAFÍA PENDIENTE] Agua medida con báscula y termómetro.
+- [FOTO 39: Agua medida con báscula y termómetro.]
 - [FOTOGRAFÍA PENDIENTE] Levadura fresca vs levadura seca.
+- [FOTO 40: Levadura fresca vs levadura seca.]
 - [FOTOGRAFÍA PENDIENTE] Sal seca pesada con precisión.
+- [FOTO 41: Sal seca pesada con precisión.]
 - [FOTOGRAFÍA PENDIENTE] Ingredientes de apoyo: azúcar, grasa y mejorante.
+- [FOTO 42: Ingredientes de apoyo: azúcar, grasa y mejorante.]
 - [FOTOGRAFÍA PENDIENTE] Ingredientes opcionales para variantes.
+- [FOTO 43: Ingredientes opcionales para variantes.]
 - [FOTOGRAFÍA PENDIENTE] Estante de almacenamiento con recipientes cerrados y etiquetados.
+- [FOTO 44: Estante de almacenamiento con recipientes cerrados y etiquetados.]
 - [FOTOGRAFÍA PENDIENTE] Bolillo defectuoso por ingredientes vs lote corregido.
+- [FOTO 45: Bolillo defectuoso por ingredientes vs lote corregido.]
 
 ### Videos pendientes
 
 - [VIDEO PENDIENTE] Ingredientes base del bolillo.
+- [VIDEO 34: Ingredientes base del bolillo.]
 - [VIDEO PENDIENTE] Cómo revisar harina antes de usar.
+- [VIDEO 35: Cómo revisar harina antes de usar.]
 - [VIDEO PENDIENTE] Cómo controlar temperatura del agua.
+- [VIDEO 36: Cómo controlar temperatura del agua.]
 - [VIDEO PENDIENTE] Levadura fresca vs levadura seca.
+- [VIDEO 37: Levadura fresca vs levadura seca.]
 - [VIDEO PENDIENTE] Por qué la sal importa.
+- [VIDEO 38: Por qué la sal importa.]
 - [VIDEO PENDIENTE] Ingredientes de apoyo: azúcar, grasas y mejorantes.
+- [VIDEO 39: Ingredientes de apoyo: azúcar, grasas y mejorantes.]
 - [VIDEO PENDIENTE] Cómo almacenar ingredientes correctamente.
+- [VIDEO 40: Cómo almacenar ingredientes correctamente.]
 - [VIDEO PENDIENTE] Laboratorio de inspección de ingredientes.
+- [VIDEO 41: Laboratorio de inspección de ingredientes.]
 - [VIDEO PENDIENTE] Animación de Boly™ sobre errores comunes con ingredientes.
+- [VIDEO 42: Animación de Boly™ sobre errores comunes con ingredientes.]
 
 ### Diagramas e infografías pendientes
 
@@ -1754,8 +1848,10 @@ Marca del 1 al 5:
 ## 21. QR recomendado del capítulo
 
 **QR-LMB-C03-INGREDIENTES-BASE:** video “Ingredientes base del bolillo”. Debe mostrar revisión, pesado, calidad, almacenamiento y relación con errores comunes.
+[QR 08: enlace pendiente al recurso correspondiente QR-LMB-C03-INGREDIENTES-BASE — video “Ingredientes base del bolillo”. Debe mostrar revisión, pesado, calidad, almacenamiento y relación con errores comunes.]
 
 **QR-LMB-C03-LAB-INGREDIENTES:** plantilla descargable de inspección y bitácora de ingredientes.
+[QR 09: enlace pendiente al recurso correspondiente QR-LMB-C03-LAB-INGREDIENTES — plantilla descargable de inspección y bitácora de ingredientes.]
 
 **Texto sugerido debajo del QR:**
 
@@ -1807,8 +1903,10 @@ Al terminar este capítulo podrás:
 > Si tu masa cambia de textura durante el amasado, no te asustes. Primero observa: ¿está más lisa, más elástica, más caliente o más pegajosa? Cada cambio trae una pista.
 
 [FOTOGRAFÍA PENDIENTE — C04-F01: mesa de trabajo con ingredientes recién integrados, antes del desarrollo de gluten.]
+[FOTO 46: mesa de trabajo con ingredientes recién integrados, antes del desarrollo de gluten.]
 
 [VIDEO PENDIENTE — C04-V01: demostración completa de mezcla inicial, amasado y prueba de membrana.]
+[VIDEO 43: demostración completa de mezcla inicial, amasado y prueba de membrana.]
 
 ---
 
@@ -1846,6 +1944,7 @@ Al principio, la masa puede verse seca, pegajosa o irregular. Esta etapa no debe
 > Pregunta frecuente: “¿Agrego más harina porque se pega?” Respuesta corta: espera. Primero permite que la harina absorba agua. Agregar harina demasiado pronto puede endurecer el bolillo.
 
 [FOTOGRAFÍA PENDIENTE — C04-F02: masa recién mezclada con textura irregular.]
+[FOTO 47: masa recién mezclada con textura irregular.]
 
 ### Etapa 2: masa integrada
 
@@ -1879,6 +1978,7 @@ La masa se siente viva: elástica, extensible, lisa y con fuerza. Puede formar u
 - Membrana fina con ruptura gradual, no desgarrada de inmediato.
 
 [VIDEO PENDIENTE — C04-V02: comparación en tiempo real entre masa subdesarrollada, masa lista y masa sobreamasada.]
+[VIDEO 44: comparación en tiempo real entre masa subdesarrollada, masa lista y masa sobreamasada.]
 
 ---
 
@@ -1915,6 +2015,7 @@ Para producción consistente, registra la temperatura de la masa al terminar el 
 La diferencia puede no estar en la receta, sino en la temperatura alcanzada durante el amasado.
 
 [FOTOGRAFÍA PENDIENTE — C04-F03: termómetro insertado en masa recién amasada.]
+[FOTO 48: termómetro insertado en masa recién amasada.]
 
 [BOLY™ INTERVIENE]
 
@@ -1953,6 +2054,7 @@ Para una masa de bolillo de hidratación media:
 Estos tiempos son orientativos. Una harina fuerte, una masa más grande o un ambiente frío pueden requerir ajustes.
 
 [VIDEO PENDIENTE — C04-V03: técnica de amasado manual con empuje, doblez, giro y uso de raspa.]
+[VIDEO 45: técnica de amasado manual con empuje, doblez, giro y uso de raspa.]
 
 > **Consejo exclusivo del Chef Juanote™:** La mesa no es ring de box. No castigues la masa; condúcela.
 
@@ -1979,8 +2081,10 @@ La amasadora aporta velocidad, regularidad y capacidad de producción. También 
 **Ejemplo práctico:** si una receta indica 10 minutos de amasado, una amasadora espiral potente puede desarrollar antes que una doméstica. Por eso conviene registrar máquina, velocidad, carga y resultado.
 
 [FOTOGRAFÍA PENDIENTE — C04-F04: masa separándose del tazón en amasadora durante desarrollo medio.]
+[FOTO 49: masa separándose del tazón en amasadora durante desarrollo medio.]
 
 [VIDEO PENDIENTE — C04-V04: puntos de revisión en amasadora: minuto inicial, medio y final.]
+[VIDEO 46: puntos de revisión en amasadora: minuto inicial, medio y final.]
 
 [BOLY™ INTERVIENE]
 
@@ -2012,6 +2116,7 @@ La prueba de membrana consiste en tomar una porción pequeña de masa y estirarl
 La membrana no debe convertirse en obsesión. En bolillo, el objetivo es una masa funcional, no una lámina perfecta para fotografía.
 
 [FOTOGRAFÍA PENDIENTE — C04-F05: secuencia de prueba de membrana correcta e incorrecta.]
+[FOTO 50: secuencia de prueba de membrana correcta e incorrecta.]
 
 > **Chef Juanote™ dice:** No corrijas a ciegas; observa, compara y ajusta.
 
@@ -2069,6 +2174,7 @@ Una masa de bolillo correctamente amasada suele mostrar:
 Presiona la masa con un dedo. Si se hunde sin resistencia, puede faltar desarrollo. Si rebota con fuerza excesiva y se siente dura, puede faltar hidratación o reposo. Si responde con elasticidad moderada, vas por buen camino.
 
 [FOTOGRAFÍA PENDIENTE — C04-F06: huella de dedo en masa con respuesta elástica adecuada.]
+[FOTO 51: huella de dedo en masa con respuesta elástica adecuada.]
 
 ---
 
@@ -2121,6 +2227,7 @@ Después compara. Si el resultado cambia, busca relación entre temperatura y fe
 Haz una tanda con amasado continuo y otra con reposo breve después de integrar. Compara textura, esfuerzo, elasticidad y volumen final.
 
 [VIDEO PENDIENTE — C04-V05: ejercicio guiado de bitácora y comparación de muestras.]
+[VIDEO 47: ejercicio guiado de bitácora y comparación de muestras.]
 
 ---
 
@@ -2190,8 +2297,10 @@ Marca del 1 al 5:
 ## 17. QR recomendado del capítulo
 
 **QR-LMB-C04-AMASADO-PRO:** video “Amasado profesional del bolillo: de mezcla a membrana”. Debe mostrar amasado manual, amasadora, temperatura final y prueba de membrana.
+[QR 10: enlace pendiente al recurso correspondiente QR-LMB-C04-AMASADO-PRO — video “Amasado profesional del bolillo: de mezcla a membrana”. Debe mostrar amasado manual, amasadora, temperatura final y prueba de membrana.]
 
 **QR-LMB-C04-BITACORA-MASA:** plantilla descargable para registrar hidratación, tiempo, temperatura, sensación de masa y resultado.
+[QR 11: enlace pendiente al recurso correspondiente QR-LMB-C04-BITACORA-MASA — plantilla descargable para registrar hidratación, tiempo, temperatura, sensación de masa y resultado.]
 
 **Texto sugerido debajo del QR:**
 
@@ -2237,10 +2346,13 @@ Al terminar este capítulo podrás:
 > ¡Camarada, aquí la masa empieza a respirar! No mires solo el reloj. Mira volumen, textura, aroma y fuerza. La masa te va diciendo si necesita más tiempo, menos calor o mejor protección.
 
 [FOTOGRAFÍA PENDIENTE — C05-F01: masa de bolillo en contenedor transparente mostrando nivel inicial y nivel fermentado, con marcas de volumen visibles.]
+[FOTO 52: masa de bolillo en contenedor transparente mostrando nivel inicial y nivel fermentado, con marcas de volumen visibles.]
 
 [VIDEO PENDIENTE — C05-V01: Chef Juanote™ explica la fermentación profesional del bolillo con comparación de masa joven, lista y pasada.]
+[VIDEO 48: Chef Juanote™ explica la fermentación profesional del bolillo con comparación de masa joven, lista y pasada.]
 
 [QR PENDIENTE — QR-LMB-C05-FERMENTACION-PRO: video principal del capítulo, checklist y bitácora descargable de fermentación.]
+[QR 12: enlace pendiente al recurso correspondiente QR-LMB-C05-FERMENTACION-PRO — video principal del capítulo, checklist y bitácora descargable de fermentación.]
 
 ---
 
@@ -2285,6 +2397,7 @@ Un mismo tiempo puede dar resultados distintos. Una masa a 18 °C avanza diferen
 Usa el tiempo como mapa, pero usa la masa como territorio. Si la receta dice 60 minutos y la masa todavía está densa, observa antes de cortar el proceso. Si dice 60 minutos y la masa ya está muy inflada, floja y con olor fuerte, quizá esperaste demasiado para tus condiciones.
 
 [FOTOGRAFÍA PENDIENTE — C05-F02: comparación visual de tres contenedores: masa poco fermentada, masa en punto y masa sobrefermentada.]
+[FOTO 53: comparación visual de tres contenedores: masa poco fermentada, masa en punto y masa sobrefermentada.]
 
 > **Consejo exclusivo del Chef Juanote™:** El reloj no tiene nariz, manos ni ojos. Tú sí. Úsalos.
 
@@ -2316,6 +2429,7 @@ La primera fermentación ocurre después del amasado y antes de dividir o formar
 > Si quieres revisar la masa, hazlo con cuidado. No la estés picando cada cinco minutos como si fuera timbre. Observa primero desde afuera y toca solo cuando haga falta.
 
 [VIDEO PENDIENTE — C05-V02: primera fermentación en bloque con marcas de volumen, prueba de tacto y registro en bitácora.]
+[VIDEO 49: primera fermentación en bloque con marcas de volumen, prueba de tacto y registro en bitácora.]
 
 ---
 
@@ -2344,6 +2458,7 @@ La receta era la misma. La fermentación no.
 > **Chef Juanote™ dice:** Si quieres controlar fermentación, empieza controlando temperatura. Si no puedes controlarla, al menos mídela y respétala.
 
 [FOTOGRAFÍA PENDIENTE — C05-F03: termómetro junto a masa cubierta en fermentación, con bitácora abierta al lado.]
+[FOTO 54: termómetro junto a masa cubierta en fermentación, con bitácora abierta al lado.]
 
 ---
 
@@ -2366,6 +2481,7 @@ La protección debe evitar resequedad sin mojar en exceso la masa. Un paño empa
 > Pregunta frecuente: “¿Qué hago si ya se hizo costra?” Si es ligera, hidrata apenas la superficie y cubre mejor. Si es gruesa, anota el error: faltó protección o hubo aire directo. No lo ignores porque puede aparecer en el formado y en la greña.
 
 [VIDEO PENDIENTE — C05-V03: cómo cubrir masa correctamente durante fermentación y errores de paños secos, aire directo y recipientes abiertos.]
+[VIDEO 50: cómo cubrir masa correctamente durante fermentación y errores de paños secos, aire directo y recipientes abiertos.]
 
 ---
 
@@ -2390,6 +2506,7 @@ Presiona la masa con un dedo enharinado o ligeramente húmedo:
 > **Chef Juanote™ dice:** El punto correcto no es una hora exacta; es una combinación de volumen, fuerza y respuesta.
 
 [FOTOGRAFÍA PENDIENTE — C05-F04: prueba de presión en masa subfermentada, correcta y sobrefermentada.]
+[FOTO 55: prueba de presión en masa subfermentada, correcta y sobrefermentada.]
 
 ---
 
@@ -2440,8 +2557,10 @@ El bolillo puede perder tensión, aplanarse, no abrir correctamente o colapsar a
 > **Consejo exclusivo del Chef Juanote™:** La fermentación final es como mandar al bolillo a escena. Debe llegar despierto, no dormido; firme, no agotado.
 
 [FOTOGRAFÍA PENDIENTE — C05-F05: charola con bolillos formados al inicio y al final de fermentación final, con espacio entre piezas.]
+[FOTO 56: charola con bolillos formados al inicio y al final de fermentación final, con espacio entre piezas.]
 
 [VIDEO PENDIENTE — C05-V04: señales de fermentación final antes del corte del bolillo.]
+[VIDEO 51: señales de fermentación final antes del corte del bolillo.]
 
 ---
 
@@ -2487,6 +2606,7 @@ El clima cambia el comportamiento de la masa. Un panadero profesional no se dese
 > **Chef Juanote™ dice:** El clima no es excusa; es variable. Si cambia el día, cambia tu vigilancia.
 
 [FOTOGRAFÍA PENDIENTE — C05-F06: dos estaciones de fermentación: una protegida de frío y otra controlada en ambiente cálido, con termómetro visible.]
+[FOTO 57: dos estaciones de fermentación: una protegida de frío y otra controlada en ambiente cálido, con termómetro visible.]
 
 ---
 
@@ -2516,6 +2636,7 @@ Sin registro, la fermentación se vuelve memoria confusa. Con bitácora, el pana
 | 3 |  |  |  |  |  |  |  |  |
 
 [QR PENDIENTE — QR-LMB-C05-BITACORA-FERMENTACION: plantilla descargable para registrar temperaturas, tiempos y señales de masa.]
+[QR 13: enlace pendiente al recurso correspondiente QR-LMB-C05-BITACORA-FERMENTACION — plantilla descargable para registrar temperaturas, tiempos y señales de masa.]
 
 ---
 
@@ -2551,6 +2672,7 @@ Sin registro, la fermentación se vuelve memoria confusa. Con bitácora, el pana
 > **Chef Juanote™ dice:** A veces la navaja no falla. A veces la masa llegó cansada al corte.
 
 [FOTOGRAFÍA PENDIENTE — C05-F07: bolillo aplanado por sobrefermentación frente a bolillo corregido con buena tensión y greña abierta.]
+[FOTO 58: bolillo aplanado por sobrefermentación frente a bolillo corregido con buena tensión y greña abierta.]
 
 ---
 
@@ -2576,8 +2698,10 @@ Este laboratorio entrena el ojo y la mano. La meta no es vender el lote; es apre
 | Sobrefermentada |  |  |  |  |  |  |
 
 [VIDEO PENDIENTE — C05-V05: laboratorio comparativo de subfermentación, punto correcto y sobrefermentación.]
+[VIDEO 52: laboratorio comparativo de subfermentación, punto correcto y sobrefermentación.]
 
 [QR PENDIENTE — QR-LMB-C05-LAB-TRES-PUNTOS: guía descargable del laboratorio con tabla de observación.]
+[QR 14: enlace pendiente al recurso correspondiente QR-LMB-C05-LAB-TRES-PUNTOS — guía descargable del laboratorio con tabla de observación.]
 
 ---
 
@@ -2650,6 +2774,7 @@ Registra temperatura final de masa, ambiente, tiempo de fermentación, aspecto, 
 [ILUSTRACIÓN PENDIENTE — C05-I01: Boly™ mirando una masa en contenedor transparente con lupa, termómetro y libreta.]
 
 [VIDEO PENDIENTE — C05-V06: animación de Boly™ explicando “el reloj orienta, la masa confirma”.]
+[VIDEO 53: animación de Boly™ explicando “el reloj orienta, la masa confirma”.]
 
 ---
 
@@ -2788,10 +2913,13 @@ No por completo. Puede ayudar a madurar la masa, pero si la estructura está muy
 ## 23. QR recomendado del capítulo
 
 **QR-LMB-C05-FERMENTACION-PRO:** video “Fermentación profesional del bolillo: tiempo, temperatura y punto de masa”. Debe mostrar primera fermentación, prueba de presión, fermentación final y errores comunes.
+[QR 15: enlace pendiente al recurso correspondiente QR-LMB-C05-FERMENTACION-PRO — video “Fermentación profesional del bolillo: tiempo, temperatura y punto de masa”. Debe mostrar primera fermentación, prueba de presión, fermentación final y errores comunes.]
 
 **QR-LMB-C05-BITACORA-FERMENTACION:** plantilla descargable para registrar temperaturas, tiempos, señales sensoriales y resultado final.
+[QR 16: enlace pendiente al recurso correspondiente QR-LMB-C05-BITACORA-FERMENTACION — plantilla descargable para registrar temperaturas, tiempos, señales sensoriales y resultado final.]
 
 **QR-LMB-C05-LAB-TRES-PUNTOS:** laboratorio comparativo de subfermentación, punto correcto y sobrefermentación.
+[QR 17: enlace pendiente al recurso correspondiente QR-LMB-C05-LAB-TRES-PUNTOS — laboratorio comparativo de subfermentación, punto correcto y sobrefermentación.]
 
 **Texto sugerido debajo del QR:**
 
@@ -2845,10 +2973,13 @@ Al terminar este capítulo podrás:
 > ¡Camarada, aquí las manos se vuelven herramienta fina! No se trata de aplastar la masa ni de pelear con ella. Se trata de guiarla: dividir con precisión, bolear con respeto y formar con intención.
 
 [FOTOGRAFÍA PENDIENTE — C06-F01: mesa de trabajo con masa fermentada, báscula, raspa, piezas divididas y bolillos ya formados en secuencia.]
+[FOTO 59: mesa de trabajo con masa fermentada, báscula, raspa, piezas divididas y bolillos ya formados en secuencia.]
 
 [VIDEO PENDIENTE — C06-V01: Chef Juanote™ demuestra división, boleado, reposo intermedio y formado completo del bolillo.]
+[VIDEO 54: Chef Juanote™ demuestra división, boleado, reposo intermedio y formado completo del bolillo.]
 
 [QR PENDIENTE — QR-LMB-C06-FORMADO-PRO: video principal del capítulo, checklist de formado y plantilla de control de pesos.]
+[QR 18: enlace pendiente al recurso correspondiente QR-LMB-C06-FORMADO-PRO — video principal del capítulo, checklist de formado y plantilla de control de pesos.]
 
 ---
 
@@ -2911,6 +3042,7 @@ Antes de tocar la masa, la mesa debe estar lista. La improvisación provoca exce
 > Pregunta rápida: ¿ya tienes dónde poner las piezas después de formarlas? Si no, detente. La masa no debe esperar destapada mientras buscas charolas.
 
 [FOTOGRAFÍA PENDIENTE — C06-F02: estación de división ordenada con báscula, raspa, charola, paño y bitácora.]
+[FOTO 60: estación de división ordenada con báscula, raspa, charola, paño y bitácora.]
 
 ---
 
@@ -2944,6 +3076,7 @@ El peso depende del tamaño comercial deseado, merma de horneado y estilo de pan
 > **Chef Juanote™ dice:** La raspa corta; la mano guía. Si arrancas masa a jalones, ya empezaste a maltratar el bolillo.
 
 [VIDEO PENDIENTE — C06-V02: división con báscula, ajuste de peso y manejo correcto de recortes.]
+[VIDEO 55: división con báscula, ajuste de peso y manejo correcto de recortes.]
 
 ---
 
@@ -2968,6 +3101,7 @@ Si el peso objetivo es 75 g y una pieza pesa 69 g, agrega un recorte de 6 g. Col
 > Si tu pieza parece rompecabezas, algo pasó. Ajustar peso no debe dejar cicatrices visibles. Esconde el recorte con técnica, no con harina.
 
 [FOTOGRAFÍA PENDIENTE — C06-F03: secuencia de ajuste de peso correcto e incorrecto, mostrando recorte integrado y recorte visible.]
+[FOTO 61: secuencia de ajuste de peso correcto e incorrecto, mostrando recorte integrado y recorte visible.]
 
 ---
 
@@ -3003,6 +3137,7 @@ El boleado no busca convertir el bolillo en una bola definitiva; busca organizar
 > **Consejo exclusivo del Chef Juanote™:** Bolear no es hacer canicas. Si aprietas demasiado, expulsas gas y tensas de más el gluten. La pieza debe quedar ordenada, no castigada.
 
 [VIDEO PENDIENTE — C06-V03: boleado manual visto desde arriba y de perfil, con comparación de tensión correcta e incorrecta.]
+[VIDEO 56: boleado manual visto desde arriba y de perfil, con comparación de tensión correcta e incorrecta.]
 
 ---
 
@@ -3035,6 +3170,7 @@ Un reposo intermedio puede ser breve, por ejemplo de 5 a 20 minutos, según temp
 > Si la masa se encoge como resorte, no insistas. Cúbrela, deja que respire y vuelve con manos tranquilas. A veces esperar cinco minutos salva toda la forma.
 
 [FOTOGRAFÍA PENDIENTE — C06-F04: piezas boleadas cubiertas durante reposo intermedio, con temporizador y paño limpio.]
+[FOTO 62: piezas boleadas cubiertas durante reposo intermedio, con temporizador y paño limpio.]
 
 ---
 
@@ -3076,6 +3212,7 @@ El formado final transforma la pieza boleada en bolillo. La meta es una pieza al
 [DIAGRAMA PENDIENTE — C06-D02: secuencia ilustrada de formado final en ocho pasos, con flechas de dirección de manos.]
 
 [VIDEO PENDIENTE — C06-V04: formado final del bolillo en cámara lenta, mostrando sellado, alargado y puntas.]
+[VIDEO 57: formado final del bolillo en cámara lenta, mostrando sellado, alargado y puntas.]
 
 ---
 
@@ -3100,6 +3237,7 @@ Después de formar, observa la pieza de lado. Si se mantiene con altura y superf
 > Truco de observación: mira el bolillo de perfil, no solo desde arriba. Desde arriba puede verse bonito; de lado te dice si tiene cuerpo o si ya se está acostando.
 
 [FOTOGRAFÍA PENDIENTE — C06-F05: comparación lateral de tres bolillos formados con baja tensión, tensión correcta y exceso de tensión.]
+[FOTO 63: comparación lateral de tres bolillos formados con baja tensión, tensión correcta y exceso de tensión.]
 
 ---
 
@@ -3125,6 +3263,7 @@ La harina sobre la mesa puede ayudar cuando la masa está ligeramente pegajosa, 
 > **Consejo exclusivo del Chef Juanote™:** La harina de banco es condimento técnico, no cobija. Si tapas todo de harina, dejas de sentir la masa.
 
 [VIDEO PENDIENTE — C06-V05: demostración de formado con poca harina vs exceso de harina y sus consecuencias.]
+[VIDEO 58: demostración de formado con poca harina vs exceso de harina y sus consecuencias.]
 
 ---
 
@@ -3150,6 +3289,7 @@ La separación depende del tamaño del bolillo y del crecimiento esperado. Como 
 > No hagas estacionamiento apretado de bolillos. Cada pieza necesita su espacio para crecer, respirar y llegar bonita al horno.
 
 [FOTOGRAFÍA PENDIENTE — C06-F06: charola con bolillos correctamente espaciados y orientados, junto a ejemplo de piezas demasiado juntas.]
+[FOTO 64: charola con bolillos correctamente espaciados y orientados, junto a ejemplo de piezas demasiado juntas.]
 
 ---
 
@@ -3240,6 +3380,7 @@ Sí, pero con límite. Si acabas de formarlo y notas una falla, puedes reposar b
 > **Chef Juanote™ dice:** Cuando la masa patina, tus manos trabajan mucho y la pieza aprende poco.
 
 [FOTOGRAFÍA PENDIENTE — C06-F07: comparación de bolillo plano por falta de tensión contra bolillo con formado corregido y mayor altura.]
+[FOTO 65: comparación de bolillo plano por falta de tensión contra bolillo con formado corregido y mayor altura.]
 
 ---
 
@@ -3266,8 +3407,10 @@ Este laboratorio entrena la mano para reconocer cómo cambia el resultado según
 | Exceso de tensión |  |  |  |  |  |  |
 
 [VIDEO PENDIENTE — C06-V06: laboratorio comparativo de tensión baja, correcta y excesiva en bolillo.]
+[VIDEO 59: laboratorio comparativo de tensión baja, correcta y excesiva en bolillo.]
 
 [QR PENDIENTE — QR-LMB-C06-LAB-TENSION: guía descargable del laboratorio con tabla de observación y fotos comparativas.]
+[QR 19: enlace pendiente al recurso correspondiente QR-LMB-C06-LAB-TENSION — guía descargable del laboratorio con tabla de observación y fotos comparativas.]
 
 ---
 
@@ -3297,6 +3440,7 @@ La consistencia en formado se construye con registro. Si una tanda salió unifor
 | 3 |  |  |  |  |  |  |  |
 
 [QR PENDIENTE — QR-LMB-C06-BITACORA-FORMADO: plantilla descargable para registrar pesos, reposos, tensión y resultado de formado.]
+[QR 20: enlace pendiente al recurso correspondiente QR-LMB-C06-BITACORA-FORMADO — plantilla descargable para registrar pesos, reposos, tensión y resultado de formado.]
 
 ---
 
@@ -3370,6 +3514,7 @@ Registra peso objetivo, reposo intermedio, harina de banco, sensación de formad
 [ILUSTRACIÓN PENDIENTE — C06-I01: Boly™ con báscula, raspa y una fila de bolillos formados, revisando simetría con actitud alegre.]
 
 [VIDEO PENDIENTE — C06-V07: animación de Boly™ explicando “peso igual, tensión igual, horneado más parejo”.]
+[VIDEO 60: animación de Boly™ explicando “peso igual, tensión igual, horneado más parejo”.]
 
 ---
 
@@ -3484,10 +3629,13 @@ Marca del 1 al 5:
 ## 24. QR recomendado del capítulo
 
 **QR-LMB-C06-FORMADO-PRO:** video “División, boleado y formado profesional del bolillo”. Debe mostrar preparación de mesa, división por peso, boleado, reposo intermedio, formado final y acomodo en charola.
+[QR 21: enlace pendiente al recurso correspondiente QR-LMB-C06-FORMADO-PRO — video “División, boleado y formado profesional del bolillo”. Debe mostrar preparación de mesa, división por peso, boleado, reposo intermedio, formado final y acomodo en charola.]
 
 **QR-LMB-C06-BITACORA-FORMADO:** plantilla descargable para registrar peso objetivo, variación entre piezas, reposo, tensión y resultado final.
+[QR 22: enlace pendiente al recurso correspondiente QR-LMB-C06-BITACORA-FORMADO — plantilla descargable para registrar peso objetivo, variación entre piezas, reposo, tensión y resultado final.]
 
 **QR-LMB-C06-LAB-TENSION:** laboratorio comparativo de baja tensión, tensión correcta y exceso de tensión.
+[QR 23: enlace pendiente al recurso correspondiente QR-LMB-C06-LAB-TENSION — laboratorio comparativo de baja tensión, tensión correcta y exceso de tensión.]
 
 **Texto sugerido debajo del QR:**
 
@@ -3538,8 +3686,10 @@ En este capítulo aprenderás a:
 > **Chef Juanote™ dice:** El horno no arregla una masa mal llevada, pero sí puede arruinar una masa bien trabajada si lo tratas como adorno caliente.
 
 [FOTOGRAFÍA PENDIENTE — C07-F01: Chef Juanote™ frente a un horno precalentado, con charola de bolillos formados listos para entrar. Mostrar guantes, pala o charola y termómetro de horno.]
+[FOTO 66: Chef Juanote™ frente a un horno precalentado, con charola de bolillos formados listos para entrar. Mostrar guantes, pala o charola y termómetro de horno.]
 
 [VIDEO PENDIENTE — C07-V01: Bienvenida de Chef Juanote™ al Capítulo 7. Explicación breve: “El horneado profesional empieza antes de abrir la puerta del horno”. QR sugerido: `QR-LMB-C07-BIENVENIDA-HORNO`.]
+[VIDEO 61: Bienvenida de Chef Juanote™ al Capítulo 7. Explicación breve: “El horneado profesional empieza antes de abrir la puerta del horno”. QR sugerido: `QR-LMB-C07-BIENVENIDA-HORNO`.]
 
 ---
 
@@ -3605,6 +3755,7 @@ Estas temperaturas son punto de partida, no ley absoluta. Cada horno tiene perso
 > **Chef Juanote™ dice:** El termostato dice una cosa; el pan te dice la verdad. Aprende a leer ambos.
 
 [FOTOGRAFÍA PENDIENTE — C07-F02: Termómetro de horno mostrando temperatura real junto al panel del horno para comparar diferencia entre lectura interna y ajuste del equipo.]
+[FOTO 67: Termómetro de horno mostrando temperatura real junto al panel del horno para comparar diferencia entre lectura interna y ajuste del equipo.]
 
 ---
 
@@ -3640,6 +3791,7 @@ Precalentar no significa encender el horno cinco minutos antes. Significa permit
 > **Chef Juanote™ responde:** Puede estar mintiendo el termostato, puede faltar precalentamiento real o puede haber demasiada carga. Mide, reduce cantidad por tanda y observa la base.
 
 [VIDEO PENDIENTE — C07-V02: Prueba de precalentamiento real con termómetro independiente en horno doméstico y horno profesional.]
+[VIDEO 62: Prueba de precalentamiento real con termómetro independiente en horno doméstico y horno profesional.]
 
 ---
 
@@ -3703,6 +3855,7 @@ El vapor quema más rápido de lo que muchos alumnos imaginan. No se ve con clar
 > **Consejo exclusivo del Chef Juanote™:** El panadero valiente no es el que mete la mano al vapor sin miedo; es el que organiza el proceso para no necesitar hacerlo.
 
 [VIDEO PENDIENTE — C07-V03: Demostración segura de generación de vapor en horno doméstico, con enfoque en prevención de quemaduras. QR sugerido: `QR-LMB-C07-SEGURIDAD-VAPOR`.]
+[VIDEO 63: Demostración segura de generación de vapor en horno doméstico, con enfoque en prevención de quemaduras. QR sugerido: `QR-LMB-C07-SEGURIDAD-VAPOR`.]
 
 ---
 
@@ -3740,6 +3893,7 @@ Cargar el horno significa introducir las piezas en el momento correcto, sin perd
 > **Chef Juanote™ responde:** No conviene. Si entras a corregir, pierdes calor, vapor y puedes deformar piezas. Acomoda bien antes de cargar.
 
 [FOTOGRAFÍA PENDIENTE — C07-F03: Secuencia de carga de horno: charola lista, puerta abierta, entrada nivelada y cierre inmediato.]
+[FOTO 68: Secuencia de carga de horno: charola lista, puerta abierta, entrada nivelada y cierre inmediato.]
 
 ---
 
@@ -3803,6 +3957,7 @@ Estos rangos deben ajustarse con bitácora. No todos los hornos entregan calor i
 > **Chef Juanote™ dice:** El reloj te avisa cuándo mirar; el pan te confirma cuándo salir.
 
 [QR PENDIENTE — C07-QR01: Calculadora descargable de tiempos orientativos por peso, tipo de horno y nivel de carga. Código sugerido: `QR-LMB-C07-TIEMPO-TEMPERATURA`.]
+[QR 24: enlace pendiente al recurso correspondiente C07-QR01 — Calculadora descargable de tiempos orientativos por peso, tipo de horno y nivel de carga. Código sugerido: `QR-LMB-C07-TIEMPO-TEMPERATURA`.]
 
 ---
 
@@ -3839,6 +3994,7 @@ Si las piezas de atrás doran más que las de adelante, tu horno tiene zonas cal
 > **Chef Juanote™ responde:** No siempre. Puede estar quemado por fuera y todavía húmedo por dentro si el calor fue demasiado agresivo. Por eso revisamos color, base, peso, sonido y miga.
 
 [FOTOGRAFÍA PENDIENTE — C07-F04: Escala de color de bolillo de pálido a dorado profundo, con etiquetas técnicas.]
+[FOTO 69: Escala de color de bolillo de pálido a dorado profundo, con etiquetas técnicas.]
 
 ---
 
@@ -3871,6 +4027,7 @@ Como referencia técnica, muchos panes de este tipo terminan correctamente cuand
 > **Consejo exclusivo del Chef Juanote™:** No cortes un bolillo hirviendo para juzgar la miga final. El vapor interno todavía está trabajando. Dale unos minutos de respeto.
 
 [VIDEO PENDIENTE — C07-V04: Chef Juanote™ demuestra pruebas de cocción: color, base, sonido, peso y temperatura interna.]
+[VIDEO 64: Chef Juanote™ demuestra pruebas de cocción: color, base, sonido, peso y temperatura interna.]
 
 ---
 
@@ -3922,6 +4079,7 @@ La rotación no debe hacerse durante los primeros minutos de expansión. Espera 
 > **Consejo exclusivo del Chef Juanote™:** Rota por diagnóstico, no por costumbre. Si no sabes qué problema corriges, solo estás abriendo la puerta por nervio.
 
 [FOTOGRAFÍA PENDIENTE — C07-F05: Mapa de zonas calientes en una charola: piezas más doradas atrás, más pálidas adelante, con flechas de rotación sugerida.]
+[FOTO 70: Mapa de zonas calientes en una charola: piezas más doradas atrás, más pálidas adelante, con flechas de rotación sugerida.]
 
 ---
 
@@ -3949,6 +4107,7 @@ Cuando el bolillo sale del horno, aún conserva vapor interno. Si se apila, embo
 > **Chef Juanote™ dice:** Sacar el pan del horno no significa abandonarlo. La corteza todavía necesita aire para convertirse en orgullo.
 
 [VIDEO PENDIENTE — C07-V05: Comparación de bolillos enfriados en rejilla, apilados calientes y embolsados demasiado pronto.]
+[VIDEO 65: Comparación de bolillos enfriados en rejilla, apilados calientes y embolsados demasiado pronto.]
 
 ---
 
@@ -3992,6 +4151,7 @@ La segunda tanda obtuvo base más uniforme, corteza más estable y mejor crujido
 > **Chef Juanote™ dice:** Una tanda no se juzga solo por cómo sale; se juzga por lo que te enseña para la siguiente.
 
 [QR PENDIENTE — C07-QR02: Caso descargable “Tanda de 60 bolillos: diagnóstico de base oscura y corteza blanda”. Código sugerido: `QR-LMB-C07-CASO-60`.]
+[QR 25: enlace pendiente al recurso correspondiente C07-QR02 — Caso descargable “Tanda de 60 bolillos: diagnóstico de base oscura y corteza blanda”. Código sugerido: `QR-LMB-C07-CASO-60`.]
 
 ---
 
@@ -4027,6 +4187,7 @@ Las tres tandas salieron más uniformes. El tiempo total aumentó ligeramente, p
 > **Boly™ dice:** ¡Esta es una pista importante! Cuando una tanda sale diferente a otra, no siempre cambió la masa. A veces cambió el horno, la recuperación de calor o el tiempo que dejaste la puerta abierta.
 
 [FOTOGRAFÍA PENDIENTE — C07-F06: Producción casera de tres tandas numeradas con bitácora visible: tanda 1, tanda 2 y tanda 3.]
+[FOTO 71: Producción casera de tres tandas numeradas con bitácora visible: tanda 1, tanda 2 y tanda 3.]
 
 ---
 
@@ -4093,8 +4254,10 @@ Observar el efecto de tres condiciones: horneado correcto, poco vapor y horno in
 > **Consejo exclusivo del Chef Juanote™:** No hagas este laboratorio para ganar; hazlo para aprender. El pan que sale mal en práctica te puede ahorrar pérdidas en producción.
 
 [VIDEO PENDIENTE — C07-V06: Laboratorio comparativo de tres condiciones de horneado con resultados lado a lado.]
+[VIDEO 66: Laboratorio comparativo de tres condiciones de horneado con resultados lado a lado.]
 
 [QR PENDIENTE — C07-QR03: Plantilla descargable del laboratorio “Tres condiciones de horneado”. Código sugerido: `QR-LMB-C07-LAB-HORNO`.]
+[QR 26: enlace pendiente al recurso correspondiente C07-QR03 — Plantilla descargable del laboratorio “Tres condiciones de horneado”. Código sugerido: `QR-LMB-C07-LAB-HORNO`.]
 
 ---
 
@@ -4208,8 +4371,10 @@ El buen horneado tiene ritmo: calor al inicio, humedad breve, paciencia sin abri
 [ILUSTRACIÓN PENDIENTE — C07-I01: Boly™ con casco de seguridad, guantes y termómetro, señalando un horno con mapa de calor.]
 
 [VIDEO PENDIENTE — C07-V07: Animación de Boly™ explicando “calor inicial, vapor breve y secado final”.]
+[VIDEO 67: Animación de Boly™ explicando “calor inicial, vapor breve y secado final”.]
 
 [QR PENDIENTE — C07-QR04: Preguntas interactivas de Boly™ para diagnosticar fallas de horneado. Código sugerido: `QR-LMB-C07-BOLY-DIAGNOSTICO`.]
+[QR 27: enlace pendiente al recurso correspondiente C07-QR04 — Preguntas interactivas de Boly™ para diagnosticar fallas de horneado. Código sugerido: `QR-LMB-C07-BOLY-DIAGNOSTICO`.]
 
 ---
 
@@ -4360,12 +4525,16 @@ Depende del tamaño y ambiente, pero el pan debe perder vapor superficial y esta
 ## 27. QR recomendado del capítulo
 
 **QR-LMB-C07-HORNEADO-PRO:** video principal “Horneado profesional del bolillo: precalentamiento, vapor, expansión y corteza”. Debe mostrar preparación del horno, carga, vapor seguro, lectura de color, prueba de base y enfriamiento.
+[QR 28: enlace pendiente al recurso correspondiente QR-LMB-C07-HORNEADO-PRO — video principal “Horneado profesional del bolillo: precalentamiento, vapor, expansión y corteza”. Debe mostrar preparación del horno, carga, vapor seguro, lectura de color, prueba de base y enfriamiento.]
 
 **QR-LMB-C07-SEGURIDAD-VAPOR:** cápsula de seguridad para generar vapor sin quemaduras en horno doméstico y profesional.
+[QR 29: enlace pendiente al recurso correspondiente QR-LMB-C07-SEGURIDAD-VAPOR — cápsula de seguridad para generar vapor sin quemaduras en horno doméstico y profesional.]
 
 **QR-LMB-C07-BITACORA-HORNO:** plantilla descargable para registrar temperatura, vapor, tiempo, carga, color, base y crujido.
+[QR 30: enlace pendiente al recurso correspondiente QR-LMB-C07-BITACORA-HORNO — plantilla descargable para registrar temperatura, vapor, tiempo, carga, color, base y crujido.]
 
 **QR-LMB-C07-DIAGNOSTICO:** guía interactiva de Boly™ para resolver fallas frecuentes de horneado.
+[QR 31: enlace pendiente al recurso correspondiente QR-LMB-C07-DIAGNOSTICO — guía interactiva de Boly™ para resolver fallas frecuentes de horneado.]
 
 **Texto sugerido debajo del QR:**
 
@@ -4402,10 +4571,13 @@ Este capítulo desarrolla el corte como una operación técnica completa: herram
 > **Chef Juanote™ dice:** El corte no es una herida; es una puerta. Si la abres bien, el bolillo respira, crece y presume su oficio.
 
 [FOTOGRAFÍA PENDIENTE — C08-F01: Bolillos correctamente greñados antes de entrar al horno, vistos desde arriba. Incluir comparación con piezas sin corte.]
+[FOTO 72: Bolillos correctamente greñados antes de entrar al horno, vistos desde arriba. Incluir comparación con piezas sin corte.]
 
 [VIDEO PENDIENTE — C08-V01: Introducción del Chef Juanote™ al corte profesional del bolillo. Mostrar herramienta, postura de mano, movimiento y resultado horneado. QR sugerido: `QR-LMB-C08-INTRO-CORTE`.]
+[VIDEO 68: Introducción del Chef Juanote™ al corte profesional del bolillo. Mostrar herramienta, postura de mano, movimiento y resultado horneado. QR sugerido: `QR-LMB-C08-INTRO-CORTE`.]
 
 [QR PENDIENTE — QR-LMB-C08-INTRO-CORTE: Enlace a video de bienvenida y demostración general del capítulo.]
+[QR 32: enlace pendiente al recurso correspondiente QR-LMB-C08-INTRO-CORTE — Enlace a video de bienvenida y demostración general del capítulo.]
 
 ---
 
@@ -4474,10 +4646,13 @@ Para cortar bolillo profesionalmente se necesita una hoja muy filosa, limpia y f
 - Navajas oxidadas, dobladas o compartidas con otros usos.
 
 [FOTOGRAFÍA PENDIENTE — C08-F02: Comparativa de herramientas: lame profesional, hoja nueva, cuchillo filoso y cuchillo sin filo. Incluir señal visual de herramienta recomendada y no recomendada.]
+[FOTO 73: Comparativa de herramientas: lame profesional, hoja nueva, cuchillo filoso y cuchillo sin filo. Incluir señal visual de herramienta recomendada y no recomendada.]
 
 [VIDEO PENDIENTE — C08-V02: Cómo montar, limpiar, manipular y guardar una navaja de panadero con seguridad. QR sugerido: `QR-LMB-C08-HERRAMIENTA-SEGURA`.]
+[VIDEO 69: Cómo montar, limpiar, manipular y guardar una navaja de panadero con seguridad. QR sugerido: `QR-LMB-C08-HERRAMIENTA-SEGURA`.]
 
 [QR PENDIENTE — QR-LMB-C08-HERRAMIENTA-SEGURA: Enlace a cápsula de seguridad y mantenimiento de la herramienta de corte.]
+[QR 33: enlace pendiente al recurso correspondiente QR-LMB-C08-HERRAMIENTA-SEGURA — Enlace a cápsula de seguridad y mantenimiento de la herramienta de corte.]
 
 ---
 
@@ -4570,8 +4745,10 @@ Antes de cortar, evalúa la pieza. El greñado profesional empieza con observaci
 - Riesgo de desinflado al cortar.
 
 [VIDEO PENDIENTE — C08-V03: Prueba táctil antes del corte: subfermentado, punto ideal y sobrefermentado. QR sugerido: `QR-LMB-C08-PUNTO-CORTE`.]
+[VIDEO 70: Prueba táctil antes del corte: subfermentado, punto ideal y sobrefermentado. QR sugerido: `QR-LMB-C08-PUNTO-CORTE`.]
 
 [QR PENDIENTE — QR-LMB-C08-PUNTO-CORTE: Enlace a guía visual interactiva para decidir si el bolillo está listo para greñar.]
+[QR 34: enlace pendiente al recurso correspondiente QR-LMB-C08-PUNTO-CORTE — Enlace a guía visual interactiva para decidir si el bolillo está listo para greñar.]
 
 ---
 
@@ -4612,10 +4789,13 @@ Haz un movimiento continuo, rápido y limpio. No serruches. No repases varias ve
 Después del corte, el bolillo debe entrar al horno lo antes posible. Aplica vapor durante la fase inicial conforme al método explicado en el capítulo anterior.
 
 [FOTOGRAFÍA PENDIENTE — C08-F03: Secuencia fotográfica de ocho pasos del corte profesional, desde preparación hasta carga al horno.]
+[FOTO 74: Secuencia fotográfica de ocho pasos del corte profesional, desde preparación hasta carga al horno.]
 
 [VIDEO PENDIENTE — C08-V04: Demostración en cámara lenta del movimiento correcto de la navaja. QR sugerido: `QR-LMB-C08-CORTE-LENTO`.]
+[VIDEO 71: Demostración en cámara lenta del movimiento correcto de la navaja. QR sugerido: `QR-LMB-C08-CORTE-LENTO`.]
 
 [QR PENDIENTE — QR-LMB-C08-CORTE-LENTO: Enlace a video en cámara lenta con vista superior y lateral.]
+[QR 35: enlace pendiente al recurso correspondiente QR-LMB-C08-CORTE-LENTO — Enlace a video en cámara lenta con vista superior y lateral.]
 
 ---
 
@@ -4846,8 +5026,10 @@ Puede indicar exceso de vapor, falta de secado final o temperatura insuficiente.
 Puede indicar corte torcido, formado irregular, carga inclinada o tensión desigual.
 
 [FOTOGRAFÍA PENDIENTE — C08-F04: Panel comparativo de greñas: correcta, cerrada, explosiva, pálida, desviada y con reventón inferior.]
+[FOTO 75: Panel comparativo de greñas: correcta, cerrada, explosiva, pálida, desviada y con reventón inferior.]
 
 [QR PENDIENTE — QR-LMB-C08-DIAGNOSTICO-GRENA: Enlace a guía visual de diagnóstico de greña.]
+[QR 36: enlace pendiente al recurso correspondiente QR-LMB-C08-DIAGNOSTICO-GRENA — Enlace a guía visual de diagnóstico de greña.]
 
 ---
 
@@ -4956,6 +5138,7 @@ Después del corte, el pan entra al horno sin esperas innecesarias.
 | ____ | ____ | ____ | ____ | ____ | ____ | ____ | ____ | ____ | ____ |
 
 [QR PENDIENTE — QR-LMB-C08-BITACORA-GRENA: Plantilla descargable para registrar corte, fermentación, vapor y resultado de greña.]
+[QR 37: enlace pendiente al recurso correspondiente QR-LMB-C08-BITACORA-GRENA — Plantilla descargable para registrar corte, fermentación, vapor y resultado de greña.]
 
 ---
 
@@ -5116,10 +5299,13 @@ Un bolillo recién horneado parece listo para comerse, venderse o empacarse, per
 Este capítulo enseña a cuidar el bolillo desde la salida del horno hasta el momento de consumo. El objetivo no es alargar artificialmente la vida de un pan que por naturaleza es mejor fresco, sino conservar con inteligencia sus mejores cualidades: corteza crujiente, miga suave, aroma limpio y estructura estable.
 
 [FOTOGRAFÍA PENDIENTE: Bolillos recién salidos del horno sobre rejilla de enfriado, separados entre sí, con vapor visible y corteza brillante.]
+[FOTO 76: Bolillos recién salidos del horno sobre rejilla de enfriado, separados entre sí, con vapor visible y corteza brillante.]
 
 [VIDEO PENDIENTE: Transición completa desde salida del horno hasta enfriado correcto en rejilla, mostrando tiempos reales y errores de apilado.]
+[VIDEO 72: Transición completa desde salida del horno hasta enfriado correcto en rejilla, mostrando tiempos reales y errores de apilado.]
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-ENFRIADO-INICIAL]
+[QR 38: enlace pendiente al video correspondiente — QR-LMB-C09-ENFRIADO-INICIAL]
 
 ---
 
@@ -5162,8 +5348,10 @@ La superficie del pan pierde calor primero. El centro tarda más. Por eso un bol
 Después del horneado, los almidones de la miga comienzan a reorganizarse. Este proceso forma parte del asentamiento normal del pan. Un enfriado adecuado permite una miga más estable al cortar o manipular. Un manejo agresivo en caliente puede compactarla.
 
 [FOTOGRAFÍA PENDIENTE: Corte transversal comparativo de bolillo cortado demasiado caliente y bolillo cortado después de enfriar correctamente.]
+[FOTO 77: Corte transversal comparativo de bolillo cortado demasiado caliente y bolillo cortado después de enfriar correctamente.]
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-CIENCIA-ENFRIADO]
+[QR 39: enlace pendiente al video correspondiente — QR-LMB-C09-CIENCIA-ENFRIADO]
 
 ---
 
@@ -5190,6 +5378,7 @@ Una corriente ligera ayuda; una corriente fría y fuerte puede resecar la cortez
 Antes de embolsar, apilar o transportar, el bolillo debe estar completamente frío o apenas a temperatura ambiente. En producción comercial, conviene confirmar por tacto, peso, tiempo y ausencia de vapor visible.
 
 [VIDEO PENDIENTE: Procedimiento correcto de descarga del horno, acomodo en rejilla y separación profesional de piezas.]
+[VIDEO 73: Procedimiento correcto de descarga del horno, acomodo en rejilla y separación profesional de piezas.]
 
 > **Chef Juanote™ dice:** Si el bolillo todavía empaña una bolsa, una vitrina o tus lentes, no está listo para encerrarse.
 
@@ -5240,8 +5429,10 @@ Si el bolillo se usará para torta, conviene conservar una corteza firme pero no
 El bolillo tradicional pierde crujido con el tiempo. Para conservarlo hasta el día siguiente, permite enfriado completo, guarda en bolsa de papel y después en recipiente limpio o bolsa no hermética. Para recuperar textura, puede calentarse brevemente antes de servir.
 
 [FOTOGRAFÍA PENDIENTE: Comparación de empaque en bolsa de papel, caja ventilada, canasta y bolsa plástica cerrada con condensación.]
+[FOTO 78: Comparación de empaque en bolsa de papel, caja ventilada, canasta y bolsa plástica cerrada con condensación.]
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-EMPAQUES-CONSERVACION]
+[QR 40: enlace pendiente al video correspondiente — QR-LMB-C09-EMPAQUES-CONSERVACION]
 
 ---
 
@@ -5389,10 +5580,13 @@ El recalentado no debe usarse para ocultar mala producción, pero sí es una her
 - Recalentar varias veces el mismo pan.
 
 [FOTOGRAFÍA PENDIENTE: Bolillo antes y después de recuperación de crujido en horno.]
+[FOTO 79: Bolillo antes y después de recuperación de crujido en horno.]
 
 [VIDEO PENDIENTE: Técnica de recalentado para bolillo de mostrador y bolillo para torta.]
+[VIDEO 74: Técnica de recalentado para bolillo de mostrador y bolillo para torta.]
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-RECUPERAR-CRUJIDO]
+[QR 41: enlace pendiente al video correspondiente — QR-LMB-C09-RECUPERAR-CRUJIDO]
 
 ---
 
@@ -5464,6 +5658,7 @@ Durante una semana registra:
 Al final, ajusta tus horarios de producción y venta.
 
 [CÓDIGO QR PENDIENTE: QR-LMB-C09-BITACORA-VIDA-UTIL]
+[QR 42: enlace pendiente al video correspondiente — QR-LMB-C09-BITACORA-VIDA-UTIL]
 
 ---
 
@@ -5504,8 +5699,10 @@ Buenas prácticas:
 - Capacitar al personal en rotación y empaque.
 
 [FOTOGRAFÍA PENDIENTE: Estación profesional de enfriado con rejillas limpias, guantes, pinzas, cajas ventiladas y etiquetas de tanda.]
+[FOTO 80: Estación profesional de enfriado con rejillas limpias, guantes, pinzas, cajas ventiladas y etiquetas de tanda.]
 
 [VIDEO PENDIENTE: Buenas prácticas de higiene en enfriado, empaque y despacho de bolillo.]
+[VIDEO 75: Buenas prácticas de higiene en enfriado, empaque y despacho de bolillo.]
 
 ---
 
@@ -5534,10 +5731,13 @@ Este capítulo reúne los aprendizajes anteriores para convertir cada defecto en
 > **Chef Juanote™ dice:** Un panadero principiante pregunta “¿qué salió mal?”. Un panadero profesional pregunta “¿en qué etapa nació el problema?”.
 
 [FOTOGRAFÍA PENDIENTE — C10-F01: Mesa de diagnóstico con bolillos de diferentes defectos: pálidos, reventados, planos, duros, arrugados y con buena referencia profesional.]
+[FOTO 81: Mesa de diagnóstico con bolillos de diferentes defectos: pálidos, reventados, planos, duros, arrugados y con buena referencia profesional.]
 
 [VIDEO PENDIENTE — C10-V01: Introducción del Chef Juanote™ al diagnóstico integral del bolillo. Mostrar cómo observar una pieza desde corteza, base, greña, volumen y miga. QR sugerido: `QR-LMB-C10-INTRO-DIAGNOSTICO`.]
+[VIDEO 76: Introducción del Chef Juanote™ al diagnóstico integral del bolillo. Mostrar cómo observar una pieza desde corteza, base, greña, volumen y miga. QR sugerido: `QR-LMB-C10-INTRO-DIAGNOSTICO`.]
 
 [QR PENDIENTE — QR-LMB-C10-INTRO-DIAGNOSTICO: Enlace a video de bienvenida y recorrido visual del capítulo.]
+[QR 43: enlace pendiente al recurso correspondiente QR-LMB-C10-INTRO-DIAGNOSTICO — Enlace a video de bienvenida y recorrido visual del capítulo.]
 
 ---
 
@@ -5667,6 +5867,7 @@ Corta una pieza de muestra y revisa:
 - Separación entre corteza y miga.
 
 [FOTOGRAFÍA PENDIENTE — C10-F02: Secuencia de diagnóstico sensorial: vista superior, base, corte lateral y miga abierta.]
+[FOTO 82: Secuencia de diagnóstico sensorial: vista superior, base, corte lateral y miga abierta.]
 
 ---
 
@@ -5760,6 +5961,7 @@ Soluciones:
 4. Controla tiempos de reposo intermedio.
 
 [FOTOGRAFÍA PENDIENTE — C10-F03: Comparativo de migas: correcta, compacta, gomosa, seca y con huecos irregulares.]
+[FOTO 83: Comparativo de migas: correcta, compacta, gomosa, seca y con huecos irregulares.]
 
 ---
 
@@ -5913,6 +6115,7 @@ Toma fotografías de:
 - Miga cortada.
 
 [FOTOGRAFÍA PENDIENTE — C10-F04: Plantilla visual de cinco fotografías obligatorias para diagnóstico de tanda.]
+[FOTO 84: Plantilla visual de cinco fotografías obligatorias para diagnóstico de tanda.]
 
 ### Paso 3: Registra datos de proceso
 
@@ -5963,8 +6166,10 @@ Ejemplos:
 La siguiente tanda debe compararse contra la anterior con fotos, notas y, si es posible, el mismo peso de pieza.
 
 [VIDEO PENDIENTE — C10-V02: Diagnóstico completo de una tanda defectuosa usando fotografías, corte de miga y bitácora. QR sugerido: `QR-LMB-C10-DIAGNOSTICO-TANDA`.]
+[VIDEO 77: Diagnóstico completo de una tanda defectuosa usando fotografías, corte de miga y bitácora. QR sugerido: `QR-LMB-C10-DIAGNOSTICO-TANDA`.]
 
 [QR PENDIENTE — QR-LMB-C10-DIAGNOSTICO-TANDA: Enlace a demostración paso a paso del diagnóstico profesional.]
+[QR 44: enlace pendiente al recurso correspondiente QR-LMB-C10-DIAGNOSTICO-TANDA — Enlace a demostración paso a paso del diagnóstico profesional.]
 
 ---
 
@@ -6251,6 +6456,7 @@ Antes de decidir una corrección, verifica:
 - [ ] ¿Se definió una sola variable para corregir?
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C10-CHECKLIST-DIAGNOSTICO: Descargar checklist imprimible para obrador.]
+[QR 45: enlace pendiente al recurso correspondiente QR-LMB-C10-CHECKLIST-DIAGNOSTICO — Descargar checklist imprimible para obrador.]
 
 ---
 
@@ -6270,6 +6476,7 @@ Antes de decidir una corrección, verifica:
 | Tamaños distintos | División | Formado | Pesar piezas y ordenar estación |
 
 [FOTOGRAFÍA PENDIENTE — C10-F05: Tabla impresa de diagnóstico colocada en pared de obrador junto a báscula y bitácora.]
+[FOTO 85: Tabla impresa de diagnóstico colocada en pared de obrador junto a báscula y bitácora.]
 
 ---
 
@@ -6328,8 +6535,10 @@ Reúne al equipo y evalúen bolillos de la misma tanda. Cada persona debe califi
 Después comparen criterios y definan el estándar de la casa.
 
 [VIDEO PENDIENTE — C10-V03: Ejercicio de cata técnica y diagnóstico en equipo. QR sugerido: `QR-LMB-C10-CATA-TECNICA`.]
+[VIDEO 78: Ejercicio de cata técnica y diagnóstico en equipo. QR sugerido: `QR-LMB-C10-CATA-TECNICA`.]
 
 [QR PENDIENTE — QR-LMB-C10-CATA-TECNICA: Enlace a formato guiado de evaluación sensorial.]
+[QR 46: enlace pendiente al recurso correspondiente QR-LMB-C10-CATA-TECNICA — Enlace a formato guiado de evaluación sensorial.]
 
 ---
 
@@ -6429,6 +6638,7 @@ Una bitácora útil no necesita ser complicada, pero sí constante. Debe permiti
 | | | | | | | | |
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C10-BITACORA-PRODUCCION: Descargar plantilla editable de bitácora profesional.]
+[QR 47: enlace pendiente al recurso correspondiente QR-LMB-C10-BITACORA-PRODUCCION — Descargar plantilla editable de bitácora profesional.]
 
 ---
 
@@ -6701,8 +6911,10 @@ El bolillo con ajonjolí es una de las variantes más nobles para iniciar. Agreg
 | Greña irregular | Semillas obstruyen el corte | Dejar una línea limpia para greñar |
 
 [FOTOGRAFÍA PENDIENTE — C11-F01: Bolillo con ajonjolí externo, corte limpio y greña visible.]
+[FOTO 86: Bolillo con ajonjolí externo, corte limpio y greña visible.]
 
 [VIDEO PENDIENTE — C11-V01: Cómo adherir ajonjolí sin deformar el bolillo. QR sugerido: `QR-LMB-C11-AJONJOLI`.]
+[VIDEO 79: Cómo adherir ajonjolí sin deformar el bolillo. QR sugerido: `QR-LMB-C11-AJONJOLI`.]
 
 ---
 
@@ -6784,6 +6996,7 @@ Una panadería de barrio producía bolillo muy correcto por la mañana, pero el 
 - No ajustar sal y fermentación.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C11-MASA-VIEJA: Ficha descargable para control de masa vieja.]
+[QR 48: enlace pendiente al recurso correspondiente QR-LMB-C11-MASA-VIEJA — Ficha descargable para control de masa vieja.]
 
 ---
 
@@ -6870,8 +7083,10 @@ Hornear mini bolillos con el mismo tiempo del bolillo estándar. Esto produce pi
 Reducir tiempo, vigilar color y evaluar temperatura interna. También puede aumentarse ligeramente la hidratación o usar una pequeña proporción de prefermento para mejorar humedad.
 
 [FOTOGRAFÍA PENDIENTE — C11-F02: Comparativo de bolillo estándar, banquetero y mini botanero con regla de escala.]
+[FOTO 87: Comparativo de bolillo estándar, banquetero y mini botanero con regla de escala.]
 
 [VIDEO PENDIENTE — C11-V02: División y formado rápido de mini bolillos para evento. QR sugerido: `QR-LMB-C11-MINI-BOLILLO`.]
+[VIDEO 80: División y formado rápido de mini bolillos para evento. QR sugerido: `QR-LMB-C11-MINI-BOLILLO`.]
 
 ---
 
@@ -6998,8 +7213,10 @@ Algunas panaderías necesitan producir con anticipación, congelar piezas o entr
 Para venta al público tradicional, el bolillo recién horneado sigue siendo superior. El sistema diferido se justifica cuando hay logística, restaurantes, comedores, eventos o sucursales.
 
 [FOTOGRAFÍA PENDIENTE — C11-F03: Comparativo entre bolillo precocido pálido y bolillo terminado con color final.]
+[FOTO 88: Comparativo entre bolillo precocido pálido y bolillo terminado con color final.]
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C11-PRECOCIDO: Diagrama de flujo para producción diferida.]
+[QR 49: enlace pendiente al recurso correspondiente QR-LMB-C11-PRECOCIDO — Diagrama de flujo para producción diferida.]
 
 ---
 
@@ -7102,6 +7319,7 @@ Cada variante aprobada debe tener una ficha. Esto protege la calidad cuando camb
 | Estándar fotográfico | |
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C11-FICHA-VARIANTE: Descargar plantilla editable de ficha técnica para variantes.]
+[QR 50: enlace pendiente al recurso correspondiente QR-LMB-C11-FICHA-VARIANTE — Descargar plantilla editable de ficha técnica para variantes.]
 
 ---
 
@@ -7247,6 +7465,7 @@ Guarda una pieza de la variante y evalúala en cuatro momentos:
 | 24 horas | | | | | |
 
 [VIDEO PENDIENTE — C11-V06: Cómo llenar ficha técnica y evaluar vida útil. QR sugerido: `QR-LMB-C11-CATA-VARIANTES`.]
+[VIDEO 81: Cómo llenar ficha técnica y evaluar vida útil. QR sugerido: `QR-LMB-C11-CATA-VARIANTES`.]
 
 ---
 
@@ -7319,6 +7538,7 @@ Antes de lanzar una variante, confirma:
 - [ ] La variante fue probada por clientes reales o equipo de evaluación.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C11-CHECKLIST-VARIANTES: Descargar checklist imprimible para lanzamiento de variantes.]
+[QR 51: enlace pendiente al recurso correspondiente QR-LMB-C11-CHECKLIST-VARIANTES — Descargar checklist imprimible para lanzamiento de variantes.]
 
 ---
 
@@ -7383,10 +7603,13 @@ Al terminar este capítulo, el alumno debe poder:
 - Registrar datos de producción para mejorar costos, tiempos y consistencia.
 
 [FOTOGRAFÍA PENDIENTE — C12-F01: Obrador profesional organizado antes de iniciar producción de bolillo, con mesas limpias, ingredientes pesados, charolas y bitácora visible.]
+[FOTO 89: Obrador profesional organizado antes de iniciar producción de bolillo, con mesas limpias, ingredientes pesados, charolas y bitácora visible.]
 
 [VIDEO PENDIENTE — C12-V01: Introducción de Chef Juanote™ a la producción profesional completa de bolillo.]
+[VIDEO 82: Introducción de Chef Juanote™ a la producción profesional completa de bolillo.]
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C12-INICIO: Video de bienvenida, plantilla de plan de producción y checklist profesional del capítulo.]
+[QR 52: enlace pendiente al recurso correspondiente QR-LMB-C12-INICIO — Video de bienvenida, plantilla de plan de producción y checklist profesional del capítulo.]
 
 ---
 
@@ -7452,8 +7675,10 @@ La solución no es subir temperatura sin criterio. La solución profesional es c
 Al salir del horno, el bolillo sigue estabilizándose. El vapor interno migra hacia la corteza y el ambiente. Si se empaca caliente, se condensa humedad, la corteza se ablanda y puede aparecer textura gomosa. Si se deja en zona con corriente excesiva, puede resecarse antes de venta.
 
 [FOTOGRAFÍA PENDIENTE — C12-F02: Termómetro midiendo temperatura final de masa en una producción grande.]
+[FOTO 90: Termómetro midiendo temperatura final de masa en una producción grande.]
 
 [VIDEO PENDIENTE — C12-V02: Cómo medir temperatura de masa y ajustar agua en producción.]
+[VIDEO 83: Cómo medir temperatura de masa y ajustar agua en producción.]
 
 ---
 
@@ -7500,6 +7725,7 @@ La producción sugerida incluye un margen razonable, pero no debe convertirse en
 9. Revisa el plan al día siguiente.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C12-DEMANDA: Plantilla editable para pronóstico diario de bolillo.]
+[QR 53: enlace pendiente al recurso correspondiente QR-LMB-C12-DEMANDA — Plantilla editable para pronóstico diario de bolillo.]
 
 ---
 
@@ -7575,8 +7801,10 @@ Un obrador eficiente no solo tiene buenas manos; tiene buena circulación. La ma
 Siempre que el espacio lo permita, el producto debe avanzar hacia adelante: de materia prima a producto terminado. Evitar que charolas sucias, harina, masas crudas y pan listo se crucen reduce contaminación, retrasos y confusión.
 
 [FOTOGRAFÍA PENDIENTE — C12-F03: Diagrama visual del flujo del obrador desde ingredientes hasta exhibición.]
+[FOTO 91: Diagrama visual del flujo del obrador desde ingredientes hasta exhibición.]
 
 [VIDEO PENDIENTE — C12-V03: Recorrido por un obrador mostrando flujo correcto de producción.]
+[VIDEO 84: Recorrido por un obrador mostrando flujo correcto de producción.]
 
 ---
 
@@ -7640,6 +7868,7 @@ Ejemplo:
 - Tanda 4: refuerzo de tarde.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C12-CRONOGRAMA: Formato imprimible de cronograma por tandas.]
+[QR 54: enlace pendiente al recurso correspondiente QR-LMB-C12-CRONOGRAMA — Formato imprimible de cronograma por tandas.]
 
 ---
 
@@ -7709,6 +7938,7 @@ Selecciona 10 piezas al azar y revisa:
 Si las 10 piezas parecen de panaderías distintas, falta estandarización.
 
 [FOTOGRAFÍA PENDIENTE — C12-F04: Charola con bolillos uniformes y una pieza defectuosa marcada para análisis.]
+[FOTO 92: Charola con bolillos uniformes y una pieza defectuosa marcada para análisis.]
 
 ---
 
@@ -7783,6 +8013,7 @@ Coloca en rejilla o canasto ventilado. No amontones pan caliente.
 Anota rendimiento, defectos, sobrantes, comentarios de venta y ajustes para siguiente tanda.
 
 [VIDEO PENDIENTE — C12-V04: Producción completa de una tanda profesional desde mise en place hasta enfriado.]
+[VIDEO 85: Producción completa de una tanda profesional desde mise en place hasta enfriado.]
 
 ---
 
@@ -7874,6 +8105,7 @@ Toda producción importante debe documentarse. La ficha no es burocracia; es una
 | Ajuste para próxima producción | |
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C12-FICHA-PRODUCCION: Descargar ficha profesional de producción diaria.]
+[QR 55: enlace pendiente al recurso correspondiente QR-LMB-C12-FICHA-PRODUCCION — Descargar ficha profesional de producción diaria.]
 
 ---
 
@@ -7952,6 +8184,7 @@ Plantea qué harías si ocurre una de estas situaciones:
 Escribe una solución inmediata y una prevención para el futuro.
 
 [VIDEO PENDIENTE — C12-V05: Cómo llenar ejercicios de producción y analizar resultados.]
+[VIDEO 86: Cómo llenar ejercicios de producción y analizar resultados.]
 
 ---
 
@@ -8003,8 +8236,10 @@ Realizar una producción controlada de bolillo aplicando planeación, escalado, 
 - Ficha de producción llena.
 
 [FOTOGRAFÍA PENDIENTE — C12-F05: Secuencia completa de laboratorio guiado con seis fotografías del proceso.]
+[FOTO 93: Secuencia completa de laboratorio guiado con seis fotografías del proceso.]
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C12-LABORATORIO: Carpeta de evidencias y formato de evaluación del laboratorio.]
+[QR 56: enlace pendiente al recurso correspondiente QR-LMB-C12-LABORATORIO — Carpeta de evidencias y formato de evaluación del laboratorio.]
 
 ---
 
@@ -8035,6 +8270,7 @@ Antes de iniciar una producción profesional de bolillo, confirma:
 - [ ] Se definirá un ajuste para la siguiente jornada.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C12-CHECKLIST: Checklist imprimible de producción profesional completa.]
+[QR 57: enlace pendiente al recurso correspondiente QR-LMB-C12-CHECKLIST — Checklist imprimible de producción profesional completa.]
 
 ---
 
@@ -8137,6 +8373,7 @@ La certificación no mide memoria; mide oficio aplicado.
 [ESPACIO PARA FOTOGRAFÍA — C13-F01: Mesa de evaluación con bolillos terminados, bitácora, báscula, termómetro y ficha técnica.]
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C13-INICIO: Video introductorio a la certificación profesional del panadero.]
+[QR 58: enlace pendiente al recurso correspondiente QR-LMB-C13-INICIO — Video introductorio a la certificación profesional del panadero.]
 
 ---
 
@@ -8363,6 +8600,7 @@ El candidato debe poder explicar:
 [ESPACIO PARA FOTOGRAFÍA — C13-F02: Carpeta técnica del candidato con bitácora, fichas y evidencias fotográficas.]
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C13-CARPETA: Plantilla descargable de carpeta técnica para certificación.]
+[QR 59: enlace pendiente al recurso correspondiente QR-LMB-C13-CARPETA — Plantilla descargable de carpeta técnica para certificación.]
 
 ---
 
@@ -8541,6 +8779,7 @@ El pan debe enfriarse sobre rejilla o superficie ventilada. La presentación fin
 > **Chef Juanote™ dice:** Una buena rúbrica no humilla al aprendiz. Le muestra con precisión dónde está fuerte y dónde todavía necesita horno, mesa y práctica.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C13-RUBRICA: Rúbrica imprimible de certificación profesional del bolillo.]
+[QR 60: enlace pendiente al recurso correspondiente QR-LMB-C13-RUBRICA — Rúbrica imprimible de certificación profesional del bolillo.]
 
 ---
 
@@ -8799,6 +9038,7 @@ Antes de producir, dibuja tu estación de trabajo. Marca:
 Después de producir, revisa si respetaste el flujo.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C13-EJERCICIOS: Formatos descargables para simulacros y ejercicios de certificación.]
+[QR 61: enlace pendiente al recurso correspondiente QR-LMB-C13-EJERCICIOS — Formatos descargables para simulacros y ejercicios de certificación.]
 
 ---
 
@@ -8890,6 +9130,7 @@ Después del horneado:
 - [ ] Dejé limpia el área de trabajo.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C13-CHECKLIST: Checklist imprimible para día de certificación.]
+[QR 62: enlace pendiente al recurso correspondiente QR-LMB-C13-CHECKLIST — Checklist imprimible para día de certificación.]
 
 ---
 
@@ -8986,6 +9227,7 @@ Al finalizar este capítulo, el lector deberá poder:
 - Entender que el futuro del panadero se construye con técnica, constancia, humildad y criterio.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C14-INICIO: Mensaje final del Chef Juanote™ y bienvenida al plan de crecimiento profesional.]
+[QR 63: enlace pendiente al recurso correspondiente QR-LMB-C14-INICIO — Mensaje final del Chef Juanote™ y bienvenida al plan de crecimiento profesional.]
 
 ---
 
@@ -9290,6 +9532,7 @@ Estos errores aparecieron a lo largo del libro porque son capaces de afectar tod
 | Vender cualquier pieza | Daño a la reputación | La selección final también es oficio. |
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C14-ERRORES: Tabla imprimible de errores críticos del bolillo.]
+[QR 64: enlace pendiente al recurso correspondiente QR-LMB-C14-ERRORES — Tabla imprimible de errores críticos del bolillo.]
 
 ---
 
@@ -9460,6 +9703,7 @@ Antes de comprar equipo, pregunta:
 - QR-LMB-C14-MENSAJE-FINAL.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C14-CHECKLIST: Checklist final descargable de dominio del bolillo.]
+[QR 65: enlace pendiente al recurso correspondiente QR-LMB-C14-CHECKLIST — Checklist final descargable de dominio del bolillo.]
 
 ---
 
@@ -9537,6 +9781,7 @@ El camino del bolillo no termina en la última página. Termina cada día en una
 > ¡Libro completado! Ahora tienes una guía completa para hacer, evaluar, corregir, profesionalizar y proyectar el bolillo. Guarda tu bitácora, sigue practicando y celebra cada mejora. Nos vemos en el obrador.
 
 [CÓDIGO QR PENDIENTE — QR-LMB-C14-MENSAJE-FINAL: Despedida multimedia del Chef Juanote™ y Boly™.]
+[QR 66: enlace pendiente al recurso correspondiente QR-LMB-C14-MENSAJE-FINAL — Despedida multimedia del Chef Juanote™ y Boly™.]
 
 ---
 
