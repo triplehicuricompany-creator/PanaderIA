@@ -7382,3 +7382,752 @@ El Capítulo 11 convierte la creatividad en método. A partir de aquí, cada var
 ## Continuidad hacia el Capítulo 12
 
 Después de aprender a diseñar variantes, el siguiente paso será pensar como panadería completa: organización, producción, venta, control de calidad y crecimiento del obrador. El bolillo ya no será solo una pieza; será parte de un sistema profesional.
+
+---
+
+# Capítulo 12 — Producción profesional completa
+
+## Objetivo del capítulo
+
+Que el alumno aprenda a organizar una producción profesional de bolillo desde la planeación previa hasta la venta, el control de calidad, el registro de resultados y la mejora continua del obrador.
+
+Al terminar este capítulo, el alumno debe poder:
+
+- Diseñar un plan de producción según demanda, capacidad y horario de venta.
+- Calcular ingredientes, rendimiento, merma y piezas vendibles.
+- Organizar mise en place, equipo, personal y flujo de trabajo.
+- Escalar una fórmula sin perder control técnico.
+- Coordinar amasado, fermentación, formado, horneado, enfriado y exhibición.
+- Establecer puntos críticos de control para mantener calidad constante.
+- Resolver problemas reales de producción durante una jornada de panadería.
+- Registrar datos de producción para mejorar costos, tiempos y consistencia.
+
+[FOTOGRAFÍA PENDIENTE — C12-F01: Obrador profesional organizado antes de iniciar producción de bolillo, con mesas limpias, ingredientes pesados, charolas y bitácora visible.]
+
+[VIDEO PENDIENTE — C12-V01: Introducción de Chef Juanote™ a la producción profesional completa de bolillo.]
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C12-INICIO: Video de bienvenida, plantilla de plan de producción y checklist profesional del capítulo.]
+
+---
+
+## 1. La producción profesional no empieza en la amasadora
+
+Muchos errores de panadería parecen ocurrir durante el amasado, la fermentación o el horneado, pero en realidad nacen antes: en una mala planeación. Si el panadero no sabe cuántas piezas necesita, a qué hora deben salir, qué capacidad tiene el horno, cuántas charolas están disponibles o quién hará cada tarea, la producción se vuelve improvisación.
+
+Producir bolillo profesionalmente no significa hacer muchas piezas a la fuerza. Significa hacer la cantidad correcta, con calidad repetible, en el horario correcto, con costo controlado y con un flujo de trabajo que no destruya al equipo.
+
+La producción profesional integra cuatro dimensiones:
+
+1. **Técnica:** fórmula, masa, fermentación, corte, horno y enfriado.
+2. **Organización:** horarios, equipo, personas, espacio y secuencia.
+3. **Calidad:** estándar visual, peso, textura, greña, color y vida útil.
+4. **Negocio:** costo, rendimiento, merma, venta, inventario y ganancia.
+
+> **Chef Juanote™ dice:** Una tanda buena demuestra habilidad. Una producción completa y constante demuestra oficio profesional.
+
+[BOLY™ INTERVIENE]
+
+> ¡Atención, camarada! En este capítulo ya no pensamos solo como “persona que hace pan”. Pensamos como responsable de obrador. Tu misión es que el bolillo salga bien aunque haya prisa, pedidos, calor, cansancio y clientes esperando.
+
+---
+
+## 2. Fundamento científico de la producción a escala
+
+Cuando se aumenta una producción, no basta con multiplicar ingredientes. La masa se comporta de manera diferente porque cambian la fricción, la temperatura, el tiempo de manipulación, el volumen de fermentación, la velocidad de enfriamiento y la carga térmica del horno.
+
+### 2.1 Temperatura de masa
+
+La fermentación depende fuertemente de la temperatura. Una masa grande puede calentarse más durante el amasado por fricción mecánica. Si la temperatura final sube demasiado, la levadura trabaja más rápido, el gluten se relaja antes de tiempo y el panadero pierde margen de control.
+
+En producción profesional se vigila la **temperatura final de masa**. Para bolillo, una zona de trabajo común suele mantenerse alrededor de 24 °C a 27 °C, ajustando según fórmula, clima, harina, equipo y ritmo del obrador.
+
+### 2.2 Fermentación y volumen de tanda
+
+Una tanda pequeña se divide rápido. Una tanda grande tarda más en pesarse, dividirse y formarse. Mientras el equipo trabaja, la masa sigue fermentando. Esto puede provocar que las primeras piezas y las últimas no tengan el mismo punto.
+
+Por eso la producción profesional usa estrategias como:
+
+- Dividir tandas grandes en bloques manejables.
+- Trabajar por lotes escalonados.
+- Ajustar levadura según tiempo real de proceso.
+- Controlar temperatura de agua.
+- Usar reposos programados.
+- Mantener registros de hora de amasado, división, formado, corte y horneado.
+
+### 2.3 Carga térmica del horno
+
+Un horno vacío no se comporta igual que un horno lleno. Al entrar muchas piezas, la temperatura baja, el vapor se distribuye distinto y la recuperación térmica depende del tipo de horno. Si el horno no recupera calor, el bolillo puede quedar pálido, sin greña vigorosa o con corteza débil.
+
+La solución no es subir temperatura sin criterio. La solución profesional es conocer el horno:
+
+- Capacidad real por hornada.
+- Tiempo de recuperación.
+- Zonas calientes y frías.
+- Necesidad de rotar charolas.
+- Cantidad y momento de vapor.
+- Tiempo real de cocción por carga.
+
+### 2.4 Enfriamiento y migración de humedad
+
+Al salir del horno, el bolillo sigue estabilizándose. El vapor interno migra hacia la corteza y el ambiente. Si se empaca caliente, se condensa humedad, la corteza se ablanda y puede aparecer textura gomosa. Si se deja en zona con corriente excesiva, puede resecarse antes de venta.
+
+[FOTOGRAFÍA PENDIENTE — C12-F02: Termómetro midiendo temperatura final de masa en una producción grande.]
+
+[VIDEO PENDIENTE — C12-V02: Cómo medir temperatura de masa y ajustar agua en producción.]
+
+---
+
+## 3. Planeación de la demanda
+
+Antes de pesar harina, el panadero profesional responde una pregunta: ¿cuántos bolillos necesita vender o entregar?
+
+La respuesta se obtiene combinando:
+
+- Historial de ventas.
+- Día de la semana.
+- Temporada.
+- Clima.
+- Eventos cercanos.
+- Pedidos especiales.
+- Horarios de mayor venta.
+- Capacidad de producción.
+- Merma esperada.
+
+### Ejemplo básico
+
+Si una panadería vende normalmente 600 bolillos en la mañana y 400 en la tarde, pero el viernes aumenta 20% por tortas y comida familiar, la producción no debe ser igual que el martes.
+
+| Día | Venta promedio | Ajuste | Producción sugerida |
+|---|---:|---:|---:|
+| Martes | 800 piezas | 0% | 800 a 850 piezas |
+| Viernes | 1,000 piezas | +20% | 1,200 piezas |
+| Domingo | 700 piezas | -10% tarde | 650 a 750 piezas |
+
+La producción sugerida incluye un margen razonable, pero no debe convertirse en exceso permanente. Pan que sobra todos los días es dinero detenido.
+
+> **Chef Juanote™ dice:** La vitrina vacía antes de tiempo duele, pero la canasta llena de pan viejo también. El panadero profesional aprende a producir con datos, no con corazonadas.
+
+### Procedimiento para planear demanda
+
+1. Revisa ventas de los últimos 7, 14 y 30 días.
+2. Identifica horarios pico.
+3. Separa venta regular de pedidos especiales.
+4. Marca días atípicos: lluvia, fiesta, quincena, vacaciones o evento local.
+5. Define producción por bloque horario.
+6. Calcula margen de seguridad.
+7. Ajusta según capacidad real del horno y personal.
+8. Registra sobrantes al final del día.
+9. Revisa el plan al día siguiente.
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C12-DEMANDA: Plantilla editable para pronóstico diario de bolillo.]
+
+---
+
+## 4. Escalado profesional de fórmula
+
+Escalar una fórmula significa convertir porcentajes panaderos en cantidades reales para la producción necesaria. La base siempre es la harina como 100%.
+
+### Fórmula base de referencia
+
+| Ingrediente | Porcentaje panadero |
+|---|---:|
+| Harina de trigo | 100% |
+| Agua | 58% a 62% |
+| Sal | 2% |
+| Levadura fresca | 2% a 3% |
+| Grasa o mejorante, si aplica | Según ficha |
+
+### Cálculo por peso de masa
+
+Si se desean 500 bolillos de 90 g de masa cada uno:
+
+500 piezas × 90 g = 45,000 g de masa total.
+
+Si la fórmula suma 164% aproximado:
+
+45,000 g ÷ 1.64 = 27,439 g de harina.
+
+A partir de la harina se calculan los demás ingredientes.
+
+| Ingrediente | Cálculo | Cantidad aproximada |
+|---|---:|---:|
+| Harina | Base | 27.44 kg |
+| Agua 60% | 27.44 × 0.60 | 16.46 kg |
+| Sal 2% | 27.44 × 0.02 | 0.55 kg |
+| Levadura 2.5% | 27.44 × 0.025 | 0.69 kg |
+
+### Consideraciones de merma
+
+El peso de masa no es igual al peso final horneado. Durante el horneado se pierde agua. Si el bolillo entra al horno con 90 g de masa, puede salir con menor peso. La merma depende de tiempo, temperatura, tamaño y corteza.
+
+Para venta por pieza, lo importante es mantener peso de masa constante. Para venta por peso, se requiere control adicional de pérdida de horneado.
+
+[BOLY™ INTERVIENE]
+
+> Truco de orden: si no puedes explicar tu fórmula con porcentajes, todavía no está lista para producción grande. Los porcentajes son el idioma profesional del obrador.
+
+---
+
+## 5. Diseño del flujo de producción
+
+Un obrador eficiente no solo tiene buenas manos; tiene buena circulación. La masa debe avanzar sin cruces innecesarios, sin charolas estorbando, sin producto terminado cerca de harina cruda y sin personal chocando por falta de espacio.
+
+### Flujo recomendado
+
+1. Recepción y almacenamiento de ingredientes.
+2. Pesado y mise en place.
+3. Amasado.
+4. Reposo o fermentación inicial.
+5. División.
+6. Boleado o preformado.
+7. Reposo intermedio.
+8. Formado.
+9. Fermentación final.
+10. Corte.
+11. Horneado con vapor.
+12. Enfriado.
+13. Selección y control de calidad.
+14. Exhibición, empaque o entrega.
+15. Registro de producción y limpieza.
+
+### Principio de marcha hacia adelante
+
+Siempre que el espacio lo permita, el producto debe avanzar hacia adelante: de materia prima a producto terminado. Evitar que charolas sucias, harina, masas crudas y pan listo se crucen reduce contaminación, retrasos y confusión.
+
+[FOTOGRAFÍA PENDIENTE — C12-F03: Diagrama visual del flujo del obrador desde ingredientes hasta exhibición.]
+
+[VIDEO PENDIENTE — C12-V03: Recorrido por un obrador mostrando flujo correcto de producción.]
+
+---
+
+## 6. Mise en place profesional
+
+La mise en place es la preparación completa antes de iniciar. En producción de bolillo, una mise en place incompleta puede detener todo el obrador.
+
+### Antes de amasar verifica
+
+- Harina suficiente y tamizada si aplica.
+- Agua medida y con temperatura ajustada.
+- Levadura en buen estado.
+- Sal pesada por separado.
+- Mejorantes o grasas identificados.
+- Báscula limpia y calibrada.
+- Mesa despejada.
+- Charolas listas.
+- Papel, mantas, plástico o cámara de fermentación preparados.
+- Navajas o cuchillas disponibles.
+- Horno precalentado.
+- Sistema de vapor funcionando.
+- Rejillas o canastos para enfriado.
+- Bitácora abierta.
+
+> **Chef Juanote™ dice:** La mise en place no es decoración francesa; es seguro contra el caos.
+
+### Error común
+
+Iniciar amasado y descubrir que no hay suficientes charolas. La masa no espera a que el panadero resuelva su desorden. Fermenta, se relaja y cambia.
+
+---
+
+## 7. Cronograma de producción
+
+El cronograma convierte la receta en operación. Debe indicar hora, actividad, responsable y punto de control.
+
+### Ejemplo de producción matutina
+
+| Hora | Actividad | Responsable | Control |
+|---|---|---|---|
+| 4:30 | Encender horno y preparar mise en place | Encargado | Temperatura de horno |
+| 4:45 | Pesar ingredientes | Ayudante | Fórmula revisada |
+| 5:00 | Amasar primera tanda | Panadero | Temperatura final de masa |
+| 5:20 | Reposo inicial | Panadero | Masa cubierta |
+| 5:40 | Dividir y preformar | Equipo | Peso por pieza |
+| 6:05 | Formar | Equipo | Tensión y simetría |
+| 6:35 | Fermentación final | Panadero | Volumen y punto |
+| 6:55 | Cortar y hornear | Hornero | Greña, vapor, temperatura |
+| 7:15 | Enfriar y revisar | Encargado | Color, base, miga |
+| 7:30 | Exhibir o entregar | Ventas | Rotación del producto |
+
+### Producción escalonada
+
+Cuando la demanda es alta, conviene producir en tandas escalonadas. Así el cliente recibe pan fresco durante más tiempo y el equipo no satura horno ni mesa.
+
+Ejemplo:
+
+- Tanda 1: venta de 7:00 a 8:00.
+- Tanda 2: venta de 8:30 a 10:00.
+- Tanda 3: pedidos o torterías.
+- Tanda 4: refuerzo de tarde.
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C12-CRONOGRAMA: Formato imprimible de cronograma por tandas.]
+
+---
+
+## 8. Roles dentro del obrador
+
+En producción pequeña, una persona puede hacer todo. En producción profesional, dividir roles mejora velocidad y consistencia.
+
+### Roles básicos
+
+| Rol | Responsabilidad principal | Punto crítico |
+|---|---|---|
+| Encargado de producción | Coordina plan, tiempos y calidad | No perder visión general |
+| Pesador | Ingredientes exactos | Evitar errores de fórmula |
+| Amasador | Desarrollo de masa | Temperatura y gluten |
+| Divisor | Peso uniforme | Ritmo y precisión |
+| Formador | Tensión y forma | Simetría y cierre |
+| Fermentador | Punto de fermentación | Evitar sobrefermentación |
+| Cortador | Greña correcta | Ángulo, profundidad, decisión |
+| Hornero | Vapor, temperatura y cocción | Color, base y corteza |
+| Ventas o empaque | Rotación y presentación | No maltratar pan |
+
+[BOLY™ INTERVIENE]
+
+> Si todos hacen todo al mismo tiempo sin coordinarse, nadie es responsable del resultado. En equipo, cada quien cuida una parte del bolillo.
+
+### Reunión breve antes de producción
+
+Una reunión de tres minutos puede evitar muchos errores:
+
+1. ¿Cuántas piezas haremos?
+2. ¿Hay pedidos especiales?
+3. ¿Quién pesa, amasa, forma, corta y hornea?
+4. ¿Qué problema ocurrió ayer?
+5. ¿Qué punto cuidaremos hoy?
+
+---
+
+## 9. Control de calidad por etapas
+
+La calidad no se revisa solo al final. Si esperas hasta que el bolillo salga del horno para descubrir el problema, ya es tarde para corregir esa tanda.
+
+### Puntos críticos de control
+
+| Etapa | Qué revisar | Señal de alerta | Acción correctiva |
+|---|---|---|---|
+| Pesado | Ingredientes exactos | Sal duplicada o faltante | Detener y verificar fórmula |
+| Amasado | Gluten y temperatura | Masa caliente o débil | Ajustar agua, reposo o tiempo |
+| División | Peso por pieza | Variación excesiva | Recalibrar corte y báscula |
+| Formado | Tensión y cierre | Piezas flojas | Reentrenar formado |
+| Fermentación final | Volumen y elasticidad | Masa colapsada o dura | Ajustar tiempo y ambiente |
+| Corte | Ángulo y profundidad | Greña irregular | Cambiar cuchilla o técnica |
+| Horno | Vapor y color | Pálido o quemado | Ajustar carga, tiempo o temperatura |
+| Enfriado | Corteza y humedad | Sudoración | No empacar caliente |
+
+### Prueba rápida de uniformidad
+
+Selecciona 10 piezas al azar y revisa:
+
+- Peso de masa registrado.
+- Largo aproximado.
+- Altura.
+- Color.
+- Apertura de greña.
+- Base.
+- Miga de una pieza partida.
+
+Si las 10 piezas parecen de panaderías distintas, falta estandarización.
+
+[FOTOGRAFÍA PENDIENTE — C12-F04: Charola con bolillos uniformes y una pieza defectuosa marcada para análisis.]
+
+---
+
+## 10. Producción paso a paso de una tanda profesional
+
+Este procedimiento resume una producción completa de bolillo con enfoque profesional.
+
+### Paso 1: definir objetivo de tanda
+
+Determina cantidad, horario de salida y destino:
+
+- Venta mostrador.
+- Pedido de tortería.
+- Evento.
+- Producción escolar.
+- Reposición de tarde.
+
+### Paso 2: calcular fórmula
+
+Usa porcentaje panadero. Calcula harina base y todos los ingredientes. Agrega margen solo si está justificado por merma o demanda.
+
+### Paso 3: preparar mise en place
+
+Pesa todo antes de encender la amasadora. Marca recipientes si hay varias tandas.
+
+### Paso 4: ajustar agua
+
+Considera temperatura ambiente, harina, velocidad de amasadora y temperatura objetivo de masa.
+
+### Paso 5: amasar
+
+Desarrolla gluten hasta obtener una masa elástica, manejable y con fuerza suficiente. Evita sobrecalentar.
+
+### Paso 6: registrar temperatura final
+
+Anota temperatura de masa, hora de salida de amasadora y observaciones.
+
+### Paso 7: reposar
+
+Cubre la masa para evitar resequedad. No abandones el control del tiempo.
+
+### Paso 8: dividir
+
+Pesa piezas con precisión. Mantén ritmo para que no haya diferencias grandes de fermentación entre primeras y últimas piezas.
+
+### Paso 9: preformar y reposar
+
+Da estructura inicial. Permite relajación para facilitar formado final.
+
+### Paso 10: formar
+
+Genera tensión sin desgarrar. Cierra correctamente para evitar deformaciones.
+
+### Paso 11: fermentar final
+
+Observa volumen, elasticidad y comportamiento de la pieza. No dependas solo del reloj.
+
+### Paso 12: cortar
+
+Usa cuchilla afilada, decisión y ángulo correcto. El corte debe ayudar a dirigir expansión, no destruir estructura.
+
+### Paso 13: hornear
+
+Carga con orden, aplica vapor al inicio y vigila color, greña, base y tiempo real.
+
+### Paso 14: enfriar
+
+Coloca en rejilla o canasto ventilado. No amontones pan caliente.
+
+### Paso 15: evaluar y registrar
+
+Anota rendimiento, defectos, sobrantes, comentarios de venta y ajustes para siguiente tanda.
+
+[VIDEO PENDIENTE — C12-V04: Producción completa de una tanda profesional desde mise en place hasta enfriado.]
+
+---
+
+## 11. Casos reales de panadería
+
+### Caso 1: la tanda que se adelantó sola
+
+Una panadería aumentó producción de 300 a 700 bolillos sin cambiar organización. La masa quedó lista, pero el equipo tardó demasiado en dividir. Las últimas piezas sobrefermentaron antes de entrar al horno y salieron planas. La solución fue dividir la producción en dos amasados escalonados y bajar ligeramente levadura en días calurosos.
+
+### Caso 2: el horno lleno que no doraba
+
+Un obrador llenaba el horno al máximo para “ahorrar tiempo”. El bolillo salía pálido y con corteza débil. Al revisar, el horno perdía demasiada temperatura al cargar. Se redujo la cantidad por hornada, se precalentó más tiempo y se organizó la carga por zonas. Aunque hubo una hornada adicional, el producto vendió mejor y bajaron las quejas.
+
+### Caso 3: el pan bonito que llegaba sudado
+
+Una panadería empacaba bolillo caliente para reparto. Al llegar, el pan estaba blando y húmedo. No era falla de receta: era falla de enfriado. Se implementó reposo mínimo antes de embolsar, canastos ventilados y salida por rutas más cortas. El cliente recuperó confianza.
+
+### Caso 4: el ayudante nuevo y el peso irregular
+
+Un ayudante dividía “a ojo” para ir más rápido. Había piezas grandes y pequeñas en la misma charola. Algunas se quemaban antes de que otras terminaran de cocerse. Se regresó al uso de báscula, se marcó peso estándar y se capacitó al ayudante con una muestra visual. La uniformidad mejoró en dos jornadas.
+
+> **Chef Juanote™ dice:** En producción, lo pequeño se vuelve grande. Cinco gramos de diferencia, diez minutos de retraso o una charola mal cargada se multiplican por cientos de piezas.
+
+---
+
+## 12. Errores frecuentes y cómo resolverlos
+
+| Error frecuente | Causa probable | Consecuencia | Solución profesional |
+|---|---|---|---|
+| Producir sin pronóstico | No revisar ventas | Sobrante o faltante | Crear registro diario |
+| Multiplicar receta sin ajustar proceso | Escalado incompleto | Fermentación desigual | Dividir tandas y controlar tiempos |
+| No medir temperatura de masa | Exceso de fricción o clima | Masa acelerada | Ajustar agua y tiempo de amasado |
+| Saturar horno | Carga excesiva | Pan pálido o irregular | Respetar capacidad real |
+| Empacar caliente | Prisa de reparto | Corteza blanda | Enfriar antes de empacar |
+| Formar sin estándar | Falta de capacitación | Piezas deformes | Usar muestra visual y práctica guiada |
+| No registrar defectos | Falta de bitácora | Errores repetidos | Anotar causa y corrección |
+| Cambiar roles cada minuto | Mala coordinación | Caos operativo | Asignar responsables |
+| No limpiar entre etapas | Desorden y riesgo sanitario | Contaminación o retraso | Aplicar limpieza por bloques |
+| Ignorar sobrantes | Mala lectura de venta | Pérdida económica | Ajustar producción del día siguiente |
+
+[BOLY™ INTERVIENE]
+
+> Si el mismo error aparece tres días seguidos, ya no es “accidente”: es sistema. Y si es sistema, se corrige con método, no con regaños.
+
+---
+
+## 13. Consejos exclusivos del Chef Juanote™ para producción completa
+
+1. **Nunca llenes la agenda más que tu horno.** La capacidad real manda.
+2. **La báscula es más rápida que discutir con el cliente.** Pesa bien desde el inicio.
+3. **Una masa grande necesita más vigilancia, no más confianza.** Mientras más volumen, más control.
+4. **El pan fresco se programa.** No se logra por casualidad.
+5. **El mejor panadero también sabe contar.** Piezas, kilos, minutos, mermas y pesos.
+6. **No sacrifiques enfriado por prisa.** El cliente juzga el pan cuando lo come, no cuando salió del horno.
+7. **Entrena con muestras reales.** Una foto estándar vale más que una explicación confusa.
+8. **Si una tanda falla, separa el problema.** ¿Fue fórmula, proceso, horno, clima, equipo o venta?
+9. **La producción profesional tiene memoria.** Esa memoria se llama bitácora.
+10. **El orgullo no corrige hornadas.** Los datos sí.
+
+---
+
+## 14. Ficha de producción profesional
+
+Toda producción importante debe documentarse. La ficha no es burocracia; es una herramienta para repetir resultados y encontrar causas.
+
+| Campo | Registro |
+|---|---|
+| Fecha | |
+| Responsable | |
+| Objetivo de piezas | |
+| Piezas reales producidas | |
+| Piezas vendibles | |
+| Piezas defectuosas | |
+| Fórmula usada | |
+| Harina total | |
+| Temperatura ambiente | |
+| Temperatura del agua | |
+| Temperatura final de masa | |
+| Hora de amasado | |
+| Hora de división | |
+| Hora de formado | |
+| Hora de horneado | |
+| Número de hornadas | |
+| Tiempo promedio de horneado | |
+| Observaciones de greña | |
+| Observaciones de color | |
+| Sobrante al cierre | |
+| Comentarios de clientes | |
+| Ajuste para próxima producción | |
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C12-FICHA-PRODUCCION: Descargar ficha profesional de producción diaria.]
+
+---
+
+## 15. Ejercicios prácticos del capítulo
+
+### Ejercicio 1: pronóstico de producción
+
+Durante tres días, registra:
+
+- Piezas producidas.
+- Piezas vendidas.
+- Piezas sobrantes.
+- Horario de mayor venta.
+- Comentarios de clientes.
+
+Después responde:
+
+1. ¿Produjiste de más o de menos?
+2. ¿En qué horario faltó pan fresco?
+3. ¿Qué ajuste harías mañana?
+
+### Ejercicio 2: escalado de fórmula
+
+Calcula ingredientes para:
+
+- 100 bolillos de 90 g.
+- 250 bolillos de 90 g.
+- 500 bolillos de 90 g.
+
+Usa una hidratación de 60%, sal de 2% y levadura de 2.5%. Compara cómo cambia el volumen de trabajo y qué equipo necesitarías.
+
+### Ejercicio 3: mapa de flujo del obrador
+
+Dibuja tu espacio de trabajo y marca:
+
+- Entrada de ingredientes.
+- Zona de pesado.
+- Amasadora.
+- Mesa de división.
+- Zona de formado.
+- Fermentación.
+- Horno.
+- Enfriado.
+- Exhibición o empaque.
+
+Identifica tres cruces o estorbos y propón una mejora.
+
+### Ejercicio 4: control de uniformidad
+
+Produce una tanda pequeña y selecciona 10 piezas. Registra:
+
+| Pieza | Peso de masa | Largo | Color | Greña | Observación |
+|---|---:|---:|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
+| 5 | | | | | |
+| 6 | | | | | |
+| 7 | | | | | |
+| 8 | | | | | |
+| 9 | | | | | |
+| 10 | | | | | |
+
+### Ejercicio 5: simulacro de crisis
+
+Plantea qué harías si ocurre una de estas situaciones:
+
+- El horno no alcanza temperatura.
+- La masa está más caliente de lo esperado.
+- Un ayudante falta.
+- Se duplicó un pedido.
+- La fermentación va más rápida por calor.
+- Se acabaron charolas limpias.
+
+Escribe una solución inmediata y una prevención para el futuro.
+
+[VIDEO PENDIENTE — C12-V05: Cómo llenar ejercicios de producción y analizar resultados.]
+
+---
+
+## 16. Laboratorio guiado: producción profesional completa
+
+### Objetivo
+
+Realizar una producción controlada de bolillo aplicando planeación, escalado, cronograma, control de calidad y registro final.
+
+### Material necesario
+
+- Fórmula base de bolillo.
+- Báscula.
+- Termómetro.
+- Reloj o cronómetro.
+- Charolas.
+- Cuchilla.
+- Horno con vapor o sistema alternativo.
+- Rejillas de enfriado.
+- Ficha de producción.
+- Cámara o celular para evidencia.
+
+### Procedimiento
+
+1. Define cuántas piezas producirás.
+2. Calcula la fórmula completa en gramos o kilogramos.
+3. Elabora cronograma con horas reales.
+4. Prepara mise en place.
+5. Mide temperatura ambiente y del agua.
+6. Amasa y registra temperatura final de masa.
+7. Divide y pesa cada pieza.
+8. Forma siguiendo estándar visual.
+9. Fermenta final observando volumen y elasticidad.
+10. Corta y hornea con vapor.
+11. Enfría sin amontonar.
+12. Selecciona 10 piezas para evaluación.
+13. Fotografía la tanda, la greña, la base y la miga.
+14. Registra defectos y piezas no vendibles.
+15. Escribe tres ajustes para la siguiente producción.
+
+### Evidencias requeridas
+
+- Foto de mise en place.
+- Foto de masa terminada.
+- Foto de piezas formadas.
+- Foto de fermentación final.
+- Foto de bolillo horneado.
+- Foto de miga.
+- Ficha de producción llena.
+
+[FOTOGRAFÍA PENDIENTE — C12-F05: Secuencia completa de laboratorio guiado con seis fotografías del proceso.]
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C12-LABORATORIO: Carpeta de evidencias y formato de evaluación del laboratorio.]
+
+---
+
+## 17. Checklist profesional del capítulo
+
+Antes de iniciar una producción profesional de bolillo, confirma:
+
+- [ ] La demanda estimada está calculada.
+- [ ] El número de piezas objetivo está definido.
+- [ ] La fórmula fue escalada correctamente.
+- [ ] Hay suficiente harina, sal, levadura y agua.
+- [ ] La temperatura del agua fue considerada.
+- [ ] El horno está precalentado.
+- [ ] El sistema de vapor funciona.
+- [ ] Las charolas están listas.
+- [ ] La báscula funciona y está limpia.
+- [ ] La mesa de trabajo está despejada.
+- [ ] El equipo conoce sus roles.
+- [ ] Existe cronograma de producción.
+- [ ] Se registrará temperatura final de masa.
+- [ ] Se controlará peso por pieza.
+- [ ] La fermentación se observará por punto, no solo por reloj.
+- [ ] La cuchilla está afilada.
+- [ ] Hay espacio para enfriado.
+- [ ] No se empacará pan caliente.
+- [ ] Se separarán piezas defectuosas.
+- [ ] Se registrarán sobrantes y comentarios.
+- [ ] Se definirá un ajuste para la siguiente jornada.
+
+[CÓDIGO QR PENDIENTE — QR-LMB-C12-CHECKLIST: Checklist imprimible de producción profesional completa.]
+
+---
+
+## 18. Recursos visuales y multimedia del capítulo
+
+### Fotografías pendientes
+
+- C12-F01: Obrador organizado antes de iniciar producción.
+- C12-F02: Medición de temperatura final de masa.
+- C12-F03: Diagrama visual del flujo del obrador.
+- C12-F04: Charola con bolillos uniformes y pieza defectuosa marcada.
+- C12-F05: Secuencia completa del laboratorio guiado.
+- C12-F06: Equipo de panadería en reunión breve antes de producción.
+- C12-F07: Horno cargado correctamente con separación entre piezas.
+- C12-F08: Zona de enfriado con bolillos sobre rejillas.
+
+### Videos pendientes
+
+- C12-V01: Introducción a la producción profesional completa.
+- C12-V02: Medición de temperatura de masa y ajuste de agua.
+- C12-V03: Recorrido por flujo correcto de obrador.
+- C12-V04: Producción completa de una tanda profesional.
+- C12-V05: Ejercicios de producción y análisis de resultados.
+- C12-V06: Cómo organizar roles durante una jornada de bolillo.
+
+### Códigos QR sugeridos
+
+- QR-LMB-C12-INICIO.
+- QR-LMB-C12-DEMANDA.
+- QR-LMB-C12-CRONOGRAMA.
+- QR-LMB-C12-FICHA-PRODUCCION.
+- QR-LMB-C12-LABORATORIO.
+- QR-LMB-C12-CHECKLIST.
+
+---
+
+## 19. Autoevaluación del capítulo
+
+Responde con honestidad:
+
+1. ¿Puedo calcular cuántos bolillos producir según demanda real?
+2. ¿Sé escalar una fórmula usando porcentaje panadero?
+3. ¿Puedo explicar por qué una tanda grande no se comporta igual que una pequeña?
+4. ¿Mido temperatura final de masa?
+5. ¿Tengo un flujo de trabajo ordenado en el obrador?
+6. ¿Puedo asignar roles dentro de una producción?
+7. ¿Sé identificar puntos críticos de control?
+8. ¿Puedo evitar que el horno se sature?
+9. ¿Enfrío el pan correctamente antes de empacar?
+10. ¿Registro datos para mejorar la siguiente jornada?
+
+### Escala personal
+
+- **0 a 3 respuestas afirmativas:** refuerza planeación, fórmula y registro antes de aumentar producción.
+- **4 a 7 respuestas afirmativas:** ya puedes producir con orden, pero necesitas mejorar control y constancia.
+- **8 a 10 respuestas afirmativas:** estás listo para coordinar una producción profesional de bolillo con criterio técnico.
+
+---
+
+## 20. Cierre del Capítulo 12
+
+La producción profesional completa convierte al bolillo en sistema. Ya no se trata únicamente de lograr una pieza bonita, sino de organizar personas, tiempos, hornos, fórmulas, costos, calidad y venta para que muchas piezas salgan bien de manera constante.
+
+Un obrador profesional no depende de la suerte. Depende de planeación, medición, limpieza, comunicación, bitácora y mejora continua. Cuando el panadero entiende esto, deja de correr detrás de la masa y empieza a dirigir el proceso.
+
+El Capítulo 12 une todo lo aprendido: ingredientes, amasado, fermentación, formado, corte, horneado, enfriado, diagnóstico y variantes. Ahora el alumno puede mirar el bolillo no solo como pan, sino como producción completa.
+
+> **Chef Juanote™ dice:** Hacer pan es oficio. Producir bien todos los días es disciplina. Y sostener calidad cuando el obrador está lleno, eso ya es profesionalismo.
+
+[BOLY™ INTERVIENE]
+
+> ¡Capítulo completado! Hoy aprendimos que el bolillo también necesita agenda, números, equipo, orden y memoria. La próxima vez que veas una canasta llena de bolillos parejitos, acuérdate: ahí no solo hubo receta; hubo sistema.
+
+## Continuidad hacia el Capítulo 13
+
+Después de aprender a organizar una producción profesional completa, el siguiente paso será evaluar y certificar el aprendizaje del panadero. El Capítulo 13 estará dedicado a criterios de certificación, evidencias, evaluación técnica y desarrollo profesional del oficio.
