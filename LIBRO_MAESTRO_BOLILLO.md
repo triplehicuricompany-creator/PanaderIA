@@ -3534,3 +3534,881 @@ Recuerda: el bolillo debe llegar al horno con forma, fuerza y dirección. Si tus
 ## Continuidad hacia el Capítulo 7
 
 Con las piezas divididas, boleadas y formadas correctamente, el siguiente paso será comprender el horneado profesional. El Capítulo 7 deberá estudiar temperatura, vapor, transferencia de calor, expansión en horno, color de corteza y punto de cocción interna.
+
+---
+
+# Capítulo 7 — Horneado profesional
+
+## 1. Objetivo del capítulo
+
+Al finalizar este capítulo, el alumno será capaz de comprender, preparar, ejecutar y evaluar el horneado profesional del bolillo, identificando cómo influyen la temperatura, el vapor, la carga del horno, el tiempo, la transferencia de calor y el enfriamiento en el volumen, la greña, la corteza, la miga y la vida útil del pan.
+
+El horneado no es simplemente “meter el pan al horno”. Es la etapa donde todo lo anterior se revela: ingredientes, amasado, fermentación, formado, tensión, corte y manejo de charola. El horno no perdona; muestra con claridad lo que se hizo bien y también lo que se descuidó.
+
+En este capítulo aprenderás a:
+
+- Preparar el horno antes de cargar las piezas.
+- Entender el golpe de calor inicial y la expansión en horno.
+- Usar vapor de manera responsable y segura.
+- Leer el color de la corteza sin depender solo del reloj.
+- Evaluar cocción interna, base, greña y textura.
+- Ajustar tiempos y temperaturas según horno, charola y tamaño de pieza.
+- Registrar resultados para repetir una tanda exitosa.
+
+> **Chef Juanote™ dice:** El horno no arregla una masa mal llevada, pero sí puede arruinar una masa bien trabajada si lo tratas como adorno caliente.
+
+[FOTOGRAFÍA PENDIENTE — C07-F01: Chef Juanote™ frente a un horno precalentado, con charola de bolillos formados listos para entrar. Mostrar guantes, pala o charola y termómetro de horno.]
+
+[VIDEO PENDIENTE — C07-V01: Bienvenida de Chef Juanote™ al Capítulo 7. Explicación breve: “El horneado profesional empieza antes de abrir la puerta del horno”. QR sugerido: `QR-LMB-C07-BIENVENIDA-HORNO`.]
+
+---
+
+## 2. Qué sucede dentro del horno
+
+Cuando el bolillo entra al horno, la masa pasa de ser una estructura viva, húmeda y flexible a convertirse en pan. Esta transformación ocurre por calor, vapor, tiempo y pérdida controlada de humedad.
+
+Durante los primeros minutos, la masa todavía puede expandirse. Después, la estructura se fija, la corteza empieza a formarse, el color avanza y el interior termina de estabilizarse.
+
+### Etapas principales del horneado
+
+1. **Entrada al horno:** la pieza recibe calor intenso desde la base, el aire y las paredes del horno.
+2. **Expansión inicial:** los gases internos aumentan su presión y empujan la masa hacia arriba y hacia la greña.
+3. **Gelatinización del almidón:** el interior comienza a fijarse y la miga toma estructura.
+4. **Coagulación de proteínas:** la red de gluten deja de ser elástica y se convierte en soporte definitivo.
+5. **Formación de corteza:** la superficie pierde humedad, se seca y empieza a endurecer.
+6. **Coloración:** aparecen tonos dorados por reacciones de Maillard y caramelización ligera.
+7. **Estabilización final:** el pan termina de cocerse y debe salir con corteza firme, base correcta y miga cocida.
+
+> **Consejo exclusivo del Chef Juanote™:** No abras el horno por curiosidad durante el arranque. Los primeros minutos son como el despegue de un avión: si interrumpes el impulso, pierdes altura.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** Chef, ¿entonces el bolillo sigue creciendo dentro del horno?
+>
+> **Chef Juanote™ responde:** Sí, camarada. Ese crecimiento se llama expansión en horno. Pero solo ocurre bien si la masa llegó con fermentación correcta, tensión adecuada, corte limpio y suficiente calor inicial.
+
+[DIAGRAMA PENDIENTE — C07-D01: Línea de tiempo del horneado del bolillo: entrada, expansión, fijación de miga, formación de corteza, coloración y salida.]
+
+---
+
+## 3. Preparación profesional antes de hornear
+
+Un horneado profesional empieza antes de cargar el pan. El horno debe estar listo, el vapor planeado, las charolas preparadas, la ruta despejada y el pan en su punto.
+
+### Revisión previa obligatoria
+
+Antes de hornear, revisa:
+
+- Horno precalentado a la temperatura objetivo.
+- Rejillas o piedras colocadas en la posición correcta.
+- Charolas limpias, secas y sin grasa quemada excesiva.
+- Guantes secos y resistentes al calor.
+- Navaja o herramienta de corte lista si el corte se realiza justo antes de entrar.
+- Vapor preparado de forma segura.
+- Temporizador disponible.
+- Rejilla de enfriamiento libre.
+- Bitácora lista para anotar hora de entrada, temperatura, vapor y resultado.
+
+### Temperatura orientativa
+
+Para bolillo tradicional, la temperatura de trabajo suele moverse en un rango alto, suficiente para generar expansión, corteza y color sin secar de más el interior.
+
+| Tipo de horno | Rango orientativo inicial | Observación práctica |
+|---|---:|---|
+| Horno doméstico convencional | 220 °C a 240 °C | Requiere precalentamiento largo y vigilancia de base. |
+| Horno de convección | 200 °C a 220 °C | El aire acelera coloración; puede requerir bajar temperatura. |
+| Horno de piso o piedra | 230 °C a 250 °C | Buena base y expansión si está bien saturado de calor. |
+| Horno rotativo profesional | 210 °C a 230 °C | Uniformidad alta; cuidar exceso de resequedad. |
+
+Estas temperaturas son punto de partida, no ley absoluta. Cada horno tiene personalidad. Algunos doran rápido arriba, otros queman abajo, otros pierden calor al abrir la puerta.
+
+> **Chef Juanote™ dice:** El termostato dice una cosa; el pan te dice la verdad. Aprende a leer ambos.
+
+[FOTOGRAFÍA PENDIENTE — C07-F02: Termómetro de horno mostrando temperatura real junto al panel del horno para comparar diferencia entre lectura interna y ajuste del equipo.]
+
+---
+
+## 4. Precalentamiento: cargar calor antes de cargar pan
+
+Precalentar no significa encender el horno cinco minutos antes. Significa permitir que el horno, sus paredes, rejillas, piedra, charola o piso acumulen calor suficiente para recibir la masa sin desplomarse de temperatura.
+
+### Paso a paso para precalentar
+
+1. Enciende el horno con anticipación.
+2. Coloca piedra, acero, charola gruesa o superficie de horneado si la usarás.
+3. Espera a que el horno llegue a la temperatura indicada.
+4. Mantén el horno encendido al menos 15 a 30 minutos adicionales si es doméstico y la masa será cargada sobre superficie pesada.
+5. Verifica con termómetro independiente si es posible.
+6. Prepara el sistema de vapor sin obstruir ventilaciones peligrosas.
+7. Ten las piezas listas para entrar sin demoras.
+
+### Señales de precalentamiento insuficiente
+
+- Bolillos pálidos aunque se alargue el tiempo.
+- Poca expansión inicial.
+- Base débil o húmeda.
+- Corteza opaca y delgada.
+- Greña cerrada o sin fuerza.
+- Pan seco por exceso de tiempo compensatorio.
+
+> **Consejo exclusivo del Chef Juanote™:** Si tu horno tarda en recuperarse, no metas demasiadas charolas juntas. Es mejor una tanda bien horneada que dos charolas tristes ocupando espacio.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Y si mi horno marca 240 °C pero mis bolillos salen pálidos?
+>
+> **Chef Juanote™ responde:** Puede estar mintiendo el termostato, puede faltar precalentamiento real o puede haber demasiada carga. Mide, reduce cantidad por tanda y observa la base.
+
+[VIDEO PENDIENTE — C07-V02: Prueba de precalentamiento real con termómetro independiente en horno doméstico y horno profesional.]
+
+---
+
+## 5. Vapor: brillo, expansión y corteza correcta
+
+El vapor es una herramienta fundamental en el horneado del bolillo. Su función principal es mantener la superficie flexible durante los primeros minutos para que la pieza pueda expandirse antes de que la corteza se endurezca.
+
+Sin vapor, la superficie se seca demasiado pronto. Con exceso de vapor, la corteza puede quedar correosa, pálida o tardar en dorar.
+
+### Qué aporta el vapor
+
+- Retrasa la formación temprana de corteza.
+- Favorece una greña más abierta.
+- Mejora el brillo inicial de la superficie.
+- Ayuda a una corteza más fina y crujiente si se retira o ventila a tiempo.
+- Permite que el calor se transfiera rápidamente a la superficie.
+
+### Cuándo aplicar vapor
+
+El vapor debe estar presente al inicio del horneado, especialmente durante los primeros minutos. Después, el horno necesita secarse para permitir que la corteza dore y cruja.
+
+### Métodos comunes de vapor
+
+| Método | Uso recomendado | Precaución |
+|---|---|---|
+| Horno profesional con inyección | Producción constante | Dosificar según tamaño y carga. |
+| Charola caliente con agua | Horno doméstico | Evitar salpicaduras y quemaduras. |
+| Piedras volcánicas o tornillos limpios calientes | Generación rápida de vapor | Usar recipientes resistentes al calor. |
+| Atomizador en paredes del horno | Apoyo ligero | No rociar focos, vidrio frío ni resistencias expuestas. |
+| Cubierta tipo campana | Tandas pequeñas | Retirar a tiempo para dorar. |
+
+> **Chef Juanote™ dice:** El vapor es ayuda, no inundación. Queremos ambiente húmedo al inicio, no baño de vapor para castigar la corteza.
+
+[ADVERTENCIA VISUAL PENDIENTE — C07-A01: Iconos de seguridad para vapor: guantes secos, cara lejos de la puerta, no verter agua sobre vidrio, no tocar charola caliente.]
+
+---
+
+## 6. Seguridad al trabajar con vapor y calor
+
+El vapor quema más rápido de lo que muchos alumnos imaginan. No se ve con claridad, sube con fuerza y puede causar lesiones graves en manos, antebrazos y rostro.
+
+### Reglas de seguridad
+
+- Usa guantes secos; un guante húmedo transmite calor rápidamente.
+- Abre el horno con el rostro retirado.
+- No metas la mano sobre una nube de vapor.
+- No viertas agua en recipientes de vidrio no templado.
+- No uses charolas deformadas que puedan derramar agua caliente.
+- No permitas niños ni mascotas cerca del horno.
+- Mantén el piso seco.
+- Prepara la ruta de entrada y salida antes de cargar.
+
+### Procedimiento seguro con charola de vapor
+
+1. Coloca una charola metálica resistente en la parte baja del horno durante el precalentamiento.
+2. Carga los bolillos.
+3. Vierte agua caliente con cuidado en la charola usando recipiente de pico largo.
+4. Cierra la puerta de inmediato.
+5. Retira o deja evaporar según el método, pero permite que el horno se seque hacia la etapa final.
+
+> **Consejo exclusivo del Chef Juanote™:** El panadero valiente no es el que mete la mano al vapor sin miedo; es el que organiza el proceso para no necesitar hacerlo.
+
+[VIDEO PENDIENTE — C07-V03: Demostración segura de generación de vapor en horno doméstico, con enfoque en prevención de quemaduras. QR sugerido: `QR-LMB-C07-SEGURIDAD-VAPOR`.]
+
+---
+
+## 7. Carga del horno: rapidez con orden
+
+Cargar el horno significa introducir las piezas en el momento correcto, sin perder calor, sin golpear la masa y sin deformar el formado.
+
+### Principios de carga
+
+- Las piezas deben estar listas antes de abrir la puerta.
+- La puerta debe permanecer abierta el menor tiempo posible.
+- La charola debe entrar nivelada.
+- Las piezas no deben tocarse entre sí.
+- El corte, si corresponde, debe hacerse justo antes de entrar.
+- El vapor debe aplicarse inmediatamente después de cargar.
+
+### Paso a paso de carga profesional
+
+1. Confirma punto de fermentación final.
+2. Realiza el corte del bolillo si está programado en la técnica.
+3. Abre el horno con seguridad.
+4. Introduce la charola o transfiere las piezas con pala.
+5. Cierra parcialmente si necesitas aplicar vapor de inmediato.
+6. Aplica vapor con método seguro.
+7. Cierra la puerta.
+8. Inicia temporizador.
+9. Anota hora y temperatura.
+
+> **Chef Juanote™ dice:** El horno abierto es calor escapando. Trabaja como quien ya ensayó el movimiento antes de hacerlo.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Puedo acomodar mejor los bolillos cuando ya están dentro del horno?
+>
+> **Chef Juanote™ responde:** No conviene. Si entras a corregir, pierdes calor, vapor y puedes deformar piezas. Acomoda bien antes de cargar.
+
+[FOTOGRAFÍA PENDIENTE — C07-F03: Secuencia de carga de horno: charola lista, puerta abierta, entrada nivelada y cierre inmediato.]
+
+---
+
+## 8. Expansión en horno: el último impulso de la masa
+
+La expansión en horno es el crecimiento rápido que ocurre al inicio del horneado. En esta etapa, los gases atrapados se expanden, la levadura tiene un último momento de actividad antes de morir por temperatura y el agua interna empieza a convertirse en vapor.
+
+### Condiciones para buena expansión
+
+- Masa bien amasada.
+- Fermentación final correcta.
+- Formado con tensión suficiente.
+- Corte limpio y orientado.
+- Horno bien precalentado.
+- Vapor inicial adecuado.
+- Espacio suficiente entre piezas.
+
+### Señales de buena expansión
+
+- Bolillo gana volumen en los primeros minutos.
+- Greña abre con dirección clara.
+- Laterales no revientan de forma descontrolada.
+- La pieza conserva simetría.
+- La superficie no se seca de inmediato.
+
+### Señales de expansión deficiente
+
+- Pan plano.
+- Greña cerrada.
+- Corte que apenas se marca.
+- Corteza dura desde temprano.
+- Base pálida o débil.
+
+> **Consejo exclusivo del Chef Juanote™:** Si la greña no abre, no culpes primero a la navaja. Revisa fermentación, vapor, calor inicial y tensión de formado.
+
+[DIAGRAMA PENDIENTE — C07-D02: Comparación visual de expansión correcta, expansión pobre por horno frío y reventón lateral por fermentación/corte deficientes.]
+
+---
+
+## 9. Temperatura, tiempo y tamaño de pieza
+
+El tiempo de horneado depende del peso de la pieza, hidratación, carga del horno, tipo de charola, intensidad del calor y nivel de dorado buscado.
+
+### Guía orientativa para bolillo
+
+| Peso de pieza cruda | Temperatura orientativa | Tiempo aproximado | Observación |
+|---:|---:|---:|---|
+| 50 g a 60 g | 220 °C a 240 °C | 12 a 16 min | Vigilar secado rápido. |
+| 70 g a 90 g | 220 °C a 240 °C | 15 a 20 min | Tamaño común para venta individual. |
+| 100 g a 120 g | 210 °C a 230 °C | 18 a 24 min | Puede requerir horneado más moderado. |
+
+Estos rangos deben ajustarse con bitácora. No todos los hornos entregan calor igual aunque indiquen la misma temperatura.
+
+### Cómo ajustar sin improvisar
+
+- Si dora demasiado rápido por fuera y queda crudo por dentro: baja ligeramente temperatura y alarga tiempo.
+- Si queda pálido y seco: sube temperatura inicial o mejora precalentamiento.
+- Si quema abajo: cambia posición, usa doble charola o reduce calor inferior.
+- Si no desarrolla corteza: revisa exceso de vapor, temperatura baja o falta de secado final.
+
+> **Chef Juanote™ dice:** El reloj te avisa cuándo mirar; el pan te confirma cuándo salir.
+
+[QR PENDIENTE — C07-QR01: Calculadora descargable de tiempos orientativos por peso, tipo de horno y nivel de carga. Código sugerido: `QR-LMB-C07-TIEMPO-TEMPERATURA`.]
+
+---
+
+## 10. Color de corteza: leer el dorado profesional
+
+El color del bolillo no debe evaluarse solo por gusto visual. El color indica desarrollo de corteza, evaporación superficial, reacciones de calor y punto de cocción.
+
+### Escala práctica de color
+
+| Color | Interpretación | Acción |
+|---|---|---|
+| Muy pálido | Falta calor, tiempo o secado | Continuar horneado o ajustar siguiente tanda. |
+| Amarillo claro | Cocción incompleta para bolillo crujiente | Dar más tiempo o mejorar vapor/calor. |
+| Dorado medio | Punto comercial frecuente | Evaluar base y crujido. |
+| Dorado profundo | Sabor más tostado y corteza firme | Correcto si la miga no está seca. |
+| Café oscuro irregular | Exceso de calor o mala distribución | Ajustar posición, charola o temperatura. |
+
+### Puntos de observación
+
+Mira siempre:
+
+- Parte superior.
+- Laterales.
+- Base.
+- Zona de greña.
+- Piezas del centro y de las orillas.
+
+Si las piezas de atrás doran más que las de adelante, tu horno tiene zonas calientes. Si las de abajo queman antes de dorar arriba, el calor inferior está dominando.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ pregunta:** ¿Un bolillo más oscuro siempre está mejor cocido?
+>
+> **Chef Juanote™ responde:** No siempre. Puede estar quemado por fuera y todavía húmedo por dentro si el calor fue demasiado agresivo. Por eso revisamos color, base, peso, sonido y miga.
+
+[FOTOGRAFÍA PENDIENTE — C07-F04: Escala de color de bolillo de pálido a dorado profundo, con etiquetas técnicas.]
+
+---
+
+## 11. Cocción interna: cuándo el bolillo está realmente listo
+
+Un bolillo puede verse dorado y no estar bien cocido por dentro. También puede estar cocido pero seco por exceso de tiempo. La meta es lograr corteza crujiente, miga cocida, aroma limpio y estructura estable.
+
+### Señales de cocción correcta
+
+- Corteza dorada y firme.
+- Base seca, no húmeda.
+- Pieza ligera para su tamaño.
+- Sonido hueco moderado al golpear la base.
+- Miga sin sensación gomosa al enfriar.
+- Aroma tostado, no ácido ni crudo.
+
+### Temperatura interna orientativa
+
+Como referencia técnica, muchos panes de este tipo terminan correctamente cuando el centro alcanza aproximadamente 94 °C a 98 °C. Este dato ayuda en prácticas de control, pero no sustituye la lectura integral del pan.
+
+### Prueba paso a paso
+
+1. Saca una pieza representativa de la tanda.
+2. Revisa color superior y base.
+3. Golpea suavemente la base con los dedos protegidos.
+4. Si tienes termómetro de sonda, mide el centro sin tocar la charola.
+5. Deja enfriar antes de cortar para evaluar miga real.
+6. Registra el resultado.
+
+> **Consejo exclusivo del Chef Juanote™:** No cortes un bolillo hirviendo para juzgar la miga final. El vapor interno todavía está trabajando. Dale unos minutos de respeto.
+
+[VIDEO PENDIENTE — C07-V04: Chef Juanote™ demuestra pruebas de cocción: color, base, sonido, peso y temperatura interna.]
+
+---
+
+## 12. Ventilación y secado final de corteza
+
+Para obtener corteza crujiente, el horno necesita humedad al inicio y ambiente más seco al final. Este cambio es clave. Si el vapor permanece demasiado tiempo, el pan puede salir con corteza opaca, correosa o blanda.
+
+### Cómo favorecer el secado final
+
+- No prolongues el vapor más de lo necesario.
+- En hornos profesionales, abre tiro o ventilación según equipo.
+- En horno doméstico, retira cuidadosamente la fuente de vapor si es seguro hacerlo.
+- Permite los últimos minutos con ambiente seco.
+- No encierres el pan caliente en bolsas o cajas cerradas.
+
+### Error frecuente
+
+Muchos alumnos buscan más brillo agregando más vapor, pero terminan perdiendo crujido. El bolillo necesita un arranque húmedo y un final seco.
+
+> **Chef Juanote™ dice:** El vapor abre la puerta de la corteza; el secado final la deja crujiente.
+
+[DIAGRAMA PENDIENTE — C07-D03: Curva ideal de humedad durante horneado: alta al inicio, decreciente al final.]
+
+---
+
+## 13. Rotación de charolas y zonas calientes
+
+No todos los hornos calientan parejo. Algunos tienen puntos calientes cerca de resistencias, ventiladores, esquinas o paredes. La rotación de charolas ayuda, pero debe hacerse en el momento correcto.
+
+### Cuándo rotar
+
+La rotación no debe hacerse durante los primeros minutos de expansión. Espera a que la estructura esté más fija y la greña haya abierto. En muchos casos, se puede rotar hacia la mitad o dos tercios del horneado, si el horno lo requiere.
+
+### Cómo rotar sin arruinar el pan
+
+1. Abre la puerta con decisión.
+2. Gira la charola con guantes secos.
+3. Evita golpes bruscos.
+4. Cierra rápido.
+5. Ajusta el temporizador si la pérdida de calor fue considerable.
+
+### Cuándo no rotar
+
+- Si el horno hornea parejo.
+- Si las piezas todavía están expandiendo.
+- Si abrir el horno desploma demasiado la temperatura.
+- Si la carga es pequeña y no lo necesita.
+
+> **Consejo exclusivo del Chef Juanote™:** Rota por diagnóstico, no por costumbre. Si no sabes qué problema corriges, solo estás abriendo la puerta por nervio.
+
+[FOTOGRAFÍA PENDIENTE — C07-F05: Mapa de zonas calientes en una charola: piezas más doradas atrás, más pálidas adelante, con flechas de rotación sugerida.]
+
+---
+
+## 14. Enfriamiento: el horneado continúa fuera del horno
+
+Cuando el bolillo sale del horno, aún conserva vapor interno. Si se apila, embolsa o encierra demasiado pronto, la corteza se ablanda y la base puede humedecerse.
+
+### Reglas de enfriamiento
+
+- Coloca los bolillos sobre rejilla o superficie ventilada.
+- No los encierres calientes.
+- Evita apilarlos en exceso.
+- Permite que el vapor salga.
+- Evalúa corteza después de unos minutos, no solo al salir.
+- Si van a venta, espera a que estén estables antes de embolsar.
+
+### Señales de mal enfriamiento
+
+- Corteza que se ablanda rápidamente.
+- Base húmeda.
+- Bolsa con condensación.
+- Pan que pierde crujido antes de llegar al cliente.
+- Miga gomosa por corte prematuro o encierro caliente.
+
+> **Chef Juanote™ dice:** Sacar el pan del horno no significa abandonarlo. La corteza todavía necesita aire para convertirse en orgullo.
+
+[VIDEO PENDIENTE — C07-V05: Comparación de bolillos enfriados en rejilla, apilados calientes y embolsados demasiado pronto.]
+
+---
+
+## 15. Ejemplo real de producción: tanda de 60 bolillos
+
+### Contexto
+
+Una panadería de barrio produce 60 bolillos de 80 g de masa cruda cada uno para venta matutina. Usa horno de convección con cuatro charolas de 15 piezas.
+
+### Parámetros iniciales
+
+- Peso por pieza: 80 g.
+- Temperatura programada: 215 °C.
+- Precalentamiento: 35 minutos.
+- Vapor inicial: inyección breve al cargar.
+- Tiempo estimado: 17 minutos.
+- Rotación: no necesaria por horno calibrado.
+
+### Resultado de primera tanda
+
+- Piezas de charola superior: dorado correcto.
+- Piezas de charola inferior: base demasiado oscura.
+- Greña: buena apertura.
+- Corteza: crujiente al salir, ligeramente blanda después de 20 minutos.
+
+### Diagnóstico
+
+La expansión y greña fueron correctas, por lo que fermentación, formado, corte y vapor inicial funcionaron. El problema estuvo en exceso de calor inferior y secado final insuficiente.
+
+### Ajuste aplicado
+
+- Se bajó la charola inferior a doble charola para proteger base.
+- Se redujo ligeramente el vapor en la segunda carga.
+- Se abrió ventilación final durante los últimos 3 minutos.
+- Se enfrió en rejillas separadas, sin apilar.
+
+### Resultado corregido
+
+La segunda tanda obtuvo base más uniforme, corteza más estable y mejor crujido a los 30 minutos. El registro permitió repetir el ajuste al día siguiente.
+
+> **Chef Juanote™ dice:** Una tanda no se juzga solo por cómo sale; se juzga por lo que te enseña para la siguiente.
+
+[QR PENDIENTE — C07-QR02: Caso descargable “Tanda de 60 bolillos: diagnóstico de base oscura y corteza blanda”. Código sugerido: `QR-LMB-C07-CASO-60`.]
+
+---
+
+## 16. Ejemplo real de producción: horno doméstico para venta pequeña
+
+### Contexto
+
+Una alumna produce 24 bolillos por encargo usando horno doméstico. Solo puede hornear 8 piezas por tanda.
+
+### Problema inicial
+
+La primera charola salía bien, la segunda tardaba más y la tercera quedaba pálida. La alumna pensaba que la receta fallaba al final.
+
+### Observación técnica
+
+El horno perdía demasiado calor entre cargas porque la puerta permanecía abierta mucho tiempo, la charola fría robaba calor y el precalentamiento no se recuperaba.
+
+### Corrección paso a paso
+
+1. Precalentó 40 minutos en lugar de 15.
+2. Usó una charola gruesa fija como superficie caliente.
+3. Preparó cada carga antes de abrir.
+4. Esperó 5 minutos de recuperación entre tandas.
+5. Registró color y tiempo por tanda.
+6. Redujo la cantidad de vapor en las tandas posteriores para evitar corteza blanda.
+
+### Resultado
+
+Las tres tandas salieron más uniformes. El tiempo total aumentó ligeramente, pero la calidad de venta mejoró. La alumna dejó de culpar la receta y aprendió a administrar la energía de su horno.
+
+[BOLY™ INTERVIENE]
+
+> **Boly™ dice:** ¡Esta es una pista importante! Cuando una tanda sale diferente a otra, no siempre cambió la masa. A veces cambió el horno, la recuperación de calor o el tiempo que dejaste la puerta abierta.
+
+[FOTOGRAFÍA PENDIENTE — C07-F06: Producción casera de tres tandas numeradas con bitácora visible: tanda 1, tanda 2 y tanda 3.]
+
+---
+
+## 17. Errores comunes y cómo evitarlos
+
+| Error común | Consecuencia | Cómo evitarlo |
+|---|---|---|
+| No precalentar suficiente | Poca expansión, pan pálido y base débil | Precalienta con tiempo y verifica temperatura real. |
+| Abrir el horno al inicio | Pérdida de vapor y calor | No abrir durante la expansión inicial. |
+| Usar demasiado vapor | Corteza correosa o pálida | Vapor breve al inicio y secado final. |
+| No usar vapor | Corteza temprana, greña cerrada | Aplicar vapor seguro al cargar. |
+| Cargar demasiadas charolas | Baja temperatura y horneado irregular | Reducir carga o aumentar recuperación. |
+| Hornear con charola fría y delgada | Base débil o irregular | Usar charola adecuada o superficie precalentada. |
+| Sacar pan solo por color superior | Interior crudo o base húmeda | Revisar base, peso, sonido y temperatura interna. |
+| Embolsar caliente | Condensación y corteza blanda | Enfriar en rejilla antes de empacar. |
+| No registrar cambios | Errores repetidos | Usar bitácora por tanda. |
+| Culpar al horno sin observar | Ajustes equivocados | Diagnosticar zona, color, base y tiempo. |
+
+### Regla de corrección del Chef Juanote™
+
+Cuando un bolillo falla en el horno, revisa en este orden:
+
+1. ¿La masa llegó bien fermentada?
+2. ¿El formado tenía tensión correcta?
+3. ¿El corte fue limpio y oportuno?
+4. ¿El horno estaba realmente caliente?
+5. ¿Hubo vapor al inicio?
+6. ¿Se permitió secado final?
+7. ¿Se enfrió correctamente?
+
+> **Chef Juanote™ dice:** No corrijas el horno si el problema nació en la fermentación. No corrijas la receta si el problema fue encerrar el pan caliente.
+
+---
+
+## 18. Laboratorio guiado: tres condiciones de horneado
+
+Este laboratorio ayuda a comparar cómo cambia el bolillo según el manejo del horno. Debe realizarse con una misma masa, piezas del mismo peso y fermentación lo más uniforme posible.
+
+### Objetivo
+
+Observar el efecto de tres condiciones: horneado correcto, poco vapor y horno insuficientemente precalentado.
+
+### Procedimiento
+
+1. Prepara una masa de bolillo y divide piezas del mismo peso.
+2. Forma y fermenta todas las piezas bajo las mismas condiciones.
+3. Separa tres grupos pequeños.
+4. Grupo A: horno bien precalentado con vapor inicial adecuado.
+5. Grupo B: horno bien precalentado sin vapor.
+6. Grupo C: horno con precalentamiento insuficiente.
+7. Hornea registrando temperatura, tiempo, color, greña y textura.
+8. Enfría en rejilla.
+9. Corta una pieza de cada grupo cuando esté estable.
+10. Compara corteza, miga, volumen y greña.
+
+### Tabla de observación
+
+| Grupo | Condición | Greña | Volumen | Color | Corteza | Miga | Conclusión |
+|---|---|---|---|---|---|---|---|
+| A | Precalentado + vapor | | | | | | |
+| B | Precalentado sin vapor | | | | | | |
+| C | Poco precalentamiento | | | | | | |
+
+> **Consejo exclusivo del Chef Juanote™:** No hagas este laboratorio para ganar; hazlo para aprender. El pan que sale mal en práctica te puede ahorrar pérdidas en producción.
+
+[VIDEO PENDIENTE — C07-V06: Laboratorio comparativo de tres condiciones de horneado con resultados lado a lado.]
+
+[QR PENDIENTE — C07-QR03: Plantilla descargable del laboratorio “Tres condiciones de horneado”. Código sugerido: `QR-LMB-C07-LAB-HORNO`.]
+
+---
+
+## 19. Bitácora profesional de horneado
+
+La bitácora convierte el horneado en conocimiento repetible. Sin registro, cada tanda depende de memoria, suerte o intuición incompleta.
+
+### Datos mínimos
+
+Registra:
+
+- Fecha y hora.
+- Tipo de horno.
+- Temperatura programada.
+- Temperatura real si se midió.
+- Tiempo de precalentamiento.
+- Peso por pieza.
+- Número de piezas por charola.
+- Posición de charola.
+- Método de vapor.
+- Tiempo total.
+- Rotación sí/no y minuto.
+- Color final.
+- Estado de base.
+- Crujido al salir.
+- Crujido después de 20 minutos.
+- Observaciones para siguiente tanda.
+
+### Tabla sugerida
+
+| Fecha | Horno | Temp. | Precalentamiento | Vapor | Piezas | Tiempo | Color | Base | Corteza 20 min | Ajuste siguiente |
+|---|---|---:|---:|---|---:|---:|---|---|---|---|
+| | | | | | | | | | | |
+
+> **Chef Juanote™ dice:** La bitácora es memoria del obrador. Si un día logras el bolillo perfecto y no anotaste nada, le regalaste el secreto al olvido.
+
+[RECURSO DESCARGABLE PENDIENTE — C07-R01: Bitácora profesional de horneado en formato imprimible y hoja de cálculo.]
+
+---
+
+## 20. Método Chef Juanote™ aplicado al Capítulo 7
+
+### Historia
+
+El bolillo nació como pan de todos los días, pero cada horno le ha dado carácter propio. Horno de leña, piso, convección, rotativo o doméstico: todos cuentan una historia distinta en la corteza.
+
+### Ciencia
+
+El horneado combina transferencia de calor, evaporación, expansión de gases, gelatinización de almidones, coagulación de proteínas y reacciones de color. No es magia: es técnica observable.
+
+### Práctica
+
+Precalienta, carga rápido, vaporiza con seguridad, no abras al inicio, seca al final, enfría en rejilla y registra.
+
+### Error real
+
+Un bolillo puede salir pálido no porque le falte receta, sino porque el horno estaba frío, sobrecargado o húmedo al final.
+
+### Laboratorio
+
+Compara una misma masa bajo distintas condiciones de horno para aprender qué cambia y por qué.
+
+### Bitácora
+
+Anota temperatura, vapor, tiempo, charola, color, base y crujido. Esos datos serán tu mapa.
+
+### Secreto del obrador
+
+El buen horneado tiene ritmo: calor al inicio, humedad breve, paciencia sin abrir, secado final y enfriamiento con aire.
+
+> **Chef Juanote™:** El horno tiene voz. Habla en color, crujido, aroma y base. Aprende a escucharlo.
+
+> **Boly™ dice:** Si puedes explicar por qué cambiaste temperatura, vapor o tiempo, ya no estás horneando por adivinanza: estás horneando con criterio.
+
+---
+
+## 21. Participación guiada de Boly™
+
+**Rol de Boly™ en este capítulo:** ayudar al alumno a tomar decisiones durante el horneado sin entrar en pánico, haciendo preguntas sobre calor, vapor, color, base y enfriamiento.
+
+### Flujo de conversación recomendado
+
+**Alumno:** Mi bolillo no abrió bien en el horno.
+
+**Boly™:** Vamos por pistas. ¿El horno estaba bien precalentado, aplicaste vapor al inicio y la fermentación final estaba en punto?
+
+**Alumno:** Creo que el horno sí estaba caliente, pero no usé vapor.
+
+**Boly™:** Entonces ya tenemos una variable fuerte. Sin vapor, la superficie puede secarse antes de que la greña abra. En la siguiente tanda aplica vapor seguro al inicio y registra el cambio.
+
+**Alumno:** También abrí la puerta para revisar.
+
+**Boly™:** Eso pudo quitar calor y vapor justo cuando la pieza necesitaba impulso. La próxima vez espera a que pase la expansión inicial antes de mirar.
+
+### Preguntas base de Boly™
+
+- ¿Cuánto tiempo precalentaste el horno?
+- ¿Mediste temperatura real o solo confiaste en el panel?
+- ¿Cuántas piezas cargaste por charola?
+- ¿Aplicaste vapor al inicio?
+- ¿Cuándo abriste la puerta por primera vez?
+- ¿La base salió pálida, correcta o quemada?
+- ¿La corteza seguía crujiente después de 20 minutos?
+- ¿Enfriaste en rejilla o apilaste caliente?
+- ¿Qué dato registrarás para la siguiente tanda?
+
+### Mensaje motivador
+
+> **Boly™ dice:** Cada horno tiene carácter, camarada. No te pelees con él: obsérvalo, anótalo y aprende a trabajar con su personalidad.
+
+[ILUSTRACIÓN PENDIENTE — C07-I01: Boly™ con casco de seguridad, guantes y termómetro, señalando un horno con mapa de calor.]
+
+[VIDEO PENDIENTE — C07-V07: Animación de Boly™ explicando “calor inicial, vapor breve y secado final”.]
+
+[QR PENDIENTE — C07-QR04: Preguntas interactivas de Boly™ para diagnosticar fallas de horneado. Código sugerido: `QR-LMB-C07-BOLY-DIAGNOSTICO`.]
+
+---
+
+## 22. Recursos visuales y multimedia del capítulo
+
+### Fotografías pendientes
+
+- [FOTOGRAFÍA PENDIENTE — C07-F01] Chef Juanote™ frente a horno precalentado con charola lista.
+- [FOTOGRAFÍA PENDIENTE — C07-F02] Comparación entre termostato del horno y termómetro independiente.
+- [FOTOGRAFÍA PENDIENTE — C07-F03] Secuencia de carga profesional del horno.
+- [FOTOGRAFÍA PENDIENTE — C07-F04] Escala de color del bolillo.
+- [FOTOGRAFÍA PENDIENTE — C07-F05] Mapa de zonas calientes en charola.
+- [FOTOGRAFÍA PENDIENTE — C07-F06] Producción casera en tres tandas numeradas.
+
+### Videos pendientes
+
+- [VIDEO PENDIENTE — C07-V01] Bienvenida de Chef Juanote™ al horneado profesional.
+- [VIDEO PENDIENTE — C07-V02] Prueba de precalentamiento real.
+- [VIDEO PENDIENTE — C07-V03] Seguridad con vapor en horno doméstico.
+- [VIDEO PENDIENTE — C07-V04] Pruebas de cocción del bolillo.
+- [VIDEO PENDIENTE — C07-V05] Comparación de métodos de enfriamiento.
+- [VIDEO PENDIENTE — C07-V06] Laboratorio de tres condiciones de horneado.
+- [VIDEO PENDIENTE — C07-V07] Animación de Boly™ sobre calor, vapor y secado.
+
+### Diagramas e infografías pendientes
+
+- [DIAGRAMA PENDIENTE — C07-D01] Línea de tiempo del horneado.
+- [DIAGRAMA PENDIENTE — C07-D02] Expansión correcta, pobre y reventón lateral.
+- [DIAGRAMA PENDIENTE — C07-D03] Curva de humedad: vapor inicial y secado final.
+- [INFOGRAFÍA PENDIENTE — C07-IG01] Diagnóstico rápido: pálido, quemado abajo, corteza blanda, greña cerrada.
+
+### Recursos descargables pendientes
+
+- [RECURSO DESCARGABLE PENDIENTE — C07-R01] Bitácora profesional de horneado.
+- [RECURSO DESCARGABLE PENDIENTE — C07-R02] Plantilla de diagnóstico de fallas de horno.
+- [RECURSO DESCARGABLE PENDIENTE — C07-R03] Mapa de calor del horno para imprimir.
+
+---
+
+## 23. Ejercicios del capítulo
+
+1. Precalienta tu horno y registra cuánto tarda en llegar a temperatura y cuánto tarda en recuperarse después de abrir la puerta 20 segundos.
+2. Hornea una tanda con vapor inicial y otra sin vapor. Compara greña, corteza y color.
+3. Hornea piezas iguales en diferentes posiciones de la charola y marca cuáles doran más rápido.
+4. Enfría tres bolillos de formas distintas: rejilla, apilados y bolsa temprana. Compara corteza después de 20 minutos.
+5. Llena una bitácora completa de horneado y escribe un ajuste concreto para la siguiente tanda.
+
+### Espacio de notas
+
+**Temperatura programada:** ______________________________________
+
+**Temperatura real medida:** _____________________________________
+
+**Tiempo de precalentamiento:** _________________________________
+
+**Método de vapor:** _____________________________________________
+
+**Tiempo total de horneado:** ____________________________________
+
+**Resultado de corteza:** ________________________________________
+
+**Resultado de base:** ___________________________________________
+
+**Ajuste para siguiente tanda:** _________________________________
+
+---
+
+## 24. Checklist profesional de horneado
+
+Antes, durante y después del horneado, confirma:
+
+- [ ] Precalenté el horno con tiempo suficiente.
+- [ ] Verifiqué temperatura real si tenía termómetro disponible.
+- [ ] Preparé guantes, vapor, charola y temporizador antes de cargar.
+- [ ] Confirmé punto de fermentación final.
+- [ ] Cargué el horno rápido y con orden.
+- [ ] Apliqué vapor inicial de forma segura.
+- [ ] No abrí el horno durante la expansión inicial.
+- [ ] Observé color superior, laterales y base.
+- [ ] Permití secado final de corteza.
+- [ ] Revisé cocción interna por señales completas.
+- [ ] Enfrié los bolillos en rejilla o superficie ventilada.
+- [ ] No embolsé ni apilé pan caliente.
+- [ ] Registré tiempo, temperatura, vapor y resultado.
+- [ ] Definí un ajuste para la siguiente tanda.
+
+---
+
+## 25. Autoevaluación
+
+Responde con tus propias palabras:
+
+1. ¿Por qué el horneado profesional empieza antes de meter el pan al horno?
+2. ¿Qué ocurre durante la expansión inicial en horno?
+3. ¿Para qué sirve el vapor al inicio del horneado?
+4. ¿Qué problema causa usar vapor durante demasiado tiempo?
+5. ¿Por qué no conviene abrir el horno al inicio?
+6. ¿Qué señales indican que un bolillo está cocido por dentro?
+7. ¿Cómo puedes detectar zonas calientes en tu horno?
+8. ¿Qué sucede si embolsas bolillos calientes?
+9. ¿Qué datos mínimos debe tener una bitácora de horneado?
+10. ¿Qué ajustarías si tus bolillos salen quemados abajo y pálidos arriba?
+
+### Escala personal
+
+Marca del 1 al 5:
+
+- Puedo preparar el horno antes de cargar: ____ / 5
+- Puedo aplicar vapor de forma segura: ____ / 5
+- Puedo leer color, base y corteza: ____ / 5
+- Puedo enfriar sin perder crujido: ____ / 5
+- Puedo registrar y ajustar una tanda: ____ / 5
+
+---
+
+## 26. Preguntas frecuentes del capítulo
+
+### ¿Puedo hornear bolillo sin vapor?
+
+Sí, pero normalmente la greña abre menos, la corteza se fija antes y el resultado puede ser más opaco. Si no tienes vapor profesional, usa un método casero seguro y controlado.
+
+### ¿Por qué mi bolillo sale pálido?
+
+Puede faltar temperatura real, precalentamiento, tiempo, secado final o puede haber exceso de vapor. También revisa si cargaste demasiadas piezas.
+
+### ¿Por qué se quema la base?
+
+Puede haber exceso de calor inferior, charola muy delgada, posición demasiado baja o tiempo prolongado para compensar falta de color arriba.
+
+### ¿Por qué la corteza se ablanda después de salir?
+
+Puede deberse a exceso de vapor, falta de secado final, enfriamiento sin ventilación, apilado caliente o embolsado prematuro.
+
+### ¿Cuándo debo rotar la charola?
+
+Solo si tu horno dora irregularmente. Hazlo después de la expansión inicial, con movimiento rápido y seguro.
+
+### ¿El color dorado garantiza que el pan está cocido?
+
+No siempre. Revisa también base, peso, sonido, temperatura interna si tienes sonda y textura de miga después de enfriar.
+
+### ¿Cuánto tiempo debo dejar enfriar?
+
+Depende del tamaño y ambiente, pero el pan debe perder vapor superficial y estabilizar corteza antes de empacar. Para evaluación de miga, espera a que no esté hirviendo por dentro.
+
+---
+
+## 27. QR recomendado del capítulo
+
+**QR-LMB-C07-HORNEADO-PRO:** video principal “Horneado profesional del bolillo: precalentamiento, vapor, expansión y corteza”. Debe mostrar preparación del horno, carga, vapor seguro, lectura de color, prueba de base y enfriamiento.
+
+**QR-LMB-C07-SEGURIDAD-VAPOR:** cápsula de seguridad para generar vapor sin quemaduras en horno doméstico y profesional.
+
+**QR-LMB-C07-BITACORA-HORNO:** plantilla descargable para registrar temperatura, vapor, tiempo, carga, color, base y crujido.
+
+**QR-LMB-C07-DIAGNOSTICO:** guía interactiva de Boly™ para resolver fallas frecuentes de horneado.
+
+**Texto sugerido debajo del QR:**
+
+“Escanea para ver el horneado profesional del bolillo, practicar diagnóstico de horno y descargar la bitácora del Capítulo 7.”
+
+**Estado:** pendiente de publicación. No insertar QR definitivo hasta contar con URL final validada.
+
+---
+
+## 28. Cierre del Capítulo 7
+
+El horneado profesional es el momento en que el bolillo demuestra todo el trabajo previo. Una masa bien amasada, fermentada y formada necesita un horno preparado, vapor oportuno, calor suficiente, secado final y enfriamiento correcto para convertirse en un pan crujiente, aromático y estable.
+
+En este capítulo aprendiste que el horno no debe tratarse como una caja caliente, sino como una herramienta técnica. Precalentar, cargar rápido, aplicar vapor con seguridad, no abrir durante la expansión, leer color y base, enfriar con ventilación y registrar cada tanda son decisiones que separan el azar del oficio.
+
+Recuerda: el bolillo perfecto no nace solo de una receta. Nace de una cadena completa de decisiones bien tomadas. El horno es el último juez, pero tú eres quien prepara el caso.
+
+> **Chef Juanote™ dice:** El crujido del bolillo no es casualidad; es la firma sonora de un proceso bien llevado.
+
+[BOLY™ INTERVIENE]
+
+> ¡Excelente, camarada! Ya conoces el poder del horno. En el siguiente capítulo vamos a entrar a una técnica que parece pequeña, pero cambia todo: el corte profesional del bolillo. Ahí aprenderás cómo una línea bien hecha dirige la expansión, embellece la pieza y ayuda a que la greña cuente la historia correcta.
+
+## Continuidad hacia el Capítulo 8
+
+Con el horneado profesional comprendido, el siguiente paso será estudiar el corte profesional del bolillo. El Capítulo 8 deberá profundizar en herramienta, ángulo, profundidad, momento del corte, dirección de expansión y relación entre greña, fermentación y horno.
