@@ -1,10 +1,15 @@
 # Libro Maestro del Bolillo
 
 **PanaderIA™ — Formación panadera con método, criterio y corazón**
+
 **Autor pedagógico:** Chef Juanote™
+
 **Asistente educativo:** Boly™
+
 **Estado:** Borrador editorial funcional — capítulos 1 al 14 desarrollados
-**Fuente de desarrollo:** `PLAN_DESARROLLO_LIBRO.md`  
+
+**Fuente de desarrollo:** `PLAN_DESARROLLO_LIBRO.md`
+
 **Alcance de esta versión:** índice general completo, introducción del libro, capítulos 1 al 14 y conclusión final.
 
 ---
@@ -136,9 +141,9 @@ Para información editorial, futuras actualizaciones, recursos complementarios, 
 
 ---
 
-## Índice general completo
+# Índice general completo
 
-### Páginas iniciales
+## Páginas iniciales
 
 1. Portada editorial
 2. Página de derechos de autor
@@ -153,7 +158,7 @@ Para información editorial, futuras actualizaciones, recursos complementarios, 
 11. Índice general completo
 12. Introducción del libro
 
-### Capítulos principales
+## Capítulos principales
 
 1. **Capítulo 1 — Introducción al mundo del bolillo**
 2. **Capítulo 2 — Herramientas esenciales y profesionales**
@@ -170,7 +175,7 @@ Para información editorial, futuras actualizaciones, recursos complementarios, 
 13. **Capítulo 13 — Certificación profesional del panadero**
 14. **Capítulo 14 — Futuro, negocio y expansión del panadero**
 
-### Secciones finales
+## Secciones finales
 
 1. Conclusión final del libro
 2. Página final invitando al lector a futuras ediciones y otros libros
@@ -10025,7 +10030,7 @@ Que cada práctica sea una lección. Que cada error tenga nombre. Que cada mejor
 
 ---
 
-## ANEXO — Inventario Multimedia
+# ANEXO — Inventario Multimedia
 
 | Código | Tipo | Capítulo | Descripción del recurso |
 |---|---|---|---|
