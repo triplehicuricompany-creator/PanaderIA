@@ -9,12 +9,149 @@
 
 ---
 
+# Portada editorial
+
+**Libro Maestro del Bolillo**
+
+**Subtítulo:** Método profesional para comprender, practicar y perfeccionar el bolillo mexicano desde la base hasta la producción profesional.
+
+**Autor:** Chef Juanote™
+
+**Personaje asistente:** Boly™
+
+**Serie editorial:** PanaderIA™ — Formación panadera con método, criterio y corazón.
+
+**Edición:** Borrador editorial preparado para publicación profesional.
+
+---
+
+# Página de derechos de autor
+
+© PanaderIA™. Todos los derechos reservados.
+
+Obra desarrollada bajo la guía pedagógica de **Chef Juanote™** y con la participación educativa del personaje **Boly™**.
+
+Queda reservada la reproducción, distribución, comunicación pública o transformación total o parcial de esta obra por cualquier medio, físico o digital, sin autorización previa y por escrito de los titulares correspondientes, salvo los usos permitidos por la legislación aplicable.
+
+Los nombres **Chef Juanote™**, **Boly™** y **PanaderIA™** se presentan como elementos de identidad editorial, educativa y de marca dentro de esta obra.
+
+---
+
+# Aviso legal
+
+Este libro tiene fines educativos y formativos. Las técnicas, recomendaciones, fórmulas, procesos y criterios de producción descritos deben aplicarse con responsabilidad, higiene, supervisión adecuada y apego a las normas sanitarias vigentes en cada localidad.
+
+Los tiempos, temperaturas, rendimientos y resultados pueden variar según el tipo de harina, equipo, clima, altitud, horno, experiencia del panadero y condiciones reales de trabajo. El lector es responsable de verificar la seguridad de sus utensilios, instalaciones, ingredientes y procedimientos antes de producir, vender o consumir cualquier alimento.
+
+La información contenida en esta obra no sustituye capacitación certificada en seguridad alimentaria, normativas comerciales, permisos sanitarios, asesoría legal, asesoría contable ni evaluación profesional de instalaciones.
+
+---
+
+# Dedicatoria
+
+A quienes han mirado una pieza de pan recién salida del horno y han sentido que ahí existe algo más que harina, agua, levadura y sal.
+
+A las manos que aprenden, a las familias que comparten la mesa, a los panaderos que comienzan antes del amanecer y a toda persona que decide practicar con paciencia hasta convertir un oficio en orgullo.
+
+Este libro está dedicado a quienes creen que el pan también enseña disciplina, memoria, generosidad y esperanza.
+
+---
+
+# Agradecimientos
+
+Gracias a los panaderos, maestros, aprendices, obradores familiares y comunidades de cocina que conservan vivo el valor del bolillo como pan cotidiano y como símbolo de oficio.
+
+Gracias a cada lector que abre este libro con curiosidad, humildad y ganas de practicar. Su bitácora, sus errores, sus preguntas y sus avances son parte esencial del aprendizaje.
+
+Gracias al equipo editorial y educativo de PanaderIA™ por impulsar una forma de enseñar panadería con método, claridad y corazón.
+
+---
+
+# Biografía del autor — Chef Juanote™
+
+**Chef Juanote™** es la voz pedagógica principal de esta obra: un guía de panadería enfocado en explicar el oficio con lenguaje claro, criterio técnico y cercanía humana.
+
+Su método parte de una idea central: un panadero no solo debe repetir una receta, sino aprender a observar, registrar, diagnosticar y corregir. Por eso, a lo largo del libro, Chef Juanote™ acompaña al lector con consejos de obrador, advertencias prácticas, criterios de evaluación y una ruta ordenada para convertir la práctica en aprendizaje real.
+
+En el universo editorial de PanaderIA™, Chef Juanote™ representa la experiencia que enseña sin complicar, la disciplina que forma criterio y la calidez de quien sabe que todo buen panadero empezó alguna vez con una primera masa imperfecta.
+
+---
+
+# Presentación del asistente Boly™
+
+**Boly™** es el asistente educativo del lector dentro del Libro Maestro del Bolillo. Su función es acompañar el aprendizaje con preguntas sencillas, recordatorios oportunos y apoyo amable durante la práctica.
+
+Boly™ no sustituye el criterio del panadero ni la guía técnica de Chef Juanote™. Su papel es ayudar al lector a detenerse, observar mejor, revisar variables, completar checklists y convertir cada error en información útil.
+
+Cuando Boly™ interviene, el lector encontrará una voz cercana que invita a pensar: ¿qué veo?, ¿qué cambió?, ¿qué puedo anotar?, ¿qué haré diferente en la siguiente tanda?
+
+---
+
+# Cómo utilizar este libro
+
+Este libro está diseñado para estudiarse en orden, sin saltar etapas técnicas. Cada capítulo construye una parte del criterio panadero necesario para comprender el bolillo como producto, proceso y oficio.
+
+Para aprovecharlo mejor:
+
+1. Lee primero el objetivo de cada capítulo.
+2. Estudia los conceptos antes de intentar corregir una receta.
+3. Realiza los ejercicios prácticos con calma.
+4. Registra tiempos, temperaturas, observaciones y resultados en tu bitácora.
+5. Revisa los consejos de Chef Juanote™ y las preguntas de Boly™ antes de pasar al siguiente tema.
+6. Usa los espacios de diagnóstico para aprender de cada tanda, incluso cuando el resultado no sea perfecto.
+
+La recomendación editorial es avanzar como se trabaja en panadería: con orden, limpieza, paciencia, repetición y atención a los detalles.
+
+---
+
+# Créditos
+
+**Dirección pedagógica:** Chef Juanote™.
+
+**Asistente educativo y personaje de acompañamiento:** Boly™.
+
+**Concepto editorial:** PanaderIA™ — Formación panadera con método, criterio y corazón.
+
+**Desarrollo de contenidos:** Equipo editorial de PanaderIA™.
+
+**Recursos visuales y multimedia:** Fotografías, videos, diagramas, códigos QR y materiales descargables marcados como pendientes para integración en etapa de producción visual.
+
+**Edición profesional:** Preparación editorial de páginas iniciales, legales, créditos, contacto y cierre para publicación.
+
+---
+
+# Información de contacto
+
+Para información editorial, futuras actualizaciones, recursos complementarios, licencias, talleres o materiales de PanaderIA™, utilizar los canales oficiales que se definan para la publicación final.
+
+**Proyecto:** PanaderIA™
+
+**Obra:** Libro Maestro del Bolillo
+
+**Autor pedagógico:** Chef Juanote™
+
+**Asistente educativo:** Boly™
+
+**Contacto editorial:** pendiente de integrar en la versión final de publicación.
+
+---
+
 ## Índice general completo
 
 ### Páginas iniciales
 
-1. Índice general completo
-2. Introducción del libro
+1. Portada editorial
+2. Página de derechos de autor
+3. Aviso legal
+4. Dedicatoria
+5. Agradecimientos
+6. Biografía del autor — Chef Juanote™
+7. Presentación del asistente Boly™
+8. Cómo utilizar este libro
+9. Créditos
+10. Información de contacto
+11. Índice general completo
+12. Introducción del libro
 
 ### Capítulos principales
 
@@ -36,6 +173,7 @@
 ### Secciones finales
 
 1. Conclusión final del libro
+2. Página final invitando al lector a futuras ediciones y otros libros
 
 > **Nota editorial:** Los apartados anteriores corresponden a las secciones existentes en esta versión del libro.
 
@@ -10136,3 +10274,17 @@ Que cada práctica sea una lección. Que cada error tenga nombre. Que cada mejor
 | QR 64 | QR | Capítulo 14 — Futuro, negocio y expansión del panadero | enlace pendiente al recurso correspondiente QR-LMB-C14-ERRORES — Tabla imprimible de errores críticos del bolillo. |
 | QR 65 | QR | Capítulo 14 — Futuro, negocio y expansión del panadero | enlace pendiente al recurso correspondiente QR-LMB-C14-CHECKLIST — Checklist final descargable de dominio del bolillo. |
 | QR 66 | QR | Capítulo 14 — Futuro, negocio y expansión del panadero | enlace pendiente al recurso correspondiente QR-LMB-C14-MENSAJE-FINAL — Despedida multimedia del Chef Juanote™ y Boly™. |
+
+---
+
+# Página final invitando al lector a futuras ediciones y otros libros
+
+Gracias por acompañar a Chef Juanote™ y a Boly™ en esta ruta de aprendizaje dedicada al bolillo. Cada página de este libro fue pensada para que el lector no solo produzca pan, sino que desarrolle criterio, confianza y una forma más consciente de practicar el oficio.
+
+Esta obra queda abierta a futuras ediciones con nuevos recursos visuales, ampliaciones técnicas, materiales descargables, ejercicios guiados, casos de diagnóstico y herramientas de acompañamiento para panaderos, instructores y emprendedores.
+
+El camino del pan no termina aquí. Este libro puede ser el inicio de una biblioteca panadera más amplia: nuevos panes, nuevas técnicas, nuevos negocios y nuevas formas de enseñar con método, criterio y corazón.
+
+**Nos vemos en la siguiente hornada.**
+
+**Chef Juanote™ y Boly™**
