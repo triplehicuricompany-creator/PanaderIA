@@ -16,3 +16,32 @@ Responde antes de pasar al siguiente capítulo.
 ## Criterio de avance
 
 Puedes avanzar cuando expliques el objetivo de enfriado, conservación e higiene, presentes evidencia de práctica y propongas una corrección razonada para al menos un error común.
+
+
+---
+
+<!-- ENRIQUECIMIENTO_PEDAGOGICO_2026 -->
+
+## Autoevaluación ampliada — criterio profesional
+
+1. ¿Cuál es la señal más confiable para decidir si el trabajo de **enfriado, conservación e higiene** va en buen camino y por qué?
+2. Describe un error común relacionado con **rejillas, condensación, empaque y limpieza** y una corrección que no cambie más de una variable.
+3. Si dos lotes usan la misma fórmula pero tienen resultados distintos, ¿qué datos revisarías primero?
+4. Explica cómo documentarías una falla para que otro alumno pueda entenderla sin ver el lote original.
+5. ¿Qué decisión tomaría Chef Juanote™ si la señal visual contradice el tiempo indicado en la receta?
+
+### Caso práctico
+
+Un alumno reporta resultado irregular después de aplicar el procedimiento del capítulo. No tiene fotos, no anotó temperatura y cambió dos cosas a la vez. Responde:
+
+- ¿Qué información falta?
+- ¿Cuál sería el primer lote de prueba para recuperar control?
+- ¿Qué evidencia debe entregar antes de avanzar?
+
+### Rúbrica rápida
+
+| Nivel | Evidencia del alumno |
+|---|---|
+| Básico | Repite pasos, pero no explica señales. |
+| Intermedio | Identifica señales y propone una corrección razonable. |
+| Profesional | Relaciona causa, señal, corrección y resultado con registro verificable. |
