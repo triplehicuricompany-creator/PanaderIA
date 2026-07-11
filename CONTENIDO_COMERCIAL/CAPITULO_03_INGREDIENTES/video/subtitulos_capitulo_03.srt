@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:04,000
+Bienvenido al Capítulo 03 del Curso Maestro de Bolillo.
+
+2
+00:00:04,000 --> 00:00:09,000
+Hoy veremos los ingredientes como un sistema, no como una lista.
+
+3
+00:00:09,000 --> 00:00:15,000
+Harina, agua, levadura y sal deben estar pesadas y visibles antes de amasar.
+
+4
+00:00:15,000 --> 00:00:23,000
+La harina aporta almidones y proteínas que ayudan a formar la estructura de la masa.
+
+5
+00:00:23,000 --> 00:00:31,000
+El agua hidrata la harina y afecta la temperatura final del proceso.
+
+6
+00:00:31,000 --> 00:00:39,000
+La levadura produce gas y aroma, pero usar demasiada reduce el control.
+
+7
+00:00:39,000 --> 00:00:47,000
+La sal da sabor y ayuda a moderar la fermentación. No debe olvidarse.
+
+8
+00:00:47,000 --> 00:00:55,000
+Tres errores comunes son agua demasiado caliente, exceso de levadura y sal olvidada.
+
+9
+00:00:55,000 --> 00:01:04,000
+Boly recuerda: no adivines; compara tu mesa con tu registro.
+
+10
+00:01:04,000 --> 00:01:14,000
+Tu tarea es pesar todo, fotografiar tu mise en place y anotar pesos, harina y ambiente.
+
+11
+00:01:14,000 --> 00:01:20,000
+Observa, registra y repite. Así empieza un bolillo más controlable.

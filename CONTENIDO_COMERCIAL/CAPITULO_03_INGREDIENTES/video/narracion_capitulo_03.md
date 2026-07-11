@@ -1,0 +1,3 @@
+# Narración final — Capítulo 03
+
+Cada ingrediente del bolillo tiene una función. La harina construye estructura; el agua hidrata y regula la temperatura; la levadura produce gas y aroma; la sal aporta sabor y control. Antes de amasar, prepara tu mesa con orden profesional: pesa cada ingrediente por separado, deja la sal visible, revisa que el agua no esté demasiado caliente y registra la harina que estás usando. Si cambias una variable, anótala. La panadería no se domina por adivinanza: se domina observando, midiendo y comparando. Tu evidencia de este capítulo es una fotografía de tu mise en place y una ficha con pesos, ambiente y observaciones. Con esa base, el amasado empieza con criterio.
