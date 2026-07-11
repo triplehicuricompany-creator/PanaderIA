@@ -37,3 +37,26 @@ El cliente recibe bolillos de tamaños distintos. La solución fue pesar, bolear
 
 ## FAQ
 ¿Por qué se abre por abajo? Usualmente por costura mal sellada, exceso de harina o poca tensión superficial.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** manos dividiendo masa en porciones iguales, boleado tenso y formado alargado de bolillo
+- **Prompt 3D:** modelo 3D paso a paso de tensión superficial, costura y elongación del bolillo
+- **Prompt para video:** Plano lateral del formado: desgasificado mínimo, tensión, sellado y plantilla de largo.
+- **Prompt para narración:** La pieza recuerda cómo la trataste: si la formas floja, te lo cobra en el horno.
+- **Kit descargable sugerido:** Plantilla de largo + control de peso por pieza + QR formado profesional.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 06; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-06.html y registrar evidencia del módulo 06 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Exceso de harina en mesa: impide sellar costura y abre la base.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Pesa 10 piezas y calcula desviación; Boly™ te indica si ya hay estándar de venta.

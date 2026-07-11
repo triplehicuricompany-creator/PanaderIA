@@ -37,3 +37,26 @@ Una fonda rechaza el bolillo porque se ablanda a los 20 minutos. El diagnóstico
 
 ## FAQ
 ¿Qué diferencia un bolillo correcto de uno solo “bonito”? La greña debe abrir, pero también debe haber corteza crujiente, miga ligera, base bien cocida y sabor equilibrado.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** macro sensorial de bolillo mexicano, corteza craquelada, miga abierta, base dorada, mesa rústica, luz natural lateral, sin texto
+- **Prompt 3D:** modelo 3D educativo de bolillo seccionado con capas etiquetables de corteza, miga, greña y base, vista isométrica
+- **Prompt para video:** Toma cenital de tres bolillos comparados; corte a miga, prueba de sonido y escala 1-5 en bitácora.
+- **Prompt para narración:** Hoy no vamos a perseguir pan bonito: vamos a aprender a leer corteza, miga, aroma y base como panaderos.
+- **Kit descargable sugerido:** Ficha sensorial + bitácora inicial + QR a video del estándar.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 01; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-01.html y registrar evidencia del módulo 01 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** No comparar pan caliente con pan frío; evalúa ambos momentos.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Sube 3 fotos y tu calificación; Boly™ te devuelve la señal más débil a corregir.

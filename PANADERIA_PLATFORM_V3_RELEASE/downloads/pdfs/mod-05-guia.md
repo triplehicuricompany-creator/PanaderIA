@@ -37,3 +37,26 @@ En temporada de calor las piezas se colapsan al cortar. Se reduce levadura, se e
 
 ## FAQ
 ¿Cómo sé si se sobrefermentó? La pieza pierde tensión, huele fuerte, se deprime al tocar y no recupera en horno.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** piezas de bolillo fermentando bajo cubierta, termómetro ambiente, prueba de dedo, reloj visible
+- **Prompt 3D:** modelo 3D de expansión de masa con burbujas de CO2 y semáforo de fermentación
+- **Prompt para video:** Timelapse de fermentación: marca bajo, punto y sobrefermentado con prueba de dedo.
+- **Prompt para narración:** La fermentación no obedece al reloj: obedece a temperatura, levadura y fuerza de masa.
+- **Kit descargable sugerido:** Tabla temperatura-tiempo + semáforo prueba de dedo + QR diagnóstico de fermentación.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 05; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-05.html y registrar evidencia del módulo 05 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Esperar volumen exacto sin considerar temperatura de masa y clima.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Reporta temperatura ambiente y tiempo real; Boly™ ajusta tu siguiente lote.

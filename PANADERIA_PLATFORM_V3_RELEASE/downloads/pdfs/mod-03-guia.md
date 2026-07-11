@@ -37,3 +37,26 @@ La misma receta sale seca con harina nueva. Al medir absorción se aumenta agua 
 
 ## FAQ
 ¿Puedo medir con tazas? Para una versión comercial, no; usa báscula porque pequeñas diferencias cambian textura y fermentación.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** ingredientes de bolillo pesados en gramos, harina, agua, sal, levadura, prefermento opcional, fondo claro
+- **Prompt 3D:** modelo 3D de fórmula panadera porcentual con recipientes medidores y flechas de hidratación
+- **Prompt para video:** Secuencia de pesaje exacto y ajuste de agua por absorción de harina.
+- **Prompt para narración:** La receta empieza en gramos, pero el criterio aparece cuando la harina pide agua distinta.
+- **Kit descargable sugerido:** Hoja de fórmula porcentual + prueba de absorción + QR cálculo de lote.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 03; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-03.html y registrar evidencia del módulo 03 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Cambiar harina sin prueba de absorción; el mismo número no siempre da la misma masa.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Calcula una tanda de 12 y otra de 24 piezas; Boly™ revisa tus porcentajes.

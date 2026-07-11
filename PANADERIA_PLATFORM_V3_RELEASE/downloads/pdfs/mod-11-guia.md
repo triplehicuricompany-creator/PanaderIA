@@ -37,3 +37,26 @@ Un bolillo con semillas sale seco. La solución fue remojar semillas y subir hid
 
 ## FAQ
 ¿Cuánta inclusión agrego? Empieza bajo, mide impacto en gluten y sube solo si mantiene volumen.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** bolillos variantes con ajonjolí, integral ligero y masa madre híbrida en charola artesanal
+- **Prompt 3D:** modelo 3D de inclusiones en masa y efecto sobre hidratación, gluten y volumen
+- **Prompt para video:** Preparación de variante: remojo de semillas, ajuste hidratación y comparación de volumen.
+- **Prompt para narración:** Una variante profesional no tapa defectos: respeta la técnica base y suma identidad.
+- **Kit descargable sugerido:** Matriz de variantes + cálculo de inclusiones + QR ficha de costo.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 11; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-11.html y registrar evidencia del módulo 11 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Agregar semillas secas sin remojo y secar la miga.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Diseña una variante con porcentaje de inclusión y ajuste de agua; Boly™ valida riesgo técnico.

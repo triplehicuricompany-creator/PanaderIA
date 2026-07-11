@@ -37,3 +37,26 @@ Un alumno pierde volumen porque busca la navaja cuando las piezas ya están list
 
 ## FAQ
 ¿Puedo iniciar con horno casero? Sí, si precalientas suficiente, generas vapor controlado y trabajas lotes pequeños.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** banco de panadero con báscula, raspa, charolas, navaja y termómetro ordenados por flujo de trabajo
+- **Prompt 3D:** kit 3D de herramientas de panadería con piezas separables y etiquetas limpias
+- **Prompt para video:** Plano detalle preparando estación antes de amasar: pesaje, charola, navaja protegida y termómetro.
+- **Prompt para narración:** Una herramienta no te hace profesional; el orden en que la usas sí.
+- **Kit descargable sugerido:** Checklist mise en place + matriz horno casero/profesional + QR seguridad de corte.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 02; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-02.html y registrar evidencia del módulo 02 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Buscar utensilios con la masa lista; eso roba fermentación y tensión.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Marca tu estación lista antes de tocar harina; si falta algo, pausa y corrige.

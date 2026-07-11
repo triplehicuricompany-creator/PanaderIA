@@ -37,3 +37,26 @@ Bolillo plano: parecía exceso de agua, pero el registro mostró sobrefermentaci
 
 ## FAQ
 ¿Por dónde empiezo si todo salió mal? Por bitácora: temperatura de masa, tiempos, desarrollo de gluten y horno real.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** mesa de diagnóstico con bolillos defectuosos etiquetados: plano, pálido, denso, greña cerrada
+- **Prompt 3D:** modelo 3D árbol de decisión de fallas desde fórmula, amasado, fermentación, formado y horno
+- **Prompt para video:** Diagnóstico guiado: observar defecto, revisar bitácora, aislar variable y proponer corrección.
+- **Prompt para narración:** Un defecto nunca llega solo; llega con pistas. La bitácora te dice cuál pista seguir primero.
+- **Kit descargable sugerido:** Matriz causa-solución + ficha de evidencia + QR consulta Boly™.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 10; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-10.html y registrar evidencia del módulo 10 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Cambiar tres variables en el siguiente lote y perder la causa real.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Elige una falla real y documenta causa probable, prueba y corrección; Boly™ reta tu hipótesis.

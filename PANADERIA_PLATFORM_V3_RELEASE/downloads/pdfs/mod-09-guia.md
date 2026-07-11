@@ -37,3 +37,26 @@ Una cafetería recibe pan suave. Se descubre que se embolsaba caliente; con reji
 
 ## FAQ
 ¿Cómo revivo un bolillo? Calor seco breve, sin exceso de humedad, hasta recuperar corteza.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** bolillos enfriando sobre rejilla, vapor saliendo, empaque ventilado al lado
+- **Prompt 3D:** modelo 3D de flujo de humedad desde miga hacia corteza durante enfriado
+- **Prompt para video:** Comparación: pan embolsado caliente vs enfriado en rejilla y reactivado con calor seco.
+- **Prompt para narración:** El pan sigue trabajando al salir del horno; si lo encierras caliente, le robas la corteza.
+- **Kit descargable sugerido:** Checklist de enfriado + etiqueta de empaque + QR vida útil.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 09; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-09.html y registrar evidencia del módulo 09 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Apilar o embolsar caliente por prisa de entrega.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Mide textura a 10, 30 y 60 minutos; Boly™ recomienda empaque según clima.

@@ -37,3 +37,26 @@ Un bolillo queda denso aunque la fórmula es correcta. La bitácora muestra masa
 
 ## FAQ
 ¿Cuándo termina el amasado? Cuando la masa está lisa, elástica, con ventana funcional y temperatura dentro del rango esperado.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** masa de bolillo en prueba de ventana, manos mostrando elasticidad, mesa limpia, luz de taller
+- **Prompt 3D:** modelo 3D de red de gluten con zonas extensibles y puntos de ruptura
+- **Prompt para video:** Demostración comparativa: subamasado, punto correcto y sobrecalentamiento por amasado excesivo.
+- **Prompt para narración:** El amasado no termina por reloj: termina cuando la masa muestra fuerza, elasticidad y temperatura correcta.
+- **Kit descargable sugerido:** Checklist amasado + registro temperatura final + QR prueba de ventana.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 04; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-04.html y registrar evidencia del módulo 04 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Agregar harina para quitar pegajosidad antes de dar tiempo al gluten.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Registra temperatura inicial/final y foto de ventana; Boly™ clasifica tu desarrollo.

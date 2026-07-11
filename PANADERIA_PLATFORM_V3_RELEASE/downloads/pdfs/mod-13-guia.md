@@ -37,3 +37,26 @@ Un alumno logra buen pan una vez pero no puede repetirlo. La certificación qued
 
 ## FAQ
 ¿Qué pasa si fallo el práctico? Se entrega retroalimentación por etapa y se repite solo el bloque no competente.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** mesa de evaluación con rúbrica, bolillos numerados, fotos de evidencia y certificado
+- **Prompt 3D:** modelo 3D de rúbrica de certificación con indicadores sensoriales y técnicos
+- **Prompt para video:** Evaluación práctica: presentación de dos lotes, revisión de bitácora y retroalimentación por etapa.
+- **Prompt para narración:** Certificarse no es presumir un lote bueno: es demostrar criterio repetible.
+- **Kit descargable sugerido:** Rúbrica imprimible + formato de evidencia + QR entrega de portafolio.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 13; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-13.html y registrar evidencia del módulo 13 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Presentar solo fotos bonitas sin pesos, tiempos ni diagnóstico.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Entrega dos lotes comparables; Boly™ prepara preguntas de defensa técnica.
