@@ -157,3 +157,17 @@ Corregir todo al mismo tiempo y perder la causa real.
 **Caso:** un lote tenía buena greña, pero migajón apretado.
 
 **Diagnóstico:** el formado y corte estaban bien, pero la mas
+
+
+---
+
+<!-- ENRIQUECIMIENTO_PEDAGOGICO_2026 -->
+
+## Recursos descargables ampliados
+
+- **Ficha técnica del capítulo 10:** registro de lote, variable observada, fotografía y conclusión.
+- **Matriz de errores y correcciones:** tabla editable para documentar fallas reales del alumno.
+- **Checklist de evidencia:** lista para validar que cada práctica incluye foto inicial, foto de decisión y foto final.
+- **Tarjeta Chef Juanote™:** consejo profesional imprimible sobre inocuidad, textura y vida útil.
+- **Tarjeta Boly™:** recordatorio breve para acompañar la práctica sin ansiedad.
+- **Plantilla de comparación:** dos columnas para lote estándar vs. lote con variable controlada.

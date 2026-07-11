@@ -165,3 +165,17 @@ La masa está tensa. Necesita reposo antes de continuar.
 La costura no fue sellada o la tensión se dirigió mal.
 
 **¿Debo usar much
+
+
+---
+
+<!-- ENRIQUECIMIENTO_PEDAGOGICO_2026 -->
+
+## Recursos descargables ampliados
+
+- **Ficha técnica del capítulo 06:** registro de lote, variable observada, fotografía y conclusión.
+- **Matriz de errores y correcciones:** tabla editable para documentar fallas reales del alumno.
+- **Checklist de evidencia:** lista para validar que cada práctica incluye foto inicial, foto de decisión y foto final.
+- **Tarjeta Chef Juanote™:** consejo profesional imprimible sobre peso uniforme y tensión inicial.
+- **Tarjeta Boly™:** recordatorio breve para acompañar la práctica sin ansiedad.
+- **Plantilla de comparación:** dos columnas para lote estándar vs. lote con variable controlada.

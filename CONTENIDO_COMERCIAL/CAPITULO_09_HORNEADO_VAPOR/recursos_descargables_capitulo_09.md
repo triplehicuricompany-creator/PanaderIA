@@ -167,3 +167,17 @@ Sí, si está completamente frío y bien empacado.
 Con calor breve en horno, evitando resecar en exceso.
 
 ### Diag
+
+
+---
+
+<!-- ENRIQUECIMIENTO_PEDAGOGICO_2026 -->
+
+## Recursos descargables ampliados
+
+- **Ficha técnica del capítulo 09:** registro de lote, variable observada, fotografía y conclusión.
+- **Matriz de errores y correcciones:** tabla editable para documentar fallas reales del alumno.
+- **Checklist de evidencia:** lista para validar que cada práctica incluye foto inicial, foto de decisión y foto final.
+- **Tarjeta Chef Juanote™:** consejo profesional imprimible sobre transferencia de calor, expansión y corteza.
+- **Tarjeta Boly™:** recordatorio breve para acompañar la práctica sin ansiedad.
+- **Plantilla de comparación:** dos columnas para lote estándar vs. lote con variable controlada.

@@ -19,3 +19,15 @@ Vaso medidor con agua y recipiente pequeño con sal pesada junto a báscula digi
 ## 5. Mesa correcta vs mesa desordenada
 
 Infografía dividida en dos paneles, izquierda mesa de ingredientes ordenada y pesada, derecha mesa desordenada con ingredientes sin medir, iconos claros de correcto e incorrecto, estilo visual educativo PanaderIA.
+
+
+---
+
+<!-- ENRIQUECIMIENTO_PEDAGOGICO_2026 -->
+
+## Prompts visuales adicionales
+
+1. **Infografía técnica:** “Capítulo 03 Ingredientes, diagrama limpio estilo curso premium, flechas de causa y efecto, etiquetas en español, mesa de panadería mexicana, iluminación cálida, sin texto ilegible”.
+2. **Comparativo profesional:** “Tres piezas o masas comparadas: insuficiente, correcto y excedido para selección y control de ingredientes, fotografía educativa, fondo neutro, marcas visuales sutiles”.
+3. **Boly™ acompañante:** “Mascota amigable Boly™ señalando una bitácora de panadería, tono motivador, estilo ilustración editorial, espacio para colocar consejo”.
+4. **Chef Juanote™ consejo:** “Chef panadero mexicano profesional explicando absorción de harina, temperatura del agua, sal y levadura, gesto cercano, ambiente de obrador limpio, composición horizontal para video”.
