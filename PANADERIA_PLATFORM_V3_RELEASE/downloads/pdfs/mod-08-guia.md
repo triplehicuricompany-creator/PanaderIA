@@ -37,3 +37,26 @@ El bolillo no abre aunque la navaja está nueva. La prueba de dedo revela sobref
 
 ## FAQ
 ¿Qué profundidad uso? La suficiente para liberar expansión sin partir la pieza; debe ser constante y con hoja inclinada.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** navaja inclinada haciendo corte longitudinal en bolillo fermentado, greña limpia
+- **Prompt 3D:** modelo 3D de ángulo de corte, profundidad y dirección de expansión de greña
+- **Prompt para video:** Cámara lenta del corte correcto versus corte vertical, superficial y tardío.
+- **Prompt para narración:** Cortar es decidir por dónde va a respirar el pan; no es decorar.
+- **Kit descargable sugerido:** Guía de corte + práctica en masa de descarte + QR seguridad con navaja.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 08; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-08.html y registrar evidencia del módulo 08 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Cortar tarde una pieza sobrefermentada y culpar a la navaja.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Sube foto antes/después de hornear; Boly™ evalúa ángulo, profundidad y fermentación.

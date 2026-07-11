@@ -51,7 +51,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Qué diferencia un bolillo correcto de uno solo “bonito”? La greña debe abrir, pero también debe haber corteza crujiente, miga ligera, base bien cocida y sabor equilibrado.",
     "downloads": [
@@ -60,7 +61,23 @@
     ],
     "videos": [
       "vid-mod-01"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "macro sensorial de bolillo mexicano, corteza craquelada, miga abierta, base dorada, mesa rústica, luz natural lateral, sin texto",
+      "prompt3D": "modelo 3D educativo de bolillo seccionado con capas etiquetables de corteza, miga, greña y base, vista isométrica",
+      "videoPrompt": "Toma cenital de tres bolillos comparados; corte a miga, prueba de sonido y escala 1-5 en bitácora.",
+      "narrationPrompt": "Hoy no vamos a perseguir pan bonito: vamos a aprender a leer corteza, miga, aroma y base como panaderos.",
+      "downloadableKit": "Ficha sensorial + bitácora inicial + QR a video del estándar.",
+      "callToAction": "Sube 3 fotos y tu calificación; Boly™ te devuelve la señal más débil a corregir.",
+      "commonMistake": "No comparar pan caliente con pan frío; evalúa ambos momentos.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-01.html y registrar evidencia del módulo 01 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 01; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 2,
@@ -114,7 +131,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Puedo iniciar con horno casero? Sí, si precalientas suficiente, generas vapor controlado y trabajas lotes pequeños.",
     "downloads": [
@@ -123,7 +141,23 @@
     ],
     "videos": [
       "vid-mod-02"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "banco de panadero con báscula, raspa, charolas, navaja y termómetro ordenados por flujo de trabajo",
+      "prompt3D": "kit 3D de herramientas de panadería con piezas separables y etiquetas limpias",
+      "videoPrompt": "Plano detalle preparando estación antes de amasar: pesaje, charola, navaja protegida y termómetro.",
+      "narrationPrompt": "Una herramienta no te hace profesional; el orden en que la usas sí.",
+      "downloadableKit": "Checklist mise en place + matriz horno casero/profesional + QR seguridad de corte.",
+      "callToAction": "Marca tu estación lista antes de tocar harina; si falta algo, pausa y corrige.",
+      "commonMistake": "Buscar utensilios con la masa lista; eso roba fermentación y tensión.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-02.html y registrar evidencia del módulo 02 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 02; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 3,
@@ -177,7 +211,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Puedo medir con tazas? Para una versión comercial, no; usa báscula porque pequeñas diferencias cambian textura y fermentación.",
     "downloads": [
@@ -186,7 +221,23 @@
     ],
     "videos": [
       "vid-mod-03"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "ingredientes de bolillo pesados en gramos, harina, agua, sal, levadura, prefermento opcional, fondo claro",
+      "prompt3D": "modelo 3D de fórmula panadera porcentual con recipientes medidores y flechas de hidratación",
+      "videoPrompt": "Secuencia de pesaje exacto y ajuste de agua por absorción de harina.",
+      "narrationPrompt": "La receta empieza en gramos, pero el criterio aparece cuando la harina pide agua distinta.",
+      "downloadableKit": "Hoja de fórmula porcentual + prueba de absorción + QR cálculo de lote.",
+      "callToAction": "Calcula una tanda de 12 y otra de 24 piezas; Boly™ revisa tus porcentajes.",
+      "commonMistake": "Cambiar harina sin prueba de absorción; el mismo número no siempre da la misma masa.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-03.html y registrar evidencia del módulo 03 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 03; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 4,
@@ -240,7 +291,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Cuándo termina el amasado? Cuando la masa está lisa, elástica, con ventana funcional y temperatura dentro del rango esperado.",
     "downloads": [
@@ -249,7 +301,23 @@
     ],
     "videos": [
       "vid-mod-04"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "masa de bolillo en prueba de ventana, manos mostrando elasticidad, mesa limpia, luz de taller",
+      "prompt3D": "modelo 3D de red de gluten con zonas extensibles y puntos de ruptura",
+      "videoPrompt": "Demostración comparativa: subamasado, punto correcto y sobrecalentamiento por amasado excesivo.",
+      "narrationPrompt": "El amasado no termina por reloj: termina cuando la masa muestra fuerza, elasticidad y temperatura correcta.",
+      "downloadableKit": "Checklist amasado + registro temperatura final + QR prueba de ventana.",
+      "callToAction": "Registra temperatura inicial/final y foto de ventana; Boly™ clasifica tu desarrollo.",
+      "commonMistake": "Agregar harina para quitar pegajosidad antes de dar tiempo al gluten.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-04.html y registrar evidencia del módulo 04 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 04; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 5,
@@ -303,7 +371,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Cómo sé si se sobrefermentó? La pieza pierde tensión, huele fuerte, se deprime al tocar y no recupera en horno.",
     "downloads": [
@@ -312,7 +381,23 @@
     ],
     "videos": [
       "vid-mod-05"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "piezas de bolillo fermentando bajo cubierta, termómetro ambiente, prueba de dedo, reloj visible",
+      "prompt3D": "modelo 3D de expansión de masa con burbujas de CO2 y semáforo de fermentación",
+      "videoPrompt": "Timelapse de fermentación: marca bajo, punto y sobrefermentado con prueba de dedo.",
+      "narrationPrompt": "La fermentación no obedece al reloj: obedece a temperatura, levadura y fuerza de masa.",
+      "downloadableKit": "Tabla temperatura-tiempo + semáforo prueba de dedo + QR diagnóstico de fermentación.",
+      "callToAction": "Reporta temperatura ambiente y tiempo real; Boly™ ajusta tu siguiente lote.",
+      "commonMistake": "Esperar volumen exacto sin considerar temperatura de masa y clima.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-05.html y registrar evidencia del módulo 05 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 05; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 6,
@@ -366,7 +451,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Por qué se abre por abajo? Usualmente por costura mal sellada, exceso de harina o poca tensión superficial.",
     "downloads": [
@@ -375,7 +461,23 @@
     ],
     "videos": [
       "vid-mod-06"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "manos dividiendo masa en porciones iguales, boleado tenso y formado alargado de bolillo",
+      "prompt3D": "modelo 3D paso a paso de tensión superficial, costura y elongación del bolillo",
+      "videoPrompt": "Plano lateral del formado: desgasificado mínimo, tensión, sellado y plantilla de largo.",
+      "narrationPrompt": "La pieza recuerda cómo la trataste: si la formas floja, te lo cobra en el horno.",
+      "downloadableKit": "Plantilla de largo + control de peso por pieza + QR formado profesional.",
+      "callToAction": "Pesa 10 piezas y calcula desviación; Boly™ te indica si ya hay estándar de venta.",
+      "commonMistake": "Exceso de harina en mesa: impide sellar costura y abre la base.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-06.html y registrar evidencia del módulo 06 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 06; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 7,
@@ -429,7 +531,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Por qué se quema abajo? Puede ser charola muy delgada, piso excesivo, altura incorrecta o tiempo prolongado.",
     "downloads": [
@@ -438,7 +541,23 @@
     ],
     "videos": [
       "vid-mod-07"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "bolillos entrando a horno con vapor, greña levantando y color dorado uniforme",
+      "prompt3D": "modelo 3D de cámara de horno con flujo de calor, vapor inicial y expansión de greña",
+      "videoPrompt": "Secuencia horno: precalentado, carga, vapor, color, base y enfriado inmediato.",
+      "narrationPrompt": "El horno no perdona improvisación: entra preparado o el bolillo pierde su mejor minuto.",
+      "downloadableKit": "Ficha de horneado + mapa de puntos calientes + QR calibración casera.",
+      "callToAction": "Hornea dos charolas y registra color/base por posición; Boly™ detecta zonas calientes.",
+      "commonMistake": "Cargar demasiado el horno y apagar el golpe de calor inicial.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-07.html y registrar evidencia del módulo 07 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 07; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 8,
@@ -492,7 +611,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Qué profundidad uso? La suficiente para liberar expansión sin partir la pieza; debe ser constante y con hoja inclinada.",
     "downloads": [
@@ -501,7 +621,23 @@
     ],
     "videos": [
       "vid-mod-08"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "navaja inclinada haciendo corte longitudinal en bolillo fermentado, greña limpia",
+      "prompt3D": "modelo 3D de ángulo de corte, profundidad y dirección de expansión de greña",
+      "videoPrompt": "Cámara lenta del corte correcto versus corte vertical, superficial y tardío.",
+      "narrationPrompt": "Cortar es decidir por dónde va a respirar el pan; no es decorar.",
+      "downloadableKit": "Guía de corte + práctica en masa de descarte + QR seguridad con navaja.",
+      "callToAction": "Sube foto antes/después de hornear; Boly™ evalúa ángulo, profundidad y fermentación.",
+      "commonMistake": "Cortar tarde una pieza sobrefermentada y culpar a la navaja.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-08.html y registrar evidencia del módulo 08 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 08; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 9,
@@ -555,7 +691,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Cómo revivo un bolillo? Calor seco breve, sin exceso de humedad, hasta recuperar corteza.",
     "downloads": [
@@ -564,7 +701,23 @@
     ],
     "videos": [
       "vid-mod-09"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "bolillos enfriando sobre rejilla, vapor saliendo, empaque ventilado al lado",
+      "prompt3D": "modelo 3D de flujo de humedad desde miga hacia corteza durante enfriado",
+      "videoPrompt": "Comparación: pan embolsado caliente vs enfriado en rejilla y reactivado con calor seco.",
+      "narrationPrompt": "El pan sigue trabajando al salir del horno; si lo encierras caliente, le robas la corteza.",
+      "downloadableKit": "Checklist de enfriado + etiqueta de empaque + QR vida útil.",
+      "callToAction": "Mide textura a 10, 30 y 60 minutos; Boly™ recomienda empaque según clima.",
+      "commonMistake": "Apilar o embolsar caliente por prisa de entrega.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-09.html y registrar evidencia del módulo 09 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 09; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 10,
@@ -618,7 +771,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Por dónde empiezo si todo salió mal? Por bitácora: temperatura de masa, tiempos, desarrollo de gluten y horno real.",
     "downloads": [
@@ -627,7 +781,23 @@
     ],
     "videos": [
       "vid-mod-10"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "mesa de diagnóstico con bolillos defectuosos etiquetados: plano, pálido, denso, greña cerrada",
+      "prompt3D": "modelo 3D árbol de decisión de fallas desde fórmula, amasado, fermentación, formado y horno",
+      "videoPrompt": "Diagnóstico guiado: observar defecto, revisar bitácora, aislar variable y proponer corrección.",
+      "narrationPrompt": "Un defecto nunca llega solo; llega con pistas. La bitácora te dice cuál pista seguir primero.",
+      "downloadableKit": "Matriz causa-solución + ficha de evidencia + QR consulta Boly™.",
+      "callToAction": "Elige una falla real y documenta causa probable, prueba y corrección; Boly™ reta tu hipótesis.",
+      "commonMistake": "Cambiar tres variables en el siguiente lote y perder la causa real.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-10.html y registrar evidencia del módulo 10 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 10; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 11,
@@ -681,7 +851,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Cuánta inclusión agrego? Empieza bajo, mide impacto en gluten y sube solo si mantiene volumen.",
     "downloads": [
@@ -690,7 +861,23 @@
     ],
     "videos": [
       "vid-mod-11"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "bolillos variantes con ajonjolí, integral ligero y masa madre híbrida en charola artesanal",
+      "prompt3D": "modelo 3D de inclusiones en masa y efecto sobre hidratación, gluten y volumen",
+      "videoPrompt": "Preparación de variante: remojo de semillas, ajuste hidratación y comparación de volumen.",
+      "narrationPrompt": "Una variante profesional no tapa defectos: respeta la técnica base y suma identidad.",
+      "downloadableKit": "Matriz de variantes + cálculo de inclusiones + QR ficha de costo.",
+      "callToAction": "Diseña una variante con porcentaje de inclusión y ajuste de agua; Boly™ valida riesgo técnico.",
+      "commonMistake": "Agregar semillas secas sin remojo y secar la miga.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-11.html y registrar evidencia del módulo 11 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 11; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 12,
@@ -744,7 +931,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Cómo aumento producción? Escalando lotes, no duplicando caos; primero estabiliza 12, luego 24, luego 60.",
     "downloads": [
@@ -753,7 +941,23 @@
     ],
     "videos": [
       "vid-mod-12"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "producción escalonada de bolillos, charolas numeradas, reloj, bitácora y zona de empaque",
+      "prompt3D": "modelo 3D de flujo de producción por estaciones: mezcla, reposo, formado, fermentación, horno, enfriado",
+      "videoPrompt": "Recorrido de lote completo: tiempos escalonados, control de merma y liberación de calidad.",
+      "narrationPrompt": "Vender pan no es hacer más masa; es coordinar lotes sin romper calidad.",
+      "downloadableKit": "Cronograma de 24/60/100 piezas + control merma + QR plantilla producción.",
+      "callToAction": "Simula pedido de 60 piezas con horario de entrega; Boly™ revisa cuellos de botella.",
+      "commonMistake": "Duplicar receta sin duplicar espacio, horno y tiempos de enfriado.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-12.html y registrar evidencia del módulo 12 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 12; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 13,
@@ -807,7 +1011,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Qué pasa si fallo el práctico? Se entrega retroalimentación por etapa y se repite solo el bloque no competente.",
     "downloads": [
@@ -816,7 +1021,23 @@
     ],
     "videos": [
       "vid-mod-13"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "mesa de evaluación con rúbrica, bolillos numerados, fotos de evidencia y certificado",
+      "prompt3D": "modelo 3D de rúbrica de certificación con indicadores sensoriales y técnicos",
+      "videoPrompt": "Evaluación práctica: presentación de dos lotes, revisión de bitácora y retroalimentación por etapa.",
+      "narrationPrompt": "Certificarse no es presumir un lote bueno: es demostrar criterio repetible.",
+      "downloadableKit": "Rúbrica imprimible + formato de evidencia + QR entrega de portafolio.",
+      "callToAction": "Entrega dos lotes comparables; Boly™ prepara preguntas de defensa técnica.",
+      "commonMistake": "Presentar solo fotos bonitas sin pesos, tiempos ni diagnóstico.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-13.html y registrar evidencia del módulo 13 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 13; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   },
   {
     "id": 14,
@@ -870,7 +1091,8 @@
       "Registré tiempos, temperatura, observaciones y resultado.",
       "Comparé mi producto contra el estándar visual PanaderIA™.",
       "Identifiqué una mejora concreta para el siguiente lote.",
-      "Guardé evidencia para dashboard y certificación."
+      "Guardé evidencia para dashboard y certificación.",
+      "Pedí a Boly™ una retroalimentación accionable antes de avanzar."
     ],
     "faq": "¿Cuándo estoy listo para vender? Cuando puedes repetir calidad, calcular costo y entregar a tiempo sin improvisar.",
     "downloads": [
@@ -879,6 +1101,22 @@
     ],
     "videos": [
       "vid-mod-14"
-    ]
+    ],
+    "studentExperience": {
+      "visualPrompt": "panadero entregando bolillos a cafetería, empaque ventilado, lista de costos y marca local",
+      "prompt3D": "modelo 3D de embudo comercial: costo, precio, pedido, entrega, recompra",
+      "videoPrompt": "Caso de venta: calcular costo por pieza, definir mínimo de pedido y protocolo de reposición.",
+      "narrationPrompt": "El oficio se vuelve negocio cuando tu calidad, precio y entrega se pueden repetir.",
+      "downloadableKit": "Calculadora de costo + checklist de cliente mayorista + QR pitch de venta.",
+      "callToAction": "Calcula precio mínimo y margen; Boly™ revisa si tu promesa comercial es sostenible.",
+      "commonMistake": "Vender antes de saber costo real, merma y capacidad diaria.",
+      "qrInstruction": "Generar QR interno hacia videos/mod-14.html y registrar evidencia del módulo 14 en el dashboard.",
+      "printable": "Imprimir guía, examen y checklist del módulo 14; usar una copia por lote de práctica.",
+      "selfAssessment": [
+        "¿Puedo explicar la señal técnica principal sin leer apuntes?",
+        "¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?",
+        "¿Sé qué variable cambiaría en el siguiente lote y por qué?"
+      ]
+    }
   }
 ]

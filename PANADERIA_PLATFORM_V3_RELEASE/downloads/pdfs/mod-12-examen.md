@@ -12,3 +12,13 @@ Puntaje mínimo: 80%
 - Bitácora con tiempos y temperatura.
 - Foto de producto final cortado.
 - Autoevaluación usando el checklist del módulo.
+
+
+## Evidencia obligatoria para certificación
+- Foto del producto final y, cuando aplique, corte de miga/base.
+- Bitácora con pesos, tiempos, temperatura de masa/ambiente y observación sensorial.
+- Respuesta breve: ¿qué conservarías y qué corregirías en el siguiente lote?
+- Validación con Boly™ usando este prompt: "Boly™, revisa mi evidencia del módulo 12 y dime si demuestra criterio profesional o si falta una señal técnica".
+
+## Criterio de aprobación profesional
+Aprueba si el alumno conecta causa, señal observable y acción correctiva. No basta memorizar: debe defender su decisión con evidencia del lote.

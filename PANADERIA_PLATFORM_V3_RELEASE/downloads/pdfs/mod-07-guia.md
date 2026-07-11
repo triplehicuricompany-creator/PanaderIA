@@ -37,3 +37,26 @@ El bolillo sale pálido y pesado. El horno marcaba temperatura pero no estaba es
 
 ## FAQ
 ¿Por qué se quema abajo? Puede ser charola muy delgada, piso excesivo, altura incorrecta o tiempo prolongado.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** bolillos entrando a horno con vapor, greña levantando y color dorado uniforme
+- **Prompt 3D:** modelo 3D de cámara de horno con flujo de calor, vapor inicial y expansión de greña
+- **Prompt para video:** Secuencia horno: precalentado, carga, vapor, color, base y enfriado inmediato.
+- **Prompt para narración:** El horno no perdona improvisación: entra preparado o el bolillo pierde su mejor minuto.
+- **Kit descargable sugerido:** Ficha de horneado + mapa de puntos calientes + QR calibración casera.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 07; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-07.html y registrar evidencia del módulo 07 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Cargar demasiado el horno y apagar el golpe de calor inicial.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Hornea dos charolas y registra color/base por posición; Boly™ detecta zonas calientes.

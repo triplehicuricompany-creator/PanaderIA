@@ -37,3 +37,26 @@ Una cafetería pide entrega diaria. Se negocia volumen mínimo, hora fija, empaq
 
 ## FAQ
 ¿Cuándo estoy listo para vender? Cuando puedes repetir calidad, calcular costo y entregar a tiempo sin improvisar.
+
+
+## Recursos comerciales de producción
+- **Prompt visual:** panadero entregando bolillos a cafetería, empaque ventilado, lista de costos y marca local
+- **Prompt 3D:** modelo 3D de embudo comercial: costo, precio, pedido, entrega, recompra
+- **Prompt para video:** Caso de venta: calcular costo por pieza, definir mínimo de pedido y protocolo de reposición.
+- **Prompt para narración:** El oficio se vuelve negocio cuando tu calidad, precio y entrega se pueden repetir.
+- **Kit descargable sugerido:** Calculadora de costo + checklist de cliente mayorista + QR pitch de venta.
+- **Material imprimible:** Imprimir guía, examen y checklist del módulo 14; usar una copia por lote de práctica.
+- **QR recomendado:** Generar QR interno hacia videos/mod-14.html y registrar evidencia del módulo 14 en el dashboard.
+
+## Error frecuente y corrección profesional
+**Error frecuente:** Vender antes de saber costo real, merma y capacidad diaria.
+
+**Corrección de Chef Juanote™:** Observa primero la señal física, confirma con tu bitácora y cambia una sola variable por lote. Boly™ te acompaña ordenando evidencia, pero la decisión técnica sale de lo que viste en masa, horno y pan terminado.
+
+## Autoevaluación antes de avanzar
+- [ ] ¿Puedo explicar la señal técnica principal sin leer apuntes?
+- [ ] ¿Mi evidencia muestra pesos, tiempos, temperatura y resultado?
+- [ ] ¿Sé qué variable cambiaría en el siguiente lote y por qué?
+
+## Llamada a la acción
+Calcula precio mínimo y margen; Boly™ revisa si tu promesa comercial es sostenible.
