@@ -2,8 +2,8 @@
 
 **Producto:** PanaderIA™ / Curso Maestro de Bolillo  
 **Estado editorial:** recurso premium listo para revisión técnica final de Chef Juanote™  
-**Fuente base:** `CURSO_MAESTRO_BOLILLO.md`, `MAPA_CANONICO_CURSO/mapa_14_capitulos.md`, `RECURSOS_DESCARGABLES_ALUMNO/capitulo-14-futuro-negocio-y-expansion-del-panadero.md`  
-**QR sugerido:** `QR-LMBP-C14-NEGOCIO`
+**Fuente base:** `CURSO_MAESTRO_BOLILLO.md`, `MAPA_CANONICO_CURSO/mapa_14_capitulos.md`, `RECURSOS_DESCARGABLES_ALUMNO/capitulo-13-certificacion-profesional-del-panadero.md`  
+**QR sugerido:** `QR-LMBP-C14-CERTIFICACION`
 
 ---
 
