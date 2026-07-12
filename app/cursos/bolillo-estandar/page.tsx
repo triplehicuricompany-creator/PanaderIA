@@ -18,13 +18,13 @@ export default function StandardBolilloPage() {
               <li>✦ Introducción al bolillo.</li>
               <li>✦ Herramientas necesarias: balanza, taza medidora, bowl y batidora.</li>
               <li>✦ Ingredientes, amasado y fermentación.</li>
-              <li>✦ PDF descargable preparado.</li>
-              <li>✦ Estructura lista para fotografías y material complementario.</li>
+              <li>✦ Manual maestro y recursos de apoyo preparados.</li>
+              <li>✦ Ruta clara hacia la práctica completa y recursos de apoyo existentes.</li>
             </ul>
           </div>
         </div>
       </Section>
-      <Section eyebrow="Temario estándar" title="Contenido real del Curso Maestro de Bolillo">
+      <Section eyebrow="Temario estándar" title="Ruta base y continuidad premium del Curso Maestro de Bolillo">
         <Curriculum />
       </Section>
     </>

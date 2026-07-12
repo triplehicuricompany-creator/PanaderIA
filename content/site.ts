@@ -26,15 +26,15 @@ export const courses = [
     badge: "Base profesional",
     price: "Acceso inicial",
     description: "Ruta esencial para aprender bolillo desde cero con fundamentos, técnica y proceso paso a paso.",
-    features: ["Introducción al bolillo", "Herramientas necesarias", "Ingredientes", "Amasado", "Fermentación", "Evaluación y certificación"]
+    features: ["Introducción al bolillo", "Herramientas necesarias", "Ingredientes", "Amasado", "Fermentación", "Ruta hacia evaluación premium"]
   },
   {
     title: "Curso Maestro de Bolillo Premium",
     href: "/cursos/bolillo-premium",
     badge: "Experiencia completa",
     price: "Recomendado",
-    description: "Experiencia premium con recursos visuales, biblioteca digital, QR dinámicos y acceso futuro a Boly™.",
-    features: ["14 módulos reales", "Videos QR por módulo", "Fotografías técnicas", "PDF descargable", "Material complementario", "Boly™ por módulo"]
+    description: "Experiencia premium con recursos visuales, biblioteca digital, QR dinámicos y guía contextual de Boly™.",
+    features: ["14 módulos secuenciales", "Videos QR por módulo", "Fotografías técnicas", "Manual maestro", "Recursos descargables vinculados", "Boly™ por módulo"]
   }
 ];
 

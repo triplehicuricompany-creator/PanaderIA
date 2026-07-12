@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root { color-scheme: dark; }
+:root { color-scheme: dark; --font-cinzel: Georgia, "Times New Roman", serif; --font-inter: Arial, Helvetica, sans-serif; }
 html { scroll-behavior: smooth; }
 body { background: #080807; color: #fffaf0; }
 ::selection { background: #d7a84f; color: #080807; }

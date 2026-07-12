@@ -70,7 +70,7 @@ export default function HomePage() {
             {investorHighlights.map((item) => <p key={item} className="rounded-2xl bg-gold/10 p-5 text-cream/82">✦ {item}</p>)}
           </div>
           <div className="mt-8 flex flex-col gap-4 sm:flex-row">
-            <Link href="/cursos/bolillo-premium" className="rounded-full bg-gold px-7 py-3 text-center font-black text-black">Comprar Ahora</Link>
+            <Link href="/cursos/bolillo-premium" className="rounded-full bg-gold px-7 py-3 text-center font-black text-black">Ver Premium</Link>
             <Link href="/contacto" className="rounded-full border border-gold/50 px-7 py-3 text-center font-bold text-gold">Solicitar presentación</Link>
           </div>
         </div>
