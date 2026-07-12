@@ -1,9 +1,84 @@
 [
-  {"id":"formula-base","title":"Fórmula base del bolillo","type":"PDF","module":3,"href":"downloads/pdfs/formula-base-bolillo.md","tags":["receta","ingredientes","porcentaje"]},
-  {"id":"checklist-amasado","title":"Checklist de amasado profesional","type":"PDF","module":4,"href":"downloads/pdfs/checklist-amasado.md","tags":["amasado","gluten","ventana"]},
-  {"id":"tabla-fermentacion","title":"Tabla de fermentación por temperatura","type":"PDF","module":5,"href":"downloads/pdfs/tabla-fermentacion.md","tags":["fermentación","temperatura","tiempo"]},
-  {"id":"guia-corte","title":"Guía de corte profesional","type":"PDF","module":8,"href":"downloads/pdfs/guia-corte.md","tags":["corte","greña","navaja"]},
-  {"id":"manual-diagnostico","title":"Manual rápido de diagnóstico","type":"PDF","module":10,"href":"downloads/pdfs/manual-diagnostico.md","tags":["diagnóstico","errores","soluciones"]},
-  {"id":"video-amasado","title":"Video demo: prueba de ventana","type":"Video","module":4,"href":"videos/demo-amasado.html","tags":["video","amasado"]},
-  {"id":"video-corte","title":"Video demo: corte y greña","type":"Video","module":8,"href":"videos/demo-corte.html","tags":["video","corte"]}
+  {
+    "id": "formula-base",
+    "title": "Fórmula base del bolillo",
+    "type": "Imprimible Markdown",
+    "module": 3,
+    "href": "downloads/pdfs/formula-base-bolillo.md",
+    "tags": [
+      "receta",
+      "ingredientes",
+      "porcentaje"
+    ]
+  },
+  {
+    "id": "checklist-amasado",
+    "title": "Checklist de amasado profesional",
+    "type": "Imprimible Markdown",
+    "module": 4,
+    "href": "downloads/pdfs/checklist-amasado.md",
+    "tags": [
+      "amasado",
+      "gluten",
+      "ventana"
+    ]
+  },
+  {
+    "id": "tabla-fermentacion",
+    "title": "Tabla de fermentación por temperatura",
+    "type": "Imprimible Markdown",
+    "module": 5,
+    "href": "downloads/pdfs/tabla-fermentacion.md",
+    "tags": [
+      "fermentación",
+      "temperatura",
+      "tiempo"
+    ]
+  },
+  {
+    "id": "guia-corte",
+    "title": "Guía de corte profesional",
+    "type": "Imprimible Markdown",
+    "module": 8,
+    "href": "downloads/pdfs/guia-corte.md",
+    "tags": [
+      "corte",
+      "greña",
+      "navaja"
+    ]
+  },
+  {
+    "id": "manual-diagnostico",
+    "title": "Manual rápido de diagnóstico",
+    "type": "Imprimible Markdown",
+    "module": 10,
+    "href": "downloads/pdfs/manual-diagnostico.md",
+    "tags": [
+      "diagnóstico",
+      "errores",
+      "soluciones"
+    ]
+  },
+  {
+    "id": "video-amasado",
+    "title": "Video demo: prueba de ventana",
+    "type": "Video",
+    "module": 4,
+    "href": "videos/demo-amasado.html",
+    "tags": [
+      "video",
+      "amasado"
+    ]
+  },
+  {
+    "id": "video-corte",
+    "title": "Video demo: corte y greña",
+    "type": "Video",
+    "module": 8,
+    "href": "videos/demo-corte.html",
+    "tags": [
+      "video",
+      "corte"
+    ]
+  }
 ]
