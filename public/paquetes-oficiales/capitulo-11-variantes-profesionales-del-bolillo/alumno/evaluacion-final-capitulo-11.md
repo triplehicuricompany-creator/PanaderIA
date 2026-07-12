@@ -22,3 +22,24 @@ Entrega una nota breve donde demuestres que puedes documentar cambios de fórmul
 - Usa correctamente fotografías, diagramas, infografías, ilustraciones y video.
 - Integra QR, Boly™, caso real, evaluación y checklist.
 - Respeta la estructura reemplazable para la futura producción real del Chef Juanote™.
+
+## Refuerzo comercial profesional
+
+## Autoevaluación ampliada
+Marca tu nivel real antes de avanzar:
+
+| Competencia | Necesito repetir | En proceso | Listo para producción |
+|---|---:|---:|---:|
+| Explico el foco técnico: adaptar fórmula y proceso sin perder identidad, estructura ni control | [ ] | [ ] | [ ] |
+| Presento evidencia verificable: documentar cambios de fórmula, formado, fermentación y horneado por variante | [ ] | [ ] | [ ] |
+| Detecto errores frecuentes y propongo corrección | [ ] | [ ] | [ ] |
+| Conecto el capítulo con una panadería real | [ ] | [ ] | [ ] |
+
+## Preguntas de criterio profesional
+1. ¿Qué dato registrarías para repetir el resultado en otra tanda?
+2. ¿Qué error frecuente sería más costoso en producción y por qué?
+3. ¿Qué le mostrarías al Chef Juanote™ para demostrar aprendizaje real?
+4. ¿Qué pregunta concreta harías a Boly™ si el resultado no coincide con lo esperado?
+
+## Reto práctico de cierre
+Aplica el capítulo en una situación real o simulada y entrega una nota de 5 líneas con: condición inicial, decisión tomada, resultado observado, corrección posible y aprendizaje para producción.

@@ -27,3 +27,35 @@ El alumno deberá evaluar ingredientes por calidad, medición y comportamiento e
 ## Cierre publicable
 
 Este paquete queda listo para publicación comercial inicial y para reemplazar recursos IA por fotografías o videos reales del Chef Juanote™ conservando ids, rutas documentadas y criterios pedagógicos.
+
+## Refuerzo comercial profesional
+
+### Explicación técnica fortalecida
+Este capítulo debe estudiarse como una decisión profesional concreta: **entender la función de harina, agua, sal y levadura en sabor, estructura y fermentación**. El alumno no solo memoriza conceptos; aprende a observar señales, justificar decisiones y registrar resultados para repetirlos en una panadería real.
+
+### Método de estudio recomendado
+1. Lee el objetivo y localiza los activos oficiales del capítulo.
+2. Observa primero sin corregir: anota señales, medidas, tiempos o condiciones.
+3. Repite la práctica en lote pequeño y compara contra la evidencia mínima: **evaluar ingredientes por calidad, medición, temperatura y comportamiento esperado**.
+4. Cierra con una nota de mejora: qué mantendrías, qué ajustarías y qué dato faltó registrar.
+
+### Consejo práctico del Chef Juanote™
+> La receta no empieza en la báscula; empieza revisando si tus ingredientes están en condiciones.
+
+### Intervención natural de Boly™
+**Boly™:** Dime qué cambió: harina, agua, sal, levadura o temperatura. Así acotamos el problema.
+
+### Errores frecuentes y corrección
+| Error frecuente | Cómo corregirlo |
+|---|---|
+| Cambiar harina sin ajustar agua | Haz una prueba pequeña y ajusta hidratación de forma gradual. |
+| Mezclar sal y levadura directa demasiado pronto | Distribuye correctamente para proteger la actividad de la levadura. |
+
+### Recomendación para producción en panadería real
+Mantén lote, fecha, proveedor y absorción estimada de harina en una bitácora simple. Mantén esta recomendación ligada a la bitácora del curso para que el aprendizaje sea medible, repetible y apto para venta.
+
+### Ejercicio práctico ampliado
+Realiza una práctica corta, registra datos reales y responde: ¿qué señal confirma que el capítulo fue aplicado correctamente?, ¿qué cambiarías en la siguiente tanda?, ¿qué evidencia guardarías para revisión del Chef Juanote™?
+
+### Llamada a la acción
+Antes de avanzar al siguiente capítulo, completa checklist, evaluación y conversación con Boly™. Si no puedes explicar tu decisión en una frase clara, repite la práctica con menos variables.

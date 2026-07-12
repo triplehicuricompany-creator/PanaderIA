@@ -19,3 +19,18 @@
 - [ ] Expliqué el caso real del Chef Juanote™ con mis propias palabras.
 - [ ] Confirmé que puedo decidir cuándo empacar, exhibir o consumir según vapor residual.
 - [ ] Dejé identificados los recursos que podrán sustituirse por material real sin romper el paquete.
+
+## Refuerzo comercial profesional
+
+## Verificación técnica antes de cerrar
+- [ ] Puedo explicar con mis palabras el foco profesional del capítulo: estabilizar humedad, corteza y miga después del horno.
+- [ ] Registré evidencia práctica: enfriar, almacenar y entregar sin condensación ni reblandecimiento.
+- [ ] Identifiqué al menos un error frecuente y escribí cómo lo corregiría.
+- [ ] Apliqué el consejo del Chef Juanote™ en una decisión concreta.
+- [ ] Consulté a Boly™ con una pregunta específica, no genérica.
+- [ ] Dejé una recomendación útil para una panadería real: Diseña zona de enfriado ventilada y separada del flujo de masa cruda.
+
+## Criterio de consistencia
+- [ ] El nombre del capítulo coincide con la guía, evaluación y recurso de Boly™.
+- [ ] No avancé con contradicciones entre observación, práctica y evidencia.
+- [ ] La evidencia puede revisarse sin depender de archivos externos nuevos.

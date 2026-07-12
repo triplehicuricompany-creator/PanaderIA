@@ -19,3 +19,18 @@
 - [ ] Expliqué el caso real del Chef Juanote™ con mis propias palabras.
 - [ ] Confirmé que puedo usar árboles de diagnóstico para proponer una corrección verificable.
 - [ ] Dejé identificados los recursos que podrán sustituirse por material real sin romper el paquete.
+
+## Refuerzo comercial profesional
+
+## Verificación técnica antes de cerrar
+- [ ] Puedo explicar con mis palabras el foco profesional del capítulo: identificar causa raíz con evidencia y corregir sin improvisación.
+- [ ] Registré evidencia práctica: usar un árbol simple: señal, etapa probable, causa, corrección y prevención.
+- [ ] Identifiqué al menos un error frecuente y escribí cómo lo corregiría.
+- [ ] Apliqué el consejo del Chef Juanote™ en una decisión concreta.
+- [ ] Consulté a Boly™ con una pregunta específica, no genérica.
+- [ ] Dejé una recomendación útil para una panadería real: Convierte defectos frecuentes en bitácora semanal con responsable y acción preventiva.
+
+## Criterio de consistencia
+- [ ] El nombre del capítulo coincide con la guía, evaluación y recurso de Boly™.
+- [ ] No avancé con contradicciones entre observación, práctica y evidencia.
+- [ ] La evidencia puede revisarse sin depender de archivos externos nuevos.
