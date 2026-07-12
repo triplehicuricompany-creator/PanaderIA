@@ -3,112 +3,330 @@
     "id": 1,
     "slug": "introduccion",
     "name": "Introducción al mundo del bolillo",
-    "topics": ["bolillo", "curso", "estudio", "método", "Chef Juanote", "Boly"],
+    "topics": [
+      "bolillo",
+      "curso",
+      "estudio",
+      "método",
+      "Chef Juanote",
+      "Boly"
+    ],
     "contextHelp": "Explica qué hace diferente a un buen bolillo: corteza crujiente, migajón ligero, greña abierta, sabor equilibrado y proceso controlado.",
-    "recommendedResource": "Mapa de progreso del curso y guía de uso de PanaderIA™."
+    "recommendedResource": "Mapa de progreso del curso y guía de uso de PanaderIA™.",
+    "premiumPromise": "Arrancas con claridad: sabes qué vas a lograr, cómo estudiar y cómo pedir ayuda.",
+    "chefJuanoteNote": "Chef Juanote te pide observar antes de opinar: corteza, migajón, greña, aroma y mordida.",
+    "bolyCompanionNote": "Yo, Boly™, seré tu copiloto: si te atoras, dime síntoma + etapa y lo aterrizamos.",
+    "chapterReward": "Insignia Inicio con Masa Madre: ya conoces el mapa completo.",
+    "nextAction": "Descarga tu mapa de progreso, abre el dashboard y agenda tu primera práctica.",
+    "selfAssessment": "¿Identifiqué el estándar premium del bolillo y mi meta personal del curso?",
+    "practicePrompt": "Actúa como Boly™ y ayúdame a convertir mi meta de bolillo en un plan de práctica de 7 días."
   },
   {
     "id": 2,
     "slug": "herramientas",
     "name": "Herramientas esenciales y profesionales",
-    "topics": ["herramienta", "báscula", "charola", "navaja", "termómetro", "horno", "raspa"],
+    "topics": [
+      "herramienta",
+      "báscula",
+      "charola",
+      "navaja",
+      "termómetro",
+      "horno",
+      "raspa"
+    ],
     "contextHelp": "Ayuda a adaptar equipo doméstico o profesional, priorizando báscula, raspa, charolas, navaja segura, termómetro y rejillas.",
-    "recommendedResource": "Checklist de herramientas por nivel."
+    "recommendedResource": "Checklist de herramientas por nivel.",
+    "premiumPromise": "Preparas tu estación sin gastar de más y priorizas herramientas que sí cambian el resultado.",
+    "chefJuanoteNote": "La báscula no es lujo: es el volante del panadero profesional.",
+    "bolyCompanionNote": "Si no tienes equipo perfecto, te doy sustituciones seguras y criterios para decidir.",
+    "chapterReward": "Insignia Mesa Lista: tu estación ya trabaja a favor de la masa.",
+    "nextAction": "Marca tu checklist de herramientas y separa tu kit mínimo antes del módulo 3.",
+    "selfAssessment": "¿Tengo báscula, navaja segura, charola, raspa, rejilla y forma de medir temperatura?",
+    "practicePrompt": "Actúa como Chef Juanote y evalúa mi lista de herramientas para hacer bolillo en casa."
   },
   {
     "id": 3,
     "slug": "ingredientes",
     "name": "Ingredientes del bolillo",
-    "topics": ["harina", "agua", "levadura", "sal", "azúcar", "grasa", "hidratación", "receta", "fórmula"],
+    "topics": [
+      "harina",
+      "agua",
+      "levadura",
+      "sal",
+      "azúcar",
+      "grasa",
+      "hidratación",
+      "receta",
+      "fórmula"
+    ],
     "contextHelp": "Orienta sobre función de ingredientes, fórmula panadera, hidratación, temperatura de agua y ajustes por tipo de harina.",
-    "recommendedResource": "Fórmula base escalable y tabla de ingredientes."
+    "recommendedResource": "Fórmula base escalable y tabla de ingredientes.",
+    "premiumPromise": "Dominas la fórmula base y entiendes por qué cada gramo existe.",
+    "chefJuanoteNote": "La receta se copia; la fórmula se entiende y se puede escalar.",
+    "bolyCompanionNote": "Si tu harina absorbe distinto, ajustamos hidratación sin perder control.",
+    "chapterReward": "Insignia Fórmula Clara: ya puedes leer una masa desde sus ingredientes.",
+    "nextAction": "Descarga la fórmula base y calcula una tanda pequeña antes de amasar.",
+    "selfAssessment": "¿Puedo explicar función de harina, agua, levadura, sal, azúcar y grasa?",
+    "practicePrompt": "Actúa como Boly™ y revisa mi fórmula de bolillo con porcentajes panaderos."
   },
   {
     "id": 4,
     "slug": "amasado",
     "name": "Amasado profesional",
-    "topics": ["amasado", "gluten", "membrana", "ventana", "masa pegajosa", "masa lisa", "elasticidad"],
+    "topics": [
+      "amasado",
+      "gluten",
+      "membrana",
+      "ventana",
+      "masa pegajosa",
+      "masa lisa",
+      "elasticidad"
+    ],
     "contextHelp": "Guía el desarrollo de gluten, prueba de ventana, reposos, masa pegajosa y señales de amasado insuficiente o excesivo.",
-    "recommendedResource": "Guía de amasado y ficha de temperatura final de masa."
+    "recommendedResource": "Guía de amasado y ficha de temperatura final de masa.",
+    "premiumPromise": "Desarrollas gluten con método y reconoces cuándo parar.",
+    "chefJuanoteNote": "No maltrates la masa: tensión y reposo valen más que fuerza bruta.",
+    "bolyCompanionNote": "Descríbeme textura, temperatura y prueba de ventana; con eso ajustamos.",
+    "chapterReward": "Insignia Manos de Gluten: ya sabes escuchar elasticidad y resistencia.",
+    "nextAction": "Usa el checklist de amasado y registra temperatura final de masa.",
+    "selfAssessment": "¿Mi masa llegó a textura lisa, elástica y con ventana suficiente?",
+    "practicePrompt": "Actúa como Boly™ y diagnostica si mi amasado fue corto, correcto o excesivo."
   },
   {
     "id": 5,
     "slug": "fermentacion",
     "name": "Fermentación profesional",
-    "topics": ["fermentación", "sobrefermentada", "subfermentada", "volumen", "temperatura", "prueba de dedo", "levadura"],
+    "topics": [
+      "fermentación",
+      "sobrefermentada",
+      "subfermentada",
+      "volumen",
+      "temperatura",
+      "prueba de dedo",
+      "levadura"
+    ],
     "contextHelp": "Ayuda a leer volumen, aroma, burbujas, tiempo, temperatura y prueba de dedo para evitar subfermentación o sobrefermentación.",
-    "recommendedResource": "Tabla de tiempos por temperatura y registro de fermentación."
+    "recommendedResource": "Tabla de tiempos por temperatura y registro de fermentación.",
+    "premiumPromise": "Lees fermentación con ojos, nariz y tacto, no solo con reloj.",
+    "chefJuanoteNote": "El reloj orienta; la masa confirma.",
+    "bolyCompanionNote": "Dime temperatura ambiente y crecimiento: ahí encontramos el tiempo real.",
+    "chapterReward": "Insignia Ojo Fermentador: ya puedes decidir con señales.",
+    "nextAction": "Completa la tabla de fermentación durante tu próxima práctica.",
+    "selfAssessment": "¿Puedo distinguir subfermentación, punto óptimo y sobrefermentación?",
+    "practicePrompt": "Actúa como Chef Juanote y ayúdame a ajustar fermentación según temperatura ambiente."
   },
   {
     "id": 6,
     "slug": "formado",
     "name": "División, boleado y formado",
-    "topics": ["división", "boleado", "formado", "peso", "tensión", "costura", "pieza dispareja"],
+    "topics": [
+      "división",
+      "boleado",
+      "formado",
+      "peso",
+      "tensión",
+      "costura",
+      "pieza dispareja"
+    ],
     "contextHelp": "Explica pesado uniforme, tensión superficial, reposo previo, posición de manos, costura inferior y corrección de piezas flojas.",
-    "recommendedResource": "Guía de formado paso a paso y tabla de pesos."
+    "recommendedResource": "Guía de formado paso a paso y tabla de pesos.",
+    "premiumPromise": "Formas piezas parejas, tensas y listas para abrir bien en horno.",
+    "chefJuanoteNote": "Un bolillo flojo nace en la mesa, no en el horno.",
+    "bolyCompanionNote": "Si tu pieza se abre por abajo, revisamos tensión y costura.",
+    "chapterReward": "Insignia Pieza Firme: tus bolillos ya tienen estructura.",
+    "nextAction": "Pesa 6 piezas, fotografía costura y compara uniformidad.",
+    "selfAssessment": "¿Mis piezas tienen peso uniforme, tensión superficial y costura inferior?",
+    "practicePrompt": "Actúa como Boly™ y corrige mi formado según estas fotos/descripción."
   },
   {
     "id": 7,
     "slug": "horneado",
     "name": "Horneado profesional",
-    "topics": ["horneado", "horno", "vapor", "temperatura", "corteza", "color", "Maillard", "oven spring"],
+    "topics": [
+      "horneado",
+      "horno",
+      "vapor",
+      "temperatura",
+      "corteza",
+      "color",
+      "Maillard",
+      "oven spring"
+    ],
     "contextHelp": "Orienta sobre precalentado, vapor, expansión inicial, color, corteza, migajón y adaptación a horno doméstico o profesional.",
-    "recommendedResource": "Tabla de temperaturas y guía de vapor doméstico."
+    "recommendedResource": "Tabla de temperaturas y guía de vapor doméstico.",
+    "premiumPromise": "Controlas calor, vapor y color para lograr corteza crujiente.",
+    "chefJuanoteNote": "Horno tímido, bolillo tímido: precalienta con intención.",
+    "bolyCompanionNote": "Cuéntame temperatura, vapor y color final; vemos expansión y corteza.",
+    "chapterReward": "Insignia Horno Maestro: ya gobiernas la expansión inicial.",
+    "nextAction": "Prepara tu protocolo de vapor y anota color, tiempo y temperatura.",
+    "selfAssessment": "¿Mi horno estaba precalentado y usé vapor durante la expansión inicial?",
+    "practicePrompt": "Actúa como Chef Juanote y evalúa mi protocolo de horneado doméstico."
   },
   {
     "id": 8,
     "slug": "corte",
     "name": "Corte profesional del bolillo",
-    "topics": ["corte", "greña", "navaja", "ángulo", "profundidad", "revienta", "no abre"],
+    "topics": [
+      "corte",
+      "greña",
+      "navaja",
+      "ángulo",
+      "profundidad",
+      "revienta",
+      "no abre"
+    ],
     "contextHelp": "Ayuda a revisar momento, navaja, ángulo, profundidad, longitud, fermentación y vapor cuando el bolillo no abre bien.",
-    "recommendedResource": "Guía de corte profesional y tabla de errores de greñado."
+    "recommendedResource": "Guía de corte profesional y tabla de errores de greñado.",
+    "premiumPromise": "Ejecutas un corte seguro, limpio y con greña expresiva.",
+    "chefJuanoteNote": "La navaja no corrige una fermentación equivocada; solo revela lo que traes.",
+    "bolyCompanionNote": "Si no abrió, revisamos juntos fermentación, ángulo, profundidad y vapor.",
+    "chapterReward": "Insignia Greña Valiente: tu corte ya cuenta una historia profesional.",
+    "nextAction": "Practica 3 cortes en piezas de prueba y compara apertura.",
+    "selfAssessment": "¿Mi corte tuvo ángulo, profundidad, longitud y momento adecuados?",
+    "practicePrompt": "Actúa como Boly™ y diagnostica por qué mi greña no abrió."
   },
   {
     "id": 9,
     "slug": "enfriado",
     "name": "Enfriado y conservación",
-    "topics": ["enfriado", "conservación", "rejilla", "humedad", "empaque", "congelar", "descongelar", "corteza blanda"],
+    "topics": [
+      "enfriado",
+      "conservación",
+      "rejilla",
+      "humedad",
+      "empaque",
+      "congelar",
+      "descongelar",
+      "corteza blanda"
+    ],
     "contextHelp": "Explica redistribución de humedad, uso de rejilla, empaque, conservación mismo día, congelación y reactivación de corteza.",
-    "recommendedResource": "Guía de conservación y protocolo de congelación."
+    "recommendedResource": "Guía de conservación y protocolo de congelación.",
+    "premiumPromise": "Conservas textura y corteza sin arruinar el trabajo del horno.",
+    "chefJuanoteNote": "Pan caliente en bolsa es corteza rendida.",
+    "bolyCompanionNote": "Si se ablandó, dime cuándo empacaste y cómo enfriaste.",
+    "chapterReward": "Insignia Corteza Viva: sabes proteger el crujido.",
+    "nextAction": "Enfría en rejilla y prueba un método de reactivación de corteza.",
+    "selfAssessment": "¿Dejé salir vapor interno antes de empacar o congelar?",
+    "practicePrompt": "Actúa como Chef Juanote y diseña mi protocolo de conservación para venta diaria."
   },
   {
     "id": 10,
     "slug": "diagnostico",
     "name": "Diagnóstico, errores y solución de problemas",
-    "topics": ["diagnóstico", "error", "denso", "pálido", "duro", "crudo", "plano", "solución", "causa"],
+    "topics": [
+      "diagnóstico",
+      "error",
+      "denso",
+      "pálido",
+      "duro",
+      "crudo",
+      "plano",
+      "solución",
+      "causa"
+    ],
     "contextHelp": "Conduce al alumno por síntoma, etapa probable, causa raíz, corrección inmediata y prevención para el siguiente intento.",
-    "recommendedResource": "Manual de diagnóstico y árbol de decisiones."
+    "recommendedResource": "Manual de diagnóstico y árbol de decisiones.",
+    "premiumPromise": "Conviertes errores en decisiones técnicas para el siguiente intento.",
+    "chefJuanoteNote": "Un error bien observado vale más que diez recetas nuevas.",
+    "bolyCompanionNote": "Trae síntoma, etapa y datos: yo te devuelvo causa probable y acción.",
+    "chapterReward": "Insignia Detective del Migajón: ya diagnosticas como profesional.",
+    "nextAction": "Abre el manual de diagnóstico y documenta tu último defecto.",
+    "selfAssessment": "¿Puedo conectar síntoma, causa raíz, corrección inmediata y prevención?",
+    "practicePrompt": "Actúa como Boly™ y hazme un árbol de decisiones para este defecto de bolillo."
   },
   {
     "id": 11,
     "slug": "variantes",
     "name": "Variantes profesionales del bolillo",
-    "topics": ["variante", "integral", "semillas", "nuez", "arándano", "ajo", "cebolla", "romero", "menta", "gourmet"],
+    "topics": [
+      "variante",
+      "integral",
+      "semillas",
+      "nuez",
+      "arándano",
+      "ajo",
+      "cebolla",
+      "romero",
+      "menta",
+      "gourmet"
+    ],
     "contextHelp": "Ayuda a ajustar hidratación, amasado, fermentación y horneado al agregar inclusiones o crear variantes premium.",
-    "recommendedResource": "Recetario de variantes y tabla de ajustes."
+    "recommendedResource": "Recetario de variantes y tabla de ajustes.",
+    "premiumPromise": "Creas variantes premium sin romper la estructura del bolillo.",
+    "chefJuanoteNote": "Primero domina el bolillo base; luego presume creatividad.",
+    "bolyCompanionNote": "Dime inclusión y porcentaje: ajustamos agua, gluten y fermentación.",
+    "chapterReward": "Insignia Creador Premium: ya puedes diseñar sabores con control.",
+    "nextAction": "Elige una variante y define ajuste de hidratación antes de probar.",
+    "selfAssessment": "¿Sé cómo afecta cada inclusión a hidratación, amasado y fermentación?",
+    "practicePrompt": "Actúa como Chef Juanote y valida mi variante gourmet antes de producirla."
   },
   {
     "id": 12,
     "slug": "produccion",
     "name": "Producción profesional completa",
-    "topics": ["producción", "lote", "mise en place", "higiene", "productividad", "calidad", "merma"],
+    "topics": [
+      "producción",
+      "lote",
+      "mise en place",
+      "higiene",
+      "productividad",
+      "calidad",
+      "merma"
+    ],
     "contextHelp": "Integra preparación, pesado, amasado, reposos, formado, fermentación, corte, horneado, enfriado, conservación y control final.",
-    "recommendedResource": "Checklist maestro de producción y ficha de control de lote."
+    "recommendedResource": "Checklist maestro de producción y ficha de control de lote.",
+    "premiumPromise": "Integras todo en una producción ordenada, repetible y vendible.",
+    "chefJuanoteNote": "La calidad no aparece al final; se controla desde el mise en place.",
+    "bolyCompanionNote": "Si tu lote salió irregular, revisamos flujo, tiempos, pesos y merma.",
+    "chapterReward": "Insignia Lote Profesional: ya puedes repetir calidad.",
+    "nextAction": "Completa la ficha de lote y detecta un punto de mejora.",
+    "selfAssessment": "¿Mi producción tuvo flujo, higiene, pesos, tiempos y control final?",
+    "practicePrompt": "Actúa como Boly™ y audita mi flujo de producción de bolillo."
   },
   {
     "id": 13,
     "slug": "certificacion",
     "name": "Certificación profesional del panadero",
-    "topics": ["certificación", "examen", "rúbrica", "evidencia", "evaluación", "certificado"],
+    "topics": [
+      "certificación",
+      "examen",
+      "rúbrica",
+      "evidencia",
+      "evaluación",
+      "certificado"
+    ],
     "contextHelp": "Prepara al alumno para demostrar competencias técnicas, prácticas, diagnósticas, higiene, productividad y evidencia final.",
-    "recommendedResource": "Manual de certificación y rúbricas oficiales."
+    "recommendedResource": "Manual de certificación y rúbricas oficiales.",
+    "premiumPromise": "Preparas evidencias claras para demostrar competencia panadera.",
+    "chefJuanoteNote": "Certificarse no es decorar un diploma; es probar criterio.",
+    "bolyCompanionNote": "Te ayudo a ordenar fotos, notas y evidencias antes de enviar.",
+    "chapterReward": "Insignia Evidencia Lista: ya puedes defender tu proceso.",
+    "nextAction": "Reúne fotos de fórmula, masa, formado, corte, horneado y producto final.",
+    "selfAssessment": "¿Mis evidencias muestran proceso, criterio, higiene y resultado final?",
+    "practicePrompt": "Actúa como evaluador PanaderIA™ y revisa mi evidencia de certificación."
   },
   {
     "id": 14,
     "slug": "negocio",
     "name": "Futuro, negocio y expansión del panadero",
-    "topics": ["negocio", "venta", "precio", "costo", "restaurante", "supermercado", "escuela", "empaque"],
+    "topics": [
+      "negocio",
+      "venta",
+      "precio",
+      "costo",
+      "restaurante",
+      "supermercado",
+      "escuela",
+      "empaque"
+    ],
     "contextHelp": "Orienta sobre costeo básico, presentación, venta, clientes B2B, empaque, contenido y crecimiento profesional.",
-    "recommendedResource": "Plantilla de costos y plan de primera venta."
+    "recommendedResource": "Plantilla de costos y plan de primera venta.",
+    "premiumPromise": "Transformas tu bolillo en oferta, precio y primera venta profesional.",
+    "chefJuanoteNote": "Si no sabes cuánto cuesta, no sabes cuánto ganas.",
+    "bolyCompanionNote": "Te ayudo a aterrizar costo, presentación y mensaje para vender.",
+    "chapterReward": "Insignia Primera Venta: tu aprendizaje ya tiene salida comercial.",
+    "nextAction": "Calcula costo por pieza y redacta tu oferta para un cliente real.",
+    "selfAssessment": "¿Tengo costo, precio, empaque, argumento de venta y siguiente cliente?",
+    "practicePrompt": "Actúa como Chef Juanote y mejora mi propuesta comercial de bolillo premium."
   }
 ]

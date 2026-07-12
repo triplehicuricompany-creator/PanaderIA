@@ -26,6 +26,9 @@ export function buildBolyAnswer(question, modules, diagnostics) {
   const diagnostic = detectDiagnostic(question, diagnostics);
   const intro = `¡Qué tal, camarada! Vamos paso a paso. Esto lo conecto con el módulo ${module.id}: ${module.name}.`;
   const guidance = module.contextHelp;
+  const chefNote = module.chefJuanoteNote ? `Chef Juanote diría: ${module.chefJuanoteNote}` : 'Chef Juanote diría: primero observamos, luego corregimos.';
+  const nextAction = module.nextAction ? `Siguiente acción premium: ${module.nextAction}` : `Recurso sugerido: ${module.recommendedResource}.`;
+  const reward = module.chapterReward ? `Logro del capítulo: ${module.chapterReward}` : '';
   const followUp = contextualQuestions(module.slug);
   const motivation = motivationalMessage(question);
 
@@ -36,11 +39,14 @@ export function buildBolyAnswer(question, modules, diagnostics) {
       text: [
         intro,
         guidance,
+        chefNote,
         `Síntoma probable: ${diagnostic.symptom}.`,
         `Causas posibles: ${diagnostic.probableCauses.join(', ')}.`,
         `Pasos recomendados: ${diagnostic.steps.map((step, index) => `${index + 1}) ${step}`).join(' ')}`,
         `Para afinar: ${followUp.join(' ')}`,
         `Recurso sugerido: ${module.recommendedResource}.`,
+        nextAction,
+        reward,
         motivation
       ].join('\n\n')
     };
@@ -52,9 +58,12 @@ export function buildBolyAnswer(question, modules, diagnostics) {
     text: [
       intro,
       guidance,
+      chefNote,
       'Necesito algunos datos para diagnosticar mejor: receta, tiempos, temperatura, textura, volumen y una foto si la tienes.',
       `Para afinar: ${followUp.join(' ')}`,
       `Recurso sugerido: ${module.recommendedResource}.`,
+      nextAction,
+      reward,
       motivation
     ].join('\n\n')
   };
