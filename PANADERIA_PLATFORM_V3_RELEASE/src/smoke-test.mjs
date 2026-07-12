@@ -34,4 +34,9 @@ assert.ok(searchLibrary('fermentación temperatura', knowledge).length > 0);
 assert.ok(searchLibrary('prueba de ventana', knowledge).some((entry) => ['Lección','Contenido del curso','Biblioteca técnica'].includes(entry.kind)));
 assert.match(buildBolyAnswer('mi masa quedó pegajosa', knowledge).text, /Boly|camarada|módulo|Lección sugerida|Recurso recomendado/i);
 
+const appSource = fs.readFileSync(new URL('./app.js', import.meta.url), 'utf8');
+assert.match(appSource, /Acompañamiento inteligente/);
+assert.match(appSource, /resourcesForModule/);
+assert.match(appSource, /Siguiente paso/);
+
 console.log('PANADERIA_PLATFORM_V3_RELEASE smoke test passed');

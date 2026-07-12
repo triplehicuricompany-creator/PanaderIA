@@ -33,27 +33,30 @@ function route() {
   $$('.nav-link').forEach((link) => link.classList.toggle('active', link.dataset.route === view));
   $('#mainNav').classList.remove('open');
 }
-function layout(title, content) { $('#app').innerHTML = `<section class="view"><div class="section-title"><p class="eyebrow">PanaderIA™ Platform V3 Release</p><h1>${title}</h1></div>${content}</section>`; }
+function layout(title, content) { $('#app').innerHTML = `<section class="view"><div class="section-title"><p class="eyebrow">PanaderIA™ Curso Maestro Premium</p><h1>${title}</h1></div>${content}</section>`; }
 
 function home() {
   const completed = Object.values(state.progress).filter(Boolean).length;
-  layout('Primer lanzamiento comercial funcional.', `
-    <div class="hero-grid"><div class="panel hero-panel"><span class="pill">V3 Release · comercial · estable</span><h2>Curso, libro, Boly™, tienda, alumnos y certificación conectados.</h2><p>PanaderIA™ V3 Release integra biblioteca técnica, buscador global, videos por módulo, descargas, carrito, pagos preparados, dashboard de alumno y certificado desbloqueable por progreso.</p><div class="actions"><a class="btn primary" href="#course">Entrar al curso</a><a class="btn" href="#store">Comprar productos</a><a class="btn" href="#boly">Preguntar a Boly™</a></div></div><div class="panel launch-card"><div class="bread"></div><strong>${completed}/${state.modules.length}</strong><span>módulos completados</span></div></div>
+  layout('Curso Maestro de Bolillo con acompañamiento premium.', `
+    <div class="hero-grid"><div class="panel hero-panel"><span class="pill">Ruta guiada · práctica · certificable</span><h2>Domina el bolillo paso a paso con Chef Juanote, Boly™ y recursos listos para practicar.</h2><p>Una experiencia estructurada para principiantes y panaderos en crecimiento: capítulos claros, checkpoints de calidad, recomendaciones según tu avance, biblioteca técnica, videos, descargas organizadas y certificación desbloqueable por progreso real.</p><div class="actions"><a class="btn primary" href="#course">Continuar mi ruta</a><a class="btn" href="#dashboard">Ver mi avance</a><a class="btn" href="#boly">Pedir ayuda a Boly™</a></div></div><div class="panel launch-card"><div class="bread"></div><strong>${completed}/${state.modules.length}</strong><span>módulos completados</span><p class="mentor-note">Chef Juanote: “Un buen bolillo se construye por señales, no por prisa. Avanza con calma y registra cada lote.”</p></div></div>
     <div class="metric-grid"><div class="metric"><strong>${state.modules.length}</strong><span>Módulos técnicos</span></div><div class="metric"><strong>${state.technicalLibrary.length}</strong><span>Biblias indexadas</span></div><div class="metric"><strong>${state.resources.length}</strong><span>Descargas</span></div><div class="metric"><strong>${cartTotal().items}</strong><span>Productos en carrito</span></div></div>`);
 }
 
 function course() {
-  const cards = state.courseContent.map((module) => {
+  const completed = Object.values(state.progress).filter(Boolean).length;
+  const nextModule = state.courseContent.find((module) => !state.progress[module.id]) || state.courseContent.at(-1);
+  const cards = state.courseContent.map((module, index) => {
     const experience = module.studentExperience || {};
     const productionBlock = experience.visualPrompt ? `<h4>Producción comercial</h4><ul class="compact-list"><li><strong>Prompt visual:</strong> ${experience.visualPrompt}</li><li><strong>Prompt 3D:</strong> ${experience.prompt3D}</li><li><strong>Video:</strong> ${experience.videoPrompt}</li><li><strong>Narración:</strong> ${experience.narrationPrompt}</li><li><strong>Kit:</strong> ${experience.downloadableKit}</li><li><strong>QR:</strong> ${experience.qrInstruction}</li></ul><h4>Error frecuente</h4><p>${experience.commonMistake}</p><h4>Autoevaluación</h4><ul>${(experience.selfAssessment || []).map((item)=>`<li>${item}</li>`).join('')}</ul><p><strong>Acción:</strong> ${experience.callToAction}</p>` : '';
-    return `<article class="module-card ${state.progress[module.id] ? 'done' : ''}"><img class="ref-img" src="${module.referenceImage}" alt="Referencia visual ${module.title}"><div class="module-number">${String(module.id).padStart(2, '0')}</div><h3>${module.title}</h3><p>${module.summary}</p><details><summary>Lecciones, ejercicios y examen</summary><ol>${module.lessons.map((lesson)=>`<li><strong>${lesson.title}</strong><br><span>${lesson.content}</span><br><em>${lesson.chefTip}</em><br><small>${lesson.bolyPrompt}</small></li>`).join('')}</ol><h4>Ejercicios</h4><ul>${module.exercises.map((item)=>`<li>${item}</li>`).join('')}</ul><h4>Caso real</h4><p>${module.realCase}</p><h4>Checklist</h4><ul>${module.checklist.map((item)=>`<li>${item}</li>`).join('')}</ul><h4>Examen</h4><ol>${module.exam.questions.map((q)=>`<li>${q}</li>`).join('')}</ol><p><strong>FAQ:</strong> ${module.faq}</p>${productionBlock}</details><div class="actions"><button class="btn small" data-complete="${module.id}">${state.progress[module.id] ? 'Completado' : 'Marcar avance'}</button>${module.downloads.map((href)=>`<a class="btn small" href="${href}" download>Descargar</a>`).join('')}</div></article>`;
+    const transition = nextChapterTransition(module, state.courseContent[index + 1]);
+    return `<article class="module-card ${state.progress[module.id] ? 'done' : ''}"><img class="ref-img" src="${module.referenceImage}" alt="Referencia visual ${module.title}"><div class="module-number">${String(module.id).padStart(2, '0')}</div><h3>${module.title}</h3><p>${module.summary}</p>${mentorBlock(module)}<div class="quick-summary"><strong>Lista rápida del capítulo</strong><ul>${module.checklist.slice(0,3).map((item)=>`<li>${item}</li>`).join('')}</ul></div><details><summary>Lecciones, ejercicios y examen</summary><ol>${module.lessons.map((lesson)=>`<li><strong>${lesson.title}</strong><br><span>${lesson.content}</span><br><em>${lesson.chefTip}</em><br><small>${lesson.bolyPrompt}</small></li>`).join('')}</ol><h4>Ejercicios</h4><ul>${module.exercises.map((item)=>`<li>${item}</li>`).join('')}</ul><h4>Caso real</h4><p>${module.realCase}</p><h4>Checklist</h4><ul>${module.checklist.map((item)=>`<li>${item}</li>`).join('')}</ul><h4>Examen</h4><ol>${module.exam.questions.map((q)=>`<li>${q}</li>`).join('')}</ol><p><strong>FAQ:</strong> ${module.faq}</p>${productionBlock}<div class="chapter-transition"><strong>Siguiente paso</strong><p>${transition}</p></div></details><div class="actions"><button class="btn small" data-complete="${module.id}">${state.progress[module.id] ? 'Completado' : 'Marcar avance'}</button>${module.downloads.map((href)=>`<a class="btn small" href="${href}" download>Descargar</a>`).join('')}</div></article>`;
   }).join('');
-  layout('Curso Maestro de Bolillo completo', `<div class="module-grid">${cards}</div>`);
+  layout('Curso Maestro de Bolillo completo', `<div class="panel course-companion"><span class="pill">Acompañamiento inteligente</span><h2>${courseGreeting(completed)}</h2><p>${smartRecommendation(completed, nextModule)}</p><div class="actions"><a class="btn primary" href="#boly">Preguntar a Boly™ sobre mi práctica</a><a class="btn" href="${nextModule.downloads?.[0] || '#library'}" download>Descargar guía sugerida</a></div></div><div class="module-grid">${cards}</div>`);
   $$('[data-complete]').forEach((button) => button.addEventListener('click', () => { state.progress[button.dataset.complete] = !state.progress[button.dataset.complete]; save(); course(); }));
 }
 
 function library() {
-  layout('Biblioteca y buscador inteligente global', `<div class="search-box"><input id="search" placeholder="Busca en módulos, biblias técnicas, PDFs, videos, tienda y diagnósticos..." autofocus><button class="btn primary" id="searchBtn">Buscar</button></div><div id="results" class="resource-grid"></div>`);
+  layout('Biblioteca y recursos descargables premium', `${resourceCollections()}<div class="search-box"><input id="search" placeholder="Busca en módulos, biblias técnicas, PDFs, videos, tienda y diagnósticos..." autofocus><button class="btn primary" id="searchBtn">Buscar</button></div><div id="results" class="resource-grid"></div>`);
   $('#search').addEventListener('input', renderSearch);
   $('#searchBtn').addEventListener('click', renderSearch);
   renderSearch();
@@ -73,7 +76,7 @@ function videos() {
 }
 
 function boly() {
-  layout('Boly™ conectado a la biblioteca técnica', `<div class="chat-shell"><div id="chatLog" class="chat-log"><div class="bot">¡Qué tal, camarada! Ya puedo consultar módulos, diagnósticos, recursos, videos y biblias técnicas. Cuéntame qué pasó.</div></div><form id="chatForm" class="chat-form"><input id="question" placeholder="Ej. mi bolillo queda denso / no abre / corteza blanda"><button class="btn primary">Enviar</button></form></div>`);
+  layout('Boly™ conectado a la biblioteca técnica', `<div class="chat-shell"><div id="chatLog" class="chat-log"><div class="bot">¡Qué tal, camarada! Soy Boly™. Estoy contigo durante todo el curso: dime tu capítulo, qué observaste en masa/greña/corteza y te sugiero el siguiente ajuste. Ya puedo consultar módulos, diagnósticos, recursos, videos y biblias técnicas. Cuéntame qué pasó.</div></div><form id="chatForm" class="chat-form"><input id="question" placeholder="Ej. mi bolillo queda denso / no abre / corteza blanda"><button class="btn primary">Enviar</button></form></div>`);
   $('#chatForm').addEventListener('submit', (event) => { event.preventDefault(); const question = $('#question').value.trim(); if (!question) return; const answer = buildBolyAnswer(question, knowledge()); $('#chatLog').insertAdjacentHTML('beforeend', `<div class="user">${escapeHtml(question)}</div><div class="bot">${escapeHtml(answer.text).replaceAll('\n', '<br>')}</div>`); $('#question').value = ''; $('#chatLog').scrollTop = $('#chatLog').scrollHeight; });
 }
 
@@ -81,7 +84,33 @@ function dashboard() {
   if (!state.user) return login();
   const completed = Object.values(state.progress).filter(Boolean).length;
   const percent = Math.round((completed / state.modules.length) * 100);
-  layout(`Dashboard de ${escapeHtml(state.user.name)}`, `<div class="dashboard-grid"><div class="panel"><h2>${percent}% de avance</h2><progress value="${completed}" max="${state.modules.length}"></progress><p>${completed} de ${state.modules.length} módulos completados.</p><a class="btn primary" href="#course">Continuar curso</a></div><div class="panel"><h2>Descargas rápidas</h2>${state.resources.slice(0,4).map((r)=>`<a class="download-link" href="${r.href}" download>${r.title}</a>`).join('')}</div><div class="panel"><h2>Carrito</h2><p>${cartTotal().items} productos · ${money(cartTotal().total)}</p><a class="btn" href="#store">Ir a tienda</a></div><div class="panel"><h2>Certificación</h2><p>${certificationStatus(completed)}</p><a class="btn" href="#certificates">Ver certificado</a></div></div>`);
+  const nextModule = state.courseContent.find((module) => !state.progress[module.id]) || state.courseContent.at(-1);
+  layout(`Dashboard de ${escapeHtml(state.user.name)}`, `<div class="panel course-companion"><span class="pill">Boly™ recomienda</span><h2>${courseGreeting(completed)}</h2><p>${smartRecommendation(completed, nextModule)}</p></div><div class="dashboard-grid"><div class="panel"><h2>${percent}% de avance</h2><progress value="${completed}" max="${state.modules.length}"></progress><p>${completed} de ${state.modules.length} módulos completados.</p><a class="btn primary" href="#course">Continuar curso</a></div><div class="panel"><h2>Descargas para tu siguiente práctica</h2>${resourcesForModule(nextModule.id).slice(0,4).map((r)=>`<a class="download-link" href="${r.href}" download>${r.title}</a>`).join('')}</div><div class="panel"><h2>Carrito</h2><p>${cartTotal().items} productos · ${money(cartTotal().total)}</p><a class="btn" href="#store">Ir a tienda</a></div><div class="panel"><h2>Certificación</h2><p>${certificationStatus(completed)}</p><a class="btn" href="#certificates">Ver certificado</a></div></div>`);
+}
+
+function courseGreeting(completed) {
+  if (completed === 0) return 'Empieza con base firme: observa, anota y compara.';
+  if (completed < 4) return 'Vas construyendo criterio panadero capítulo por capítulo.';
+  if (completed < 10) return 'Ya puedes diagnosticar señales: ahora busca consistencia.';
+  if (completed < state.modules.length) return 'Estás en tramo profesional: cuida evidencia, tiempos y repetibilidad.';
+  return 'Ruta completada: prepara tu evidencia final y sigue practicando por lotes.';
+}
+function smartRecommendation(completed, module) {
+  const resource = resourcesForModule(module.id)[0];
+  return `Siguiente capítulo sugerido: ${module.title}. Antes de marcar avance, revisa su lista rápida, completa una evidencia práctica y descarga ${resource ? resource.title : 'la guía del módulo'}. Chef Juanote: “Si una señal no sale clara, repite una variable a la vez.”`;
+}
+function mentorBlock(module) {
+  const lesson = module.lessons[0];
+  return `<div class="mentor-note"><strong>Boly™ te acompaña:</strong> empieza por ${lesson.title.toLowerCase()} y pregúntame cuando una señal no coincida. <br><strong>Chef Juanote:</strong> ${lesson.chefTip.replace('Consejo de Chef Juanote: ', '')}</div>`;
+}
+function nextChapterTransition(module, next) {
+  if (!next) return 'Cierra la ruta preparando evidencia final, bitácora y revisión de calidad antes de certificarte.';
+  return `Cuando completes ${module.title}, pasa a ${next.title}: conserva tus notas porque serán la base de la siguiente práctica.`;
+}
+function resourcesForModule(moduleId) { return state.resources.filter((resource) => resource.module === moduleId || resource.module === 0); }
+function resourceCollections() {
+  const essentials = state.resources.filter((resource) => ['pack-recursos-panaderia','formula-base','checklist-amasado','tabla-fermentacion','guia-corte','manual-diagnostico'].includes(resource.id));
+  return `<div class="panel"><span class="pill">Orden sugerido</span><h2>Descarga primero lo esencial y luego los recursos por capítulo.</h2><div class="resource-rail">${essentials.map((r)=>`<a class="download-link" href="${r.href}" download><strong>${r.title}</strong><small>${r.type} · Módulo ${r.module || 'General'}</small></a>`).join('')}</div></div>`;
 }
 
 function certificationStatus(completed) {
