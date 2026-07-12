@@ -1,1107 +1,387 @@
-# MANUAL MAESTRO OFICIAL DE PANADERIA™
+# Manual Maestro de PanaderIA™
 
-**Documento rector del ecosistema PanaderIA™**  
-**Versión:** 1.0  
-**Uso:** Máxima fuente de verdad para libros, cursos, aplicaciones, inteligencias artificiales, sitio web, academias, certificaciones, asistentes virtuales, colaboradores y futuros proyectos PanaderIA™.
+## 1. Visión del proyecto
 
----
+PanaderIA™ nace para convertirse en el ecosistema educativo digital de referencia para aprender panadería de forma clara, práctica, humana y escalable. Su visión es democratizar el conocimiento panadero combinando oficio, pedagogía e inteligencia artificial para que cualquier persona, sin importar su experiencia previa, pueda comprender los fundamentos, practicar con confianza y avanzar hacia resultados consistentes.
 
-## 1. Declaración oficial
+El proyecto debe funcionar como una escuela viva: un sistema capaz de crecer con nuevos cursos, asistentes especializados, recursos descargables, artículos, videos, publicaciones y futuras marcas hermanas como PastelerIA™, ChocolaterIA™, PizzaIA™ y otras líneas culinarias.
 
-El Manual Maestro Oficial de PanaderIA™ es el documento central que unifica la filosofía, identidad, arquitectura, pedagogía, conocimiento técnico, producción multimedia, certificación, estrategia comercial y visión futura del ecosistema PanaderIA™.
+La visión a largo plazo es construir una plataforma donde el alumno no solo reciba información, sino acompañamiento estructurado, motivación constante y herramientas aplicables a su contexto real: cocina doméstica, emprendimiento, panadería profesional, formación continua o exploración creativa.
 
-Este manual existe para evitar que PanaderIA™ crezca de forma improvisada. Cada libro, curso, video, recurso descargable, aplicación, módulo de IA, certificación, página web, academia derivada o herramienta educativa debe consultar este documento como referencia superior.
+## 2. Misión
 
-PanaderIA™ no es únicamente una colección de recetas. Es un sistema educativo, técnico, humano, visual, tecnológico y comercial diseñado para convertir el conocimiento panadero en formación clara, práctica, confiable y escalable.
+La misión de PanaderIA™ es enseñar panadería de manera accesible, ordenada y memorable, transformando conceptos técnicos en experiencias de aprendizaje simples, visuales y accionables.
 
-> **Declaración central:** PanaderIA™ existe para transformar el conocimiento panadero en educación profesional accesible, humana y moderna, sin perder el respeto por el oficio.
+PanaderIA™ debe ayudar a cada alumno a:
 
----
+- Entender el porqué detrás de cada técnica.
+- Practicar con instrucciones claras y verificables.
+- Evitar errores comunes mediante explicaciones preventivas.
+- Desarrollar criterio propio para ajustar recetas, procesos y resultados.
+- Sentirse acompañado por una voz experta, cercana y motivadora.
+- Convertir el aprendizaje en una ruta progresiva, no en contenido aislado.
 
-## 2. Historia y propósito de PanaderIA™
+## 3. Filosofía de enseñanza
 
-PanaderIA™ nace de una necesidad clara: preservar, ordenar y enseñar conocimiento panadero de forma profesional, sencilla y útil para personas que desean aprender desde cero, mejorar su oficio, emprender, capacitar equipos o certificar competencias.
+La enseñanza en PanaderIA™ se basa en la idea de que la panadería se aprende mejor cuando se combinan teoría, práctica, observación y repetición guiada. Cada explicación debe responder tres preguntas esenciales:
 
-El punto de partida es el Curso Maestro de Bolillo, porque el bolillo representa una pieza fundamental de la panadería mexicana. Dominar el bolillo obliga a comprender ingredientes, gluten, fermentación, formado, corte, horneado, enfriado, diagnóstico, producción y calidad. Por eso el bolillo es la primera gran escuela de PanaderIA™.
+1. ¿Qué está haciendo el alumno?
+2. ¿Por qué lo está haciendo?
+3. ¿Cómo puede saber si lo hizo bien?
 
-### 2.1 Propósito educativo
+La filosofía educativa prioriza la claridad antes que la complejidad. Los términos técnicos deben explicarse sin perder rigor. Las recetas no deben presentarse como fórmulas mágicas, sino como sistemas comprensibles donde cada ingrediente, temperatura, tiempo y técnica cumple una función.
 
-PanaderIA™ busca que cualquier persona pueda:
+El tono debe ser paciente, cálido y profesional. PanaderIA™ enseña sin intimidar, corrige sin juzgar y motiva sin prometer resultados irreales.
 
-- Comprender la panadería desde sus fundamentos.
-- Aprender con lenguaje claro.
-- Practicar con método.
-- Diagnosticar errores.
-- Producir con calidad.
-- Desarrollar confianza.
-- Certificar competencias.
-- Convertir conocimiento en oficio, negocio o crecimiento personal.
+## 4. Valores
 
-### 2.2 Propósito tecnológico
+Los valores centrales del ecosistema PanaderIA™ son:
 
-PanaderIA™ integra educación con inteligencia artificial, contenidos multimedia, QR dinámicos, bibliotecas digitales, certificaciones verificables y asistentes educativos como Boly™. La tecnología no reemplaza al maestro: amplifica su conocimiento y acompaña al alumno.
+- **Claridad:** todo contenido debe ser fácil de seguir, incluso para principiantes.
+- **Rigor:** la información debe ser técnicamente correcta y estar alineada con buenas prácticas panaderas.
+- **Calidez:** el alumno debe sentirse acompañado, no evaluado de forma fría.
+- **Practicidad:** cada recurso debe ayudar a ejecutar una acción concreta.
+- **Consistencia:** la experiencia debe mantener una identidad común en todos los formatos.
+- **Progresión:** el aprendizaje debe avanzar por niveles, de lo simple a lo complejo.
+- **Inclusión:** el contenido debe considerar distintos ritmos, contextos y objetivos de aprendizaje.
+- **Creatividad responsable:** se fomenta experimentar, pero siempre desde fundamentos sólidos.
+- **Autonomía:** el objetivo final es que el alumno desarrolle criterio, no dependencia.
+- **Escalabilidad:** cada decisión debe permitir futuras expansiones del ecosistema.
 
-### 2.3 Propósito cultural
+## 5. Público objetivo
 
-PanaderIA™ protege y moderniza el conocimiento panadero en español, especialmente el saber práctico transmitido por maestros como Chef Juanote. El objetivo es que el oficio no se pierda, sino que se enseñe mejor, se documente mejor y llegue a más personas.
+PanaderIA™ está diseñado para varios perfiles de alumno:
 
----
+### Principiantes absolutos
 
-## 3. Filosofía de enseñanza de Chef Juanote
+Personas que nunca han hecho pan o que han tenido intentos fallidos. Necesitan explicaciones simples, pasos concretos, lenguaje cercano y señales claras para reconocer avances o errores.
 
-Chef Juanote representa la experiencia, la paciencia, el oficio y la sabiduría práctica acumulada durante años de trabajo real. Su voz debe sentirse cercana, firme, motivadora y profundamente humana.
+### Aficionados en crecimiento
 
-### 3.1 Principios de enseñanza
+Personas que ya hornean en casa y desean mejorar textura, sabor, fermentación, formado, greñado, conservación y presentación. Buscan más fundamentos y mejores métodos.
 
-1. **Enseñar sin humillar.**  
-   El alumno debe sentirse acompañado, no juzgado.
+### Emprendedores gastronómicos
 
-2. **Explicar el porqué de cada paso.**  
-   La memoria sin comprensión produce errores repetidos.
+Personas interesadas en vender pan, organizar producción, calcular costos, estandarizar recetas y construir una oferta básica. Necesitan contenido práctico, repetible y orientado a resultados.
 
-3. **Convertir errores en aprendizaje.**  
-   Un error bien observado enseña más que una receta repetida sin entender.
+### Profesionales o estudiantes culinarios
 
-4. **Hablar con lenguaje sencillo.**  
-   La técnica debe explicarse de forma clara sin perder precisión.
+Personas con experiencia que buscan reforzar conceptos, acceder a rutas organizadas o explorar nuevas aplicaciones. Requieren precisión técnica y profundidad progresiva.
 
-5. **Respetar la práctica.**  
-   Nadie domina panadería solo leyendo; hay que tocar masa, observar y repetir.
+### Educadores, creadores y aliados
 
-6. **Transmitir oficio.**  
-   El alumno debe aprender a pensar como panadero, no solo seguir instrucciones.
+Personas que desean usar el ecosistema como referencia metodológica para crear cursos, recursos o contenidos alineados con la marca.
 
-### 3.2 Voz de Chef Juanote
+## 6. Personalidad de Chef Juanote™
 
-La voz de Chef Juanote debe ser:
+Chef Juanote™ es la figura guía principal de PanaderIA™. Representa la experiencia, la paciencia y la autoridad cercana.
 
-- Cálida.
-- Directa.
-- Práctica.
-- Honesta.
-- Motivadora.
-- Con ejemplos reales.
-- Con frases memorables.
-- Con respeto por el alumno.
+Su personalidad debe mantener estas características:
 
-### 3.3 Frases guía
+- **Experto sin arrogancia:** domina la técnica, pero explica con humildad.
+- **Cercano y humano:** habla como un mentor que está en la cocina con el alumno.
+- **Paciente:** repite, aclara y anticipa dudas frecuentes.
+- **Práctico:** siempre conecta la teoría con lo que el alumno debe observar o hacer.
+- **Motivador:** celebra avances pequeños y normaliza los errores como parte del proceso.
+- **Ordenado:** estructura los pasos de manera lógica y progresiva.
+- **Honesto:** no promete atajos falsos ni resultados perfectos sin práctica.
+- **Memorable:** usa ejemplos cotidianos, analogías culinarias y frases cálidas que refuercen la identidad del proyecto.
 
-- “No hay mejor maestro que el error mismo.”
-- “Nunca has fracasado si ya has comenzado.”
-- “El pan te habla; aprende a escucharlo.”
-- “La receta te guía, pero tus manos aprenden.”
-- “Un panadero profesional no adivina: observa, pesa y registra.”
+Chef Juanote™ debe ser la voz de autoridad pedagógica en cursos, videos, guías, artículos técnicos, retroalimentación y mensajes de acompañamiento.
 
----
+## 7. Personalidad de Boly™
 
-## 4. Filosofía de Boly™ como asistente educativo
+Boly™ es el compañero de aprendizaje de PanaderIA™. Representa curiosidad, simpatía y apoyo emocional durante el proceso.
 
-Boly™ es el asistente educativo de PanaderIA™. Su función es acompañar, explicar, preguntar, motivar y ayudar al alumno a navegar el conocimiento oficial.
+Su personalidad debe mantener estas características:
 
-### 4.1 Propósito de Boly™
+- **Curioso:** hace preguntas que el alumno probablemente también se haría.
+- **Amigable:** aporta ligereza sin restar seriedad al aprendizaje.
+- **Motivador:** anima al alumno cuando algo parece difícil.
+- **Observador:** ayuda a notar detalles importantes en masas, fermentaciones y resultados.
+- **Simple:** traduce conceptos complejos en recordatorios fáciles.
+- **Divertido con medida:** puede usar humor suave, pero nunca distraer del objetivo educativo.
+- **Compañero, no protagonista:** acompaña a Chef Juanote™ y al alumno; no sustituye la enseñanza principal.
 
-Boly™ existe para:
+Boly™ debe utilizarse especialmente en recordatorios, cápsulas breves, mensajes de ánimo, microexplicaciones, recursos visuales y momentos donde conviene reducir la carga cognitiva.
 
-- Reducir miedo del alumno.
-- Explicar conceptos técnicos con ejemplos sencillos.
-- Hacer preguntas que despierten curiosidad.
-- Recordar pasos y checklists.
-- Ayudar a diagnosticar con datos.
-- Motivar sin bajar el estándar.
-- Dirigir al alumno hacia documentación oficial.
+## 8. Principios de diseño educativo
 
-### 4.2 Personalidad de Boly™
+Todo contenido de PanaderIA™ debe diseñarse con los siguientes principios:
 
-Boly™ debe ser:
+1. **Aprendizaje progresivo:** iniciar con fundamentos antes de avanzar a técnicas complejas.
+2. **Objetivos claros:** cada lección, recurso o actividad debe indicar qué aprenderá el alumno.
+3. **Aplicación inmediata:** cada explicación debe conducir a una práctica, decisión u observación.
+4. **Retroalimentación preventiva:** anticipar errores antes de que ocurran.
+5. **Señales observables:** explicar cómo luce, huele, se siente o se comporta una masa en cada etapa.
+6. **Lenguaje accesible:** evitar tecnicismos sin explicación.
+7. **Repetición inteligente:** reforzar conceptos clave en distintos formatos.
+8. **Contexto realista:** considerar equipos domésticos, tiempos limitados y variaciones de harina, clima o experiencia.
+9. **Evaluación práctica:** medir comprensión con actividades aplicadas, no solo preguntas teóricas.
+10. **Transferencia:** enseñar de forma que el alumno pueda aplicar lo aprendido a nuevas recetas.
 
-- Amigable.
-- Claro.
-- Divertido sin ser infantil.
-- Respetuoso.
-- Curioso.
-- Paciente.
-- Útil.
-- Técnicamente responsable.
+## 9. Arquitectura del ecosistema PanaderIA™
 
-### 4.3 Límites de Boly™
+El ecosistema PanaderIA™ debe organizarse como una plataforma modular compuesta por:
 
-Boly™ no debe:
+### Cursos principales
 
-- Inventar información.
-- Contradecir la documentación oficial.
-- Prometer resultados garantizados.
-- Sustituir evaluaciones certificadas.
-- Dar respuestas peligrosas de higiene o seguridad.
-- Hacer afirmaciones médicas o legales sin base.
-- Ocultar incertidumbre.
+Rutas estructuradas por nivel, tema u objetivo. Cada curso debe tener una promesa clara, módulos secuenciales, recursos de apoyo y cierre práctico.
 
-### 4.4 Formato ideal de ayuda de Boly™
+### Módulos educativos
 
-1. Entender la pregunta.
-2. Pedir datos si faltan.
-3. Explicar de forma sencilla.
-4. Relacionar con el módulo oficial.
-5. Dar pasos prácticos.
-6. Motivar al alumno.
-7. Recomendar registrar resultados.
+Unidades temáticas dentro de cada curso. Cada módulo debe cubrir una parte específica del aprendizaje: ingredientes, amasado, fermentación, formado, horneado, conservación, costos, etc.
 
----
+### Lecciones
 
-## 5. Valores oficiales de PanaderIA™
+Piezas individuales de contenido. Pueden ser videos, artículos, actividades prácticas, demostraciones, cuestionarios o guías descargables.
 
-Los valores oficiales guían decisiones pedagógicas, técnicas, comerciales y tecnológicas.
+### Recursos descargables
 
-### 5.1 Calidad
+Materiales de apoyo como fichas técnicas, checklists, tablas de temperatura, hojas de práctica, plantillas de costos, glosarios y resúmenes.
 
-Nunca publicar contenido incompleto, improvisado o confuso. La calidad protege la confianza.
+### Asistentes IA especializados
 
-### 5.2 Claridad
+Herramientas conversacionales que acompañan al alumno en tareas concretas: diagnóstico de masas, planificación de producción, adaptación de recetas, cálculo de hidratación o resolución de dudas.
 
-Todo concepto debe explicarse de forma comprensible para principiantes sin sacrificar precisión técnica.
+### Biblioteca de conocimiento
 
-### 5.3 Honestidad
+Repositorio de artículos, definiciones, guías rápidas, preguntas frecuentes y referencias técnicas.
 
-No vender falsas promesas. No exagerar resultados. No ocultar límites.
+### Comunidad y comunicación
 
-### 5.4 Respeto por el oficio
+Espacios para publicaciones, retos, anuncios, historias de alumnos, consejos rápidos y contenido de continuidad.
 
-La panadería es técnica, cultura, trabajo y experiencia. Debe tratarse con dignidad.
+### Marcas hermanas
 
-### 5.5 Innovación responsable
+Extensiones del modelo hacia otras disciplinas culinarias, manteniendo la lógica pedagógica y de marca: PastelerIA™, ChocolaterIA™, PizzaIA™, entre otras.
 
-Usar IA, multimedia y tecnología para mejorar el aprendizaje, no para reemplazar el criterio humano.
+## 10. Cómo deben construirse futuros cursos
 
-### 5.6 Inclusión educativa
+Todo nuevo curso debe construirse siguiendo esta estructura mínima:
 
-Crear materiales para principiantes, panaderos, estudiantes, emprendedores, supervisores, escuelas y empresas.
+1. **Nombre del curso:** claro, específico y alineado con la marca.
+2. **Promesa de aprendizaje:** qué será capaz de hacer el alumno al finalizar.
+3. **Nivel:** principiante, intermedio, avanzado o especializado.
+4. **Perfil del alumno:** para quién es y para quién no es.
+5. **Requisitos previos:** conocimientos, herramientas o ingredientes necesarios.
+6. **Mapa de módulos:** secuencia lógica de aprendizaje.
+7. **Objetivos por módulo:** resultados concretos esperados.
+8. **Lecciones por módulo:** videos, textos, prácticas y recursos.
+9. **Actividades prácticas:** ejercicios que consoliden el aprendizaje.
+10. **Criterios de éxito:** señales para evaluar si el resultado es correcto.
+11. **Errores comunes:** problemas probables y cómo corregirlos.
+12. **Recursos descargables:** materiales de apoyo listos para usar.
+13. **Evaluación o proyecto final:** aplicación integral de lo aprendido.
+14. **Ruta posterior:** recomendación de siguiente curso, módulo o práctica.
 
-### 5.7 Mejora continua
+Cada curso debe sentirse como un viaje acompañado, no como una colección de contenidos independientes.
 
-Todo contenido puede mejorar con revisión técnica, feedback de alumnos y experiencia real.
-
----
-
-## 6. Identidad visual
-
-La identidad visual de PanaderIA™ debe comunicar calidez, profesionalismo, tradición e innovación.
-
-### 6.1 Principios visuales
-
-- Claridad sobre saturación.
-- Calidez sobre frialdad corporativa.
-- Profesionalismo sobre improvisación.
-- Consistencia sobre ocurrencias aisladas.
-- Legibilidad sobre decoración excesiva.
-
-### 6.2 Elementos visuales principales
-
-- Logo PanaderIA™.
-- Identidad de Chef Juanote.
-- Identidad de Boly™.
-- Paleta cálida inspirada en pan, horno, harina y madera.
-- Tipografías legibles.
-- Fotografías reales y limpias.
-- Diagramas simples.
-- Iconografía consistente.
-
-### 6.3 Uso visual de Chef Juanote
-
-Chef Juanote debe aparecer como maestro confiable: cercano, profesional, con presencia humana y autoridad de experiencia.
-
-### 6.4 Uso visual de Boly™
-
-Boly™ debe aparecer como asistente simpático y educativo, nunca como distractor. Sus poses y expresiones deben apoyar aprendizaje, motivación o claridad.
-
----
-
-## 7. Identidad pedagógica
-
-PanaderIA™ enseña con estructura, repetición inteligente y acompañamiento.
-
-### 7.1 Método pedagógico base
-
-1. Explicar.
-2. Demostrar.
-3. Practicar.
-4. Equivocarse.
-5. Diagnosticar.
-6. Corregir.
-7. Repetir.
-8. Dominar.
-
-### 7.2 Estructura estándar de módulo
+## 11. Estándares para nuevos módulos
 
 Cada módulo debe incluir:
 
-- Objetivo.
-- Introducción.
-- Explicación técnica.
-- Demostración.
-- Errores frecuentes.
-- Soluciones.
-- Consejos de Chef Juanote.
-- Intervenciones de Boly™.
+- Título claro y orientado al resultado.
+- Breve introducción que explique su importancia.
+- Objetivo general del módulo.
+- Lista de aprendizajes concretos.
+- Secuencia recomendada de lecciones.
+- Conceptos clave definidos en lenguaje simple.
+- Actividad práctica o demostración.
+- Errores frecuentes y soluciones.
+- Resumen final con puntos accionables.
+- Recurso descargable o guía de apoyo cuando sea pertinente.
+- Conexión explícita con el módulo anterior y el siguiente.
+
+Los módulos deben evitar saltos conceptuales. Si un tema requiere conocimientos previos, estos deben explicarse o enlazarse antes de avanzar.
+
+## 12. Estándares para recursos descargables
+
+Los recursos descargables deben ser útiles, visualmente limpios y fáciles de aplicar durante la práctica.
+
+Deben cumplir con estos estándares:
+
+- Tener un título claro y específico.
+- Incluir el logotipo o identidad correspondiente cuando aplique.
+- Usar lenguaje breve, directo y accionable.
+- Organizar la información en tablas, listas o pasos.
+- Evitar saturación visual.
+- Incluir unidades de medida consistentes.
+- Señalar si el recurso es para principiantes, intermedios o avanzados.
+- Indicar en qué momento del curso debe utilizarse.
+- Ser imprimibles o consultables en pantalla.
+- Mantener coherencia de tono con Chef Juanote™ y Boly™.
+
+Ejemplos recomendados:
+
+- Checklist de mise en place.
+- Tabla de hidratación.
+- Guía de fermentación visual.
+- Plantilla de costos.
+- Ficha de evaluación de pan terminado.
+- Glosario básico de panadería.
+
+## 13. Estándares para videos
+
+Los videos deben ser claros, dinámicos y pedagógicos. Cada video debe tener un propósito definido y evitar contenido de relleno.
+
+Estructura recomendada:
+
+1. **Apertura breve:** qué se aprenderá y por qué importa.
+2. **Contexto:** cuándo se usa la técnica o concepto.
+3. **Demostración paso a paso:** acciones visibles y ordenadas.
+4. **Explicación del porqué:** fundamento técnico en lenguaje accesible.
+5. **Señales de control:** qué observar para saber si va bien.
+6. **Errores comunes:** qué evitar y cómo corregir.
+7. **Cierre:** resumen y siguiente acción del alumno.
+
+Estándares de producción:
+
+- Priorizar buena iluminación, audio claro y encuadres útiles.
+- Mostrar manos, textura de masas y puntos críticos de cerca.
+- Usar textos en pantalla solo para reforzar ideas clave.
+- Mantener ritmo ágil sin omitir pasos importantes.
+- Incluir medidas, tiempos y temperaturas cuando sean necesarios.
+- Evitar música o efectos que distraigan de la explicación.
+- Mantener una voz cálida, confiable y ordenada.
+
+## 14. Estándares para artículos
+
+Los artículos deben ampliar, reforzar o complementar el aprendizaje. No deben ser textos genéricos; deben resolver una duda concreta o profundizar un tema útil.
+
+Cada artículo debe incluir:
+
+- Título orientado a una pregunta, problema o beneficio.
+- Introducción breve que conecte con la necesidad del alumno.
+- Desarrollo organizado con subtítulos claros.
+- Explicaciones técnicas traducidas a lenguaje accesible.
+- Ejemplos prácticos o comparaciones cuando ayuden a entender.
+- Errores comunes relacionados con el tema.
+- Recomendaciones accionables.
+- Cierre con resumen o siguiente paso.
+
+Los artículos deben mantener rigor técnico, tono cercano y coherencia con la personalidad de Chef Juanote™. Boly™ puede aparecer en recuadros, recordatorios o notas rápidas.
+
+## 15. Estándares para publicaciones
+
+Las publicaciones en redes, comunidad o canales de comunicación deben reforzar el aprendizaje y la identidad del ecosistema.
+
+Tipos de publicaciones recomendadas:
+
+- Consejos rápidos.
+- Mitos y verdades.
+- Errores comunes.
+- Mini retos.
+- Antes y después.
 - Preguntas frecuentes.
-- Checklist.
-- Evaluación.
-- Recursos descargables.
-- Ideas multimedia.
+- Historias de alumnos.
+- Frases de motivación panadera.
+- Invitaciones a cursos o recursos.
 
-### 7.3 Estilo de explicación
+Cada publicación debe:
 
-Usar:
+- Tener una idea central clara.
+- Usar lenguaje breve y cercano.
+- Mantener coherencia visual y verbal.
+- Incluir una acción sugerida cuando corresponda.
+- Evitar exageraciones o promesas irreales.
+- Aportar valor incluso cuando tenga intención promocional.
 
-- Lenguaje sencillo.
-- Ejemplos cotidianos.
-- Comparaciones visuales.
-- Casos reales.
-- Consejos prácticos.
-- Motivación constante.
-- Diagnóstico paso a paso.
+## 16. Estándares para futuras IA especializadas
 
----
+Toda IA especializada del ecosistema debe tener un propósito definido, límites claros y personalidad coherente con la marca madre.
 
-## 8. Arquitectura completa del conocimiento
+Estándares mínimos:
 
-La arquitectura de conocimiento de PanaderIA™ se organiza en capas.
+- Nombre alineado con la familia de marca.
+- Especialidad concreta y fácil de entender.
+- Alcance de uso claramente definido.
+- Tono pedagógico, respetuoso y práctico.
+- Capacidad para explicar el porqué, no solo dar respuestas.
+- Reconocimiento de incertidumbre cuando falte información.
+- Recomendación de consultar fuentes profesionales en temas de seguridad alimentaria, salud, normativas o decisiones comerciales críticas.
+- Integración con cursos, recursos y rutas de aprendizaje.
+- Registro de principios, personalidad y límites en un documento maestro propio.
 
-### 8.1 Capa 1: Manual Maestro
+Ejemplos de futuras IA:
 
-Este documento gobierna el ecosistema completo.
+- **PastelerIA™:** asistente para técnicas de pastelería, cremas, masas dulces y decoración.
+- **ChocolaterIA™:** asistente para chocolate, templado, bombonería y conservación.
+- **PizzaIA™:** asistente para masas de pizza, fermentación, horneado y estilos regionales.
+- **CosteIA™:** asistente para costos, márgenes, escandallos y planificación productiva.
 
-### 8.2 Capa 2: Biblias oficiales
+Ninguna IA debe reemplazar el criterio profesional en asuntos legales, sanitarios, médicos o financieros. Debe funcionar como apoyo educativo y operativo.
 
-Documentos especializados:
+## 17. Flujo completo desde que un alumno llega hasta que termina el curso
 
-- Biblia visual.
-- Biblia de IA.
-- Biblia de Boly™.
-- Biblia de Chef Juanote.
-- Biblia técnica del bolillo.
-- Biblias por módulo.
-- Biblia pedagógica.
-- Biblia de calidad.
-- Biblia de certificación.
+El recorrido ideal del alumno debe seguir estas etapas:
 
-### 8.3 Capa 3: Cursos
+### 1. Descubrimiento
 
-Cursos estructurados con módulos, clases, videos, evaluaciones y recursos.
+El alumno conoce PanaderIA™ mediante una publicación, recomendación, artículo, video, recurso gratuito o búsqueda directa. El mensaje inicial debe comunicar claramente qué problema se resuelve y qué transformación se ofrece.
 
-### 8.4 Capa 4: Libros y ebooks
+### 2. Orientación
 
-Material editorial derivado del conocimiento oficial.
+El alumno identifica qué curso, módulo o recurso se adapta a su nivel. La plataforma debe ayudarlo a elegir sin confusión mediante descripciones claras, niveles y recomendaciones.
 
-### 8.5 Capa 5: Multimedia
+### 3. Bienvenida
 
-Fotografías, videos, diagramas, infografías, animaciones, QR y assets.
+El alumno recibe una introducción cálida de Chef Juanote™ y, cuando aplique, de Boly™. Se explican la ruta, los materiales necesarios, la forma de practicar y las expectativas realistas.
 
-### 8.6 Capa 6: IA y asistentes
+### 4. Preparación
 
-Boly™ y futuras IA especializadas consultan documentación oficial y ayudan al alumno.
+Antes de iniciar la práctica, el alumno revisa ingredientes, herramientas, tiempos, vocabulario básico y criterios de seguridad. Aquí deben usarse checklists y guías descargables.
 
-### 8.7 Capa 7: Certificación
+### 5. Aprendizaje guiado
 
-Evaluación formal del dominio del alumno.
+El alumno avanza por lecciones ordenadas que combinan explicación, demostración y práctica. Cada paso debe tener señales observables y objetivos claros.
 
----
+### 6. Práctica activa
 
-## 9. Resumen de los 14 módulos del Curso Maestro de Bolillo
+El alumno realiza recetas, ejercicios o diagnósticos. Debe contar con instrucciones para documentar resultados, comparar avances y detectar errores.
 
-### Módulo 1 – Introducción al bolillo
+### 7. Soporte y corrección
 
-Presenta historia, importancia cultural, filosofía de Chef Juanote, bienvenida de Boly™ y visión completa del curso.
+El alumno consulta recursos, IA especializada, preguntas frecuentes o comunidad para resolver dudas. La retroalimentación debe ser concreta, amable y orientada a la siguiente acción.
 
-### Módulo 2 – Herramientas
+### 8. Consolidación
 
-Explica báscula, bowls, raspa, navajas, charolas, hornos, fermentadoras, mesas y herramientas opcionales.
+Al finalizar cada módulo, el alumno repasa conceptos clave, completa una actividad de cierre y verifica su comprensión mediante criterios prácticos.
 
-### Módulo 3 – Ingredientes
+### 9. Proyecto final
 
-Desarrolla harina, agua, levaduras, sal, azúcar, grasas, mejorantes e ingredientes opcionales.
+El alumno aplica lo aprendido en una elaboración completa o desafío integrador. El proyecto debe permitir evaluar técnica, organización y criterio.
 
-### Módulo 4 – Amasado profesional
+### 10. Cierre del curso
 
-Enseña gluten, temperatura, textura, elasticidad, extensibilidad, amasado manual y mecánico.
+El alumno recibe un resumen de logros, recomendaciones de mejora, recursos para seguir practicando y una ruta sugerida de continuidad.
 
-### Módulo 5 – Fermentación profesional
+### 11. Continuidad
 
-Explica fermentación, CO₂, sabor, aroma, temperatura, humedad, sobrefermentación y subfermentación.
+Después del curso, el alumno puede avanzar a otro nivel, unirse a retos, consultar artículos, usar asistentes IA o explorar marcas hermanas del ecosistema.
 
-### Módulo 6 – División, boleado y formado
+## 18. Reglas para mantener consistencia en toda la plataforma
 
-Establece técnicas para piezas uniformes, tensión superficial, reposo, formado y diagnóstico táctil.
+Para preservar una experiencia coherente, todo contenido, producto o expansión de PanaderIA™ debe seguir estas reglas:
 
-### Módulo 7 – Horneado profesional
+1. **Mantener la voz de marca:** clara, cálida, experta y práctica.
+2. **Respetar la jerarquía de personajes:** Chef Juanote™ guía; Boly™ acompaña.
+3. **Explicar siempre el porqué:** no limitarse a instrucciones mecánicas.
+4. **Usar estructura pedagógica:** objetivo, explicación, práctica, señales, errores y cierre.
+5. **Evitar promesas absolutas:** la panadería depende de práctica, ingredientes, equipo y ambiente.
+6. **Ser consistente con unidades:** definir gramos, porcentajes, temperaturas y tiempos de forma ordenada.
+7. **Nombrar niveles con claridad:** principiante, intermedio, avanzado o especializado.
+8. **Diseñar para reutilización:** cada recurso debe poder integrarse en cursos, artículos o asistentes.
+9. **Documentar nuevas expansiones:** toda marca hermana o IA especializada debe tener lineamientos propios alineados con este manual.
+10. **Cuidar la seguridad alimentaria:** incluir advertencias y buenas prácticas cuando correspondan.
+11. **Actualizar contenidos periódicamente:** revisar recetas, datos técnicos, enlaces, recursos y recomendaciones.
+12. **Mantener identidad visual coherente:** colores, tipografía, iconografía y composición deben reforzar la marca.
+13. **Priorizar experiencia del alumno:** cada decisión debe facilitar comprensión, práctica y continuidad.
+14. **Evitar contenido aislado:** conectar publicaciones, videos, artículos y recursos con rutas de aprendizaje.
+15. **Conservar tono humano:** la tecnología debe amplificar la enseñanza, no hacerla fría o impersonal.
 
-Desarrolla expansión inicial, corteza, migajón, Maillard, caramelización, vapor, hornos y diagnóstico.
+## Cierre
 
-### Módulo 8 – Corte profesional
+El Manual Maestro de PanaderIA™ es la referencia central para crear, evaluar y expandir el ecosistema. Cualquier nuevo curso, recurso, publicación, asistente IA o marca hermana debe consultar este documento antes de definirse.
 
-Explica momento correcto, navaja, ángulo, profundidad, longitud, greña, vapor y fermentación.
-
-### Módulo 9 – Enfriado y conservación
-
-Enseña redistribución de humedad, estabilización del migajón, corteza final, empaque, congelación y vida útil.
-
-### Módulo 10 – Diagnóstico y solución de problemas
-
-Integra síntomas, causas raíz, errores por etapa, soluciones, prevención y ejercicios de diagnóstico.
-
-### Módulo 11 – Variantes profesionales
-
-Enseña desarrollo de variantes integrales, con semillas, nuez, arándanos, ajo, cebolla, hierbas, premium y gourmet.
-
-### Módulo 12 – Producción profesional completa
-
-Integra todo en un flujo único de trabajo: mise en place, lotes, productividad, higiene, calidad y registros.
-
-### Módulo 13 – Certificación profesional del panadero
-
-Define sistema de evaluación, rúbricas, niveles, requisitos, evidencias, recertificación e instructores.
-
-### Módulo 14 – Futuro, negocio y expansión del panadero
-
-Debe orientar al alumno hacia emprendimiento, mejora continua, especialización, operación comercial y crecimiento profesional.
-
----
-
-## 10. Relación entre libros, cursos, videos, recursos e IA
-
-PanaderIA™ debe reutilizar el conocimiento oficial en distintos formatos sin fragmentarlo.
-
-### 10.1 Libro
-
-El libro desarrolla narrativa, explicación profunda, ejemplos, fotografías, diagramas y reflexiones.
-
-### 10.2 Curso
-
-El curso convierte el contenido en módulos, clases, demostraciones, evaluaciones y práctica guiada.
-
-### 10.3 Video
-
-El video muestra técnica, textura, movimiento, errores y correcciones que no siempre se comprenden en texto.
-
-### 10.4 Recursos descargables
-
-Los recursos convierten conocimiento en acción: checklists, tablas, fichas, plantillas y hojas de registro.
-
-### 10.5 IA
-
-Boly™ ayuda a encontrar, explicar, recordar, diagnosticar y practicar usando el conocimiento oficial.
-
-### 10.6 QR
-
-Los QR conectan libro, curso, video, biblioteca y recursos actualizables.
-
----
-
-## 11. Estándares de calidad
-
-Todo contenido PanaderIA™ debe ser útil, claro, práctico y profesional.
-
-### 11.1 Libros
-
-Deben tener:
-
-- Ortografía impecable.
-- Explicaciones paso a paso.
-- Fotografías profesionales.
-- Diagramas claros.
-- QR a videos.
-- Checklists.
-- Preguntas frecuentes.
-- Consejos de Chef Juanote.
-- Intervenciones de Boly™.
-
-### 11.2 Videos
-
-Deben tener:
-
-- Audio claro.
-- Iluminación adecuada.
-- Tomas útiles.
-- Explicaciones tranquilas.
-- Ejemplos reales.
-- Duración adecuada.
-- Identidad visual consistente.
-
-### 11.3 IA
-
-Debe:
-
-- Consultar documentación oficial.
-- No inventar.
-- Pedir datos cuando falten.
-- Reconocer incertidumbre.
-- Priorizar seguridad e higiene.
-- Respetar tono oficial.
-
-### 11.4 Certificación
-
-Debe ser clara, exigente, justa, documentada y verificable.
-
----
-
-## 12. Sistema de producción multimedia
-
-La producción multimedia transforma conocimiento en experiencias de aprendizaje.
-
-### 12.1 Flujo general
-
-1. Idea.
-2. Validación técnica.
-3. Guion pedagógico.
-4. Lista de tomas.
-5. Producción visual.
-6. Revisión técnica.
-7. Revisión pedagógica.
-8. Revisión visual.
-9. Edición.
-10. Publicación.
-11. Actualización.
-
-### 12.2 Fotografías
-
-Deben mostrar:
-
-- Ingredientes.
-- Herramientas.
-- Procesos.
-- Texturas.
-- Errores.
-- Soluciones.
-- Producto final.
-
-### 12.3 Diagramas
-
-Deben simplificar conceptos invisibles: gluten, fermentación, vapor, humedad, calor, causa raíz y flujo de producción.
-
-### 12.4 Videos
-
-Deben demostrar técnica real y permitir que el alumno observe manos, masa, tiempos, texturas y decisiones.
-
----
-
-## 13. Sistema de certificación
-
-La certificación oficial de PanaderIA™ verifica dominio completo.
-
-### 13.1 Componentes
-
-- Teoría.
-- Práctica.
-- Diagnóstico.
-- Higiene.
-- Organización.
-- Producto final.
-- Evidencias.
-- Rúbricas.
-
-### 13.2 Niveles
-
-- Fundamentos.
-- Panadero certificado.
-- Panadero avanzado.
-- Instructor certificado.
-
-### 13.3 Certificados
-
-Deben incluir:
-
-- Nombre del alumno.
-- Curso.
-- Nivel.
-- Fecha.
-- Folio.
-- Evaluador.
-- QR de verificación.
-- Vigencia si aplica.
-
----
-
-## 14. Estrategia comercial
-
-PanaderIA™ no vende cursos: vende transformación, conocimiento, acompañamiento y confianza.
-
-### 14.1 Modelos de ingreso
-
-- Curso estándar.
-- Curso premium.
-- Biblioteca.
-- Certificaciones.
-- Asesorías con Chef Juanote.
-- Recursos descargables.
-- Licencias para empresas.
-- Licencias para escuelas.
-- Licencias para cadenas de autoservicio.
-
-### 14.2 Principio comercial
-
-Toda oferta debe corresponder a valor real. La venta nunca debe prometer resultados sin práctica o sin esfuerzo.
-
-### 14.3 Mercado objetivo
-
-- Principiantes.
-- Panaderos.
-- Estudiantes.
-- Emprendedores.
-- Supervisores.
-- Escuelas.
-- Autoservicios.
-- Restaurantes.
-- Hoteles.
-
----
-
-## 15. Roadmap de crecimiento
-
-### Fase 1 – Nacimiento de PanaderIA™
-
-Sitio web, Curso Maestro de Bolillo, biblioteca, Boly™, Chef Juanote, primeros alumnos y primeras ventas.
-
-### Fase 2 – Plataforma educativa avanzada
-
-Aplicación móvil, exámenes, certificaciones, sistema premium, videos, biblioteca multimedia y actualizaciones.
-
-### Fase 3 – PastelerIA™
-
-Curso Maestro de Pastelería, nuevo asistente IA y biblioteca especializada.
-
-### Fase 4 – ChocolaterIA™
-
-Curso Maestro de Chocolate y asistente especializado.
-
-### Fase 5 – Academia internacional
-
-Cursos en varios idiomas, licencias empresariales, escuelas y cadenas de autoservicio.
-
-### Fase 6 – IA integrada
-
-Boly™ conversacional, entrenador virtual, seguimiento del alumno, evaluación automática y recomendaciones personalizadas.
-
----
-
-## 16. Organización de archivos
-
-La organización de archivos debe permitir escalabilidad y evitar duplicados.
-
-### 16.1 Documentos raíz
-
-Los documentos estratégicos y biblias oficiales viven en la raíz del repositorio o en carpetas oficiales definidas.
-
-### 16.2 Assets públicos
-
-Los assets públicos deben organizarse por categoría:
-
-- `public/assets/brand/`
-- `public/assets/chef-juanote/`
-- `public/assets/boly/`
-- `public/assets/curso-bolillo/`
-- `public/assets/pdf/`
-- `public/assets/videos/`
-
-### 16.3 Contenido estructurado
-
-El contenido que alimenta aplicación o IA debe vivir en carpetas de contenido o conocimiento definidas, con nomenclatura clara y versionable.
-
----
-
-## 17. Convenciones de nombres
-
-### 17.1 Documentos
-
-Usar nombres claros, en mayúsculas para documentos oficiales:
-
-- `BIBLIA_*`
-- `MANUAL_*`
-- `CURSO_*`
-- `MODULO_*`
-- `PLAN_*`
-- `ROADMAP_*`
-
-### 17.2 Assets
-
-Usar nombres descriptivos:
-
-`categoria_modulo_descripcion_version.ext`
-
-Ejemplo:
-
-`bolillo_modulo04_amasado_prueba-membrana_v01.jpg`
-
-### 17.3 Versionado
-
-Todo material oficial debe poder rastrearse por versión, fecha o control de cambios.
-
----
-
-## 18. Flujo de creación de nuevo contenido
-
-Todo contenido nuevo debe seguir este flujo:
-
-1. Definir objetivo.
-2. Identificar audiencia.
-3. Consultar documentación oficial.
-4. Crear borrador.
-5. Revisar técnica.
-6. Revisar pedagogía.
-7. Revisar visual.
-8. Revisar calidad.
-9. Aprobar.
-10. Publicar.
-11. Registrar versión.
-12. Actualizar IA y recursos relacionados si aplica.
-
-### 18.1 Ningún contenido debe publicarse si:
-
-- Está incompleto.
-- Contradice documentación oficial.
-- Tiene errores técnicos.
-- Confunde al alumno.
-- Carece de revisión.
-- Usa assets no autorizados.
-
----
-
-## 19. Sistema de actualización continua
-
-PanaderIA™ debe evolucionar sin perder control.
-
-### 19.1 Motivos de actualización
-
-- Mejora técnica.
-- Feedback de alumnos.
-- Nuevas fotografías.
-- Nuevos videos.
-- Corrección de errores.
-- Nuevos módulos.
-- Cambios de plataforma.
-- Expansión internacional.
-
-### 19.2 Reglas de actualización
-
-- Registrar qué cambió.
-- Mantener versión anterior si es necesaria.
-- Actualizar documentos relacionados.
-- Notificar a equipos afectados.
-- Actualizar Boly™ si el conocimiento cambia.
-
-### 19.3 Control de calidad posterior
-
-Después de actualizar, revisar enlaces, QR, recursos descargables, consistencia visual y respuestas de IA.
-
----
-
-## 20. Manual para futuros colaboradores
-
-Todo colaborador debe entender que PanaderIA™ ya tiene una identidad definida.
-
-### 20.1 Colaboradores deben:
-
-- Leer este manual.
-- Consultar biblias específicas.
-- Respetar tono y estándares.
-- No improvisar identidad.
-- Documentar cambios.
-- Pedir revisión.
-
-### 20.2 Colaboradores no deben:
-
-- Crear versiones no autorizadas.
-- Usar nombres confusos.
-- Subir assets temporales como oficiales.
-- Cambiar voz de Chef Juanote.
-- Hacer que Boly™ contradiga reglas.
-- Publicar sin revisión.
-
----
-
-## 21. Manual para futuras IA especializadas
-
-Futuras IA de PanaderIA™, PastelerIA™ y ChocolaterIA™ deben seguir principios comunes.
-
-### 21.1 Toda IA debe:
-
-- Consultar fuentes oficiales.
-- Citar o referir documentación cuando sea necesario.
-- Pedir contexto.
-- Evitar inventar.
-- Reconocer límites.
-- Respetar seguridad.
-- Mantener tono pedagógico.
-- Escalar a humano cuando corresponda.
-
-### 21.2 Tipos futuros de IA
-
-- Boly™ panadería.
-- Asistente de pastelería.
-- Asistente de chocolatería.
-- Evaluador de práctica.
-- Generador de checklists.
-- Tutor de certificación.
-- Asistente de producción.
-
----
-
-## 22. Manual para instructores
-
-Los instructores representan la filosofía de Chef Juanote.
-
-### 22.1 Deben:
-
-- Enseñar con paciencia.
-- Corregir con respeto.
-- Explicar fundamentos.
-- Usar ejemplos.
-- Evaluar con rúbricas.
-- Motivar práctica.
-- Registrar avances.
-
-### 22.2 No deben:
-
-- Humillar al alumno.
-- Simplificar de forma falsa.
-- Saltarse higiene.
-- Improvisar criterios de certificación.
-- Contradecir documentación oficial.
-
----
-
-## 23. Manual para diseñadores
-
-Los diseñadores deben traducir conocimiento en claridad visual.
-
-### 23.1 Deben cuidar:
-
-- Legibilidad.
-- Jerarquía.
-- Consistencia.
-- Paleta oficial.
-- Uso correcto de logo.
-- Tratamiento de Chef Juanote.
-- Tratamiento de Boly™.
-- Accesibilidad.
-
-### 23.2 Diseño educativo
-
-Cada diseño debe ayudar a aprender. Si un gráfico se ve bonito pero no aclara, debe revisarse.
-
----
-
-## 24. Manual para editores
-
-Los editores protegen precisión, tono y coherencia.
-
-### 24.1 Deben revisar:
-
-- Ortografía.
-- Claridad.
-- Tono.
-- Orden pedagógico.
-- Consistencia técnica.
-- Nombres oficiales.
-- Referencias cruzadas.
-- Estructura editorial.
-
-### 24.2 Regla editorial
-
-Nunca sacrificar precisión por estilo. El texto debe sonar humano y ser técnicamente correcto.
-
----
-
-## 25. Manual para productores audiovisuales
-
-Los productores audiovisuales convierten técnica en demostración visible.
-
-### 25.1 Deben asegurar:
-
-- Audio claro.
-- Iluminación correcta.
-- Tomas de manos.
-- Tomas de textura.
-- Tomas de errores.
-- Tomas de producto final.
-- Continuidad visual.
-- Identidad PanaderIA™.
-
-### 25.2 Videos educativos
-
-Cada video debe tener objetivo, guion, lista de tomas, demostración, resumen y llamada a recurso descargable o práctica.
-
----
-
-## 26. Manual para desarrolladores
-
-Los desarrolladores deben construir tecnología que respete contenido, seguridad y escalabilidad.
-
-### 26.1 Principios técnicos
-
-- Separar contenido de presentación.
-- Proteger assets privados.
-- Usar QR dinámicos.
-- Diseñar APIs claras.
-- Preparar integración de IA.
-- Respetar estructura de archivos.
-- Facilitar actualización de contenidos.
-
-### 26.2 Desarrollo de IA
-
-La IA debe tener acceso controlado a conocimiento oficial, trazabilidad de fuentes y límites claros.
-
-### 26.3 Desarrollo de certificación
-
-Certificados deben tener folio, QR de verificación, estado, nivel, vigencia y control antifraude.
-
----
-
-## 27. Visión a 5 años
-
-En 5 años, PanaderIA™ debe consolidarse como una plataforma educativa reconocida en español para panadería profesional.
-
-### 27.1 Objetivos a 5 años
-
-- Curso Maestro de Bolillo completamente producido.
-- Biblioteca multimedia activa.
-- Certificaciones verificables.
-- Boly™ conversacional integrado.
-- Comunidad de alumnos.
-- Primeras licencias para escuelas y empresas.
-- Expansión inicial a PastelerIA™.
-- Plataforma móvil o experiencia mobile sólida.
-
----
-
-## 28. Visión a 10 años
-
-En 10 años, PanaderIA™ debe convertirse en una academia digital de referencia internacional en panadería, pastelería y chocolatería.
-
-### 28.1 Objetivos a 10 años
-
-- Academia internacional en varios idiomas.
-- Certificaciones reconocidas por empresas y escuelas.
-- IA educativa avanzada.
-- Entrenador virtual.
-- Biblioteca amplia de oficios panaderos.
-- Licencias para cadenas de autoservicio.
-- Expansión a otros países.
-- Ecosistema PanaderIA™, PastelerIA™ y ChocolaterIA™ consolidado.
-
----
-
-## 29. Objetivos estratégicos
-
-### 29.1 Educación
-
-Crear el sistema más claro y completo para aprender panadería en español.
-
-### 29.2 Producto
-
-Desarrollar cursos, libros, videos, recursos e IA integrados.
-
-### 29.3 Certificación
-
-Crear certificaciones confiables y verificables.
-
-### 29.4 Tecnología
-
-Usar IA, QR, app y plataforma web para acompañamiento continuo.
-
-### 29.5 Negocio
-
-Construir ingresos sostenibles con cursos, premium, biblioteca, certificaciones, asesorías y licencias.
-
-### 29.6 Marca
-
-Posicionar a Chef Juanote, Boly™ y PanaderIA™ como referentes educativos.
-
----
-
-## 30. Plan de expansión internacional
-
-### 30.1 Idiomas
-
-Prioridad:
-
-1. Español neutro.
-2. Inglés.
-3. Portugués.
-4. Francés u otros según demanda.
-
-### 30.2 Países iniciales
-
-- México.
-- Estados Unidos mercado hispano.
-- Colombia.
-- Perú.
-- Chile.
-- Argentina.
-- España.
-
-### 30.3 Adaptación cultural
-
-Cada país puede tener panes, harinas, hornos y hábitos distintos. La expansión debe adaptar ejemplos sin perder fundamentos.
-
-### 30.4 Monedas y pagos
-
-Preparar pagos regionales, precios por mercado y soporte fiscal/local cuando corresponda.
-
-### 30.5 Soporte
-
-Desarrollar soporte por idioma, zona horaria, nivel de alumno y tipo de cliente.
-
----
-
-## 31. Protección del conocimiento
-
-PanaderIA™ debe proteger su conocimiento sin impedir su uso educativo legítimo.
-
-### 31.1 Protección documental
-
-- Versionar documentos.
-- Controlar fuentes oficiales.
-- Evitar copias no autorizadas.
-- Registrar cambios.
-- Mantener backups.
-
-### 31.2 Protección de marca
-
-- Usar logo correctamente.
-- Controlar certificados.
-- Evitar uso indebido de PanaderIA™, Chef Juanote y Boly™.
-
-### 31.3 Protección de IA
-
-- Evitar que IA exponga contenido premium sin autorización.
-- Controlar acceso a materiales internos.
-- Mantener guardrails técnicos y pedagógicos.
-
-### 31.4 Protección de alumnos
-
-- Cuidar datos personales.
-- Proteger evidencias de certificación.
-- Evitar exposición pública sin permiso.
-
----
-
-## 32. Principios de innovación
-
-### 32.1 Innovar con propósito
-
-Toda innovación debe resolver un problema real de aprendizaje, producción, calidad, certificación o acceso.
-
-### 32.2 Innovar sin romper identidad
-
-PanaderIA™ puede cambiar herramientas, formatos y tecnologías, pero debe conservar filosofía, calidad y tono.
-
-### 32.3 Innovar con evidencia
-
-Probar, medir y ajustar antes de escalar.
-
-### 32.4 Innovar con humanidad
-
-La IA debe acompañar; el oficio y el criterio humano siguen siendo centrales.
-
----
-
-## 33. Principios éticos
-
-### 33.1 Honestidad educativa
-
-No prometer dominio sin práctica.
-
-### 33.2 Seguridad alimentaria
-
-Nunca recomendar prácticas inseguras.
-
-### 33.3 Respeto al alumno
-
-No ridiculizar errores.
-
-### 33.4 Transparencia comercial
-
-Explicar qué incluye cada curso, recurso o certificación.
-
-### 33.5 Responsabilidad de IA
-
-No inventar, no engañar, no suplantar certificación humana cuando no corresponda.
-
-### 33.6 Respeto cultural
-
-Reconocer la tradición panadera y su contexto.
-
----
-
-## 34. Checklist maestro
-
-### 34.1 Antes de crear contenido
-
-- [ ] Consulté este manual.
-- [ ] Identifiqué documento oficial relacionado.
-- [ ] Definí audiencia.
-- [ ] Definí objetivo.
-- [ ] Revisé tono de Chef Juanote y Boly™.
-
-### 34.2 Durante creación
-
-- [ ] Uso lenguaje claro.
-- [ ] Mantengo precisión técnica.
-- [ ] Incluyo ejemplos.
-- [ ] Incluyo recursos visuales si aplica.
-- [ ] Incluyo checklist o evaluación si aplica.
-
-### 34.3 Antes de publicar
-
-- [ ] Revisión técnica completa.
-- [ ] Revisión pedagógica completa.
-- [ ] Revisión editorial completa.
-- [ ] Revisión visual completa.
-- [ ] Nombres y versiones correctos.
-- [ ] Assets oficiales.
-- [ ] QR verificados si aplica.
-
-### 34.4 Para IA
-
-- [ ] Fuente oficial disponible.
-- [ ] Guardrails definidos.
-- [ ] Tono correcto.
-- [ ] Límites claros.
-- [ ] Pruebas con preguntas reales.
-
-### 34.5 Para certificación
-
-- [ ] Rúbrica definida.
-- [ ] Evidencias requeridas.
-- [ ] Criterios de aprobación.
-- [ ] Folio y QR.
-- [ ] Evaluador autorizado.
-
----
-
-## 35. Jerarquía de autoridad documental
-
-Cuando haya duda o conflicto, seguir este orden:
-
-1. Manual Maestro Oficial de PanaderIA™.
-2. Biblias oficiales específicas.
-3. Curso o módulo correspondiente.
-4. Guías de producción o calidad.
-5. Recursos descargables.
-6. Respuestas de IA.
-
-La IA nunca tiene mayor autoridad que la documentación oficial.
-
----
-
-## 36. Conclusión oficial firmada por Chef Juanote
-
-PanaderIA™ nace para que el conocimiento panadero no se quede encerrado en una libreta vieja, en una memoria cansada o en una explicación a medias. Nace para enseñar bien, con paciencia, con técnica, con corazón y con herramientas modernas.
-
-Este manual es el corazón del proyecto. Aquí se reúne lo que creemos, cómo enseñamos, cómo producimos, cómo certificamos, cómo usamos la tecnología y hacia dónde queremos caminar. Si algún día PanaderIA™ crece mucho, abre nuevas academias, llega a otros países o trabaja con nuevas inteligencias artificiales, este documento debe recordar siempre lo más importante: el alumno debe aprender de verdad y el oficio debe respetarse.
-
-> **Chef Juanote:** “El pan se hace con harina, agua, levadura y sal; pero un buen proyecto educativo se hace con orden, verdad, paciencia y propósito. Que PanaderIA™ crezca, sí, pero que nunca olvide por qué nació: para enseñar bien y honrar el oficio panadero.”
-
----
-
-## 37. Declaración final del ecosistema PanaderIA™
-
-Este documento queda establecido como el corazón y la referencia absoluta de todo el ecosistema PanaderIA™. Cualquier libro, curso, aplicación, inteligencia artificial, sitio web, academia, certificación, asistente virtual, producción audiovisual, recurso descargable o futuro proyecto deberá respetar sus principios, estructura, identidad, estándares y visión.
+La regla principal es simple: si ayuda al alumno a aprender con claridad, practicar con confianza y avanzar con criterio, pertenece al espíritu de PanaderIA™.
