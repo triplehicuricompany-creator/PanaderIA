@@ -19,3 +19,18 @@
 - [ ] Expliqué el caso real del Chef Juanote™ con mis propias palabras.
 - [ ] Confirmé que puedo leer señales de horno en color, expansión, base y sonido.
 - [ ] Dejé identificados los recursos que podrán sustituirse por material real sin romper el paquete.
+
+## Refuerzo comercial profesional
+
+## Verificación técnica antes de cerrar
+- [ ] Puedo explicar con mis palabras el foco profesional del capítulo: manejar temperatura, vapor, carga y color para lograr corteza y volumen.
+- [ ] Registré evidencia práctica: hornear piezas con expansión, color y corteza consistentes.
+- [ ] Identifiqué al menos un error frecuente y escribí cómo lo corregiría.
+- [ ] Apliqué el consejo del Chef Juanote™ en una decisión concreta.
+- [ ] Consulté a Boly™ con una pregunta específica, no genérica.
+- [ ] Dejé una recomendación útil para una panadería real: Calibra puntos calientes del horno y rota charolas solo cuando la estructura ya esté fijada.
+
+## Criterio de consistencia
+- [ ] El nombre del capítulo coincide con la guía, evaluación y recurso de Boly™.
+- [ ] No avancé con contradicciones entre observación, práctica y evidencia.
+- [ ] La evidencia puede revisarse sin depender de archivos externos nuevos.

@@ -19,3 +19,18 @@
 - [ ] Expliqué el caso real del Chef Juanote™ con mis propias palabras.
 - [ ] Confirmé que puedo distinguir corte superficial, profundo, tardío y correcto.
 - [ ] Dejé identificados los recursos que podrán sustituirse por material real sin romper el paquete.
+
+## Refuerzo comercial profesional
+
+## Verificación técnica antes de cerrar
+- [ ] Puedo explicar con mis palabras el foco profesional del capítulo: hacer greña limpia con ángulo, profundidad y momento correctos.
+- [ ] Registré evidencia práctica: realizar cortes consistentes que abran sin desgarrar la pieza.
+- [ ] Identifiqué al menos un error frecuente y escribí cómo lo corregiría.
+- [ ] Apliqué el consejo del Chef Juanote™ en una decisión concreta.
+- [ ] Consulté a Boly™ con una pregunta específica, no genérica.
+- [ ] Dejé una recomendación útil para una panadería real: Asigna cuchillas por turno y verifica filo antes de cada lote crítico.
+
+## Criterio de consistencia
+- [ ] El nombre del capítulo coincide con la guía, evaluación y recurso de Boly™.
+- [ ] No avancé con contradicciones entre observación, práctica y evidencia.
+- [ ] La evidencia puede revisarse sin depender de archivos externos nuevos.

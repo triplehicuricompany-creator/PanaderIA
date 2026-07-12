@@ -29,3 +29,24 @@ Marca tu nivel de seguridad:
 ## Resultado esperado
 
 El alumno no necesita producir aún; debe demostrar que sabe observar, describir y preguntar antes de avanzar.
+
+## Refuerzo comercial profesional
+
+## Autoevaluación ampliada
+Marca tu nivel real antes de avanzar:
+
+| Competencia | Necesito repetir | En proceso | Listo para producción |
+|---|---:|---:|---:|
+| Explico el foco técnico: observar forma, greña, corteza, color y señales de calidad antes de tocar la masa | [ ] | [ ] | [ ] |
+| Presento evidencia verificable: describir un bolillo ideal y un defecto visual sin adivinar causas todavía | [ ] | [ ] | [ ] |
+| Detecto errores frecuentes y propongo corrección | [ ] | [ ] | [ ] |
+| Conecto el capítulo con una panadería real | [ ] | [ ] | [ ] |
+
+## Preguntas de criterio profesional
+1. ¿Qué dato registrarías para repetir el resultado en otra tanda?
+2. ¿Qué error frecuente sería más costoso en producción y por qué?
+3. ¿Qué le mostrarías al Chef Juanote™ para demostrar aprendizaje real?
+4. ¿Qué pregunta concreta harías a Boly™ si el resultado no coincide con lo esperado?
+
+## Reto práctico de cierre
+Aplica el capítulo en una situación real o simulada y entrega una nota de 5 líneas con: condición inicial, decisión tomada, resultado observado, corrección posible y aprendizaje para producción.

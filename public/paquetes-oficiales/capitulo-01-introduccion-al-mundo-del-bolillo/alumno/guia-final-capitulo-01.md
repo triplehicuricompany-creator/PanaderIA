@@ -39,3 +39,35 @@ Boly™ acompaña con preguntas antes de explicar:
 ## Cierre de aprendizaje
 
 Al terminar, el alumno debe poder describir un bolillo ideal con palabras simples, comparar un ejemplo correcto contra uno defectuoso y explicar qué debe observar antes de empezar a producir.
+
+## Refuerzo comercial profesional
+
+### Explicación técnica fortalecida
+Este capítulo debe estudiarse como una decisión profesional concreta: **observar forma, greña, corteza, color y señales de calidad antes de tocar la masa**. El alumno no solo memoriza conceptos; aprende a observar señales, justificar decisiones y registrar resultados para repetirlos en una panadería real.
+
+### Método de estudio recomendado
+1. Lee el objetivo y localiza los activos oficiales del capítulo.
+2. Observa primero sin corregir: anota señales, medidas, tiempos o condiciones.
+3. Repite la práctica en lote pequeño y compara contra la evidencia mínima: **describir un bolillo ideal y un defecto visual sin adivinar causas todavía**.
+4. Cierra con una nota de mejora: qué mantendrías, qué ajustarías y qué dato faltó registrar.
+
+### Consejo práctico del Chef Juanote™
+> Antes de corregir, aprende a mirar: un panadero que observa bien desperdicia menos harina.
+
+### Intervención natural de Boly™
+**Boly™:** Yo te ayudo a poner nombre a lo que ves; si no sabes la causa, dime primero la señal.
+
+### Errores frecuentes y corrección
+| Error frecuente | Cómo corregirlo |
+|---|---|
+| Confundir gusto personal con criterio técnico | Compara contra forma, greña, color y textura definidos en la guía. |
+| Querer diagnosticar antes de observar | Escribe tres señales visibles antes de proponer una causa. |
+
+### Recomendación para producción en panadería real
+Usa una muestra patrón por turno para alinear color, tamaño y greña con todo el equipo. Mantén esta recomendación ligada a la bitácora del curso para que el aprendizaje sea medible, repetible y apto para venta.
+
+### Ejercicio práctico ampliado
+Realiza una práctica corta, registra datos reales y responde: ¿qué señal confirma que el capítulo fue aplicado correctamente?, ¿qué cambiarías en la siguiente tanda?, ¿qué evidencia guardarías para revisión del Chef Juanote™?
+
+### Llamada a la acción
+Antes de avanzar al siguiente capítulo, completa checklist, evaluación y conversación con Boly™. Si no puedes explicar tu decisión en una frase clara, repite la práctica con menos variables.
