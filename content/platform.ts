@@ -25,17 +25,18 @@ export const studentCourses = [
     progress: 38,
     status: "Inscrito",
     certificateStatus: "En progreso",
-    nextLesson: "Amasado: prueba de membrana"
+    nextLesson: "Módulo 04 · Amasado profesional: prueba de membrana"
   }
 ];
 
 export const digitalLibrary = [
-  { title: bolilloCourse.downloadablePdf.title, type: "eBook", format: "PDF", access: "Premium", href: bolilloCourse.downloadablePdf.href },
-  { title: "Checklist de herramientas para bolillo", type: "Material complementario", format: "PDF", access: "Estándar", href: "/downloads/checklist-herramientas-bolillo.pdf" },
-  { title: "Tabla de ingredientes y porcentajes panaderos", type: "Recurso PDF", format: "PDF", access: "Premium", href: "/downloads/porcentajes-bolillo.pdf" },
-  { title: "Guía visual de formado del bolillo", type: "Fotografías técnicas", format: "PDF", access: "Premium", href: "/downloads/guia-formado-bolillo.pdf" },
-  { title: "Problemas comunes y correcciones", type: "Material complementario", format: "PDF", access: "Premium", href: "/downloads/problemas-comunes-bolillo.pdf" },
-  { title: "Formato de evaluación y certificación", type: "Evaluación", format: "PDF", access: "Premium", href: "/downloads/evaluacion-certificacion-bolillo.pdf" }
+  { title: bolilloCourse.downloadablePdf.title, type: "eBook", format: "Markdown", access: "Premium", href: bolilloCourse.downloadablePdf.href },
+  { title: "Checklist de herramientas para bolillo", type: "Material complementario", format: "Markdown", access: "Estándar", href: bolilloCourse.modules[1].resourceHref },
+  { title: "Tabla de ingredientes y porcentajes panaderos", type: "Recurso técnico", format: "Markdown", access: "Premium", href: bolilloCourse.modules[2].resourceHref },
+  { title: "Guía visual de formado del bolillo", type: "Fotografías técnicas", format: "Markdown", access: "Premium", href: bolilloCourse.modules[5].resourceHref },
+  { title: "Problemas comunes y correcciones", type: "Material complementario", format: "Markdown", access: "Premium", href: bolilloCourse.modules[9].resourceHref },
+  { title: "Formato de evaluación y certificación", type: "Evaluación", format: "Markdown", access: "Premium", href: bolilloCourse.modules[12].resourceHref },
+  { title: "Ruta de crecimiento para panaderos", type: "Plan de acción", format: "Markdown", access: "Premium", href: bolilloCourse.modules[13].resourceHref }
 ];
 
 export const videoCenter = bolilloCourse.modules.map((module) => ({

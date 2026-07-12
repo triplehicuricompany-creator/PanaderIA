@@ -12,7 +12,7 @@ export default function CoursesPage() {
           {courses.map((course) => <CourseCard key={course.href} course={course} />)}
         </div>
       </Section>
-      <Section eyebrow="Temario base" title="Módulos de ejemplo para la experiencia académica">
+      <Section eyebrow="Temario base" title="Ruta completa del Curso Maestro de Bolillo">
         <Curriculum />
       </Section>
     </>

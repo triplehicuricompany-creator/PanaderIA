@@ -1,14 +1,12 @@
 import type { Metadata } from "next";
-import { Cinzel, Inter } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { brand } from "@/content/site";
 
-const cinzel = Cinzel({ subsets: ["latin"], variable: "--font-cinzel" });
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://panaderia.local"),
   title: `${brand.name} | Curso Maestro de Bolillo con Chef Juanote`,
   description: "PanaderIA™ es una academia digital premium de panadería con Curso Maestro de Bolillo, videos QR, certificación y futuro asistente virtual Boly™.",
   keywords: ["PanaderIA", "Curso Maestro de Bolillo", "Chef Juanote", "Boly", "panadería", "curso de panadería", "bolillo", "certificación panadera"],
@@ -24,7 +22,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="es" className={`${cinzel.variable} ${inter.variable}`}>
+    <html lang="es">
       <body className="font-sans antialiased">
         <Header />
         <main>{children}</main>
