@@ -6,14 +6,14 @@
   color-scheme: light;
   --font-cinzel: Georgia, "Times New Roman", serif;
   --font-inter: Arial, Helvetica, sans-serif;
-  --cream-warm: #fff4df;
-  --flour-white: #fffaf1;
-  --soft-peach: #ffd9bd;
-  --coral-rose: #d96f5f;
-  --light-wheat: #ecd39d;
-  --toast-brown: #7a4528;
-  --cocoa: #3d2a1f;
-  --sage: #8fa98b;
+  --cream-warm: #FFF7F0;
+  --flour-white: #FFFDF8;
+  --soft-peach: #FFD9C2;
+  --coral-rose: #C95F6D;
+  --light-wheat: #F2D7A1;
+  --toast-brown: #8B5E3C;
+  --cocoa: #2F2118;
+  --sage: #B9C7B0;
 }
 
 * { box-sizing: border-box; }
