@@ -32,14 +32,14 @@ export default async function ResourcePage({ params }: { params: Promise<{ slug:
   return (
     <Section eyebrow="Recurso descargable" title={resource.title}>
       <div className="mb-6 flex flex-col gap-3 sm:flex-row">
-        <Link href="/alumno/biblioteca" className="rounded-full border border-gold/50 px-5 py-3 text-center font-bold text-gold hover:bg-gold/10">
+        <Link href="/alumno/biblioteca" className="rounded-full border border-coral/35 bg-white/75 px-5 py-3 text-center font-bold text-toast hover:bg-peach/35">
           Volver a biblioteca
         </Link>
-        <Link href="/cursos/bolillo-premium" className="rounded-full bg-gold px-5 py-3 text-center font-black text-black hover:bg-champagne">
+        <Link href="/cursos/bolillo-premium" className="rounded-full bg-coral px-5 py-3 text-center font-black text-white hover:bg-toast">
           Ver ruta completa
         </Link>
       </div>
-      <pre className="max-h-[70vh] overflow-auto whitespace-pre-wrap rounded-3xl border border-gold/20 bg-charcoal p-6 text-sm leading-7 text-cream/80">
+      <pre className="max-h-[70vh] overflow-auto whitespace-pre-wrap rounded-3xl border border-toast/10 bg-white/80 p-6 text-sm leading-7 text-cocoa/80 shadow-soft">
         {content}
       </pre>
     </Section>

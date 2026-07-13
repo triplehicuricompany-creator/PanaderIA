@@ -7,7 +7,7 @@ export default function CertificatesPage() {
     <StudentShell title="Certificados">
       <div className="grid gap-8">
         <CertificatePreview />
-        <Link href="/certificados/demo" className="mx-auto rounded-full bg-gold px-7 py-3 font-black text-black">Ver certificado descargable demo</Link>
+        <Link href="/certificados/demo" className="mx-auto rounded-full bg-coral px-7 py-3 font-black text-white shadow-soft hover:bg-toast">Ver certificado descargable demo</Link>
       </div>
     </StudentShell>
   );

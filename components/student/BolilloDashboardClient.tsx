@@ -32,7 +32,7 @@ function moduleState(moduleNumber: number, progress: Progress): ModuleState {
 const stateStyles: Record<ModuleState, string> = {
   completado: "border-sage/40 bg-sage/10 text-cocoa",
   "en progreso": "border-coral/40 bg-peach/45 text-cocoa",
-  disponible: "border-gold/35 bg-white/75 text-cocoa",
+  disponible: "border-wheat/70 bg-white/75 text-cocoa",
   bloqueado: "border-toast/10 bg-white/45 text-cocoa/55"
 };
 

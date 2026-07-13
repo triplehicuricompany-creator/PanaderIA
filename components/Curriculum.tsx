@@ -18,7 +18,7 @@ export function Curriculum() {
               </div>
               <div className="flex flex-col gap-2 rounded-2xl border border-coral/20 bg-coral/10 px-4 py-3 text-sm font-bold text-coral">
                 <span>QR: {module.videoQr}</span>
-                <Link href={module.resourceHref} className="text-cocoa underline decoration-gold/60 underline-offset-4 hover:text-coral">
+                <Link href={module.resourceHref} className="text-cocoa underline decoration-coral/45 underline-offset-4 hover:text-coral">
                   Abrir recurso del módulo
                 </Link>
               </div>
@@ -41,7 +41,7 @@ export function Curriculum() {
                 <p className="mt-3 text-sm leading-6 text-cocoa/70">{module.bolyPrompt}</p>
               </div>
             </div>
-            <div className="mt-5 flex flex-col gap-3 rounded-2xl border border-coral/10 bg-toast/70 p-4 text-sm text-cocoa/70 md:flex-row md:items-center md:justify-between">
+            <div className="mt-5 flex flex-col gap-3 rounded-2xl border border-coral/10 bg-wheat/35 p-4 text-sm text-cocoa/70 md:flex-row md:items-center md:justify-between">
               <span>{previousModule ? `Vienes de: Módulo ${previousModule.number} · ${previousModule.title}` : "Inicio guiado: revisa el estándar del bolillo antes de practicar."}</span>
               <span className="font-semibold text-coral">{nextModule ? `Siguiente: Módulo ${nextModule.number} · ${nextModule.title}` : "Cierre: evidencia, certificado y plan de crecimiento."}</span>
             </div>

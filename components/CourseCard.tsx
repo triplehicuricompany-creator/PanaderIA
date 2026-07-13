@@ -11,7 +11,7 @@ export function CourseCard({ course }: { course: { title: string; href: string; 
           <li key={feature} className="flex gap-3 text-sm text-cocoa/80"><span className="text-coral">✦</span>{feature}</li>
         ))}
       </ul>
-      <Link href={course.href} className="mt-8 inline-flex rounded-full bg-coral px-6 py-3 font-semibold text-white transition hover:bg-champagne">
+      <Link href={course.href} className="mt-8 inline-flex rounded-full bg-coral px-6 py-3 font-semibold text-white shadow-soft transition hover:bg-toast">
         Conocer el curso
       </Link>
     </article>
