@@ -35,4 +35,27 @@ img, svg, video, canvas { max-width: 100%; height: auto; }
   .btn-secondary { @apply inline-flex items-center justify-center rounded-full border border-toast/20 bg-white/70 px-6 py-3 text-center font-bold text-toast transition hover:-translate-y-0.5 hover:border-coral/40 hover:bg-peach/30 focus:outline-none focus:ring-4 focus:ring-coral/20; }
   .soft-card { @apply rounded-[1.75rem] border border-toast/10 bg-white/70 p-6 shadow-soft backdrop-blur; }
   .field-soft { @apply w-full rounded-2xl border border-toast/15 bg-white/80 px-4 py-3 text-cocoa outline-none transition placeholder:text-cocoa/45 focus:border-coral focus:ring-4 focus:ring-coral/15; }
+
+  .book-strip {
+    background:
+      linear-gradient(90deg, rgba(236, 211, 157, 0.18), transparent 18%, transparent 82%, rgba(236, 211, 157, 0.18)),
+      repeating-linear-gradient(90deg, rgba(122, 69, 40, 0.035) 0 1px, transparent 1px 74px);
+  }
+  .book-page {
+    position: relative;
+  }
+  .book-page::before {
+    content: "";
+    position: absolute;
+    inset: 1.1rem auto 1.1rem 50%;
+    width: 1px;
+    background: linear-gradient(180deg, transparent, rgba(122, 69, 40, 0.16), transparent);
+  }
+  @media (max-width: 767px) {
+    .book-page::before {
+      inset: auto 1.25rem 50% 1.25rem;
+      width: auto;
+      height: 1px;
+    }
+  }
 }
