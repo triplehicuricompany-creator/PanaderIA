@@ -29,21 +29,22 @@ function knowledge() { return { modules: state.modules, diagnostics: state.diagn
 function route() {
   const view = location.hash.replace('#', '') || 'home';
   const routes = { home, course, library, videos, boly, dashboard, store, certificates, instructor, login };
-  (routes[view] || home)();
-  $$('.nav-link').forEach((link) => link.classList.toggle('active', link.dataset.route === view));
+  const currentView = routes[view] ? view : 'home';
+  routes[currentView]();
+  $$('.nav-link').forEach((link) => link.classList.toggle('active', link.dataset.route === currentView));
   $('#mainNav').classList.remove('open');
 }
 function layout(title, content) { $('#app').innerHTML = `<section class="view"><div class="section-title"><p class="eyebrow">PanaderIA™ Platform V2</p><h1>${title}</h1></div>${content}</section>`; }
 
 function home() {
   const completed = Object.values(state.progress).filter(Boolean).length;
-  layout('Primer lanzamiento comercial funcional.', `
-    <div class="hero-grid"><div class="panel hero-panel"><span class="pill">V2 estable · comercial · móvil</span><h2>Curso, libro, Boly™, tienda, alumnos y certificación conectados.</h2><p>PanaderIA™ V2 integra biblioteca técnica, buscador global, videos por módulo, descargas, carrito, pagos preparados, dashboard de alumno y certificado desbloqueable por progreso.</p><div class="actions"><a class="btn primary" href="#course">Entrar al curso</a><a class="btn" href="#store">Comprar productos</a><a class="btn" href="#boly">Preguntar a Boly™</a></div></div><div class="panel launch-card"><div class="bread"></div><strong>${completed}/${state.modules.length}</strong><span>módulos completados</span></div></div>
+  layout('Curso Maestro de Bolillo listo para practicar', `
+    <div class="hero-grid"><div class="panel hero-panel"><span class="pill">V2 estable · comercial · móvil</span><h2>Curso, libro, Boly™, tienda, alumnos y certificación conectados.</h2><p>PanaderIA™ V2 reúne biblioteca técnica, buscador global, videos por módulo, descargas, carrito, pagos preparados, dashboard de alumno y certificados desbloqueables por progreso.</p><div class="actions"><a class="btn primary" href="#course">Entrar al curso</a><a class="btn" href="#store">Comprar productos</a><a class="btn" href="#boly">Preguntar a Boly™</a></div></div><div class="panel launch-card"><div class="bread"></div><strong>${completed}/${state.modules.length}</strong><span>módulos completados</span></div></div>
     <div class="metric-grid"><div class="metric"><strong>${state.modules.length}</strong><span>Módulos técnicos</span></div><div class="metric"><strong>${state.technicalLibrary.length}</strong><span>Biblias indexadas</span></div><div class="metric"><strong>${state.resources.length}</strong><span>Descargas</span></div><div class="metric"><strong>${cartTotal().items}</strong><span>Productos en carrito</span></div></div>`);
 }
 
 function course() {
-  const cards = state.courseContent.map((module) => `<article class="module-card ${state.progress[module.id] ? 'done' : ''}"><img class="ref-img" src="${module.referenceImage}" alt="Referencia visual ${module.title}"><div class="module-number">${String(module.id).padStart(2, '0')}</div><h3>${module.title}</h3><p>${module.summary}</p><details><summary>Lecciones, ejercicios y examen</summary><ol>${module.lessons.map((lesson)=>`<li><strong>${lesson.title}</strong><br><span>${lesson.content}</span><br><em>${lesson.chefTip}</em></li>`).join('')}</ol><h4>Ejercicios</h4><ul>${module.exercises.map((item)=>`<li>${item}</li>`).join('')}</ul><h4>Caso real</h4><p>${module.realCase}</p><h4>Checklist</h4><ul>${module.checklist.map((item)=>`<li>${item}</li>`).join('')}</ul><h4>Examen</h4><ol>${module.exam.questions.map((q)=>`<li>${q}</li>`).join('')}</ol><p><strong>FAQ:</strong> ${module.faq}</p></details><div class="actions"><button class="btn small" data-complete="${module.id}">${state.progress[module.id] ? 'Completado' : 'Marcar avance'}</button>${module.downloads.map((href)=>`<a class="btn small" href="${href}" download>Descargar</a>`).join('')}</div></article>`).join('');
+  const cards = state.courseContent.map((module) => `<article class="module-card ${state.progress[module.id] ? 'done' : ''}"><img class="ref-img" src="${module.referenceImage}" alt="Referencia visual ${module.title}"><div class="module-number">${String(module.id).padStart(2, '0')}</div><h3>${module.title}</h3><p>${module.summary}</p><details><summary>Lecciones, ejercicios, caso real y examen</summary><ol>${module.lessons.map((lesson)=>`<li><strong>${lesson.title}</strong><br><span>${lesson.content}</span><br><em>${lesson.chefTip}</em></li>`).join('')}</ol><h4>Ejercicios</h4><ul>${module.exercises.map((item)=>`<li>${item}</li>`).join('')}</ul><h4>Caso real</h4><p>${module.realCase}</p><h4>Checklist</h4><ul>${module.checklist.map((item)=>`<li>${item}</li>`).join('')}</ul><h4>Examen</h4><ol>${module.exam.questions.map((q)=>`<li>${q}</li>`).join('')}</ol><p><strong>FAQ:</strong> ${module.faq}</p></details><div class="actions"><button class="btn small" data-complete="${module.id}">${state.progress[module.id] ? 'Completado' : 'Marcar avance'}</button>${module.downloads.map((href, index)=>`<a class="btn small" href="${href}" download>${index === 0 ? 'Guía del módulo' : 'Examen del módulo'}</a>`).join('')}</div></article>`).join('');
   layout('Curso Maestro de Bolillo completo', `<div class="module-grid">${cards}</div>`);
   $$('[data-complete]').forEach((button) => button.addEventListener('click', () => { state.progress[button.dataset.complete] = !state.progress[button.dataset.complete]; save(); course(); }));
 }
@@ -56,7 +57,13 @@ function library() {
 }
 function renderSearch() {
   const results = searchLibrary($('#search')?.value || '', knowledge());
-  $('#results').innerHTML = results.map((entry) => `<article class="card"><span class="pill">${entry.kind}</span><h3>${entry.title}</h3><p>${snippet(entry.text)}</p>${entry.item.href ? `<a class="btn small primary" href="${entry.item.href}" download>Abrir / descargar</a>` : ''}</article>`).join('');
+  $('#results').innerHTML = results.map((entry) => `<article class="card"><span class="pill">${entry.kind}</span><h3>${entry.title}</h3><p>${snippet(entry.text)}</p>${entry.item.href ? resourceLink(entry) : ''}</article>`).join('');
+}
+
+function resourceLink(entry) {
+  const isDownload = entry.item.href.includes('downloads/');
+  const label = entry.kind === 'Video' ? 'Ver video' : (isDownload ? 'Abrir / descargar' : 'Abrir recurso');
+  return `<a class="btn small primary" href="${entry.item.href}"${isDownload ? ' download' : ''}>${label}</a>`;
 }
 
 function videos() {
@@ -90,7 +97,7 @@ function instructor() {
     const videoCount = state.videos.filter((video) => video.module === module.id).length;
     return `<article class="card"><span class="pill">Módulo ${module.id}</span><h3>${module.title}</h3><p>${module.lessons.length} lecciones · ${module.exercises.length} ejercicios · ${module.exam.questions.length} preguntas · ${videoCount} video(s)</p><p><strong>Revisión:</strong> validar evidencia del alumno contra checklist, caso real y examen descargable.</p><a class="btn small primary" href="${module.downloads[1]}" download>Examen del módulo</a></article>`;
   }).join('');
-  layout('Panel del instructor RC1', `<div class="panel"><h2>Lista operativa de revisión</h2><p>Use este panel para revisar consistencia pedagógica, evidencias, exámenes, videos y recursos por módulo antes de certificar alumnos.</p></div><div class="resource-grid">${rows}</div>`);
+  layout('Panel del instructor RC1', `<div class="panel"><h2>Lista operativa de revisión</h2><p>Usa este panel para revisar consistencia pedagógica, evidencias, exámenes, videos y recursos por módulo antes de certificar alumnos.</p></div><div class="resource-grid">${rows}</div>`);
 }
 
 function store() {
@@ -115,7 +122,7 @@ function certificates() {
 }
 
 function login() {
-  layout('Área privada para alumnos', `<form id="loginForm" class="auth panel"><label>Nombre<input id="name" required placeholder="Tu nombre"></label><label>Correo<input id="email" type="email" required placeholder="correo@ejemplo.com"></label><button class="btn primary">Entrar / crear cuenta</button><p>Cuenta local funcional para RC1 comercial; preparada para migrar a autenticación de producción.</p></form>`);
+  layout('Área privada para alumnos', `<form id="loginForm" class="auth panel"><label>Nombre<input id="name" required placeholder="Tu nombre"></label><label>Correo<input id="email" type="email" required placeholder="correo@ejemplo.com"></label><button class="btn primary">Entrar / crear cuenta</button><p>Cuenta local funcional para demostración; preparada para migrar a autenticación de producción.</p></form>`);
   $('#loginForm').addEventListener('submit', (event) => { event.preventDefault(); state.user = { name: $('#name').value, email: $('#email').value, createdAt: new Date().toISOString() }; save(); location.hash = 'dashboard'; });
 }
 

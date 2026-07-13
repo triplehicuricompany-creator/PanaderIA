@@ -14,18 +14,27 @@ const knowledge = {
   certificates: read('certificate-templates.json')
 };
 const config = read('platform-config.json');
+const exists = (relativePath) => fs.existsSync(new URL(`../${relativePath}`, import.meta.url));
 
 assert.equal(knowledge.modules.length, 14);
+assert.deepEqual(knowledge.modules.map((module) => module.id), knowledge.courseContent.map((module) => module.id));
+assert.deepEqual(knowledge.modules.map((module) => module.slug), knowledge.courseContent.map((module) => module.slug));
+assert.deepEqual(knowledge.modules.map((module) => module.name), knowledge.courseContent.map((module) => module.title));
 assert.ok(knowledge.technicalLibrary.length >= 10);
 assert.equal(knowledge.courseContent.length, 14);
 assert.ok(knowledge.courseContent.every((module) => module.lessons.length >= 3 && module.exercises.length >= 3 && module.exam.questions.length >= 3 && module.checklist.length >= 5));
+assert.ok(knowledge.courseContent.every((module) => module.downloads.length === 2 && module.downloads.every(exists) && exists(module.referenceImage)));
 assert.ok(knowledge.courseContent.every((module) => module.lessons.every((lesson) => !lesson.content.includes('con criterio práctico: observa la masa'))));
 assert.deepEqual(knowledge.certificates.map((cert) => cert.requiredModules), [7, 14]);
 assert.ok(knowledge.resources.some((resource) => resource.id === 'pack-recursos-panaderia' && resource.href.includes('pack-recursos')));
 assert.ok(knowledge.resources.every((resource) => resource.href.includes('downloads/') || resource.href.includes('videos/')));
+assert.ok(knowledge.resources.every((resource) => exists(resource.href)));
 assert.ok(knowledge.videos.some((video) => video.module === 8));
+assert.ok(knowledge.videos.every((video) => exists(video.href)));
 assert.ok(knowledge.products.every((product) => product.price > 0 && product.paymentStatus));
+assert.ok(knowledge.products.every((product) => !product.download || exists(product.download)));
 assert.ok(knowledge.products.find((product) => product.id === 'certificacion-pro').download.includes('certificado-panadero-profesional'));
+assert.ok(knowledge.certificates.every((cert) => exists(cert.download)));
 assert.ok(fs.readFileSync(new URL('../downloads/books/libro-maestro-bolillo-premium.md', import.meta.url), 'utf8').includes('Edición comercial RC1'));
 assert.deepEqual(config.payments.providers, ['stripe', 'paypal']);
 assert.equal(detectModule('mi bolillo no abre en el corte', knowledge.modules).slug, 'corte');
