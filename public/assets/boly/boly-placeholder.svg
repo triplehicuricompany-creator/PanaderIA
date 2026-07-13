@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Marcador visual de Boly</title>
+  <desc id="desc">Espacio reservado para la imagen oficial de Boly.</desc>
+  <rect width="512" height="512" rx="96" fill="#fffaf1"/>
+  <circle cx="256" cy="240" r="138" fill="#ffd9bd"/>
+  <ellipse cx="256" cy="286" rx="154" ry="94" fill="#ecd39d"/>
+  <path d="M145 252c28-64 71-96 130-96 47 0 82 20 106 60 8 13 5 30-8 39-79 53-153 57-222 11-5-3-7-9-6-14Z" fill="#d9a85b"/>
+  <circle cx="215" cy="226" r="13" fill="#3d2a1f"/>
+  <circle cx="301" cy="226" r="13" fill="#3d2a1f"/>
+  <path d="M221 271c26 23 54 23 82 0" fill="none" stroke="#7a4528" stroke-width="15" stroke-linecap="round"/>
+  <path d="M161 207c22-28 47-47 74-57M282 151c34 4 61 20 81 48" fill="none" stroke="#fff4df" stroke-width="18" stroke-linecap="round" opacity=".85"/>
+  <text x="256" y="438" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#7a4528">Boly™</text>
+</svg>

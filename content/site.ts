@@ -2,10 +2,10 @@ import { bolilloCourse } from "@/content/bolillo-course";
 
 export const brand = {
   name: "PanaderIA™",
-  slogan: "Conocimiento • Técnica • Pasión",
+  slogan: "Calidez • Técnica • Paciencia",
   founder: "Chef Juanote",
   assistant: "Boly™",
-  colors: ["Negro", "Dorado", "Blanco"]
+  colors: ["Crema cálido", "Blanco harina", "Durazno suave", "Rosa coral", "Trigo claro", "Café pan tostado", "Verde salvia"]
 };
 
 export const navigation = [
@@ -43,13 +43,13 @@ export const whyPanaderia = [
   { title: "Formación paso a paso", text: "Avanza por módulos claros: ingredientes, amasado, fermentación, formado, corte y horneado." },
   { title: "Videos exclusivos", text: "Recursos visuales preparados para explicar técnicas difíciles de entender solo con texto." },
   { title: "Certificación", text: "Ruta comercial lista para emitir certificados verificables y reforzar el valor profesional." },
-  { title: "Boly™ IA 24/7", text: "Asistente virtual preparado para resolver dudas, explicar errores y acompañar al alumno." }
+  { title: "Boly™ te acompaña", text: "Compañero educativo preparado para resolver dudas, explicar errores con calma y motivar sin presión." }
 ];
 
 export const included = [
   { title: "eBook", text: "Manual digital estructurado para estudiar y repasar cada etapa del bolillo." },
   { title: "Videos", text: "Demostraciones complementarias y recursos preparados para QR dinámicos." },
-  { title: "Certificado", text: "Reconocimiento digital listo para la siguiente fase de validación pública." },
+  { title: "Certificado", text: "Reconocimiento digital preparado para una validación pública futura." },
   { title: "Acceso a Boly™", text: "Arquitectura preparada para asistencia educativa con IA." },
   { title: "Actualizaciones futuras", text: "Contenido digital actualizable sin reimprimir materiales físicos." }
 ];
@@ -63,8 +63,8 @@ export const testimonials = [
 export const faqs = [
   { question: "¿El curso es para principiantes?", answer: "Sí. El Curso Maestro de Bolillo está diseñado para comenzar desde cero y avanzar paso a paso." },
   { question: "¿La versión premium incluye videos?", answer: "La plataforma queda preparada para videos exclusivos y acceso mediante QR dinámicos." },
-  { question: "¿Boly™ ya funciona con IA?", answer: "Todavía no. En esta fase se prepara la experiencia comercial y la arquitectura para integrarlo correctamente." },
-  { question: "¿Habrá certificado?", answer: "Sí. La experiencia está preparada para certificación digital en la siguiente fase operativa." },
+  { question: "¿Boly™ ya funciona con IA?", answer: "Todavía no. La experiencia comercial y la arquitectura quedan preparadas para integrarlo correctamente cuando el contenido esté validado." },
+  { question: "¿Habrá certificado?", answer: "Sí. La experiencia está preparada para certificación digital cuando se active la operación completa." },
   { question: "¿Se agregarán más cursos?", answer: "Sí. La arquitectura contempla futuras academias de panadería, pastelería y chocolatería." }
 ];
 

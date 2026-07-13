@@ -1,56 +1,23 @@
 import Link from "next/link";
 import { brand } from "@/content/site";
-import { LogoMark } from "@/components/LogoMark";
+import { BolyAvatar, BolyMessage } from "@/components/BolyCompanion";
 
 export function Hero() {
   return (
-    <section className="relative overflow-hidden px-5 py-16 sm:py-24">
-      <div className="absolute inset-0 bg-[radial-gradient(circle_at_15%_10%,rgba(215,168,79,0.30),transparent_32%),radial-gradient(circle_at_90%_15%,rgba(255,250,240,0.12),transparent_26%),linear-gradient(135deg,#030303,#15100a_48%,#080807)]" />
-      <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-obsidian to-transparent" />
-      <div className="relative mx-auto grid max-w-7xl items-center gap-12 lg:grid-cols-[1.05fr_0.95fr]">
+    <section className="relative overflow-hidden px-4 py-14 sm:px-6 sm:py-20">
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_12%_8%,rgba(255,217,189,0.72),transparent_28%),radial-gradient(circle_at_88%_18%,rgba(143,169,139,0.22),transparent_26%)]" />
+      <div className="relative mx-auto grid max-w-7xl items-center gap-10 lg:grid-cols-[1.02fr_0.98fr]">
         <div>
-          <div className="mb-8 flex items-center gap-5">
-            <LogoMark size="lg" />
-            <div>
-              <p className="text-sm uppercase tracking-[0.4em] text-gold">{brand.slogan}</p>
-              <p className="mt-2 text-cream/70">Academia digital profesional por {brand.founder}</p>
-            </div>
-          </div>
-          <p className="mb-4 inline-flex rounded-full border border-gold/30 bg-gold/10 px-4 py-2 text-sm font-semibold text-gold">
-            Curso Maestro de Bolillo · Estándar y Premium
-          </p>
-          <h1 className="font-display text-5xl font-black leading-tight text-cream sm:text-7xl">
-            Vende, aprende y certifica tu técnica panadera con {brand.name}.
-          </h1>
-          <p className="mt-6 max-w-2xl text-lg leading-8 text-cream/78">
-            Plataforma premium de educación profesional que combina el método de {brand.founder}, recursos digitales por QR y la visión del asistente virtual {brand.assistant}.
-          </p>
-          <div className="mt-10 flex flex-col gap-4 sm:flex-row">
-            <Link href="/cursos/bolillo-premium" className="rounded-full bg-gold px-9 py-4 text-center text-base font-black text-black transition hover:bg-champagne">
-              Comprar Ahora
-            </Link>
-            <Link href="/cursos" className="rounded-full border border-gold/60 px-9 py-4 text-center font-bold text-gold transition hover:bg-gold/10">
-              Ver Temario
-            </Link>
-          </div>
-          <div className="mt-10 grid max-w-2xl grid-cols-3 gap-3 text-center text-sm text-cream/70">
-            <div className="rounded-2xl border border-gold/20 bg-black/35 p-4"><strong className="block text-2xl text-gold">30+</strong> años de experiencia</div>
-            <div className="rounded-2xl border border-gold/20 bg-black/35 p-4"><strong className="block text-2xl text-gold">24/7</strong> visión Boly™ IA</div>
-            <div className="rounded-2xl border border-gold/20 bg-black/35 p-4"><strong className="block text-2xl text-gold">QR</strong> recursos premium</div>
-          </div>
+          <p className="mb-4 inline-flex rounded-full border border-coral/20 bg-white/65 px-4 py-2 text-sm font-bold text-toast shadow-soft">Curso Maestro de Bolillo · Estándar y Premium</p>
+          <h1 className="font-display text-4xl font-black leading-tight text-toast sm:text-6xl">Aprende panadería desde casa, a tu ritmo y siempre acompañado.</h1>
+          <p className="mt-6 max-w-2xl text-lg leading-8 text-cocoa/78">PanaderIA™ combina el método de {brand.founder}, recursos digitales claros y la presencia amable de {brand.assistant} para practicar con confianza, equivocarte sin miedo y volver a intentarlo.</p>
+          <p className="mt-4 font-display text-2xl font-bold text-coral">El curso enseña. Chef Juanote inspira. Boly te acompaña.</p>
+          <div className="mt-9 flex flex-col gap-3 sm:flex-row"><Link href="/cursos" className="btn-primary">Explorar el programa</Link><Link href="/cursos/bolillo-estandar" className="btn-secondary">Conocer el curso</Link></div>
+          <div className="mt-8 grid max-w-2xl gap-3 text-sm sm:grid-cols-3"><div className="soft-card p-4"><strong className="block text-2xl text-coral">30+</strong> años de experiencia</div><div className="soft-card p-4"><strong className="block text-2xl text-coral">14</strong> módulos guiados</div><div className="soft-card p-4"><strong className="block text-2xl text-coral">QR</strong> recursos preparados</div></div>
         </div>
         <div className="grid gap-5">
-          <div className="overflow-hidden rounded-[2rem] border border-gold/30 bg-charcoal shadow-gold">
-            <img src="/images/bolillo-placeholder.svg" alt="Bolillo artesanal del Curso Maestro de Bolillo" className="h-full w-full object-cover" />
-          </div>
-          <div className="grid gap-5 sm:grid-cols-2">
-            <div className="overflow-hidden rounded-[1.5rem] border border-gold/20 bg-charcoal">
-              <img src="/images/chef-placeholder.svg" alt="Chef panadero representando a Chef Juanote" className="h-full w-full object-cover" />
-            </div>
-            <div className="overflow-hidden rounded-[1.5rem] border border-gold/20 bg-charcoal">
-              <img src="/images/academia-placeholder.svg" alt="Academia digital PanaderIA con Boly" className="h-full w-full object-cover" />
-            </div>
-          </div>
+          <div className="rounded-[2.25rem] border border-white/70 bg-white/55 p-4 shadow-soft"><BolyAvatar className="mx-auto max-w-md" /></div>
+          <BolyMessage tone="welcome" title="Hola, soy Boly™"><p>Voy contigo paso a paso: sin regaños, sin prisa y con señales claras para que cada práctica te deje aprendizaje.</p></BolyMessage>
         </div>
       </div>
     </section>
