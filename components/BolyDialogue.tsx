@@ -1,16 +1,10 @@
 import Image from "next/image";
 
+import type { BolyDialogueTone as BolyDialogueToneValue } from "@/content/boly-dialogue-tone";
 import { getBolyImageOrFallback } from "@/content/boly-library";
 
-export type BolyDialogueTone =
-  | "welcome"
-  | "tip"
-  | "warning"
-  | "encouragement"
-  | "success"
-  | "question"
-  | "error"
-  | "neutral";
+export type { BolyDialogueTone } from "@/content/boly-dialogue-tone";
+type BolyDialogueTone = BolyDialogueToneValue;
 
 export type BolyDialogueProps = {
   imageId: string;
@@ -105,4 +99,3 @@ export function BolyDialogue({
     </aside>
   );
 }
-

@@ -1,4 +1,4 @@
-import type { BolyDialogueTone } from "@/components/BolyDialogue";
+import type { BolyDialogueTone } from "@/content/boly-dialogue-tone";
 
 export type BolyDialogueEntry = {
   id: string;
@@ -19,4 +19,3 @@ export const bolyDialogues: readonly BolyDialogueEntry[] = [
   { id: "modulo-completado", imageId: "trofeo", title: "Módulo completado", message: "Excelente trabajo. Tu práctica suma experiencia para el siguiente paso.", tone: "success" },
   { id: "mensaje-motivacional", imageId: "tu-puedes", message: "Cada masa te enseña algo nuevo. Sigue practicando con calma: tú puedes.", tone: "encouragement" }
 ];
-
