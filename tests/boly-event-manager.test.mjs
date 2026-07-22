@@ -1,0 +1,18 @@
+import assert from "node:assert/strict";
+import { execFileSync } from "node:child_process";
+import { mkdtempSync, rmSync, writeFileSync, unlinkSync } from "node:fs";
+import { tmpdir } from "node:os";
+import { join, resolve } from "node:path";
+import test from "node:test";
+const out = mkdtempSync(join(tmpdir(), "boly-manager-"));
+const config = resolve(".boly-event-manager.test.tsconfig.json");
+writeFileSync(config, JSON.stringify({ extends: "./tsconfig.json", compilerOptions: { outDir: out, module: "commonjs", moduleResolution: "node", noEmit: false }, include: ["lib/boly-event-manager.ts"] }));
+execFileSync("./node_modules/.bin/tsc", ["--project", config], { stdio: "pipe" });
+const manager = await import(join(out, "lib", "boly-event-manager.js"));
+test.after(() => { rmSync(out, { recursive: true, force: true }); unlinkSync(config); });
+const event = (name, priority, extra = {}) => ({ id: name, event: name, dialogueId: name, imageId: "hola", tone: "neutral", message: name, priority, ...extra });
+test("priority ordering and FIFO", () => { const a=event("a","normal"), b=event("b","high"), c=event("c","high"); assert.deepEqual(manager.insertByPriority([b,a],c).map(x=>x.event), ["b","c","a"]); });
+test("critical replaces and preserves preempted event", () => { const normal=event("n","normal"), critical=event("c","critical"); const state=manager.enqueueManagedEvent({active:normal,queue:[]},critical,8); assert.equal(state.active.event,"c"); assert.deepEqual(state.queue.map(x=>x.event),["n"]); });
+test("low queues, duplicates are ignored, and close advances", () => { const normal=event("n","normal"), low=event("l","low"); const state=manager.enqueueManagedEvent({active:normal,queue:[]},low,8); assert.equal(manager.enqueueManagedEvent(state,low,8),state); assert.equal(manager.dismissManagedEvent(state).active.event,"l"); });
+test("capacity discards oldest low before other priorities and never critical", () => { const queue=[event("low1","low"),event("high","high"),event("low2","low"),event("critical","critical")]; assert.deepEqual(manager.limitQueue(queue,3).map(x=>x.event),["high","low2","critical"]); assert.deepEqual(manager.limitQueue([event("c1","critical"),event("c2","critical")],0).map(x=>x.event),["c1","c2"]); });
+test("override changes fingerprint", () => { const first=event("n","normal",{message:"a"}), second=event("n","normal",{message:"b"}); assert.equal(manager.isDuplicate(second,[first]),false); });
