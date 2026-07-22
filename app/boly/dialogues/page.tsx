@@ -4,6 +4,8 @@ import type { BolyDialogueTone } from "@/content/boly-dialogue-tone";
 import { bolyDialogues } from "@/content/boly-dialogues";
 import type { BolyEventType } from "@/content/boly-events";
 import { notFound } from "next/navigation";
+import { BolyEventProvider } from "@/components/boly/BolyEventProvider";
+import { BolyEventSimulator } from "@/components/boly/BolyEventSimulator";
 
 const tones: readonly BolyDialogueTone[] = ["welcome", "tip", "warning", "encouragement", "success", "question", "error", "neutral"];
 const automaticEvents: readonly BolyEventType[] = ["FIRST_LOGIN", "MODULE_COMPLETED", "QUIZ_FAILED", "DOUGH_TOO_WET", "FERMENTATION_READY", "STEAM_WARNING", "CERTIFICATE_READY"];
@@ -35,6 +37,10 @@ export default function BolyDialoguesDemoPage() {
           {automaticEvents.map((event, index) => <BolyEventDialogue event={event} key={event} position={index % 2 === 0 ? "left" : "right"} size="sm" />)}
         </div>
       </section>
+
+      <BolyEventProvider defaultDurationMs={7000} debug>
+        <BolyEventSimulator />
+      </BolyEventProvider>
 
       <section aria-labelledby="examples-heading" className="mt-12">
         <h2 id="examples-heading" className="font-display text-2xl font-bold text-toast">Tamaños y textos reales</h2>
