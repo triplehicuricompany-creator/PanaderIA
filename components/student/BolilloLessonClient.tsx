@@ -1,9 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { BolyEventPresenter } from "@/components/boly/BolyEventPresenter";
+import { BolyEventProvider } from "@/components/boly/BolyEventProvider";
 import { StudentShell } from "@/components/student/StudentShell";
 import { bolilloCourse } from "@/content/bolillo-course";
+import { useBolyEvents } from "@/hooks/useBolyEvents";
 
 type Module = (typeof bolilloCourse.modules)[number];
 type Progress = { completed: number[]; current: number };
@@ -23,15 +26,38 @@ function saveProgress(progress: Progress) {
   window.localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
 }
 
-export function BolilloLessonClient({ module }: { module: Module }) {
+const INACTIVITY_DELAY_MS = 2 * 60 * 1000;
+
+function BolilloLessonExperience({ module }: { module: Module }) {
   const [progress, setProgress] = useState(defaultProgress);
   const [celebrating, setCelebrating] = useState(false);
   const [answers, setAnswers] = useState<Record<string, boolean>>({});
+  const [quizStatus, setQuizStatus] = useState<"idle" | "failed" | "passed">("idle");
+  const { triggerBolyEvent } = useBolyEvents();
+  const inactivityTimer = useRef<number | null>(null);
   const isCompleted = progress.completed.includes(module.number);
   const previous = module.number > 1 ? module.number - 1 : null;
   const next = module.number < bolilloCourse.modules.length ? module.number + 1 : null;
 
   useEffect(() => setProgress(readProgress()), []);
+
+  useEffect(() => {
+    triggerBolyEvent("MODULE_STARTED");
+  }, [module.number, triggerBolyEvent]);
+
+  useEffect(() => {
+    const resetInactivityTimer = () => {
+      if (inactivityTimer.current) window.clearTimeout(inactivityTimer.current);
+      inactivityTimer.current = window.setTimeout(() => triggerBolyEvent("USER_INACTIVE"), INACTIVITY_DELAY_MS);
+    };
+    const activityEvents = ["pointermove", "pointerdown", "keydown", "touchstart", "scroll"] as const;
+    activityEvents.forEach((event) => window.addEventListener(event, resetInactivityTimer, { passive: true }));
+    resetInactivityTimer();
+    return () => {
+      if (inactivityTimer.current) window.clearTimeout(inactivityTimer.current);
+      activityEvents.forEach((event) => window.removeEventListener(event, resetInactivityTimer));
+    };
+  }, [module.number, triggerBolyEvent]);
 
   const completionPercent = useMemo(() => Math.round((progress.completed.length / bolilloCourse.modules.length) * 100), [progress.completed.length]);
 
@@ -41,7 +67,14 @@ export function BolilloLessonClient({ module }: { module: Module }) {
     setProgress(updated);
     saveProgress(updated);
     setCelebrating(true);
+    triggerBolyEvent("MODULE_COMPLETED");
     window.setTimeout(() => setCelebrating(false), 2600);
+  }
+
+  function checkQuiz() {
+    const passed = module.photoSlots.every((slot) => answers[slot]);
+    setQuizStatus(passed ? "passed" : "failed");
+    triggerBolyEvent(passed ? "QUIZ_PASSED" : "QUIZ_FAILED");
   }
 
   return (
@@ -111,10 +144,25 @@ export function BolilloLessonClient({ module }: { module: Module }) {
               </button>
             ))}
           </div>
+          <div className="mt-4 flex flex-wrap items-center gap-3">
+            <button type="button" onClick={checkQuiz} className="btn-secondary min-h-11 px-5">Comprobar autoevaluación</button>
+            {quizStatus === "failed" && <p className="text-sm font-bold text-cocoa/70">Aún hay señales por revisar. Inténtalo de nuevo.</p>}
+            {quizStatus === "passed" && <p className="text-sm font-bold text-sage">¡Muy bien! Reconociste todas las señales.</p>}
+          </div>
         </section>
 
         <button type="button" onClick={markCompleted} className="btn-primary min-h-14 w-full text-base">{isCompleted ? "Completado · guardar de nuevo" : "Marcar como completado"}</button>
       </div>
+      <BolyEventPresenter />
     </StudentShell>
+  );
+}
+
+/** Connects course activity to Boly's central event manager for student lessons. */
+export function BolilloLessonClient({ module }: { module: Module }) {
+  return (
+    <BolyEventProvider defaultDurationMs={7000}>
+      <BolilloLessonExperience module={module} />
+    </BolyEventProvider>
   );
 }
