@@ -1,8 +1,12 @@
-import { BolyDialogue, type BolyDialogueTone } from "@/components/BolyDialogue";
+import { BolyDialogue } from "@/components/BolyDialogue";
+import { BolyEventDialogue } from "@/components/BolyEventDialogue";
+import type { BolyDialogueTone } from "@/content/boly-dialogue-tone";
 import { bolyDialogues } from "@/content/boly-dialogues";
+import type { BolyEventType } from "@/content/boly-events";
 import { notFound } from "next/navigation";
 
 const tones: readonly BolyDialogueTone[] = ["welcome", "tip", "warning", "encouragement", "success", "question", "error", "neutral"];
+const automaticEvents: readonly BolyEventType[] = ["FIRST_LOGIN", "MODULE_COMPLETED", "QUIZ_FAILED", "DOUGH_TOO_WET", "FERMENTATION_READY", "STEAM_WARNING", "CERTIFICATE_READY"];
 
 export default function BolyDialoguesDemoPage() {
   if (process.env.NODE_ENV === "production") notFound();
@@ -21,6 +25,14 @@ export default function BolyDialoguesDemoPage() {
           {tones.map((tone, index) => (
             <BolyDialogue imageId={bolyDialogues[index]?.imageId ?? "hola"} key={tone} message={`Este ejemplo comunica el tono “${tone}” sin depender solamente del color.`} position={index % 2 === 0 ? "left" : "right"} size="sm" tone={tone} />
           ))}
+        </div>
+      </section>
+
+      <section aria-labelledby="automatic-events-heading" className="mt-12">
+        <h2 id="automatic-events-heading" className="font-display text-2xl font-bold text-toast">Eventos automáticos de Boly</h2>
+        <p className="mt-2 max-w-3xl text-cocoa/80">Ejemplos resueltos desde el catálogo central, listos para que el curso solicite un evento sin elegir imagen ni tono manualmente.</p>
+        <div className="mt-5 space-y-6">
+          {automaticEvents.map((event, index) => <BolyEventDialogue event={event} key={event} position={index % 2 === 0 ? "left" : "right"} size="sm" />)}
         </div>
       </section>
 
